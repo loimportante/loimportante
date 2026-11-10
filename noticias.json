@@ -1,91 +1,157 @@
-[
-  {
-    "categoria": "Servicios",
-    "titulo": "Cortes de agua programados en Bahía Blanca y Cerri",
-    "resumen": [
-      "Aguas Bonaerenses (ABSA) anunció cortes de agua para este jueves en distintos sectores de Bahía Blanca y General Daniel Cerri. Se recomienda a los vecinos hacer reservas de agua ante las interrupciones del servicio."
-    ],
-    "fuentes": [
-      {
-        "medio": "La Brújula 24",
-        "url": "https://www.labrujula24.com/notas/2026/11/10/absa-anuncio-cortes-de-agua-para-este-jueves-en-cerri-y-distintos-sectores-de-la-ciudad-n530102/"
-      },
-      {
-        "medio": "De la Bahía Noticias",
-        "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-en-bahia-blanca-y-general-daniel-cerri/"
-      },
-      {
-        "medio": "Frente a Cano",
-        "url": "https://frenteacano.com.ar/por-trabajos-programados-en-la-red-el-jueves-no-tendran-agua-en-distintos-sectores/"
-      }
-    ]
-  },
-  {
-    "categoria": "Economía",
-    "titulo": "Cierre de papelera en Tornquist deja 160 empleados sin trabajo",
-    "resumen": [
-      "La empresa Papelera del Sur anunció el cierre definitivo de su planta industrial en Tornquist, dejando a unos 160 trabajadores sin empleo. El gremio de Papeleros tendrá una nueva audiencia esta semana para tratar la situación."
-    ],
-    "fuentes": [
-      {
-        "medio": "BVC Noticias",
-        "url": "https://bvcnoticias.com.ar/2026/11/este-jueves-habra-una-nueva-audiencia-entre-el-gremio-de-papeleros-y-la-empresa-papelera-del-sur-de-tornquist/"
-      },
-      {
-        "medio": "Frente a Cano",
-        "url": "https://frenteacano.com.ar/sergio-bordoni-expuso-la-situacion-de-caos-que-provoca-el-cierre-de-la-papelera-en-tornquist/"
-      }
-    ]
-  },
-  {
-    "categoria": "Política",
-    "titulo": "Argentina lleva a tribunal internacional reclamo por petróleo en Malvinas",
-    "resumen": [
-      "El Gobierno argentino presentó ante el Tribunal Internacional del Derecho del Mar un pedido para frenar la explotación petrolera británica en las Islas Malvinas. El Reino Unido ya rechazó la jurisdicción del tribunal sobre la soberanía."
-    ],
-    "fuentes": [
-      {
-        "medio": "Ámbito",
-        "url": "https://www.ambito.com/energia/malvinas-argentina-llevo-al-tribunal-del-mar-su-pedido-frenar-la-explotacion-petrolera-reino-unido-n6343566"
-      },
-      {
-        "medio": "La Brújula 24",
-        "url": "https://www.labrujula24.com/notas/2026/11/10/argentina-reclamo-ante-un-tribunal-internacional-para-frenar-la-explotacion-petrolera-britanica-en-malvinas-n530126/"
-      },
-      {
-        "medio": "De la Bahía Noticias",
-        "url": "https://www.delabahia.com.ar/reino-unido-dice-que-el-tribunal-de-hamburgo-no-tiene-jurisdiccion-sobre-la-soberania-de-las-malvinas/"
-      }
-    ]
-  },
-  {
-    "categoria": "Salud",
-    "titulo": "Casos de rabia en murciélagos en Bahía Blanca: vacunación gratuita",
-    "resumen": [
-      "Se confirmaron casos positivos de rabia en murciélagos en Bahía Blanca que tuvieron contacto con animales domésticos. El Municipio inició una campaña de vacunación antirrábica gratuita para perros y gatos en las zonas afectadas."
-    ],
-    "fuentes": [
-      {
-        "medio": "BVC Noticias",
-        "url": "https://bvcnoticias.com.ar/2026/11/se-inicio-la-vacunacion-antirrabica-en-gatos-y-perros-por-el-caso-positivo-de-rabia-en-un-murcielago/"
-      },
-      {
-        "medio": "360 Más Noticias",
-        "url": "https://360masnoticias.com/bahia-blanca-detectaron-dos-casos-de-rabia-en-murcielagos-martes-y-jueves-vacunacion-gratuita/"
-      }
-    ]
-  },
-  {
-    "categoria": "Sociedad",
-    "titulo": "Restringen uso de celulares en escuelas primarias y secundarias bonaerenses",
-    "resumen": [
-      "Se promulgó la ley que restringe el uso de celulares en las escuelas primarias y secundarias de la Provincia de Buenos Aires. Los dispositivos solo podrán utilizarse con fines educativos en establecimientos públicos y privados."
-    ],
-    "fuentes": [
-      {
-        "medio": "La Brújula 24",
-        "url": "https://www.labrujula24.com/notas/2026/11/10/promulgaron-la-ley-que-restringe-el-uso-de-celulares-en-las-escuelas-n530143/"
-      }
-    ]
-  }
-]
+{
+  "fecha": "Martes 10 de noviembre de 2026",
+  "actualizado": "19:01",
+  "cotizaciones": [],
+  "notas": [
+    {
+      "categoria": "Economía",
+      "titulo": "El Gobierno apura el debate del Presupuesto Nacional en el Congreso",
+      "resumen": [
+        "El oficialismo busca acelerar la discusión del Presupuesto Nacional en el Senado, con el objetivo de sesionar antes de fin de mes. Este proyecto es clave para definir el gasto público, los servicios y la dirección económica del país para el próximo año.",
+        "La aprobación del presupuesto es fundamental para la estabilidad económica y la planificación de políticas que impactan directamente en la vida de los ciudadanos."
+      ],
+      "fuentes": [
+        {
+          "medio": "Clarín",
+          "url": "https://www.clarin.com/politica/visita-papa-gobierno-apura-debate-presupuesto-aliados-aumentan-dudas_0_6xm5EVTS9q.html"
+        },
+        {
+          "medio": "Perfil",
+          "url": "https://perfil.com/mas-perfil/federico-vacarezza-en-rdeco-no-hay-un-plan-consistente-sobre-como-afrontar-los-vencimientos-de-deuda-el-ano-que-viene-apeg31F6GRHm"
+        },
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/finanzas/los-adrs-inician-la-jornada-baja-pero-el-riesgo-pais-anota-un-nuevo-retroceso-y-marca-los-865-puntos-n6343541"
+        }
+      ]
+    },
+    {
+      "categoria": "Servicios",
+      "titulo": "ABSA anuncia cortes de agua programados en Bahía Blanca y Cerri",
+      "resumen": [
+        "Aguas Bonaerenses (ABSA) informó que este jueves se realizarán trabajos programados en tres puntos de Bahía Blanca y General Daniel Cerri. Estas tareas podrían afectar el suministro de agua en diversas zonas.",
+        "Se recomienda a los vecinos tomar las precauciones necesarias y almacenar agua para evitar inconvenientes durante el período de los trabajos."
+      ],
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-en-bahia-blanca-y-general-daniel-cerri/"
+        }
+      ]
+    },
+    {
+      "categoria": "Sociedad",
+      "titulo": "Promulgan ley que restringe el uso de celulares en escuelas bonaerenses",
+      "resumen": [
+        "La Provincia de Buenos Aires promulgó la ley que regula el uso de celulares en escuelas primarias y secundarias, tanto públicas como privadas. Los dispositivos solo podrán utilizarse con fines educativos.",
+        "Esta medida impacta directamente en la rutina de estudiantes, docentes y familias, buscando mejorar el ambiente de aprendizaje y prevenir la violencia digital."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/10/promulgaron-la-ley-que-restringe-el-uso-de-celulares-en-las-escuelas-n530143/"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/rige-la-ley-que-regula-el-uso-de-celulares-en-escuelas-como-se-aplicara-en-el-aula/"
+        }
+      ]
+    },
+    {
+      "categoria": "Salud",
+      "titulo": "Programa Casa x Casa evita muertes por bronquiolitis en Bahía Blanca",
+      "resumen": [
+        "Gracias al programa municipal 'Casa x Casa', Bahía Blanca no registró fallecimientos por bronquiolitis este año y se lograron evitar 61 internaciones. La iniciativa se enmarcó en el plan 'Bahía Abriga' para prevenir enfermedades respiratorias en invierno.",
+        "Este resultado destaca el impacto positivo de las políticas de salud pública en la protección de la población infantil de la ciudad."
+      ],
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/gracias-al-programa-casa-x-casa-en-bahia-no-hubo-fallecimientos-por-bronquiolitis-y-se-evitaron-61-internaciones/"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/casa-x-casa-el-municipio-destaco-que-no-hubo-fallecimientos-por-bronquiolitis-este-ano/"
+        }
+      ]
+    },
+    {
+      "categoria": "Seguridad",
+      "titulo": "Incendio en un bazar céntrico de Bahía Blanca con rescate de menores",
+      "resumen": [
+        "Un fuerte incendio afectó un bazar en pleno centro de Bahía Blanca, en la primera cuadra de calle Chiclana. Bomberos lograron rescatar a dos menores que se encontraban en el lugar, quienes fueron atendidos por inhalación de humo.",
+        "El siniestro generó un importante operativo de emergencia y preocupación entre los vecinos de la zona céntrica."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/10/un-fuerte-incendio-consume-un-bazar-en-pleno-centro-n530170/"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/incendio-en-la-primera-cuadra-de-calle-chiclana/"
+        }
+      ]
+    }
+  ],
+  "diarios": [
+    {
+      "medio": "Clarín",
+      "url": "https://www.clarin.com"
+    },
+    {
+      "medio": "La Nación",
+      "url": "https://www.lanacion.com.ar"
+    },
+    {
+      "medio": "Infobae",
+      "url": "https://www.infobae.com"
+    },
+    {
+      "medio": "Página/12",
+      "url": "https://www.pagina12.com.ar"
+    },
+    {
+      "medio": "Perfil",
+      "url": "https://www.perfil.com"
+    },
+    {
+      "medio": "El Cronista",
+      "url": "https://www.cronista.com"
+    }
+  ],
+  "diarios_locales": [
+    {
+      "medio": "La Nueva",
+      "url": "https://www.lanueva.com"
+    },
+    {
+      "medio": "La Brújula 24",
+      "url": "https://www.labrujula24.com"
+    },
+    {
+      "medio": "360 Más Noticias",
+      "url": "https://360masnoticias.com"
+    },
+    {
+      "medio": "Nova Bahía Blanca",
+      "url": "https://www.novabahiablanca.com"
+    },
+    {
+      "medio": "Frente a Cano",
+      "url": "https://frenteacano.com.ar"
+    },
+    {
+      "medio": "BVC Noticias",
+      "url": "https://bvcnoticias.com.ar"
+    },
+    {
+      "medio": "De la Bahía",
+      "url": "https://www.delabahia.com.ar"
+    },
+    {
+      "medio": "LU2",
+      "url": "https://www.lu2.com.ar"
+    }
+  ]
+}
