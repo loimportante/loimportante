@@ -1,13 +1,34 @@
 {
   "fecha": "Martes 10 de noviembre de 2026",
-  "actualizado": "19:26",
+  "actualizado": "19:35",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Sociedad",
-      "titulo": "Ley provincial restringe el uso de celulares en escuelas",
+      "categoria": "Seguridad",
+      "titulo": "Incendio en galería céntrica de Bahía Blanca: rescataron a dos menores",
       "resumen": [
-        "La Provincia de Buenos Aires promulgó una ley que limita el uso de teléfonos celulares en escuelas primarias y secundarias, tanto públicas como privadas. Los dispositivos solo podrán ser utilizados con fines educativos, impactando directamente en la rutina de estudiantes, docentes y familias de Bahía Blanca y toda la provincia."
+        "Un importante incendio se desató en un bazar ubicado en una galería del centro de Bahía Blanca. Bomberos lograron rescatar a dos menores que fueron atendidos por inhalación de humo. Se investigan las causas del siniestro, estimándose que podría haber sido algo externo."
+      ],
+      "fuentes": [
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/impactante-incendio-en-pleno-centro-dos-menores-fueron-rescatados/"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/10/video-asi-rescataron-los-bomberos-a-dos-menores-del-incendio-en-el-centro-n530180/"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/incendio-en-la-primera-cuadra-de-calle-chiclana/"
+        }
+      ]
+    },
+    {
+      "categoria": "Sociedad",
+      "titulo": "Promulgan ley que restringe el uso de celulares en escuelas bonaerenses",
+      "resumen": [
+        "El Gobierno provincial promulgó la ley que regula el uso de celulares en escuelas primarias y secundarias, tanto públicas como privadas. Los dispositivos solo podrán utilizarse con fines educativos, impactando a estudiantes y docentes de toda la provincia de Buenos Aires."
       ],
       "fuentes": [
         {
@@ -22,73 +43,52 @@
     },
     {
       "categoria": "Economía",
-      "titulo": "Preocupación por la crisis industrial y el deterioro del empleo",
+      "titulo": "El riesgo país impacta en la compra de reservas del Banco Central",
       "resumen": [
-        "Economistas alertan sobre la falta de respuestas del Gobierno ante la caída de la industria y el impacto negativo en el empleo y la producción. También expresan inquietud por la consistencia del plan para afrontar los vencimientos de deuda en 2027 y el aumento del riesgo país, factores que afectan la economía nacional y el bolsillo de los ciudadanos."
+        "El riesgo país, que la semana pasada alcanzó su nivel más alto en el último año, afecta la capacidad del Banco Central para adquirir reservas y la cobertura cambiaria. Aunque hubo un leve retroceso, la volatilidad en los mercados internacionales sigue siendo un factor clave."
       ],
       "fuentes": [
-        {
-          "medio": "Perfil",
-          "url": "https://perfil.com/mas-perfil/rdeco-economistas-cuestionaron-la-falta-de-respuestas-del-gobierno-ante-la-crisis-industrial-y-el-deterioro-del-empleo-arcqJ0U4qgw7"
-        }
-      ]
-    },
-    {
-      "categoria": "Bahía Blanca",
-      "titulo": "Incendio en bazar céntrico de Bahía Blanca: rescate de menores",
-      "resumen": [
-        "Un incendio se desató en un bazar en pleno centro de Bahía Blanca, en calle Chiclana, generando humo y explosiones. Bomberos rescataron a dos menores que fueron atendidos por inhalación de humo. Se investigan las causas, estimándose que el foco habría sido externo al edificio de la Galería Visión 2000."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/un-fuerte-incendio-consume-un-bazar-en-pleno-centro-n530170/"
-        },
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/impactante-incendio-en-pleno-centro-dos-menores-fueron-rescatados/"
-        },
         {
           "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/incendio-en-la-primera-cuadra-de-calle-chiclana/"
+          "url": "https://bvcnoticias.com.ar/2026/11/por-que-la-suba-del-riesgo-pais-afecta-la-compra-de-reservas-del-banco-central-y-la-cobertura-cambiaria/"
+        },
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/finanzas/los-adrs-inician-la-jornada-baja-pero-el-riesgo-pais-anota-un-nuevo-retroceso-y-marca-los-865-puntos-n6343541"
         }
       ]
     },
     {
       "categoria": "Sociedad",
-      "titulo": "Visita del Papa León XIV a Argentina: agenda y controversias",
+      "titulo": "Bahía Blanca: programa municipal evitó muertes por bronquiolitis este año",
       "resumen": [
-        "El Papa León XIV continuó su visita a Argentina con una misa multitudinaria en Córdoba y un encuentro con jóvenes en Palermo. Su mensaje se centró en la cercanía con los pobres, el hambre y las injusticias. La visita generó controversia por la instalación de una carpa VIP en Palermo y la detención de un hombre acusado de amenazar al Pontífice."
+        "El Municipio de Bahía Blanca destacó que, gracias al programa Casa x Casa, no se registraron fallecimientos por bronquiolitis este año y se evitaron 61 internaciones. La iniciativa, en el marco de Bahía Abriga, buscó prevenir enfermedades respiratorias durante el invierno."
       ],
       "fuentes": [
         {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/sociedad/papa-leon-xiv-en-la-argentina-en-vivo-la-visita-a-cordoba-y-todo-sobre-la-vigilia-joven-en-monumento-nid10112026/"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/gracias-al-programa-casa-x-casa-en-bahia-no-hubo-fallecimientos-por-bronquiolitis-y-se-evitaron-61-internaciones/"
         },
         {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/politica/papa-leon-XIV-argentina-javier-milei-iglesia-vaticano-caba-lujan-cordoba-misa-fadea-vigilia-jovenes-monumento-españoles-en-vivo-minuto-a-minuto-10-noviembre"
-        },
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/ante-una-multitud-en-cordoba-leon-xiv-llamo-a-construir-una-patria-fraterna-y-solidaria/"
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/casa-x-casa-el-municipio-destaco-que-no-hubo-fallecimientos-por-bronquiolitis-este-ano/"
         }
       ]
     },
     {
-      "categoria": "Bahía Blanca",
-      "titulo": "Bahía Blanca sin muertes por bronquiolitis este año",
+      "categoria": "Política",
+      "titulo": "Polémica por carpa VIP en misa del Papa y feriado provincial",
       "resumen": [
-        "El Municipio de Bahía Blanca destacó que, gracias al programa 'Casa x Casa' en el marco de 'Bahía Abriga', no se registraron fallecimientos por bronquiolitis este año y se evitaron 61 internaciones. Esto representa un impacto positivo en la salud pública local, especialmente en la población infantil."
+        "La visita del Papa León XIV a Argentina generó controversia por la instalación de una carpa VIP en la misa de Palermo, con críticas de un diputado y del jefe de Gobierno porteño. Además, la visita a Luján motivó un feriado provincial que afecta el funcionamiento de servicios en Bahía Blanca."
       ],
       "fuentes": [
         {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/casa-x-casa-el-municipio-destaco-que-no-hubo-fallecimientos-por-bronquiolitis-este-ano/"
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/jorge-macri-defendio-la-carpa-vip-en-la-misa-de-leon-xiv-pero-admitio-que-las-medialunas-y-los-budines-estuvieron-de-mas/"
         },
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/gracias-al-programa-casa-x-casa-en-bahia-no-hubo-fallecimientos-por-bronquiolitis-y-se-evitaron-61-internaciones/"
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/diputado-pidio-explicaciones-por-un-sector-vip-durante-la-misa-de-leon-xiv-en-palermo/"
         }
       ]
     }
