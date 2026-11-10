@@ -1,13 +1,13 @@
 {
   "fecha": "Martes 10 de noviembre de 2026",
-  "actualizado": "19:35",
+  "actualizado": "20:01",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Seguridad",
-      "titulo": "Incendio en galería céntrica de Bahía Blanca: rescataron a dos menores",
+      "titulo": "Incendio en el centro de Bahía Blanca: dos menores rescatados",
       "resumen": [
-        "Un importante incendio se desató en un bazar ubicado en una galería del centro de Bahía Blanca. Bomberos lograron rescatar a dos menores que fueron atendidos por inhalación de humo. Se investigan las causas del siniestro, estimándose que podría haber sido algo externo."
+        "Un incendio se desató en un bazar céntrico de Bahía Blanca, en la Galería Visión 2000, generando preocupación y la evacuación del lugar. Bomberos rescataron a dos menores que fueron atendidos por inhalación de humo. Se investigan las causas, estimando un origen externo."
       ],
       "fuentes": [
         {
@@ -19,8 +19,25 @@
           "url": "https://www.labrujula24.com/notas/2026/11/10/video-asi-rescataron-los-bomberos-a-dos-menores-del-incendio-en-el-centro-n530180/"
         },
         {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-incendio-en-la-galeria-vision-2000-evacuaron-el-edificio-por-un-foco-de-fuego-en-el-techo/"
+        }
+      ]
+    },
+    {
+      "categoria": "Economía",
+      "titulo": "La inflación sigue alta y el Gobierno no presenta un plan claro",
+      "resumen": [
+        "Este jueves se publicará el dato de inflación de octubre, con expectativas de un 1,8%. Expertos señalan que la desinflación lleva 14 meses estancada en 32% anual, generando incertidumbre sobre las medidas gubernamentales para controlar el aumento de precios."
+      ],
+      "fuentes": [
+        {
+          "medio": "Clarín",
+          "url": "https://www.clarin.com/economia/inflacion-sigue-viva-gobierno-termina-explicar-piensa-matarla_0_9JVtfX3eWm.html"
+        },
+        {
           "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/incendio-en-la-primera-cuadra-de-calle-chiclana/"
+          "url": "https://bvcnoticias.com.ar/2026/11/por-que-la-suba-del-riesgo-pais-afecta-la-compra-de-reservas-del-banco-central-y-la-cobertura-cambiaria/"
         }
       ]
     },
@@ -28,7 +45,7 @@
       "categoria": "Sociedad",
       "titulo": "Promulgan ley que restringe el uso de celulares en escuelas bonaerenses",
       "resumen": [
-        "El Gobierno provincial promulgó la ley que regula el uso de celulares en escuelas primarias y secundarias, tanto públicas como privadas. Los dispositivos solo podrán utilizarse con fines educativos, impactando a estudiantes y docentes de toda la provincia de Buenos Aires."
+        "Se promulgó la ley provincial que regula el uso de celulares en escuelas primarias y secundarias de la Provincia de Buenos Aires. Los dispositivos solo podrán utilizarse con fines educativos, impactando directamente en la rutina de estudiantes y docentes de Bahía Blanca."
       ],
       "fuentes": [
         {
@@ -42,53 +59,36 @@
       ]
     },
     {
-      "categoria": "Economía",
-      "titulo": "El riesgo país impacta en la compra de reservas del Banco Central",
+      "categoria": "Servicios",
+      "titulo": "Feriado provincial por el Papa: cómo funcionarán los servicios en Bahía Blanca",
       "resumen": [
-        "El riesgo país, que la semana pasada alcanzó su nivel más alto en el último año, afecta la capacidad del Banco Central para adquirir reservas y la cobertura cambiaria. Aunque hubo un leve retroceso, la volatilidad en los mercados internacionales sigue siendo un factor clave."
-      ],
-      "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/por-que-la-suba-del-riesgo-pais-afecta-la-compra-de-reservas-del-banco-central-y-la-cobertura-cambiaria/"
-        },
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/finanzas/los-adrs-inician-la-jornada-baja-pero-el-riesgo-pais-anota-un-nuevo-retroceso-y-marca-los-865-puntos-n6343541"
-        }
-      ]
-    },
-    {
-      "categoria": "Sociedad",
-      "titulo": "Bahía Blanca: programa municipal evitó muertes por bronquiolitis este año",
-      "resumen": [
-        "El Municipio de Bahía Blanca destacó que, gracias al programa Casa x Casa, no se registraron fallecimientos por bronquiolitis este año y se evitaron 61 internaciones. La iniciativa, en el marco de Bahía Abriga, buscó prevenir enfermedades respiratorias durante el invierno."
-      ],
-      "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/gracias-al-programa-casa-x-casa-en-bahia-no-hubo-fallecimientos-por-bronquiolitis-y-se-evitaron-61-internaciones/"
-        },
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/casa-x-casa-el-municipio-destaco-que-no-hubo-fallecimientos-por-bronquiolitis-este-ano/"
-        }
-      ]
-    },
-    {
-      "categoria": "Política",
-      "titulo": "Polémica por carpa VIP en misa del Papa y feriado provincial",
-      "resumen": [
-        "La visita del Papa León XIV a Argentina generó controversia por la instalación de una carpa VIP en la misa de Palermo, con críticas de un diputado y del jefe de Gobierno porteño. Además, la visita a Luján motivó un feriado provincial que afecta el funcionamiento de servicios en Bahía Blanca."
+        "Debido al feriado provincial por la visita del Papa León XIV a Luján, los servicios en Bahía Blanca tendrán modificaciones. El transporte público circulará con frecuencia de domingo, mientras que la recolección de residuos y el Hospital Municipal (de 8 a 20 hs) funcionarán con normalidad."
       ],
       "fuentes": [
         {
           "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/jorge-macri-defendio-la-carpa-vip-en-la-misa-de-leon-xiv-pero-admitio-que-las-medialunas-y-los-budines-estuvieron-de-mas/"
+          "url": "https://360masnoticias.com/bahia-blanca-funcionamiento-de-los-servicios-durante-este-miercoles-11/"
         },
         {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/diputado-pidio-explicaciones-por-un-sector-vip-durante-la-misa-de-leon-xiv-en-palermo/"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/10/la-misa-del-papa-leon-xiv-en-lujan-se-podra-seguir-en-vivo-desde-la-plaza-rivadavia-n530153/"
+        }
+      ]
+    },
+    {
+      "categoria": "Clima",
+      "titulo": "El fenómeno El Niño podría intensificarse y extenderse hasta 2027",
+      "resumen": [
+        "Las proyecciones indican que el fenómeno climático El Niño tiene más de un 83% de probabilidades de alcanzar una intensidad fuerte o muy fuerte a principios de 2027. Esto anticipa alteraciones en las lluvias y temperaturas, con posibles impactos en todo el país."
+      ],
+      "fuentes": [
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/informacion-general/el-nino-amenaza-intensificarse-crece-la-preocupacion-sus-efectos-2027-n6343737"
+        },
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/sociedad/se-viene-otro-veranito-que-traera-temperaturas-en-aumento-un-pico-de-calor-de-32c-inestabilidad-y-nid10112026/"
         }
       ]
     }
