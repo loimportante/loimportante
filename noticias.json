@@ -1,50 +1,76 @@
 {
   "fecha": "Martes 10 de noviembre de 2026",
-  "actualizado": "19:01",
+  "actualizado": "19:04",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Economía",
-      "titulo": "El Gobierno apura el debate del Presupuesto Nacional en el Congreso",
+      "categoria": "Sociedad",
+      "titulo": "Visita del Papa León XIV: misa en Córdoba y vigilia en CABA",
       "resumen": [
-        "El oficialismo busca acelerar la discusión del Presupuesto Nacional en el Senado, con el objetivo de sesionar antes de fin de mes. Este proyecto es clave para definir el gasto público, los servicios y la dirección económica del país para el próximo año.",
-        "La aprobación del presupuesto es fundamental para la estabilidad económica y la planificación de políticas que impactan directamente en la vida de los ciudadanos."
+        "El Papa León XIV concluyó su agenda en Córdoba con una misa multitudinaria y un encuentro con obispos, para luego regresar a Buenos Aires y encabezar una vigilia con jóvenes. Se estima que cientos de miles de fieles participaron de las actividades.",
+        "En Bahía Blanca, se podrá seguir la misa del Papa en Luján en vivo desde la Plaza Rivadavia este miércoles, y los servicios municipales tendrán frecuencias de domingo debido al feriado provincial."
       ],
       "fuentes": [
         {
-          "medio": "Clarín",
-          "url": "https://www.clarin.com/politica/visita-papa-gobierno-apura-debate-presupuesto-aliados-aumentan-dudas_0_6xm5EVTS9q.html"
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/sociedad/papa-leon-xiv-en-la-argentina-en-vivo-la-visita-a-cordoba-y-todo-sobre-la-vigilia-joven-en-monumento-nid10112026/"
         },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/10/leon-xiv-finalizo-su-agenda-en-cordoba-y-ya-regresa-a-la-ciudad-de-buenos-aires-n530161/"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-funcionamiento-de-los-servicios-durante-este-miercoles-11/"
+        }
+      ]
+    },
+    {
+      "categoria": "Economía",
+      "titulo": "Preocupación por la deuda y el ajuste en obra pública",
+      "resumen": [
+        "Un economista advierte sobre la falta de un plan consistente para afrontar los vencimientos de deuda del próximo año. Además, un ministro provincial reconoció el ajuste en obra pública, atribuyéndolo al objetivo de déficit cero del gobierno nacional.",
+        "El riesgo país, aunque cedió, se mantuvo en niveles altos, y la producción textil sufrió una caída significativa con pérdida de empresas y empleos por el efecto de las importaciones."
+      ],
+      "fuentes": [
         {
           "medio": "Perfil",
           "url": "https://perfil.com/mas-perfil/federico-vacarezza-en-rdeco-no-hay-un-plan-consistente-sobre-como-afrontar-los-vencimientos-de-deuda-el-ano-que-viene-apeg31F6GRHm"
         },
         {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/finanzas/los-adrs-inician-la-jornada-baja-pero-el-riesgo-pais-anota-un-nuevo-retroceso-y-marca-los-865-puntos-n6343541"
+          "medio": "Clarín",
+          "url": "https://www.clarin.com/economia/efecto-importaciones-produccion-textil-cayo-34-anos-gestion-milei-perdieron-1000-empresas_0_7Cjj8ZmqfK.html"
         }
       ]
     },
     {
-      "categoria": "Servicios",
-      "titulo": "ABSA anuncia cortes de agua programados en Bahía Blanca y Cerri",
+      "categoria": "Bahía Blanca",
+      "titulo": "Incendio en Galería Visión 2000 en el centro de Bahía Blanca",
       "resumen": [
-        "Aguas Bonaerenses (ABSA) informó que este jueves se realizarán trabajos programados en tres puntos de Bahía Blanca y General Daniel Cerri. Estas tareas podrían afectar el suministro de agua en diversas zonas.",
-        "Se recomienda a los vecinos tomar las precauciones necesarias y almacenar agua para evitar inconvenientes durante el período de los trabajos."
+        "Un incendio se desató en el techo de la Galería Visión 2000, ubicada en Belgrano y San Martín, generando preocupación en el centro de Bahía Blanca. El foco de fuego obligó a evacuar el edificio, aunque no se reportaron heridos.",
+        "Bomberos y Defensa Civil intervinieron en el lugar. Se esperan pericias para determinar las causas del siniestro, aunque se estima que fue algo externo."
       ],
       "fuentes": [
         {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-en-bahia-blanca-y-general-daniel-cerri/"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/incendio-en-el-techo-de-galeria-vision-2000/"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-incendio-en-la-galeria-vision-2000-evacuaron-el-edificio-por-un-foco-de-fuego-en-el-techo/"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/a-la-espera-de-las-pericias-estiman-que-el-incendio-en-vision-2000-fue-algo-externo/"
         }
       ]
     },
     {
-      "categoria": "Sociedad",
+      "categoria": "Bahía Blanca",
       "titulo": "Promulgan ley que restringe el uso de celulares en escuelas bonaerenses",
       "resumen": [
         "La Provincia de Buenos Aires promulgó la ley que regula el uso de celulares en escuelas primarias y secundarias, tanto públicas como privadas. Los dispositivos solo podrán utilizarse con fines educativos.",
-        "Esta medida impacta directamente en la rutina de estudiantes, docentes y familias, buscando mejorar el ambiente de aprendizaje y prevenir la violencia digital."
+        "Esta medida busca prevenir y abordar la violencia digital en los establecimientos educativos, afectando a estudiantes y docentes de Bahía Blanca y toda la provincia."
       ],
       "fuentes": [
         {
@@ -58,38 +84,20 @@
       ]
     },
     {
-      "categoria": "Salud",
-      "titulo": "Programa Casa x Casa evita muertes por bronquiolitis en Bahía Blanca",
+      "categoria": "Bahía Blanca",
+      "titulo": "Condenan a un hombre por venta de cocaína en Bahía Blanca",
       "resumen": [
-        "Gracias al programa municipal 'Casa x Casa', Bahía Blanca no registró fallecimientos por bronquiolitis este año y se lograron evitar 61 internaciones. La iniciativa se enmarcó en el plan 'Bahía Abriga' para prevenir enfermedades respiratorias en invierno.",
-        "Este resultado destaca el impacto positivo de las políticas de salud pública en la protección de la población infantil de la ciudad."
+        "El Tribunal en lo Criminal N.º 2 de Bahía Blanca condenó a Emiliano Gabriel Uboldi a 5 años y 10 meses de prisión por tenencia de estupefacientes con fines de comercialización. La investigación se inició por denuncias de venta de drogas en una vivienda.",
+        "La ex pareja del acusado, aprehendida durante el procedimiento, fue absuelta en la misma resolución judicial."
       ],
       "fuentes": [
         {
           "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/gracias-al-programa-casa-x-casa-en-bahia-no-hubo-fallecimientos-por-bronquiolitis-y-se-evitaron-61-internaciones/"
+          "url": "https://bvcnoticias.com.ar/2026/11/condenan-a-un-hombre-a-5-anos-y-10-meses-de-prision-por-tenencia-de-cocaina-para-la-venta/"
         },
         {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/casa-x-casa-el-municipio-destaco-que-no-hubo-fallecimientos-por-bronquiolitis-este-ano/"
-        }
-      ]
-    },
-    {
-      "categoria": "Seguridad",
-      "titulo": "Incendio en un bazar céntrico de Bahía Blanca con rescate de menores",
-      "resumen": [
-        "Un fuerte incendio afectó un bazar en pleno centro de Bahía Blanca, en la primera cuadra de calle Chiclana. Bomberos lograron rescatar a dos menores que se encontraban en el lugar, quienes fueron atendidos por inhalación de humo.",
-        "El siniestro generó un importante operativo de emergencia y preocupación entre los vecinos de la zona céntrica."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/un-fuerte-incendio-consume-un-bazar-en-pleno-centro-n530170/"
-        },
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/incendio-en-la-primera-cuadra-de-calle-chiclana/"
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-condenan-a-un-hombre-a-5-anos-y-10-meses-de-prision-por-tenencia-de-cocaina-para-la-venta/"
         }
       ]
     }
