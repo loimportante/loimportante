@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Lo importante · Las noticias del día en Bahía Blanca y el país</title>
+<meta name="description" content="Las cinco noticias que importan hoy en Bahía Blanca y el país, resumidas en dos minutos y con links a los diarios.">
+<meta property="og:title" content="Lo importante">
+<meta property="og:description" content="Las cinco noticias que importan hoy en Bahía Blanca y el país, en dos minutos.">
+<meta property="og:url" content="https://loimportante.com.ar/">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#FAFAF7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121822" media="(prefers-color-scheme: dark)">
+<link rel="canonical" href="https://loimportante.com.ar/">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='5' fill='%23fff'/%3E%3Crect width='32' height='10' rx='5' fill='%23C1272D'/%3E%3Crect y='5' width='32' height='5' fill='%23C1272D'/%3E%3Ctext x='16' y='28' font-family='Arial' font-weight='900' font-size='17' text-anchor='middle' fill='%2318202C'%3ELI%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,700;1,400&family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --papel:#FAFAF7; --hoja:#FFFFFF; --tinta:#18202C; --gris:#5B6472; --linea:#DEE1E6;
+  --rojo:#C1272D; --ria:#24507A;
+  --titulos:"Archivo",system-ui,sans-serif; --texto:"Alegreya",Georgia,serif;
+}
+@media (prefers-color-scheme:dark){
+  :root{--papel:#121822;--hoja:#1B2330;--tinta:#E8ECF2;--gris:#9AA4B2;--linea:#2C3646;--rojo:#E0474C;--ria:#8DB6E0;color-scheme:dark}
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--papel);color:var(--tinta);font:400 1.1875rem/1.62 var(--texto);font-feature-settings:"onum" 0}
+a{color:var(--ria);text-decoration-thickness:1px;text-underline-offset:.18em}
+a:hover{text-decoration-thickness:2px}
+:focus-visible{outline:3px solid var(--ria);outline-offset:3px;border-radius:2px}
+.pagina{max-width:44rem;margin:0 auto;padding:max(2rem,env(safe-area-inset-top)) max(1.25rem,env(safe-area-inset-right)) 3rem max(1.25rem,env(safe-area-inset-left))}
+
+/* Cabecera: hoja de almanaque + nombre */
+.cabecera{display:grid;grid-template-columns:auto 1fr;gap:1.4rem;align-items:center;padding-bottom:1.75rem;border-bottom:2px solid var(--tinta)}
+.almanaque{width:6.25rem;background:var(--hoja);border-radius:6px;overflow:hidden;text-align:center;box-shadow:0 1px 0 var(--linea),0 0 0 1px var(--linea)}
+.almanaque .mes{display:block;background:var(--rojo);color:#fff;font:600 .95rem/1 var(--titulos);font-stretch:90%;padding:.45rem 0 .4rem}
+.almanaque .dia{display:block;font:800 3.6rem/1 var(--titulos);font-stretch:75%;letter-spacing:-.02em;padding:.35rem 0 .1rem;color:var(--tinta)}
+.almanaque .semana{display:block;font:500 .9rem/1 var(--titulos);color:var(--gris);padding:0 0 .6rem}
+.marca h1{margin:0;font:800 clamp(2.4rem,8.5vw,3.5rem)/.95 var(--titulos);font-stretch:68%;letter-spacing:-.01em}
+.marca p{margin:.55rem 0 0;font:400 1.05rem/1.4 var(--titulos);color:var(--gris);max-width:30ch}
+.marca .hora{display:block;margin-top:.3rem;font-weight:600;color:var(--tinta)}
+.almanaque.solo-texto .dia{font-size:1.1rem;padding:.8rem .4rem}
+
+/* Dólar */
+.dolar{display:flex;flex-wrap:wrap;gap:.25rem 1.75rem;padding:1rem 0;border-bottom:1px solid var(--linea);font:400 .95rem/1.3 var(--titulos);color:var(--gris)}
+.dolar b{font-weight:700;color:var(--tinta);font-variant-numeric:tabular-nums;margin-left:.35rem}
+
+/* Notas */
+.notas{list-style:none;margin:0;padding:0;counter-reset:nota}
+.nota{display:grid;grid-template-columns:2.25rem 1fr;column-gap:.75rem;padding:1.9rem 0 1.8rem;border-bottom:1px solid var(--linea)}
+.nota::before{counter-increment:nota;content:counter(nota);font:700 1.6rem/1.15 var(--titulos);font-stretch:75%;color:var(--gris);padding-top:.15rem}
+.nota .cat{display:block;font:600 .95rem/1.2 var(--titulos);color:var(--rojo);margin-bottom:.3rem}
+.nota h2{margin:0 0 .6rem;font:700 clamp(1.4rem,4.6vw,1.75rem)/1.15 var(--titulos);font-stretch:88%;letter-spacing:-.005em;text-wrap:balance}
+.nota p{margin:0 0 .7rem;max-width:62ch;text-wrap:pretty}
+.nota .fuentes{margin:.25rem 0 0;font:400 .98rem/1.45 var(--titulos);color:var(--gris)}
+.nota .fuentes a{font-weight:600}
+
+/* Compartir */
+.compartir{padding:2rem 0 2.25rem;border-bottom:2px solid var(--tinta)}
+.compartir p{margin:0 0 .9rem;font:400 1.05rem/1.4 var(--titulos);color:var(--gris)}
+.boton{display:inline-block;background:var(--tinta);color:var(--papel);text-decoration:none;font:600 1.05rem/1 var(--titulos);padding:.95rem 1.35rem;border-radius:6px}
+.boton:hover{background:var(--ria);color:#fff}
+
+/* Medios */
+.medios{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem 2rem;padding:2rem 0 0}
+.medios h3{margin:0 0 .5rem;font:700 1.05rem/1.2 var(--titulos)}
+.medios ul{list-style:none;margin:0;padding:0;font:400 1rem/1.9 var(--titulos)}
+.medios a{color:var(--tinta)}
+.medios a:hover{color:var(--ria)}
+.pie{margin-top:2.5rem;font:400 .9rem/1.5 var(--titulos);color:var(--gris)}
+.pie p{margin:0 0 .4rem;max-width:58ch}
+
+/* Estados */
+.msg{padding:2rem 0;color:var(--gris);font-family:var(--titulos)}
+.aviso{margin:1.25rem 0 0;padding:.9rem 1rem;border:1px dashed var(--ria);border-radius:6px;font:400 .95rem/1.45 var(--titulos);color:var(--gris)}
+.aviso label{color:var(--ria);font-weight:700;cursor:pointer;text-decoration:underline;text-underline-offset:.18em}
+.aviso input{position:absolute;opacity:0;width:1px;height:1px}
+
+@media (max-width:30rem){
+  body{font-size:1.125rem}
+  .cabecera{gap:1rem}
+  .almanaque{width:5.25rem}
+  .almanaque .dia{font-size:3rem}
+  .nota{grid-template-columns:1.6rem 1fr;column-gap:.5rem}
+  .medios{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<main class="pagina">
+  <header class="cabecera">
+    <div class="almanaque" id="almanaque" aria-hidden="true"><span class="mes">&nbsp;</span><span class="dia">&nbsp;</span><span class="semana">&nbsp;</span></div>
+    <div class="marca">
+      <h1>Lo importante</h1>
+      <p>Las noticias del día en Bahía Blanca y el país, en dos minutos.<span class="hora" id="hora"></span></p>
+    </div>
+  </header>
+  <div id="app"><p class="msg">Cargando las noticias…</p></div>
+</main>
+
+<script type="application/json" id="respaldo">[{"categoria": "Servicios", "titulo": "Cortes de agua programados en Bahía Blanca y Cerri", "resumen": ["Aguas Bonaerenses (ABSA) anunció cortes de agua para este jueves en distintos sectores de Bahía Blanca y General Daniel Cerri. Se recomienda a los vecinos hacer reservas de agua ante las interrupciones del servicio."], "fuentes": [{"medio": "La Brújula 24", "url": "https://www.labrujula24.com/notas/2026/11/10/absa-anuncio-cortes-de-agua-para-este-jueves-en-cerri-y-distintos-sectores-de-la-ciudad-n530102/"}, {"medio": "De la Bahía Noticias", "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-en-bahia-blanca-y-general-daniel-cerri/"}, {"medio": "Frente a Cano", "url": "https://frenteacano.com.ar/por-trabajos-programados-en-la-red-el-jueves-no-tendran-agua-en-distintos-sectores/"}]}, {"categoria": "Economía", "titulo": "Cierre de papelera en Tornquist deja 160 empleados sin trabajo", "resumen": ["La empresa Papelera del Sur anunció el cierre definitivo de su planta industrial en Tornquist, dejando a unos 160 trabajadores sin empleo. El gremio de Papeleros tendrá una nueva audiencia esta semana para tratar la situación."], "fuentes": [{"medio": "BVC Noticias", "url": "https://bvcnoticias.com.ar/2026/11/este-jueves-habra-una-nueva-audiencia-entre-el-gremio-de-papeleros-y-la-empresa-papelera-del-sur-de-tornquist/"}, {"medio": "Frente a Cano", "url": "https://frenteacano.com.ar/sergio-bordoni-expuso-la-situacion-de-caos-que-provoca-el-cierre-de-la-papelera-en-tornquist/"}]}, {"categoria": "Política", "titulo": "Argentina lleva a tribunal internacional reclamo por petróleo en Malvinas", "resumen": ["El Gobierno argentino presentó ante el Tribunal Internacional del Derecho del Mar un pedido para frenar la explotación petrolera británica en las Islas Malvinas. El Reino Unido ya rechazó la jurisdicción del tribunal sobre la soberanía."], "fuentes": [{"medio": "Ámbito", "url": "https://www.ambito.com/energia/malvinas-argentina-llevo-al-tribunal-del-mar-su-pedido-frenar-la-explotacion-petrolera-reino-unido-n6343566"}, {"medio": "La Brújula 24", "url": "https://www.labrujula24.com/notas/2026/11/10/argentina-reclamo-ante-un-tribunal-internacional-para-frenar-la-explotacion-petrolera-britanica-en-malvinas-n530126/"}, {"medio": "De la Bahía Noticias", "url": "https://www.delabahia.com.ar/reino-unido-dice-que-el-tribunal-de-hamburgo-no-tiene-jurisdiccion-sobre-la-soberania-de-las-malvinas/"}]}, {"categoria": "Salud", "titulo": "Casos de rabia en murciélagos en Bahía Blanca: vacunación gratuita", "resumen": ["Se confirmaron casos positivos de rabia en murciélagos en Bahía Blanca que tuvieron contacto con animales domésticos. El Municipio inició una campaña de vacunación antirrábica gratuita para perros y gatos en las zonas afectadas."], "fuentes": [{"medio": "BVC Noticias", "url": "https://bvcnoticias.com.ar/2026/11/se-inicio-la-vacunacion-antirrabica-en-gatos-y-perros-por-el-caso-positivo-de-rabia-en-un-murcielago/"}, {"medio": "360 Más Noticias", "url": "https://360masnoticias.com/bahia-blanca-detectaron-dos-casos-de-rabia-en-murcielagos-martes-y-jueves-vacunacion-gratuita/"}]}, {"categoria": "Sociedad", "titulo": "Restringen uso de celulares en escuelas primarias y secundarias bonaerenses", "resumen": ["Se promulgó la ley que restringe el uso de celulares en las escuelas primarias y secundarias de la Provincia de Buenos Aires. Los dispositivos solo podrán utilizarse con fines educativos en establecimientos públicos y privados."], "fuentes": [{"medio": "La Brújula 24", "url": "https://www.labrujula24.com/notas/2026/11/10/promulgaron-la-ley-que-restringe-el-uso-de-celulares-en-las-escuelas-n530143/"}]}]</script>
+<script>
+var DIARIOS=[{"medio":"Clarín","url":"https://www.clarin.com"},{"medio":"La Nación","url":"https://www.lanacion.com.ar"},{"medio":"Infobae","url":"https://www.infobae.com"},{"medio":"Página/12","url":"https://www.pagina12.com.ar"},{"medio":"Perfil","url":"https://www.perfil.com"},{"medio":"El Cronista","url":"https://www.cronista.com"}];
+var LOCALES=[{"medio":"La Nueva","url":"https://www.lanueva.com"},{"medio":"La Brújula 24","url":"https://www.labrujula24.com"},{"medio":"360 Más Noticias","url":"https://360masnoticias.com"},{"medio":"Nova Bahía Blanca","url":"https://www.novabahiablanca.com"},{"medio":"Frente a Cano","url":"https://frenteacano.com.ar"},{"medio":"BVC Noticias","url":"https://bvcnoticias.com.ar"},{"medio":"De la Bahía","url":"https://www.delabahia.com.ar"},{"medio":"LU2","url":"https://www.lu2.com.ar"}];
+
+function el(tag,cls,text){var e=document.createElement(tag);if(cls)e.className=cls;if(text!=null)e.textContent=text;return e}
+function link(l){var a=el("a",null,l.medio);if(/^https?:\/\//.test(l.url||"")){a.href=l.url;a.rel="noopener noreferrer";a.target="_blank"}return a}
+function hoy(){try{var t=new Date().toLocaleDateString("es-AR",{weekday:"long",day:"numeric",month:"long",year:"numeric",timeZone:"America/Argentina/Buenos_Aires"}).replace(/,/g,"");return t.charAt(0).toUpperCase()+t.slice(1)}catch(e){return ""}}
+
+/* Acepta: el objeto completo, una lista de notas sola, {noticias:{...}} o la salida cruda de n8n [{json:{...}}] */
+function normalizar(d){
+  if(Array.isArray(d)&&d.length&&d[0]&&d[0].json)d=d[0].json;
+  if(d&&d.noticias)d=d.noticias;
+  if(Array.isArray(d))d={notas:d};
+  if(!d||typeof d!=="object"||!Array.isArray(d.notas))throw new Error("formato");
+  d.notas=d.notas.filter(function(n){return n&&n.titulo}).map(function(n){
+    return {categoria:n.categoria||"",titulo:n.titulo,resumen:Array.isArray(n.resumen)?n.resumen:(n.resumen?[n.resumen]:[]),fuentes:Array.isArray(n.fuentes)?n.fuentes:[]}});
+  if(!d.notas.length)throw new Error("vacío");
+  if(!d.fecha)d.fecha=hoy();
+  if(!d.cotizaciones)d.cotizaciones=[];
+  if(!d.diarios)d.diarios=DIARIOS;
+  if(!d.diarios_locales)d.diarios_locales=LOCALES;
+  return d}
+
+function almanaque(fecha){
+  var a=document.getElementById("almanaque");
+  var m=/^\s*(\S+)\s+(\d{1,2})\s+de\s+([a-záéíóú]+)/i.exec(fecha||"");
+  var mes=a.querySelector(".mes"),dia=a.querySelector(".dia"),sem=a.querySelector(".semana");
+  a.className="almanaque";
+  if(m){mes.textContent=m[3].toLowerCase();dia.textContent=m[2];sem.textContent=m[1].toLowerCase()}
+  else{a.className="almanaque solo-texto";mes.textContent="hoy";dia.textContent=fecha||"";sem.textContent=""}
+  a.setAttribute("aria-hidden","true");
+}
+
+/* "Leelo en A, B y C." */
+function fuentes(lista){
+  var p=el("p","fuentes");if(!lista.length)return p;
+  p.appendChild(document.createTextNode("Leelo en "));
+  lista.forEach(function(f,i){
+    p.appendChild(link(f));
+    if(i<lista.length-2)p.appendChild(document.createTextNode(", "));
+    else if(i===lista.length-2)p.appendChild(document.createTextNode(/^[ií]/i.test(lista[i+1].medio)?" e ":" y "));
+  });
+  p.appendChild(document.createTextNode("."));
+  return p}
+
+function pintar(d,aviso){
+  d=normalizar(d);
+  almanaque(d.fecha);
+  document.getElementById("hora").textContent=d.actualizado?"Actualizado a las "+d.actualizado+" h":"";
+  var app=document.getElementById("app");app.textContent="";
+
+  if(aviso){
+    var av=el("div","aviso",aviso+" ");
+    var lb=el("label",null,"Elegir un noticias.json");
+    var inp=document.createElement("input");inp.type="file";inp.accept=".json,application/json";
+    inp.addEventListener("change",function(){var f=inp.files&&inp.files[0];if(!f)return;var r=new FileReader();
+      r.onload=function(){try{pintar(JSON.parse(r.result))}catch(e){av.firstChild.textContent="Ese archivo no tiene notas en un formato válido. Probá con otro: "}};r.readAsText(f)});
+    lb.appendChild(inp);av.appendChild(lb);app.appendChild(av)}
+
+  if(d.cotizaciones.length){
+    var fx=el("div","dolar");fx.setAttribute("aria-label","Cotizaciones del dólar");
+    d.cotizaciones.forEach(function(c){var s=el("span",null,c.nombre);s.appendChild(el("b",null,c.valor));fx.appendChild(s)});
+    app.appendChild(fx)}
+
+  var ol=el("ol","notas");
+  d.notas.forEach(function(n){
+    var li=el("li","nota"),cuerpo=el("div");
+    if(n.categoria)cuerpo.appendChild(el("span","cat",n.categoria));
+    cuerpo.appendChild(el("h2",null,n.titulo));
+    n.resumen.forEach(function(p){cuerpo.appendChild(el("p",null,p))});
+    cuerpo.appendChild(fuentes(n.fuentes));
+    li.appendChild(cuerpo);ol.appendChild(li)});
+  app.appendChild(ol);
+
+  var comp=el("section","compartir");
+  comp.appendChild(el("p",null,"¿Te sirvió? Pasáselo a alguien que también quiera estar al tanto."));
+  var url=location.protocol.indexOf("http")===0?location.href.split("#")[0]:"https://loimportante.com.ar/";
+  var wa=el("a","boton","Mandalo por WhatsApp");
+  wa.href="https://wa.me/?text="+encodeURIComponent("Las noticias importantes de hoy en Bahía y el país: "+url);
+  wa.target="_blank";wa.rel="noopener noreferrer";
+  comp.appendChild(wa);app.appendChild(comp);
+
+  var med=el("section","medios");
+  [["Diarios de Bahía",d.diarios_locales],["Diarios nacionales",d.diarios]].forEach(function(g){
+    if(!g[1]||!g[1].length)return;
+    var col=el("div");col.appendChild(el("h3",null,g[0]));
+    var ul=el("ul");g[1].forEach(function(l){var li=el("li");li.appendChild(link(l));ul.appendChild(li)});
+    col.appendChild(ul);med.appendChild(col)});
+  app.appendChild(med);
+
+  var pie=el("footer","pie");
+  pie.appendChild(el("p",null,"Los resúmenes se hacen con ayuda de inteligencia artificial a partir de las notas enlazadas. Si algo no te cierra, la nota original manda."));
+  pie.appendChild(el("p",null,"Hecho en Bahía Blanca."));
+  app.appendChild(pie);
+}
+
+function respaldo(){
+  try{pintar(JSON.parse(document.getElementById("respaldo").textContent),"No se pudo leer noticias.json, así que ves la última edición guardada en la página.")}
+  catch(e){
+    var app=document.getElementById("app");app.textContent="";
+    almanaque(hoy());
+    var av=el("div","aviso","Todavía no hay noticias para mostrar. Si estás probando la página en tu compu, ");
+    var lb=el("label",null,"elegí un noticias.json");
+    var inp=document.createElement("input");inp.type="file";inp.accept=".json,application/json";
+    inp.addEventListener("change",function(){var f=inp.files&&inp.files[0];if(!f)return;var r=new FileReader();
+      r.onload=function(){try{pintar(JSON.parse(r.result))}catch(e){av.firstChild.textContent="Ese archivo no tiene notas en un formato válido. Probá con otro: "}};r.readAsText(f)});
+    lb.appendChild(inp);av.appendChild(lb);app.appendChild(av)}
+}
+try{
+  fetch("noticias.json?t="+Date.now(),{cache:"no-store"}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){pintar(d)}).catch(respaldo)
+}catch(e){respaldo()}
+</script>
+</body>
+</html>
