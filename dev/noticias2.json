@@ -1,13 +1,13 @@
 {
   "fecha": "Martes 10 de noviembre de 2026",
-  "actualizado": "19:55",
+  "actualizado": "20:01",
   "notas": [
     {
       "categoria": "Servicios",
-      "titulo": "Feriado provincial: cómo funcionan los servicios en Bahía Blanca este miércoles",
+      "titulo": "Feriado por el Papa León XIV: cómo funcionan los servicios en Bahía Blanca",
       "resumen": [
-        "Este miércoles 11 de noviembre es feriado provincial por la visita del Papa León XIV a Luján, lo que afectará el funcionamiento de algunos servicios en Bahía Blanca. El transporte público operará con frecuencias de domingo, mientras que la recolección de residuos será normal.",
-        "El Hospital Municipal atenderá de 8 a 20 horas. Es importante que los vecinos de Bahía Blanca tomen precauciones y consulten los horarios específicos para evitar inconvenientes durante la jornada."
+        "Este miércoles 11 de noviembre será feriado provincial por la visita del Papa León XIV a Luján. En Bahía Blanca, el transporte público circulará con frecuencias de domingo, mientras que la recolección de residuos será normal.",
+        "El Hospital Municipal atenderá de 8 a 20 horas. Es importante tener en cuenta estos cambios para planificar las actividades del día."
       ],
       "fuentes": [
         {
@@ -18,10 +18,10 @@
     },
     {
       "categoria": "Seguridad",
-      "titulo": "Incendio en pleno centro de Bahía Blanca: dos menores rescatados y pericias en curso",
+      "titulo": "Incendio en un bazar del centro de Bahía Blanca: rescataron a dos menores",
       "resumen": [
-        "Un importante incendio se desató en un bazar ubicado en la primera cuadra de calle Chiclana, en pleno centro de Bahía Blanca, afectando también el techo de la Galería Visión 2000. Dos menores fueron rescatados por los bomberos y atendidos por inhalación de humo, sin reportarse otras personas lesionadas.",
-        "Las autoridades estiman que el fuego pudo haberse originado por causas externas y se esperan las pericias para determinar el motivo exacto del siniestro. El incidente generó una importante movilización de servicios de emergencia y evacuación preventiva."
+        "Un fuerte incendio se desató en un bazar ubicado en la primera cuadra de calle Chiclana, en pleno centro de Bahía Blanca. Bomberos lograron rescatar a dos menores que fueron atendidos por inhalación de humo.",
+        "Hasta el momento, no se reportaron más personas lesionadas. Las autoridades investigan las causas del siniestro."
       ],
       "fuentes": [
         {
@@ -30,7 +30,7 @@
         },
         {
           "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/video-asi-rescataron-los-bomberos-a-dos-menores-del-incendio-en-el-centro-n530180/"
+          "url": "https://www.labrujula24.com/notas/2026/11/10/un-fuerte-incendio-consume-un-bazar-en-pleno-centro-n530170/"
         },
         {
           "medio": "BVC Noticias",
@@ -39,11 +39,25 @@
       ]
     },
     {
-      "categoria": "Salud",
-      "titulo": "Programa municipal evitó muertes por bronquiolitis y 61 internaciones en Bahía Blanca",
+      "categoria": "Economía",
+      "titulo": "La inflación sigue preocupando y el Gobierno no define cómo combatirla",
       "resumen": [
-        "El programa municipal “Casa x Casa”, implementado en el marco de Bahía Abriga, logró que no se registraran fallecimientos por bronquiolitis en la ciudad durante el invierno. Además, se evitaron 61 internaciones gracias a las acciones preventivas.",
-        "Esta iniciativa del Municipio de Bahía Blanca se enfocó en trabajar para prevenir enfermedades respiratorias, demostrando un impacto positivo y concreto en la salud de la población local."
+        "Este jueves, el INDEC publicará el dato de inflación de octubre, con expectativas de un 1,8%. Expertos señalan que la desinflación lleva 14 meses estancada en un 32% anual, generando incertidumbre sobre las medidas del Gobierno para controlar el aumento de precios.",
+        "La situación económica sigue siendo un tema central que afecta directamente el poder adquisitivo de los argentinos."
+      ],
+      "fuentes": [
+        {
+          "medio": "Clarín",
+          "url": "https://www.clarin.com/economia/inflacion-sigue-viva-gobierno-termina-explicar-piensa-matarla_0_9JVtfX3eWm.html"
+        }
+      ]
+    },
+    {
+      "categoria": "Salud",
+      "titulo": "Bahía Blanca sin muertes por bronquiolitis gracias al programa Casa x Casa",
+      "resumen": [
+        "El programa municipal \"Casa por Casa\", en el marco de Bahía Abriga, logró que este invierno no se registraran fallecimientos por bronquiolitis en la ciudad. La iniciativa también evitó 61 internaciones.",
+        "Este logro destaca el éxito de las políticas de prevención de enfermedades respiratorias implementadas en Bahía Blanca, beneficiando directamente a la salud de la población."
       ],
       "fuentes": [
         {
@@ -54,10 +68,10 @@
     },
     {
       "categoria": "Educación",
-      "titulo": "Promulgan ley que restringe el uso de celulares en escuelas de la Provincia de Buenos Aires",
+      "titulo": "Rige la ley que restringe el uso de celulares en escuelas de la Provincia",
       "resumen": [
-        "El Gobierno de la Provincia de Buenos Aires promulgó una ley que restringe el uso de celulares en las escuelas primarias y secundarias, tanto públicas como privadas. La medida busca regular el uso de dispositivos móviles en el ámbito educativo.",
-        "Los celulares solo podrán ser utilizados con fines pedagógicos y con la autorización correspondiente. Esta normativa afecta directamente a estudiantes y docentes de Bahía Blanca y toda la provincia."
+        "La Provincia de Buenos Aires promulgó la ley que regula el uso de celulares en escuelas primarias y secundarias, tanto públicas como privadas. Los dispositivos solo podrán utilizarse con fines educativos y con autorización.",
+        "Esta medida afecta a estudiantes, padres y docentes de toda la provincia, buscando mejorar el ambiente de aprendizaje y reducir las distracciones en el aula."
       ],
       "fuentes": [
         {
@@ -69,41 +83,57 @@
           "url": "https://360masnoticias.com/rige-la-ley-que-regula-el-uso-de-celulares-en-escuelas-como-se-aplicara-en-el-aula/"
         }
       ]
-    },
-    {
-      "categoria": "Economía",
-      "titulo": "El riesgo país cede, pero la economía argentina sigue bajo presión",
-      "resumen": [
-        "El riesgo país en Argentina cedió hasta los 860 puntos, aunque los ADRs perdieron valor ante el repliegue de Wall Street. Este indicador, que había alcanzado su nivel más alto en el último año, sigue siendo un factor clave para la economía nacional.",
-        "La suba del riesgo país afecta la compra de reservas del Banco Central y la cobertura cambiaria, impactando en la estabilidad económica del país y, por ende, en el bolsillo de los ciudadanos."
-      ],
-      "fuentes": [
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/finanzas/los-adrs-inician-la-jornada-baja-pero-el-riesgo-pais-anota-un-nuevo-retroceso-y-marca-los-865-puntos-n6343541"
-        },
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/por-que-la-suba-del-riesgo-pais-afecta-la-compra-de-reservas-del-banco-central-y-la-cobertura-cambiaria/"
-        }
-      ]
     }
   ],
   "resto": [
     {
       "seccion": "Bahía y región",
-      "titulo": "Incidente en la planta de urea granulada de Profertil",
-      "breve": "Profertil informó sobre un incidente en su planta de urea granulada en Bahía Blanca, sin mayores detalles sobre las consecuencias.",
+      "titulo": "Incendio en la Galería Visión 2000: evacuaron el edificio por un foco en el techo",
+      "breve": "Un incendio se desató en el techo de la Galería Visión 2000, ubicada en Belgrano y San Martín, lo que obligó a evacuar el paseo comercial sin registrarse heridos.",
       "fuentes": [
         {
           "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/profertil-informo-que-hubo-un-incidente-en-la-planta-de-urea-granulada/"
+          "url": "https://frenteacano.com.ar/a-la-espera-de-las-pericias-estiman-que-el-incendio-en-vision-2000-fue-algo-externo/"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/incendio-en-el-techo-de-galeria-vision-2000/"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-incendio-en-la-galeria-vision-2000-evacuaron-el-edificio-por-un-foco-de-fuego-en-el-techo/"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Condenan a un hombre por tenencia de cocaína para la venta en Bahía Blanca",
+      "titulo": "ABSA realizará trabajos programados en Bahía Blanca y General Daniel Cerri",
+      "breve": "Aguas Bonaerenses (ABSA) informó que el jueves 12 de noviembre realizará trabajos programados en tres puntos de Bahía Blanca y General Daniel Cerri.",
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-en-bahia-blanca-y-general-daniel-cerri/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Se anticipa un miércoles con altas temperaturas en Bahía Blanca",
+      "breve": "La mínima estará entre los 19 y 20 grados, mientras que la máxima podría alcanzar los 30 o 31 grados para el miércoles en Bahía Blanca.",
+      "fuentes": [
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/madrugada-ventosa-y-temperatura-en-ascenso-para-el-miercoles/"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/10/se-anticipa-un-miercoles-con-altas-temperaturas-n530195/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Condenan a un hombre a casi 6 años de prisión por tenencia de cocaína para la venta en Bahía Blanca",
       "breve": "El Tribunal en lo Criminal N.º 2 condenó a Emiliano Gabriel Uboldi a 5 años y 10 meses de prisión por tenencia de estupefacientes con fines de comercialización.",
       "fuentes": [
         {
@@ -118,8 +148,41 @@
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Familia bahiense reclama a PAMI autorización urgente para sistema de abuela internada",
-      "breve": "Una familia de Bahía Blanca atraviesa una difícil situación al reclamar a PAMI la autorización urgente de un sistema para mejorar la calidad de vida de su abuela de 76 años, internada desde octubre.",
+      "titulo": "Aseguran que el cierre de registros del automotor no afectará por ahora a Bahía Blanca",
+      "breve": "El presidente de la Delegación VI del Colegio de Gestores de la Provincia de Buenos Aires sostuvo que el cierre de registros del automotor no impactará en la ciudad por el momento.",
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/aseguran-que-el-cierre-de-registros-del-automotor-no-afectara-por-ahora-a-bahia-blanca/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Profertil informó un incidente en la planta de urea granulada",
+      "breve": "Profertil comunicó que se registró un incidente en su planta de urea granulada, sin brindar mayores detalles sobre las causas o consecuencias.",
+      "fuentes": [
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/profertil-informo-que-hubo-un-incidente-en-la-planta-de-urea-granulada/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "El Concejo de Saavedra definirá el futuro del intendente Nebot el 26 de noviembre",
+      "breve": "El Concejo Deliberante de Saavedra convocó a una sesión especial para el 26 de noviembre para resolver el futuro político del intendente Matías Nebot, tras una investigación sobre su desempeño.",
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/saavedra-el-concejo-puso-fecha-a-la-sesion-que-definira-el-futuro-del-intendente-nebot/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Una familia bahiense reclama a PAMI autorización urgente para mejorar la calidad de vida de su abuela",
+      "breve": "Una familia de Bahía Blanca atraviesa una difícil situación y reclama a PAMI la autorización urgente de un sistema para mejorar la calidad de vida de su abuela, internada desde hace un mes.",
       "fuentes": [
         {
           "medio": "BVC Noticias",
@@ -129,7 +192,7 @@
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Controles de tránsito en Bahía Blanca: 16 conductores sacados de circulación",
+      "titulo": "Controles de tránsito en Bahía Blanca: 16 conductores fueron sacados de circulación",
       "breve": "Entre el 2 y 9 de noviembre, la División de Control y Ordenamiento Urbano retiró de circulación a 16 conductores por dar positivo en controles de alcoholemia y consumo de estupefacientes.",
       "fuentes": [
         {
@@ -140,8 +203,8 @@
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Municipio de Bahía Blanca gestiona predio histórico para nuevo espacio verde",
-      "breve": "El intendente de Bahía Blanca avanza en gestiones para que la Provincia ceda al Municipio un predio histórico con el fin de crear un nuevo espacio verde para la comunidad.",
+      "titulo": "El municipio de Bahía Blanca gestiona la cesión de un predio histórico para un nuevo espacio verde",
+      "breve": "El intendente de Bahía Blanca avanza en gestiones para que la Provincia ceda al Municipio un predio histórico, con el objetivo de crear un nuevo espacio verde para la comunidad.",
       "fuentes": [
         {
           "medio": "De la Bahía Noticias",
@@ -151,8 +214,8 @@
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Presupuesto Participativo de Dow: se dieron a conocer las iniciativas ganadoras",
-      "breve": "Se anunciaron las iniciativas que resultaron ganadoras en el Presupuesto Participativo impulsado por la empresa Dow en la región.",
+      "titulo": "Dieron a conocer las iniciativas ganadoras del Presupuesto Participativo de Dow",
+      "breve": "Se anunciaron las iniciativas que resultaron ganadoras en el Presupuesto Participativo de Dow, un programa que busca involucrar a la comunidad en la decisión de proyectos locales.",
       "fuentes": [
         {
           "medio": "Frente a Cano",
@@ -162,41 +225,8 @@
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Investigación por muerte de productor rural en Dorrego: ahora el sospechoso es un carnero",
-      "breve": "Nuevos testimonios cambiaron el rumbo de la investigación sobre la muerte de un productor rural de 81 años en Dorrego, apuntando ahora a un carnero como posible causante.",
-      "fuentes": [
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/ahora-el-sospechoso-por-la-muerte-de-un-productor-rural-en-dorrego-es-un-carnero-n530136/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Futuro del intendente de Saavedra: Concejo Deliberante define el 26 de noviembre",
-      "breve": "El Concejo Deliberante de Saavedra convocó a una sesión especial para el 26 de noviembre para definir el futuro político del intendente Matías Nebot, tras una investigación sobre su desempeño.",
-      "fuentes": [
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/saavedra-el-concejo-puso-fecha-a-la-sesion-que-definira-el-futuro-del-intendente-nebot/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "ABSA realizará trabajos programados en Bahía Blanca y General Daniel Cerri",
-      "breve": "Aguas Bonaerenses (ABSA) informó que el jueves 12 de noviembre realizará trabajos programados en tres puntos de Bahía Blanca y en General Daniel Cerri.",
-      "fuentes": [
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-en-bahia-blanca-y-general-daniel-cerri/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "El HCD de Bahía Blanca reconoció a personalidades e instituciones locales",
-      "breve": "El Honorable Concejo Deliberante de Bahía Blanca realizó una jornada de Reconocimientos y Distinciones a diversas personalidades e instituciones de la ciudad.",
+      "titulo": "El HCD reconoció a personalidades e instituciones de Bahía Blanca",
+      "breve": "El Honorable Concejo Deliberante de Bahía Blanca realizó una nueva serie de Reconocimientos y Distinciones en una jornada con gran convocatoria de vecinos y representantes.",
       "fuentes": [
         {
           "medio": "BVC Noticias",
@@ -210,77 +240,39 @@
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Investigadoras bahienses participan de programa internacional de oceanografía en Canadá",
-      "breve": "Dos becarias doctorales del Instituto Argentino de Oceanografía y docentes de la UNS fueron seleccionadas para un programa internacional de excelencia en oceanografía en Canadá.",
+      "titulo": "La misa del papa León XIV en Luján se podrá seguir en vivo desde la Plaza Rivadavia",
+      "breve": "La misa que el papa León XIV celebrará en Luján este miércoles, desde las 9, podrá seguirse en vivo desde la Plaza Rivadavia de Bahía Blanca, donde se instalarán pantallas gigantes y habrá música.",
       "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/dos-investigadoras-participan-de-un-programa-internacional-de-excelencia-en-oceanografia-en-canada/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Murió Marcos Camino, fundador e histórico acordeonista de Los Palmeras",
-      "breve": "Falleció Marcos Camino, exacordeonista y uno de los fundadores de la reconocida banda santafesina Los Palmeras, a los 76 años.",
-      "fuentes": [
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/murio-marcos-camino-exacordeonista-y-uno-de-los-fundadores-de-los-palmeras/"
-        },
         {
           "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/murio-marcos-camino-fundador-e-historico-integrante-de-los-palmeras-n530165/"
-        },
-        {
-          "medio": "Clarín",
-          "url": "https://www.clarin.com/fama/dolor-palmeras-muerte-marcos-camino-historico-acordeonista-fundador-banda-santafesina_0_3F2jKRa6Oc.html"
+          "url": "https://www.labrujula24.com/notas/2026/11/10/la-misa-del-papa-leon-xiv-en-lujan-se-podra-seguir-en-vivo-desde-la-plaza-rivadavia-n530153/"
         }
       ]
     },
     {
       "seccion": "País",
-      "titulo": "Visita del Papa León XIV a Argentina: misa en Córdoba y vigilia en Palermo",
-      "breve": "El Papa León XIV continuó su agenda en Argentina con una misa multitudinaria en Córdoba y una vigilia con jóvenes en Palermo, generando gran convocatoria.",
+      "titulo": "El riesgo país cede, pero los ADRs pierden ante el repliegue de Wall Street",
+      "breve": "El riesgo país cedió hasta los 860 puntos, aunque los ADRs perdieron ante el repliegue de Wall Street, reflejando la volatilidad de los mercados internacionales.",
+      "fuentes": [
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/finanzas/los-adrs-inician-la-jornada-baja-pero-el-riesgo-pais-anota-un-nuevo-retroceso-y-marca-los-865-puntos-n6343541"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/por-que-la-suba-del-riesgo-pais-afecta-la-compra-de-reservas-del-banco-central-y-la-cobertura-cambiaria/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Atacaron a balazos una radio en Santa Cruz y el medio denuncia intento de “silenciarlo”",
+      "breve": "La fachada de la radio El Caletense en Santa Cruz recibió 16 disparos, y el medio denunció que buscan \"silenciarlo\", un hecho repudiado por el gobernador Claudio Vidal.",
       "fuentes": [
         {
           "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/sociedad/papa-leon-xiv-en-la-argentina-en-vivo-la-visita-a-cordoba-y-todo-sobre-la-vigilia-joven-en-monumento-nid10112026/"
+          "url": "https://www.lanacion.com.ar/sociedad/atacaron-a-balazos-a-una-radio-en-santa-cruz-el-medio-denuncio-que-buscan-silenciar-su-trabajo-nid10112026/"
         },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/leon-xiv-finalizo-su-agenda-en-cordoba-y-ya-regresa-a-la-ciudad-de-buenos-aires-n530161/"
-        },
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/politica/papa-leon-XIV-argentina-javier-milei-iglesia-vaticano-caba-lujan-cordoba-misa-fadea-vigilia-jovenes-monumento-españoles-en-vivo-minuto-a-minuto-10-noviembre"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Polémica por carpa VIP en la misa del Papa: Macri admite que “estuvo de más”",
-      "breve": "Jorge Macri se refirió a la carpa VIP instalada durante la misa del Papa en Palermo, admitiendo que las medialunas y los budines “estuvieron de más” y un diputado pidió explicaciones.",
-      "fuentes": [
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/macri-se-refirio-a-la-carpa-vip-las-medialunas-y-los-budines-estuvieron-de-mas/"
-        },
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/jorge-macri-defendio-la-carpa-vip-en-la-misa-de-leon-xiv-pero-admitio-que-las-medialunas-y-los-budines-estuvieron-de-mas/"
-        },
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/diputado-pidio-explicaciones-por-un-sector-vip-durante-la-misa-de-leon-xiv-en-palermo/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Ataque a balazos contra una radio en Santa Cruz: sospechan vínculo con actividad periodística",
-      "breve": "El edificio de la radio El Caletense en Santa Cruz recibió al menos 15 disparos, y su propietario sospecha que el atentado está relacionado con el ejercicio de la profesión periodística.",
-      "fuentes": [
         {
           "medio": "La Brújula 24",
           "url": "https://www.labrujula24.com/notas/2026/11/10/atacaron-a-balazos-una-radio-en-santa-cruz-tiene-que-ver-con-el-ejercicio-de-nuestra-profesion-n530146/"
@@ -289,8 +281,8 @@
     },
     {
       "seccion": "País",
-      "titulo": "Fenómeno El Niño: preocupación por intensificación y efectos hasta 2027",
-      "breve": "La NOAA estima altas probabilidades de que el fenómeno El Niño alcance una intensidad fuerte o muy fuerte, anticipando alteraciones en lluvias y temperaturas hasta 2027.",
+      "titulo": "El Niño amenaza con intensificarse y preocupa por sus efectos hasta 2027",
+      "breve": "La NOAA estima más de un 83% de probabilidades de que el fenómeno de El Niño alcance una intensidad fuerte o muy fuerte a comienzos de 2027, anticipando alteraciones en lluvias y temperaturas.",
       "fuentes": [
         {
           "medio": "Ámbito",
