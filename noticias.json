@@ -1,94 +1,94 @@
 {
   "fecha": "Martes 10 de noviembre de 2026",
-  "actualizado": "20:01",
+  "actualizado": "23:59",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Seguridad",
-      "titulo": "Incendio en el centro de Bahía Blanca: dos menores rescatados",
+      "titulo": "Incendio en bazar céntrico de Bahía Blanca con rescate de menores",
       "resumen": [
-        "Un incendio se desató en un bazar céntrico de Bahía Blanca, en la Galería Visión 2000, generando preocupación y la evacuación del lugar. Bomberos rescataron a dos menores que fueron atendidos por inhalación de humo. Se investigan las causas, estimando un origen externo."
+        "Un importante incendio se desató en un bazar del centro de Bahía Blanca, en calle Chiclana. Bomberos rescataron a dos menores que se encontraban en el lugar y fueron atendidos por inhalación de humo. La zona fue inhabilitada para el tránsito y se recomienda precaución a peatones y automovilistas."
       ],
       "fuentes": [
         {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/impactante-incendio-en-pleno-centro-dos-menores-fueron-rescatados/"
-        },
-        {
           "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/video-asi-rescataron-los-bomberos-a-dos-menores-del-incendio-en-el-centro-n530180/"
+          "url": "https://www.labrujula24.com/notas/2026/11/10/incendio-del-bazar-inhabilitan-la-parada-de-colectivos-en-la-primera-cuadra-de-chiclana-n530205/"
         },
         {
           "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-incendio-en-la-galeria-vision-2000-evacuaron-el-edificio-por-un-foco-de-fuego-en-el-techo/"
-        }
-      ]
-    },
-    {
-      "categoria": "Economía",
-      "titulo": "La inflación sigue alta y el Gobierno no presenta un plan claro",
-      "resumen": [
-        "Este jueves se publicará el dato de inflación de octubre, con expectativas de un 1,8%. Expertos señalan que la desinflación lleva 14 meses estancada en 32% anual, generando incertidumbre sobre las medidas gubernamentales para controlar el aumento de precios."
-      ],
-      "fuentes": [
-        {
-          "medio": "Clarín",
-          "url": "https://www.clarin.com/economia/inflacion-sigue-viva-gobierno-termina-explicar-piensa-matarla_0_9JVtfX3eWm.html"
+          "url": "https://360masnoticias.com/bahia-blanca-impresionante-incendio-en-pleno-centro-dos-menores-fueron-rescatados-y-evaluan-riesgo-de-derrumbe/"
         },
         {
           "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/por-que-la-suba-del-riesgo-pais-afecta-la-compra-de-reservas-del-banco-central-y-la-cobertura-cambiaria/"
+          "url": "https://bvcnoticias.com.ar/2026/11/incendio-en-chiclana-45-el-momento-en-que-bomberos-rescataron-a-dos-adolescentes/"
         }
       ]
     },
     {
       "categoria": "Sociedad",
-      "titulo": "Promulgan ley que restringe el uso de celulares en escuelas bonaerenses",
+      "titulo": "El Papa León XIV concluye su visita con mensaje a jóvenes y misa en Luján",
       "resumen": [
-        "Se promulgó la ley provincial que regula el uso de celulares en escuelas primarias y secundarias de la Provincia de Buenos Aires. Los dispositivos solo podrán utilizarse con fines educativos, impactando directamente en la rutina de estudiantes y docentes de Bahía Blanca."
+        "El Papa León XIV finaliza su visita a Argentina. Ayer, ante una multitud de jóvenes en Palermo, advirtió sobre los 'ídolos' modernos y los 'placeres que esclavizan', llamando a la libertad. Hoy, en su último día, visitará el penal de Villa Devoto y encabezará una misa multitudinaria en Luján antes de partir hacia Perú."
+      ],
+      "fuentes": [
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/informacion-general/el-papa-leon-xiv-lujan-la-agenda-del-ultimo-dia-del-pontifice-argentina-n6343770"
+        },
+        {
+          "medio": "Clarín",
+          "url": "https://www.clarin.com/sociedad/fuerte-mensaje-papa-jovenes-advirtio-humillaciones-redes-sociales-pornografia-adoracion-dinero_0_Q1jdHCryc1.html"
+        },
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/el-papa-leon-xiv-encabezo-una-vigilia-en-palermo-y-llamo-a-los-jovenes-a-desconfiar-de-los-idolos-nid10112026/"
+        }
+      ]
+    },
+    {
+      "categoria": "Economía",
+      "titulo": "Canasta Básica Total: cuánto necesitó una familia bahiense en octubre",
+      "resumen": [
+        "Una familia de Bahía Blanca necesitó en octubre una suma de dinero que superó la inflación del mes para no ser considerada pobre. La Canasta Básica Total en la ciudad registró un aumento significativo, reflejando el costo de vida local."
       ],
       "fuentes": [
         {
           "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/promulgaron-la-ley-que-restringe-el-uso-de-celulares-en-las-escuelas-n530143/"
-        },
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/rige-la-ley-que-regula-el-uso-de-celulares-en-escuelas-como-se-aplicara-en-el-aula/"
+          "url": "https://www.labrujula24.com/notas/2026/11/10/cuanto-necesito-una-familia-bahiense-en-octubre-para-no-ser-considerada-pobre-n530199/"
         }
       ]
     },
     {
       "categoria": "Servicios",
-      "titulo": "Feriado provincial por el Papa: cómo funcionarán los servicios en Bahía Blanca",
+      "titulo": "Feriado provincial: cómo funcionarán los servicios este miércoles",
       "resumen": [
-        "Debido al feriado provincial por la visita del Papa León XIV a Luján, los servicios en Bahía Blanca tendrán modificaciones. El transporte público circulará con frecuencia de domingo, mientras que la recolección de residuos y el Hospital Municipal (de 8 a 20 hs) funcionarán con normalidad."
+        "Este miércoles, debido al feriado provincial por la visita del Papa a Luján, los servicios en Bahía Blanca operarán con un cronograma especial. El transporte público circulará con frecuencias de domingo, mientras que la recolección de residuos será normal y el Hospital Municipal atenderá de 8 a 20 horas."
       ],
       "fuentes": [
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-funcionamiento-de-los-servicios-durante-este-miercoles-11/"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/10/como-funcionaran-los-servicios-este-miercoles-por-el-feriado-provincial-n530202/"
         },
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/la-misa-del-papa-leon-xiv-en-lujan-se-podra-seguir-en-vivo-desde-la-plaza-rivadavia-n530153/"
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-funcionamiento-de-los-servicios-durante-este-miercoles-11/"
         }
       ]
     },
     {
-      "categoria": "Clima",
-      "titulo": "El fenómeno El Niño podría intensificarse y extenderse hasta 2027",
+      "categoria": "Seguridad",
+      "titulo": "Se fugó terrorista italiano de prisión domiciliaria en Buenos Aires",
       "resumen": [
-        "Las proyecciones indican que el fenómeno climático El Niño tiene más de un 83% de probabilidades de alcanzar una intensidad fuerte o muy fuerte a principios de 2027. Esto anticipa alteraciones en las lluvias y temperaturas, con posibles impactos en todo el país."
+        "Leonardo Bertulazzi, exmiembro de las Brigadas Rojas italianas, se fugó de su prisión domiciliaria en San Telmo, Buenos Aires. El terrorista, de 74 años, estaba a la espera de su extradición a Italia, donde fue condenado a 27 años de prisión."
       ],
       "fuentes": [
         {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/informacion-general/el-nino-amenaza-intensificarse-crece-la-preocupacion-sus-efectos-2027-n6343737"
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/seguridad/se-fugo-leonardo-bertulazzi-exmiembro-de-las-brigadas-rojas-italianas-mientras-esperaba-su-nid10112026/"
         },
         {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/sociedad/se-viene-otro-veranito-que-traera-temperaturas-en-aumento-un-pico-de-calor-de-32c-inestabilidad-y-nid10112026/"
+          "medio": "Clarín",
+          "url": "https://www.clarin.com/policiales/fotos-interpol-busca-leonardo-bertulazzi-terrorista-italiano-fugo-buenos-aires_0_YoUXL4prII.html"
         }
       ]
     }
