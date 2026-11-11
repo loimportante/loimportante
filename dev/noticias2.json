@@ -1,35 +1,49 @@
 {
   "fecha": "Miércoles 11 de noviembre de 2026",
-  "actualizado": "00:09",
+  "actualizado": "08:01",
   "notas": [
     {
       "categoria": "Servicios",
-      "titulo": "Feriado provincial: cómo funcionan los servicios municipales y el transporte en Bahía Blanca",
+      "titulo": "Feriado provincial: cómo funcionarán los servicios municipales en Bahía Blanca",
       "resumen": [
-        "Debido al feriado provincial de este miércoles, los servicios municipales en Bahía Blanca operarán con un cronograma especial. El transporte público circulará con frecuencias de domingo, mientras que la recolección de residuos será normal. El Hospital Municipal atenderá de 8 a 20 horas.",
-        "Es importante que los vecinos consulten los horarios específicos para evitar inconvenientes en sus traslados y gestiones diarias."
+        "Este miércoles 11 de noviembre es feriado provincial. El municipio de Bahía Blanca detalló el cronograma de prestaciones para el transporte público, la recolección de residuos y las atenciones en el Hospital Municipal, entre otros servicios.",
+        "Es importante que los vecinos consulten los horarios y modalidades de cada servicio para organizar su día, ya que habrá modificaciones en la rutina habitual."
       ],
       "fuentes": [
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/como-funcionaran-los-servicios-este-miercoles-por-el-feriado-provincial-n530202/"
-        },
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-10-17-14-0-feriado-provincial-asi-funcionaran-los-servicios-municipales-este-miercoles-en-bahia-blanca"
+        }
+      ]
+    },
+    {
+      "categoria": "Seguridad",
+      "titulo": "Incendio en un bazar céntrico de Bahía Blanca: rescataron a dos adolescentes y hay una parada de colectivo inhabilitada",
+      "resumen": [
+        "Un importante incendio se desató en un bazar ubicado en la primera cuadra de calle Chiclana, frente a la Plaza Rivadavia. Bomberos lograron controlar las llamas y rescataron a dos adolescentes que se encontraban en el lugar. Dos mujeres fueron trasladadas por inhalación de humo.",
+        "Debido al siniestro, la parada de colectivos en esa cuadra quedó inhabilitada temporalmente. Se recomienda a los usuarios utilizar las paradas anterior o posterior hasta que se restablezca la normalidad. El intendente Susbielles destacó el trabajo del sistema de emergencias."
+      ],
+      "fuentes": [
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-funcionamiento-de-los-servicios-durante-este-miercoles-11/"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/incendio-en-chiclana-45-el-momento-en-que-bomberos-rescataron-a-dos-adolescentes/"
         },
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-10-14-8-0-servicios-del-municipio-y-el-transporte-publico-para-hoy-y-manana"
+          "url": "https://www.lanueva.com/nota/2026-11-10-21-25-0-por-el-incendio-del-bazar-quedo-inhabilitada-la-parada-de-colectivos-en-la-primera-cuadra-de-chiclana"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-impresionante-incendio-en-pleno-centro-dos-menores-fueron-rescatados-y-evaluan-riesgo-de-derrumbe/"
         }
       ]
     },
     {
       "categoria": "Servicios",
-      "titulo": "Cortes de agua programados para el jueves en Bahía Blanca y General Daniel Cerri",
+      "titulo": "ABSA realizará trabajos el jueves que afectarán el suministro de agua en Bahía Blanca y Cerri",
       "resumen": [
-        "ABSA informó que realizará trabajos de mantenimiento el jueves, lo que afectará el suministro de agua en distintos puntos de Bahía Blanca y la localidad de General Daniel Cerri. Se recomienda a los vecinos tomar las precauciones necesarias.",
-        "Es fundamental que los residentes de las zonas afectadas se preparen para la interrupción del servicio."
+        "Aguas Bonaerenses (ABSA) informó que el jueves 12 de noviembre realizará trabajos programados en distintos puntos de Bahía Blanca y en la localidad de General Daniel Cerri. Estas tareas podrían afectar el suministro de agua en varias zonas.",
+        "Se recomienda a los vecinos de las áreas afectadas tomar precauciones y reservar agua para las necesidades básicas, ya que el servicio podría verse interrumpido o con baja presión durante la jornada."
       ],
       "fuentes": [
         {
@@ -43,56 +57,46 @@
       ]
     },
     {
-      "categoria": "Seguridad",
-      "titulo": "Incendio en bazar céntrico de Bahía Blanca inhabilitó parada de colectivos",
+      "categoria": "Política",
+      "titulo": "Último día del Papa León XIV en Argentina: visita a Devoto, misa en Luján y despedida",
       "resumen": [
-        "Un feroz incendio se desató en un bazar de la primera cuadra de calle Chiclana, en pleno centro de Bahía Blanca. Bomberos lograron controlar las llamas y rescataron a dos menores que fueron atendidos por inhalación de humo. Como consecuencia, la parada de colectivos en esa cuadra quedó inhabilitada, solicitando usar paradas anteriores o posteriores.",
-        "Se recomienda precaución al transitar por la zona y estar atento a los cambios en el transporte público."
+        "El Papa León XIV cierra hoy su visita a Argentina. La jornada incluye un encuentro con 69 presos en el penal de Villa Devoto, una misa multitudinaria frente a la Basílica de Luján y una ceremonia de despedida en Ezeiza antes de partir hacia Perú.",
+        "Se espera una gran convocatoria de fieles en Luján, lo que podría generar importantes movimientos de personas y posibles afectaciones en el tránsito y vuelos en los aeropuertos principales del país durante la mañana y el mediodía."
       ],
       "fuentes": [
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-10-21-25-0-por-el-incendio-del-bazar-quedo-inhabilitada-la-parada-de-colectivos-en-la-primera-cuadra-de-chiclana"
+          "medio": "Infobae",
+          "url": "https://www.infobae.com/sociedad/2026/11/11/ultimo-dia-del-papa-leon-xiv-en-la-argentina-noche-de-vigilia-en-lujan-y-una-misa-que-espera-reunir-a-mas-de-un-millon-de-fieles/"
         },
         {
           "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/incendio-del-bazar-inhabilitan-la-parada-de-colectivos-en-la-primera-cuadra-de-chiclana-n530205/"
+          "url": "https://www.labrujula24.com/notas/2026/11/11/el-papa-leon-xiv-cierra-su-gira-en-argentina-con-una-visita-a-la-carcel-de-devoto-y-una-misa-en-lujan-n530242/"
         },
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-impresionante-incendio-en-pleno-centro-dos-menores-fueron-rescatados-y-evaluan-riesgo-de-derrumbe/"
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/sociedad/papa-leon-xiv-en-la-argentina-en-vivo-la-misa-en-lujan-y-la-despedida-en-ezeiza-hoy-minuto-a-minuto-nid11112026/"
         }
       ]
     },
     {
       "categoria": "Política",
-      "titulo": "El Papa León XIV concluye su visita a Argentina con misa en Luján y partida a Perú",
+      "titulo": "Irán declaró organizaciones terroristas a la Armada y la Fuerza Aérea argentinas",
       "resumen": [
-        "El Papa León XIV finaliza su visita a Argentina este miércoles, con una agenda que incluye una visita al Complejo Penitenciario Federal de Buenos Aires y una misa multitudinaria frente a la Basílica de Luján. Posteriormente, partirá rumbo a Perú.",
-        "En Bahía Blanca, la Arquidiócesis invitó a los fieles a seguir la misa de Luján en vivo a través de una pantalla gigante en Plaza Rivadavia, ofreciendo un espacio comunitario para la despedida del Pontífice."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-10-19-50-0-ultimo-dia-como-sera-la-agenda-del-papa-leon-xiv-durante-este-miercoles-y-a-que-hora-parte-rumbo-a-peru"
-        },
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/informacion-general/el-papa-leon-xiv-lujan-la-agenda-del-ultimo-dia-del-pontifice-argentina-n6343770"
-        }
-      ]
-    },
-    {
-      "categoria": "Economía",
-      "titulo": "La Canasta Básica Total en Bahía Blanca subió por encima de la inflación en octubre",
-      "resumen": [
-        "El costo de la Canasta Básica Total (CBT) en Bahía Blanca aumentó en octubre, superando el índice de inflación general del mes. Esto significa que una familia bahiense necesitó más dinero para no ser considerada pobre.",
-        "Este incremento impacta directamente en el poder adquisitivo de los hogares y en la planificación económica de los vecinos."
+        "El gobierno de Irán anunció que designó como organizaciones terroristas a la Armada y la Fuerza Aérea de Argentina. Esta medida se presenta como una respuesta a la decisión del presidente Javier Milei de incluir a la Guardia Revolucionaria iraní en la lista de organizaciones terroristas.",
+        "La declaración genera un nuevo capítulo en la tensión diplomática entre ambos países, con implicancias en la política exterior y la seguridad nacional argentina."
       ],
       "fuentes": [
         {
           "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/cuanto-necesito-una-familia-bahiense-en-octubre-para-no-ser-considerada-pobre-n530199/"
+          "url": "https://www.labrujula24.com/notas/2026/11/11/iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentina-n530223/"
+        },
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas-nid11112026/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-11-7-27-0-iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas"
         }
       ]
     }
@@ -100,31 +104,46 @@
   "resto": [
     {
       "seccion": "Bahía y región",
-      "titulo": "Programa Casa x Casa evitó muertes por bronquiolitis y 61 internaciones en Bahía Blanca",
-      "breve": "Gracias a la iniciativa municipal Bahía Abriga, no hubo fallecimientos por bronquiolitis y se evitaron numerosas internaciones este invierno.",
+      "titulo": "Crisis en Papelera del Sur de Tornquist: trabajadores acampan por la reapertura",
+      "breve": "La intendenta de Tornquist afirmó que la empresa tiene la decisión tomada de cerrar y no escucha propuestas, mientras 160 trabajadores iniciaron un acampe por tiempo indeterminado.",
       "fuentes": [
         {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/10/gracias-al-programa-casa-x-casa-en-bahia-no-hubo-fallecimientos-por-bronquiolitis-y-se-evitaron-61-internaciones/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-10-10-12-0-crisis-en-la-papelera-no-quieren-escuchar-nuestras-propuestas"
         },
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/gracias-al-programa-casa-x-casa-en-bahia-no-hubo-fallecimientos-por-bronquiolitis-y-se-evitaron-61-internaciones/"
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/tornquist-160-trabajadores-iniciaron-un-acampe-por-la-reapertura-de-la-papelera-del-sur/"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Condenado a casi 6 años de prisión por tenencia de cocaína para la venta en Bahía Blanca",
-      "breve": "Un hombre fue sentenciado a 5 años y 10 meses de prisión por el delito de tenencia de estupefacientes con fines de comercialización.",
+      "titulo": "Éxito del programa Casa x Casa en Bahía Blanca: cero fallecimientos por bronquiolitis",
+      "breve": "Gracias al programa municipal Bahía Abriga, no se registraron muertes por bronquiolitis y se evitaron 61 internaciones en la ciudad durante el invierno.",
       "fuentes": [
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-10-14-42-0-condenan-a-un-hombre-a-5-anos-y-10-meses-de-prision-por-tenencia-de-cocaina-para-la-venta"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/gracias-al-programa-casa-x-casa-en-bahia-no-hubo-fallecimientos-por-bronquiolitis-y-se-evitaron-61-internaciones/"
         },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/10/gracias-al-programa-casa-x-casa-en-bahia-no-hubo-fallecimientos-por-bronquiolitis-y-se-evitaron-61-internaciones/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Condenan a un hombre a 5 años y 10 meses de prisión por venta de cocaína en Bahía Blanca",
+      "breve": "El Tribunal en lo Criminal N.º 2 encontró responsable a Emiliano Gabriel Uboldi por tenencia de estupefacientes con fines de comercialización.",
+      "fuentes": [
         {
           "medio": "BVC Noticias",
           "url": "https://bvcnoticias.com.ar/2026/11/condenan-a-un-hombre-a-5-anos-y-10-meses-de-prision-por-tenencia-de-cocaina-para-la-venta/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-10-14-42-0-condenan-a-un-hombre-a-5-anos-y-10-meses-de-prision-por-tenencia-de-cocaina-para-la-venta"
         },
         {
           "medio": "360 Más Noticias",
@@ -134,23 +153,38 @@
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Incidente con gases de proceso en la planta de urea granulada de Profertil",
-      "breve": "Profertil informó sobre un incidente con gases de proceso en su planta de urea granulada, que fue contenido inmediatamente por el personal operativo.",
+      "titulo": "Incendio en Galería Visión 2000: ardió parte del techo sin heridos",
+      "breve": "Bomberos sofocaron las llamas en el techo de la galería céntrica, evacuando a las personas presentes sin que se registraran heridos.",
       "fuentes": [
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/profertil-informo-sobre-un-incidente-con-gases-de-proceso-en-la-planta-de-urea-granulada/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-10-10-26-0-ardio-parte-del-techo-de-galeria-vision-2000-pero-no-hubo-heridos"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-incendio-en-la-galeria-vision-2000-evacuaron-el-edificio-por-un-foco-de-fuego-en-el-techo/"
         },
         {
           "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/profertil-informo-que-hubo-un-incidente-en-la-planta-de-urea-granulada/"
+          "url": "https://frenteacano.com.ar/a-la-espera-de-las-pericias-estiman-que-el-incendio-en-vision-2000-fue-algo-externo/"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "El Concejo Deliberante de Saavedra fijó fecha para definir el futuro del intendente",
-      "breve": "El jueves 26 de noviembre se realizará la sesión especial donde se decidirá sobre el futuro político del intendente Matías Nebot.",
+      "titulo": "Cronograma de fumigación en barrios de Bahía Blanca",
+      "breve": "El municipio informó cómo continúa el plan de fumigación contra mosquitos, detallando los barrios que serán intervenidos este miércoles 11.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/mira-cuando-le-toca-la-fumigacion-a-tu-barrio-3/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Fijan fecha para la sesión que definirá el futuro del intendente de Saavedra",
+      "breve": "El Concejo Deliberante de Saavedra realizará una sesión especial el jueves 26 de noviembre para resolver la situación del intendente Matías Nebot.",
       "fuentes": [
         {
           "medio": "La Nueva",
@@ -164,94 +198,45 @@
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Excomisario condenado recibió prisión domiciliaria por motivos de salud",
-      "breve": "Germán Streitemberger, detenido en junio por extorsión e incumplimiento de deberes, obtuvo el beneficio de la prisión domiciliaria.",
+      "titulo": "Cortes de calles programados en Bahía Blanca por tareas de mantenimiento",
+      "breve": "La comuna actualizó el cronograma de interrupciones vehiculares en diferentes sectores de la ciudad para los próximos días.",
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-10-9-49-0-excomisario-condenado-recibio-prision-domiciliaria-por-un-tema-de-salud"
+          "url": "https://www.lanueva.com/nota/2026-11-10-21-14-0-por-tareas-de-mantenimiento-cuales-son-los-cortes-de-calles-programados-para-los-proximos-dias"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Comerciantes bahienses buscan instalarse en 'centros fuera del centro'",
-      "breve": "Los cambios en el consumo y el crecimiento de zonas alejadas del centro tradicional están modificando la demanda inmobiliaria comercial.",
+      "titulo": "Dos detenidos tras intento de robo en una farmacia de Bahía Blanca",
+      "breve": "Un operativo policial, apoyado por cámaras de monitoreo, permitió identificar y detener a los sospechosos de un intento de robo.",
       "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-7-18-53-0-los-comerciantes-bahienses-apuntan-cada-vez-mas-a-instalarse-en-los-centros-fuera-del-centro"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Pronóstico del tiempo para este miércoles en Bahía Blanca: altas temperaturas",
-      "breve": "Se anticipa un miércoles con temperaturas mínimas entre 19 y 20 grados, y máximas que podrían alcanzar los 30 o 31 grados.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-10-17-29-0-el-pronostico-como-estara-el-tiempo-este-miercoles-en-la-ciudad"
-        },
         {
           "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/se-anticipa-un-miercoles-con-altas-temperaturas-n530195/"
-        },
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/madrugada-ventosa-y-temperatura-en-ascenso-para-el-miercoles/"
+          "url": "https://www.labrujula24.com/notas/2026/11/11/un-intento-de-robo-en-una-farmacia-termino-con-dos-detenidos-el-video-de-la-persecucion-n530218/"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Villa Mitre perdió su invicto en la Liga Argentina de Básquet ante Quilmes",
-      "breve": "El equipo bahiense sufrió su primera derrota de la temporada por 79 a 72 en su cuarta presentación, frente a un ex-Estudiantes encendido.",
+      "titulo": "Resultados de controles de tránsito: 16 conductores sacados de circulación",
+      "breve": "Entre el 2 y el 9 de noviembre, la División de Control y Ordenamiento Urbano retiró de circulación a conductores por alcoholemia y consumo de sustancias.",
       "fuentes": [
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-10-21-45-0-villa-mitre-batallo-hasta-el-final-pero-sufrio-a-un-bahiense-encendido-y-dejo-su-invicto-ante-quilmes"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/controles-de-transito-16-conductores-fueron-sacados-de-circulacion/"
         },
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/villa-mitre-perdio-el-invicto-en-mar-del-plata-quilmes-lo-derroto-79-a-72-n530215/"
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/10/operativos-realizados-durante-el-fin-de-semana/"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "9 de Julio se adelantó en la final del básquet femenino al vencer a Bahiense del Norte",
-      "breve": "El equipo de 9 de Julio se impuso 66 a 50 ante Bahiense en el primer partido de la serie final, que se disputa al mejor de cinco.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-10-19-21-0-femenino-9-de-julio-se-impuso-ante-bahiense-en-el-primer-partido-final"
-        },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/9-de-julio-vencio-a-bahiense-del-norte-y-se-adelanto-en-la-final-del-basquet-femenino-n530212/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Incendio en Galería Visión 2000: ardió parte del techo sin heridos",
-      "breve": "Bomberos controlaron un foco de fuego en el techo de la galería Visión 2000, evacuando a las personas presentes sin registrar heridos.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-10-10-26-0-ardio-parte-del-techo-de-galeria-vision-2000-pero-no-hubo-heridos"
-        },
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-incendio-en-la-galeria-vision-2000-evacuaron-el-edificio-por-un-foco-de-fuego-en-el-techo/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "White eligió las 5 iniciativas ganadoras del Presupuesto Participativo de Dow",
-      "breve": "Clubes, escuelas e instituciones postularon 21 proyectos y la comunidad votó cómo distribuir un total de $105 millones.",
+      "titulo": "Se conocieron las iniciativas ganadoras del Presupuesto Participativo de Dow en White",
+      "breve": "Clubes, escuelas e instituciones postularon proyectos y la comunidad votó cómo distribuir un total de $105 millones en Ingeniero White.",
       "fuentes": [
         {
           "medio": "La Nueva",
@@ -269,8 +254,19 @@
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "El HCD reconoció a personalidades e instituciones de Bahía Blanca",
-      "breve": "El Honorable Concejo Deliberante realizó una jornada de Reconocimientos y Distinciones con gran convocatoria de vecinos.",
+      "titulo": "Femicida condenado a perpetua busca conocer mujeres en redes sociales",
+      "breve": "Mario Alberto Saucedo, sentenciado por el crimen de Mónica Esteban, utiliza redes sociales desde prisión, según denuncia una amiga de la víctima.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-10-11-32-0-esta-preso-por-un-femicidio-y-que-busca-conocer-mujeres-en-las-redes"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "El HCD de Bahía Blanca reconoció a personalidades e instituciones locales",
+      "breve": "El Honorable Concejo Deliberante realizó una jornada de Reconocimientos y Distinciones con gran convocatoria de vecinos y representantes.",
       "fuentes": [
         {
           "medio": "BVC Noticias",
@@ -284,82 +280,60 @@
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Crisis en la papelera de Tornquist: “No quieren escuchar nuestras propuestas”",
-      "breve": "La intendenta de Tornquist, Estefanía Bordoni, afirmó que la empresa tiene una decisión tomada y no contempla alternativas presentadas.",
+      "titulo": "Arquidiócesis de Bahía Blanca invita a seguir la misa del Papa en Plaza Rivadavia",
+      "breve": "Se instalará una pantalla gigante en la plaza para que los fieles puedan compartir en comunidad la celebración religiosa desde Luján.",
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-10-10-12-0-crisis-en-la-papelera-no-quieren-escuchar-nuestras-propuestas"
+          "url": "https://www.lanueva.com/nota/2026-11-10-21-38-0-con-transmision-en-vivo-la-arquidiocesis-invita-a-acompanar-la-misa-en-lujan-desde-plaza-rivadavia"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/10/la-arquidiocesis-de-bahia-blanca-invita-a-vivir-en-comunidad-la-misa-del-papa/"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Municipio de Bahía Blanca gestiona cesión de predio histórico para nuevo espacio verde",
-      "breve": "El intendente avanza en las gestiones para que la Provincia ceda un predio al Municipio para convertirlo en un nuevo espacio verde.",
+      "titulo": "Cierre de registros del automotor no afectaría a Bahía Blanca por ahora",
+      "breve": "El presidente de la Delegación VI del Colegio de Gestores de la Provincia de Buenos Aires aseguró que la medida no impactará en la ciudad.",
       "fuentes": [
         {
           "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/el-municipio-de-bahia-blanca-gestiona-la-cesion-de-un-predio-historico-para-un-nuevo-espacio-verde/"
+          "url": "https://www.delabahia.com.ar/aseguran-que-el-cierre-de-registros-del-automotor-no-afectara-por-ahora-a-bahia-blanca/"
         }
       ]
     },
     {
-      "seccion": "País",
-      "titulo": "Murió Marcos Camino, fundador de Los Palmeras y referente de la cumbia santafesina",
-      "breve": "El histórico acordeonista había dejado la agrupación este año tras más de cinco décadas; la banda expresó su profundo dolor.",
+      "seccion": "Bahía y región",
+      "titulo": "Eva de Ingeniero White necesita ayuda para volver a caminar",
+      "breve": "Recibió una prótesis donada, pero debe reunir $2,8 millones para adaptarla y afrontar tres meses de rehabilitación.",
       "fuentes": [
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-10-18-55-0-murio-marcos-camino-fundador-de-los-palmeras-y-referente-de-la-cumbia-santafesina"
-        },
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/10/eva-quiere-dejar-la-silla-de-ruedas-y-necesita-ayuda-para-volver-a-caminar/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Profertil informó sobre un incidente con gases de proceso en la planta de urea",
+      "breve": "La empresa comunicó que se detectó un incidente con gases de proceso en la planta de urea granulada, el cual fue contenido inmediatamente por el personal operativo.",
+      "fuentes": [
         {
-          "medio": "Perfil",
-          "url": "https://perfil.com/entretenimiento/el-comunicado-de-los-palmeras-tras-la-tragica-muerte-de-marcos-camino-profundo-dolor-asEqV3v4dkMJ"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/profertil-informo-sobre-un-incidente-con-gases-de-proceso-en-la-planta-de-urea-granulada/"
         },
         {
           "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/murio-marcos-camino-exacordeonista-y-uno-de-los-fundadores-de-los-palmeras/"
+          "url": "https://frenteacano.com.ar/profertil-informo-que-hubo-un-incidente-en-la-planta-de-urea-granulada/"
         }
       ]
     },
     {
       "seccion": "País",
-      "titulo": "La CGT prepara una medida de fuerza antes de fin de año y crece la expectativa por un nuevo paro",
-      "breve": "Uno de los cosecretarios generales de la CGT confirmó que la central obrera prepara una medida de fuerza de alcance nacional.",
-      "fuentes": [
-        {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/la-cgt-prepara-una-medida-de-fuerza-antes-de-fin-de-ano-y-crece-la-expectativa-por-un-nuevo-paro/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "El Niño amenaza con intensificarse y preocupa por sus efectos hasta 2027",
-      "breve": "La NOAA estima más de un 83% de probabilidades de que el fenómeno alcance una intensidad fuerte o muy fuerte a comienzos de 2027, con alteraciones en lluvias y temperaturas.",
-      "fuentes": [
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/informacion-general/el-nino-amenaza-intensificarse-crece-la-preocupacion-sus-efectos-2027-n6343737"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "El Senado nacional prepara la última sesión ordinaria del año con temas clave en agenda",
-      "breve": "A contrarreloj, el Senado se alista para las últimas sesiones ordinarias de 2026, con pedidos específicos de Casa Rosada y la oposición.",
-      "fuentes": [
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/el-senado-nacional-prepara-la-ultima-sesion-ordinaria-del-ano-los-temas-en-agenda/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Rige la ley que regula el uso de celulares en escuelas de la provincia de Buenos Aires",
-      "breve": "La Provincia promulgó la norma que regula el uso de celulares en las escuelas y la Ley Ema para prevenir la violencia digital en establecimientos educativos.",
+      "titulo": "Rige la ley que regula el uso de celulares en escuelas bonaerenses",
+      "breve": "La Provincia promulgó la norma que regula el uso de celulares en escuelas primarias y secundarias, públicas y privadas, y la Ley Ema contra la violencia digital.",
       "fuentes": [
         {
           "medio": "360 Más Noticias",
@@ -369,41 +343,8 @@
     },
     {
       "seccion": "País",
-      "titulo": "Condenaron por lavado de dinero y fraude en EE.UU. a empresario vinculado a Espert",
-      "breve": "Un magistrado aceptó el acuerdo de culpabilidad que el empresario había negociado con la Fiscalía en Estados Unidos.",
-      "fuentes": [
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/condenaron-por-lavado-de-dinero-y-fraude-en-ee-uu-al-empresario-vinculado-a-espert-n530186/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Interpol busca a terrorista italiano fugado de prisión domiciliaria en Buenos Aires",
-      "breve": "Leonardo Bertulazzi, miembro de Brigadas Rojas, se escapó por el balcón de su prisión domiciliaria en San Telmo y es buscado con cuatro fotos.",
-      "fuentes": [
-        {
-          "medio": "Clarín",
-          "url": "https://www.clarin.com/policiales/fotos-interpol-busca-leonardo-bertulazzi-terrorista-italiano-fugo-buenos-aires_0_YoUXL4prII.html"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Edenor adquiere el 20% de la empresa que se quedó con las estaciones de servicio de Shell",
-      "breve": "Una firma de la distribuidora eléctrica formalizó su ingreso a la sociedad que adquirió la refinería y estaciones que eran de Shell.",
-      "fuentes": [
-        {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/negocios/edenor-adquiere-un-20-de-la-empresa-que-se-quedo-con-las-estaciones-de-servicio-de-shell/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Costos del transporte de cargas aumentaron 2,6% en octubre, acumulando 33,7% en el año",
-      "breve": "La suba acumulada desde principio de año es del 33,7%, con los peajes liderando los incrementos con un 77% en diez meses.",
+      "titulo": "Costos del transporte de cargas aumentaron 2,6% en octubre",
+      "breve": "La suba acumula un 33,7% desde principio de año, con los peajes liderando el incremento con un 77% en diez meses.",
       "fuentes": [
         {
           "medio": "El Cronista",
@@ -413,34 +354,101 @@
     },
     {
       "seccion": "País",
-      "titulo": "Fintech argentina Takenos levantó US$7 millones y proyecta expansión en Latinoamérica",
-      "breve": "La fintech, fundada en 2022, cerró una extensión de su ronda semilla y proyecta operar en más de 15 países de América Latina para 2027.",
-      "fuentes": [
-        {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/negocios/takenos-levanto-us7-millones-y-proyecta-operar-en-mas-de-15-paises-de-america-latina-en-2027-nid11112026/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Reino Unido rechaza jurisdicción de tribunal de Hamburgo sobre soberanía de Malvinas",
-      "breve": "El Reino Unido sostuvo que el Tribunal Internacional del Derecho del Mar no tiene competencia para examinar la soberanía de las Malvinas.",
-      "fuentes": [
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/reino-unido-dice-que-el-tribunal-de-hamburgo-no-tiene-jurisdiccion-sobre-la-soberania-de-las-malvinas/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "El 'Dibu' Martínez entrenó con la Selección argentina en plena recuperación",
-      "breve": "El arquero busca ser titular en los próximos amistosos y su participación dependerá de la evolución médica de su recuperación.",
+      "titulo": "Murió monseñor Aguer, arzobispo emérito de la Arquidiócesis de La Plata",
+      "breve": "La noticia fue confirmada por el arzobispo Gustavo Carrara; Aguer falleció a los 85 años en el Hogar Sacerdotal donde residía.",
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-10-17-28-0-en-plena-recuperacion-el-dibu-martinez-entreno-con-la-seleccion-argentina"
+          "url": "https://www.lanueva.com/nota/2026-11-10-20-5-0-fallecio-monsenor-aguer-arzobispo-emerito-de-la-arquidiocesis-de-la-plata"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "El Senado nacional prepara la última sesión ordinaria del año",
+      "breve": "A contrarreloj, la Cámara Alta alista las sesiones finales de 2026 con proyectos clave solicitados por Casa Rosada y la oposición.",
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/el-senado-nacional-prepara-la-ultima-sesion-ordinaria-del-ano-los-temas-en-agenda/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Residente del Cottolengo Don Orione pide a Milei “corazón más blando”",
+      "breve": "Marta Griselda Torres, de 78 años y con parálisis cerebral, expresó que el mandatario “no tendría que tener un corazón tan duro”.",
+      "fuentes": [
+        {
+          "medio": "Perfil",
+          "url": "https://perfil.com/cordoba/residente-del-cottolengo-don-orione-a-milei-el-presidente-tendria-que-tener-el-corazon-mas-blando-aW0UW9f9lma4"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Papa León XIV advirtió a los jóvenes sobre los “ídolos” modernos y los placeres que esclavizan",
+      "breve": "Ante un millón de personas en Palermo, el pontífice cuestionó las adicciones, la pornografía, las redes sociales y la obsesión por el éxito, la riqueza o la popularidad.",
+      "fuentes": [
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/10/leon-xiv-cuestiono-los-idolos-modernos-durante-una-multitudinaria-vigilia-de-jovenes-n530208/"
+        },
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/informacion-general/leon-xiv-palermo-las-frases-mas-destacadas-del-papa-los-jovenes-n6343775"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-10-20-19-0-leon-xiv-llego-a-la-vigilia-en-el-monumento-de-los-espanoles-lo-espera-un-millon-de-jovenes"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Denunciantes del Opus Dei expresaron decepción por no ser recibidas por el Papa",
+      "breve": "Las 43 mujeres que denunciaron a la organización por presunta trata de personas y reducción a la servidumbre manifestaron su frustración.",
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/las-43-mujeres-que-denunciaron-al-opus-dei-expresaron-su-decepcion-por-no-ser-recibidas-por-leon-xiv/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Diputado pidió explicaciones por un sector VIP durante la misa del Papa en Palermo",
+      "breve": "Un diputado nacional presentó un pedido de informes para que el Gobierno explique la instalación de un espacio exclusivo, mientras Jorge Macri defendió la carpa pero admitió excesos.",
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/diputado-pidio-explicaciones-por-un-sector-vip-durante-la-misa-de-leon-xiv-en-palermo/"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/jorge-macri-defendio-la-carpa-vip-en-la-misa-de-leon-xiv-pero-admitio-que-las-medialunas-y-los-budines-estuvieron-de-mas/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Papa León XIV pidió a los obispos argentinos cercanía con quienes viven en la pobreza",
+      "breve": "El pontífice instó a los obispos a acompañar a las personas que atraviesan situaciones de vulnerabilidad y necesitan ayuda.",
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/leon-xiv-pidio-a-los-obispos-argentinos-cercania-con-quienes-viven-en-la-pobreza-y-necesitan-ayuda/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Caso Micaela García: nuevas contradicciones entre los acusados",
+      "breve": "Néstor Pavón apuntó contra Sebastián Wagner, quien la semana pasada lo había culpado por el femicidio.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-11-7-38-0-caso-micaela-garcia-nuevas-contradicciones-entre-los-acusados"
         }
       ]
     }
