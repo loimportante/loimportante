@@ -1,94 +1,104 @@
 {
-  "fecha": "Martes 10 de noviembre de 2026",
-  "actualizado": "23:59",
+  "fecha": "Miércoles 11 de noviembre de 2026",
+  "actualizado": "08:01",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Seguridad",
-      "titulo": "Incendio en bazar céntrico de Bahía Blanca con rescate de menores",
+      "titulo": "Incendio en pleno centro de Bahía Blanca: rescate y corte de calles",
       "resumen": [
-        "Un importante incendio se desató en un bazar del centro de Bahía Blanca, en calle Chiclana. Bomberos rescataron a dos menores que se encontraban en el lugar y fueron atendidos por inhalación de humo. La zona fue inhabilitada para el tránsito y se recomienda precaución a peatones y automovilistas."
+        "Un importante incendio afectó un bazar en calle Chiclana 45, en el centro de Bahía Blanca. Bomberos rescataron a dos adolescentes y lograron controlar el fuego, aunque se evalúa el riesgo de derrumbe. La parada de colectivos en la primera cuadra de Chiclana fue inhabilitada temporalmente, afectando el tránsito y el transporte público en la zona.",
+        "El intendente Federico Susbielles destacó la labor de los equipos de emergencia que intervinieron en el siniestro."
       ],
       "fuentes": [
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/incendio-del-bazar-inhabilitan-la-parada-de-colectivos-en-la-primera-cuadra-de-chiclana-n530205/"
-        },
         {
           "medio": "360 Más Noticias",
           "url": "https://360masnoticias.com/bahia-blanca-impresionante-incendio-en-pleno-centro-dos-menores-fueron-rescatados-y-evaluan-riesgo-de-derrumbe/"
         },
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/incendio-en-chiclana-45-el-momento-en-que-bomberos-rescataron-a-dos-adolescentes/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-10-17-55-0-video-una-columna-de-humo-sale-de-los-techos-del-hotel-muniz"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/11/tras-los-incendios-en-el-centro-susbielles-destaco-el-trabajo-de-todo-el-sistema-de-emergencias-n530228/"
+        }
+      ]
+    },
+    {
+      "categoria": "Política",
+      "titulo": "Irán declara terroristas a la Armada y Fuerza Aérea argentinas",
+      "resumen": [
+        "El gobierno de Irán designó a la Armada y la Fuerza Aérea de Argentina como organizaciones terroristas. Esta medida se tomó en respuesta a la decisión del presidente Javier Milei de incluir a la Guardia Revolucionaria iraní en la misma categoría."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas-nid11112026/"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/11/iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentina-n530223/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-11-7-27-0-iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas"
         }
       ]
     },
     {
       "categoria": "Sociedad",
-      "titulo": "El Papa León XIV concluye su visita con mensaje a jóvenes y misa en Luján",
+      "titulo": "Último día del Papa León XIV en Argentina: Devoto, Luján y despedida",
       "resumen": [
-        "El Papa León XIV finaliza su visita a Argentina. Ayer, ante una multitud de jóvenes en Palermo, advirtió sobre los 'ídolos' modernos y los 'placeres que esclavizan', llamando a la libertad. Hoy, en su último día, visitará el penal de Villa Devoto y encabezará una misa multitudinaria en Luján antes de partir hacia Perú."
+        "El Papa León XIV finaliza hoy su visita a Argentina con una agenda que incluye un encuentro con 69 presos en el penal de Villa Devoto y una multitudinaria misa frente a la Basílica de Luján. Se espera una gran concurrencia de fieles en Luján, y la Arquidiócesis de Bahía Blanca invitó a seguir la misa en Plaza Rivadavia.",
+        "La jornada culminará con la ceremonia de despedida en Ezeiza, lo que podría generar afectaciones en los vuelos."
       ],
       "fuentes": [
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/sociedad/papa-leon-xiv-en-la-argentina-en-vivo-la-misa-en-lujan-y-la-despedida-en-ezeiza-hoy-minuto-a-minuto-nid11112026/"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/11/el-papa-leon-xiv-cierra-su-gira-en-argentina-con-una-visita-a-la-carcel-de-devoto-y-una-misa-en-lujan-n530242/"
+        },
         {
           "medio": "Ámbito",
           "url": "https://www.ambito.com/informacion-general/el-papa-leon-xiv-lujan-la-agenda-del-ultimo-dia-del-pontifice-argentina-n6343770"
-        },
-        {
-          "medio": "Clarín",
-          "url": "https://www.clarin.com/sociedad/fuerte-mensaje-papa-jovenes-advirtio-humillaciones-redes-sociales-pornografia-adoracion-dinero_0_Q1jdHCryc1.html"
-        },
-        {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/el-papa-leon-xiv-encabezo-una-vigilia-en-palermo-y-llamo-a-los-jovenes-a-desconfiar-de-los-idolos-nid10112026/"
-        }
-      ]
-    },
-    {
-      "categoria": "Economía",
-      "titulo": "Canasta Básica Total: cuánto necesitó una familia bahiense en octubre",
-      "resumen": [
-        "Una familia de Bahía Blanca necesitó en octubre una suma de dinero que superó la inflación del mes para no ser considerada pobre. La Canasta Básica Total en la ciudad registró un aumento significativo, reflejando el costo de vida local."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/cuanto-necesito-una-familia-bahiense-en-octubre-para-no-ser-considerada-pobre-n530199/"
         }
       ]
     },
     {
       "categoria": "Servicios",
-      "titulo": "Feriado provincial: cómo funcionarán los servicios este miércoles",
+      "titulo": "Cortes de agua programados en Bahía Blanca y General Cerri",
       "resumen": [
-        "Este miércoles, debido al feriado provincial por la visita del Papa a Luján, los servicios en Bahía Blanca operarán con un cronograma especial. El transporte público circulará con frecuencias de domingo, mientras que la recolección de residuos será normal y el Hospital Municipal atenderá de 8 a 20 horas."
+        "ABSA informó que realizará trabajos de mantenimiento el jueves, lo que afectará el suministro de agua en distintos puntos de Bahía Blanca y en la localidad de General Cerri. Se recomienda a los vecinos tomar las precauciones necesarias."
       ],
       "fuentes": [
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/10/como-funcionaran-los-servicios-este-miercoles-por-el-feriado-provincial-n530202/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-10-11-22-0-absa-realizara-trabajos-el-jueves-en-cerri-y-bahia-blanca"
         },
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-funcionamiento-de-los-servicios-durante-este-miercoles-11/"
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-en-bahia-blanca-y-general-daniel-cerri/"
         }
       ]
     },
     {
-      "categoria": "Seguridad",
-      "titulo": "Se fugó terrorista italiano de prisión domiciliaria en Buenos Aires",
+      "categoria": "Economía",
+      "titulo": "Trabajadores de Papelera del Sur en Tornquist acampan por reapertura",
       "resumen": [
-        "Leonardo Bertulazzi, exmiembro de las Brigadas Rojas italianas, se fugó de su prisión domiciliaria en San Telmo, Buenos Aires. El terrorista, de 74 años, estaba a la espera de su extradición a Italia, donde fue condenado a 27 años de prisión."
+        "Trabajadores de Papelera del Sur en Tornquist iniciaron un acampe por tiempo indeterminado ante el cierre definitivo de la fábrica. La intendenta de Tornquist, Estefanía Bordoni, expresó que la empresa no contempla las alternativas propuestas por el ejecutivo municipal, generando una crisis laboral en la región."
       ],
       "fuentes": [
         {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/seguridad/se-fugo-leonardo-bertulazzi-exmiembro-de-las-brigadas-rojas-italianas-mientras-esperaba-su-nid10112026/"
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/tornquist-160-trabajadores-iniciaron-un-acampe-por-la-reapertura-de-la-papelera-del-sur/"
         },
         {
-          "medio": "Clarín",
-          "url": "https://www.clarin.com/policiales/fotos-interpol-busca-leonardo-bertulazzi-terrorista-italiano-fugo-buenos-aires_0_YoUXL4prII.html"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-10-10-12-0-crisis-en-la-papelera-no-quieren-escuchar-nuestras-propuestas"
         }
       ]
     }
