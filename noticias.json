@@ -1,70 +1,34 @@
 {
   "fecha": "Miércoles 11 de noviembre de 2026",
-  "actualizado": "13:01",
+  "actualizado": "19:26",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Bahía Blanca",
-      "titulo": "Incendio en bazar céntrico dejó heridos y riesgo de derrumbe",
+      "categoria": "Sociedad",
+      "titulo": "El Papa León XIV se despidió de Argentina tras una visita histórica",
       "resumen": [
-        "Un importante incendio en un bazar del centro de Bahía Blanca requirió el rescate de dos menores y dejó a tres personas hospitalizadas por inhalación de humo. El edificio presenta riesgo de derrumbe, lo que llevó a la inhabilitación de una parada de colectivos cercana.",
-        "El intendente Susbielles destacó el trabajo de los equipos de emergencia."
+        "El Papa León XIV concluyó su visita de cuatro días a Argentina, despidiéndose en Ezeiza junto al presidente Milei antes de partir hacia Perú. Su paso por el país movilizó a millones de fieles y generó un importante impacto en el turismo nacional, con más de 1,2 millones de personas movilizadas."
       ],
       "fuentes": [
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-impresionante-incendio-en-pleno-centro-dos-menores-fueron-rescatados-y-evaluan-riesgo-de-derrumbe/"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-9-50-0-el-techo-esta-a-punto-de-caerse-preocupacion-por-los-danos-en-el-bazar-incendiado"
-        }
-      ]
-    },
-    {
-      "categoria": "Nacional",
-      "titulo": "El Papa León XIV se despidió de Argentina con un llamado a la reconciliación",
-      "resumen": [
-        "El Papa León XIV concluyó su visita a Argentina con una multitudinaria misa en Luján, donde convocó a la reconciliación y a construir un futuro de solidaridad. Previamente, visitó la cárcel de Devoto, llevando un mensaje de esperanza a los internos.",
-        "Millones de fieles participaron de las actividades y el Pontífice partió hacia Perú."
-      ],
-      "fuentes": [
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/informacion-general/el-papa-leon-xiv-llamo-la-reconciliacion-construir-un-nuevo-futuro-argentina-levantate-y-camina-n6343891"
-        },
         {
           "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/sociedad/el-mensaje-de-despedida-del-papa-leon-xiv-antes-de-viajar-hacia-peru-gracias-argentina-por-recibirme-nid11112026/"
+          "url": "https://www.lanacion.com.ar/sociedad/papa-leon-xiv-en-la-argentina-en-vivo-la-misa-en-lujan-y-la-despedida-en-ezeiza-hoy-minuto-a-minuto-nid11112026/"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/11/la-visita-del-papa-impulso-el-turismo-mas-de-12-millones-de-argentinos-se-movilizaron-n530329/"
         },
         {
           "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/es-momento-de-reiniciar-sus-vidas-el-emotivo-mensaje-de-leon-xiv-en-la-carcel-de-devoto/"
-        }
-      ]
-    },
-    {
-      "categoria": "Bahía Blanca",
-      "titulo": "Imputaron a bahiense por amenazar al Papa León XIV",
-      "resumen": [
-        "Un vecino de Bahía Blanca, de 58 años, fue imputado por amenazar de muerte al Papa León XIV. El hombre fue detenido en su vivienda y la Justicia estableció un plazo de 90 días para investigar el caso."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/11/imputaron-al-bahiense-detenido-por-amenazar-de-muerte-al-papa-leon-xiv-n530306/"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-12-37-0-quedo-imputado-el-bahiense-que-amenazo-al-papa-leon-xiv"
+          "url": "https://www.cronista.com/economia-politica/del-turismo-al-merchandising-papal-todos-los-numeros-que-dejo-la-visita-del-leon-xiv/"
         }
       ]
     },
     {
       "categoria": "Economía",
-      "titulo": "Aumentan los costos para tramitar DNI y pasaporte",
+      "titulo": "Aumentan los costos para tramitar DNI y pasaporte en todo el país",
       "resumen": [
-        "El costo para tramitar el pasaporte y el Documento Nacional de Identidad (DNI) se incrementó. El pasaporte sube un 30% y el DNI hasta un 100%, según la actualización tarifaria del RENAPER."
+        "El Gobierno nacional actualizó el cuadro tarifario para la obtención del Documento Nacional de Identidad y el pasaporte. Los aumentos, que pueden llegar hasta el 100% para el DNI, se aplicarán de forma semestral y afectan directamente el bolsillo de los ciudadanos que necesiten realizar estos trámites."
       ],
       "fuentes": [
         {
@@ -72,8 +36,12 @@
           "url": "https://www.ingenierowhite.com/2026/11/11/aumenta-30-el-costo-de-tramitar-pasaportes-y-hasta-un-100-sacar-el-dni-cuanto-costara/"
         },
         {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/tramitar-el-pasaporte-y-el-dni-saldra-mas-caro/"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/11/anuncian-un-aumento-en-los-precios-para-sacar-el-dni-y-el-pasaporte-n530316/"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/el-gobierno-aumento-los-precios-para-tramitar-el-pasaporte-y-el-dni/"
         }
       ]
     },
@@ -81,20 +49,58 @@
       "categoria": "Política",
       "titulo": "Irán declara terroristas a la Armada y Fuerza Aérea argentinas",
       "resumen": [
-        "El gobierno de Irán designó a la Armada y la Fuerza Aérea de Argentina como organizaciones terroristas. La senadora Bullrich reaccionó a la medida, afirmando que marca de qué lado está el país."
+        "El Gobierno de Irán designó a la Armada y la Fuerza Aérea de Argentina como organizaciones terroristas. Esta medida, que fue rechazada por el Gobierno argentino, tiene implicaciones significativas en las relaciones internacionales y la seguridad nacional del país."
       ],
       "fuentes": [
         {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/el-gobierno-rechazo-que-iran-declare-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas/"
+        },
+        {
           "medio": "De la Bahía Noticias",
           "url": "https://www.delabahia.com.ar/iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas/"
+        }
+      ]
+    },
+    {
+      "categoria": "Seguridad",
+      "titulo": "Incendio en bazar céntrico de Bahía Blanca dejó heridos y riesgo de derrumbe",
+      "resumen": [
+        "Un importante incendio en un bazar de calle Chiclana, en el centro de Bahía Blanca, provocó el rescate de dos menores y dejó tres personas hospitalizadas por inhalación de humo. El siniestro generó preocupación por el riesgo de derrumbe del edificio y la inhabilitación temporal de una parada de colectivos en la cuadra afectada."
+      ],
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-impresionante-incendio-en-pleno-centro-dos-menores-fueron-rescatados-y-evaluan-riesgo-de-derrumbe/"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/el-incendio-en-el-bazar-dejo-tres-personas-hospitalizadas-y-riesgo-de-derrumbe/"
         },
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-11-19-0-bullrich-a-iran-que-un-estado-terrorista-nos-declare-terroristas-marca-de-que-lado-estamos"
+          "url": "https://www.lanueva.com/nota/2026-11-10-21-25-0-por-el-incendio-del-bazar-quedo-inhabilitada-la-parada-de-colectivos-en-la-primera-cuadra-de-chiclana"
+        }
+      ]
+    },
+    {
+      "categoria": "Clima",
+      "titulo": "Doble alerta por tormentas y vientos fuertes para Bahía Blanca",
+      "resumen": [
+        "El Servicio Meteorológico Nacional emitió una doble alerta amarilla por tormentas y vientos fuertes para Bahía Blanca y la región. Se esperan condiciones climáticas adversas durante la tarde y noche del jueves, con posibles ráfagas intensas y precipitaciones, lo que requiere precaución por parte de los vecinos."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-11-18-7-0-tormentas-y-vientos-fuertes-emiten-un-doble-alerta-amarillo-para-este-jueves-en-bahia-blanca-y-la-region"
         },
         {
           "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/iran-denuncio-a-la-fuerza-aerea-argentina-y-a-la-armada-como-organizaciones-terroristas/"
+          "url": "https://frenteacano.com.ar/doble-alerta-por-viento-y-tormentas-para-manana/"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/11/jueves-con-calor-y-alerta-amarilla-por-tormentas-en-bahia-y-la-region-n530321/"
         }
       ]
     }
