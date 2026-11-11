@@ -3,74 +3,171 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Lo importante · Noticias de Bahía Blanca y el país</title>
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#FAFAF7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121822" media="(prefers-color-scheme: dark)">
+<title>Lo Importante · Bahía Blanca</title>
 <meta name="description" content="Las noticias que importan hoy en Bahía Blanca y el país, resumidas y con links a los diarios.">
 <link href="https://fonts.googleapis.com/css2?family=Alegreya:wght@400;700&family=Archivo:wdth,wght@62..125,400..800&display=swap" rel="stylesheet">
 <style>
-  body { margin: 0; background: #FAFAF7; color: #18202C; font: 1.15rem/1.6 "Alegreya", Georgia, serif; }
+  /* Colores: claro por defecto, oscuro si el navegador o el sistema lo piden */
+  :root {
+    --papel: #FAFAF7; --tinta: #18202C; --gris: #5B6472; --linea: #DEE1E6;
+    --rojo: #C1272D; --ria: #24507A; --error-fondo: #FDECEC;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --papel: #121822; --tinta: #E8ECF2; --gris: #9AA4B2; --linea: #2C3646;
+      --rojo: #F0656A; --ria: #8DB6E0; --error-fondo: #3A1C20;
+    }
+  }
+
+  body { margin: 0; background: var(--papel); color: var(--tinta); font: 1.15rem/1.6 "Alegreya", Georgia, serif; }
   main { max-width: 42rem; margin: 0 auto; padding: 2rem 1.25rem 3rem; }
+  a { color: var(--ria); }
+  :focus-visible { outline: 3px solid var(--ria); outline-offset: 2px; }
+
+  /* Encabezado */
+  header { padding-bottom: 1rem; border-bottom: 2px solid var(--tinta); margin-bottom: .5rem; }
   h1 { font: 800 3rem/1 "Archivo", sans-serif; font-stretch: 70%; margin: 0; }
-  .fecha { font-family: "Archivo", sans-serif; color: #C1272D; font-weight: 600; margin: .4rem 0 1.5rem; }
-  article { border-top: 1px solid #DEE1E6; padding: 1.5rem 0; }
-  .cat { font: 600 .9rem "Archivo", sans-serif; color: #C1272D; }
-  h2 { font: 700 1.5rem/1.2 "Archivo", sans-serif; font-stretch: 88%; margin: .2rem 0 .5rem; }
-  p { margin: 0 0 .6rem; }
-  .fuentes { font: .95rem "Archivo", sans-serif; color: #5B6472; }
-  a { color: #24507A; }
-  .error { background: #FDECEC; border: 1px solid #C1272D; padding: 1rem; font-family: "Archivo", sans-serif; }
+  .ciudad { font: 700 1.25rem/1.2 "Archivo", sans-serif; font-stretch: 85%; color: var(--rojo); margin: .3rem 0 0; }
+  .actualizado { font: .95rem "Archivo", sans-serif; color: var(--gris); margin: .6rem 0 0; }
+
+  /* Lo importante */
+  .nota { border-top: 1px solid var(--linea); padding: 1.25rem 0; }
+  .nota:first-child { border-top: 0; }
+  .cat { font: 600 .9rem "Archivo", sans-serif; color: var(--rojo); }
+  .nota h2 { font: 700 1.45rem/1.2 "Archivo", sans-serif; font-stretch: 88%; margin: .15rem 0 .45rem; }
+  .nota p { margin: 0 0 .5rem; }
+  .fuentes { font: .92rem "Archivo", sans-serif; color: var(--gris); }
+
+  /* Línea de corte y el resto del día (solo si el JSON trae "resto") */
+  .corte { margin: 1rem 0 2.25rem; padding: 1.1rem 1.25rem; border: 2px solid var(--tinta); border-radius: 6px; text-align: center; }
+  .corte b { display: block; font: 800 1.35rem "Archivo", sans-serif; font-stretch: 85%; }
+  .corte span { font: 1rem "Archivo", sans-serif; color: var(--gris); }
+  h3 { font: 800 1.6rem/1.1 "Archivo", sans-serif; font-stretch: 75%; margin: 0 0 .25rem; }
+  h4 { font: 700 1rem "Archivo", sans-serif; color: var(--rojo); margin: 1.5rem 0 .25rem; }
+  .item { padding: .65rem 0; border-top: 1px solid var(--linea); font-family: "Archivo", sans-serif; }
+  .item .t { font-weight: 600; font-size: 1.02rem; line-height: 1.3; }
+  .item .b { color: var(--gris); font-size: .95rem; line-height: 1.4; margin-top: .15rem; }
+  .item .f { font-size: .85rem; color: var(--gris); margin-top: .2rem; }
+  .oculto { display: none; }
+  .vermas { margin-top: .6rem; background: none; border: 1.5px solid var(--tinta); color: var(--tinta); border-radius: 6px; padding: .6rem 1rem; font: 600 .95rem "Archivo", sans-serif; cursor: pointer; }
+  .vermas:hover { background: var(--tinta); color: var(--papel); }
+
+  footer { margin-top: 2.5rem; padding-top: 1.25rem; border-top: 2px solid var(--tinta); font: .92rem/1.7 "Archivo", sans-serif; color: var(--gris); }
+  footer a { color: var(--tinta); }
+  .error { background: var(--error-fondo); border: 1px solid var(--rojo); padding: 1rem; font-family: "Archivo", sans-serif; }
+  .cargando { font-family: "Archivo", sans-serif; color: var(--gris); padding: 1.5rem 0; }
 </style>
 </head>
 <body>
 <main>
-  <h1>Lo importante</h1>
-  <div class="fecha" id="fecha"></div>
-  <div id="notas">Cargando…</div>
+  <header>
+    <h1>Lo Importante</h1>
+    <p class="ciudad">Bahía Blanca</p>
+    <p class="actualizado" id="actualizado"></p>
+  </header>
+  <div id="contenido"><div class="cargando">Cargando…</div></div>
 </main>
 
 <script>
-  var contenedor = document.getElementById("notas");
+  var ARCHIVO = "noticias.json"; // en la página dev: "noticias2.json"
+  var VISIBLES = 6;              // noticias por sección antes de "Ver más"
 
-  function escapar(t) {
+  function esc(t) {
     return String(t == null ? "" : t).replace(/[&<>"]/g, function (c) {
       return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
     });
   }
-
-  function mostrarError(texto) {
-    contenedor.innerHTML = '<div class="error"><b>No se pudieron cargar las noticias.</b><br>' + escapar(texto) + "</div>";
+  function links(fuentes) {
+    return (fuentes || []).map(function (f) {
+      return '<a href="' + esc(f.url) + '" target="_blank" rel="noopener">' + esc(f.medio) + "</a>";
+    }).join(", ");
   }
 
-  fetch("noticias.json?v=" + Date.now())
+  // "Actualizado el miércoles 11 de noviembre a las 08:00 h"
+  function textoActualizado(d, ultimaModif) {
+    if (d.fecha && d.actualizado) {
+      var f = String(d.fecha).replace(/ de \d{4}$/, "");
+      return "Actualizado el " + f.charAt(0).toLowerCase() + f.slice(1) + " a las " + d.actualizado + " h";
+    }
+    var fecha = ultimaModif ? new Date(ultimaModif) : null;
+    if (fecha && !isNaN(fecha)) {
+      var opc = { timeZone: "America/Argentina/Buenos_Aires" };
+      var dia = fecha.toLocaleDateString("es-AR", Object.assign({ weekday: "long", day: "numeric", month: "long" }, opc)).replace(/,/g, "");
+      var hora = fecha.toLocaleTimeString("es-AR", Object.assign({ hour: "2-digit", minute: "2-digit", hour12: false }, opc));
+      return "Actualizado el " + dia + " a las " + hora + " h";
+    }
+    return d.fecha ? "Edición del " + d.fecha : "";
+  }
+
+  function pintar(d, ultimaModif) {
+    if (Array.isArray(d)) d = { notas: d };
+    var notas = d.notas || [];
+    if (!notas.length) throw new Error("El archivo no trae notas.");
+    document.getElementById("actualizado").textContent = textoActualizado(d, ultimaModif);
+
+    var html = notas.map(function (n) {
+      return '<article class="nota">' +
+        (n.categoria ? '<div class="cat">' + esc(n.categoria) + "</div>" : "") +
+        "<h2>" + esc(n.titulo) + "</h2>" +
+        [].concat(n.resumen || []).map(function (p) { return "<p>" + esc(p) + "</p>"; }).join("") +
+        (n.fuentes && n.fuentes.length ? '<div class="fuentes">Leelo en ' + links(n.fuentes) + "</div>" : "") +
+        "</article>";
+    }).join("");
+
+    var resto = d.resto || [];
+    if (resto.length) {
+      html += '<div class="corte"><b>Listo, ya estás al día.</b><span>Si querés más, abajo está el resto de lo que pasó hoy.</span></div>';
+      html += "<h3>El resto del día</h3>";
+      var secciones = [];
+      resto.forEach(function (r) { if (secciones.indexOf(r.seccion) < 0) secciones.push(r.seccion); });
+      secciones.forEach(function (s, si) {
+        var items = resto.filter(function (r) { return r.seccion === s; });
+        html += "<h4>" + esc(s) + "</h4>";
+        items.forEach(function (r, i) {
+          html += '<div class="item' + (i >= VISIBLES ? " oculto s" + si : "") + '">' +
+            '<div class="t">' + esc(r.titulo) + "</div>" +
+            (r.breve ? '<div class="b">' + esc(r.breve) + "</div>" : "") +
+            '<div class="f">' + links(r.fuentes) + "</div></div>";
+        });
+        if (items.length > VISIBLES) {
+          html += '<button class="vermas" data-s="' + si + '">Ver ' + (items.length - VISIBLES) + " más de " + esc(s) + "</button>";
+        }
+      });
+    }
+
+    var grupos = [["Diarios de Bahía", d.diarios_locales], ["Diarios nacionales", d.diarios]].filter(function (g) { return g[1] && g[1].length; });
+    html += "<footer>" + grupos.map(function (g) { return "<div><b>" + g[0] + ":</b> " + links(g[1]) + "</div>"; }).join("") +
+      "<p>Los resúmenes se hacen con ayuda de inteligencia artificial a partir de las notas enlazadas. Si algo no te cierra, la nota original manda.</p>" +
+      "<p>Hecho en Bahía Blanca.</p></footer>";
+
+    var c = document.getElementById("contenido");
+    c.innerHTML = html;
+    c.querySelectorAll(".vermas").forEach(function (b) {
+      b.addEventListener("click", function () {
+        c.querySelectorAll(".s" + b.getAttribute("data-s")).forEach(function (e) { e.classList.remove("oculto"); });
+        b.remove();
+      });
+    });
+  }
+
+  fetch(ARCHIVO, { cache: "no-store" })
     .then(function (r) {
-      if (!r.ok) throw new Error("noticias.json respondió " + r.status + " (¿está en la misma carpeta que index.html?)");
-      return r.text();
+      if (!r.ok) throw new Error(ARCHIVO + " respondió " + r.status + " (¿está en la misma carpeta que esta página?)");
+      var ultimaModif = r.headers.get("last-modified");
+      return r.text().then(function (t) {
+        var d;
+        try { d = JSON.parse(t); } catch (e) { throw new Error(ARCHIVO + " no es un JSON válido: " + e.message); }
+        pintar(d, ultimaModif);
+      });
     })
-    .then(function (texto) {
-      var datos;
-      try { datos = JSON.parse(texto); }
-      catch (e) { throw new Error("noticias.json no es un JSON válido: " + e.message); }
-
-      // Acepta una lista de notas o un objeto con "notas"
-      var notas = Array.isArray(datos) ? datos : (datos.notas || []);
-      if (!notas.length) throw new Error("noticias.json no trae notas.");
-
-      document.getElementById("fecha").textContent = datos.fecha ||
-        new Date().toLocaleDateString("es-AR", { weekday: "long", day: "numeric", month: "long" });
-
-      contenedor.innerHTML = notas.map(function (n) {
-        var resumen = [].concat(n.resumen || []).map(function (p) { return "<p>" + escapar(p) + "</p>"; }).join("");
-        var fuentes = (n.fuentes || []).map(function (f) {
-          return '<a href="' + escapar(f.url) + '" target="_blank" rel="noopener">' + escapar(f.medio) + "</a>";
-        }).join(", ");
-        return "<article>" +
-          '<div class="cat">' + escapar(n.categoria) + "</div>" +
-          "<h2>" + escapar(n.titulo) + "</h2>" +
-          resumen +
-          (fuentes ? '<div class="fuentes">Leelo en ' + fuentes + "</div>" : "") +
-          "</article>";
-      }).join("");
-    })
-    .catch(function (e) { mostrarError(e.message); });
+    .catch(function (e) {
+      if (location.protocol === "file:") e = new Error("Abriste el archivo con doble clic y el navegador no deja leer " + ARCHIVO + " así. Subilo a GitHub o usá un servidor local.");
+      document.getElementById("contenido").innerHTML =
+        '<div class="error"><b>No se pudieron cargar las noticias.</b><br>' + esc(e.message) + "</div>";
+    });
 </script>
 </body>
 </html>
