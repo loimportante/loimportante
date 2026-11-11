@@ -1,43 +1,44 @@
 {
   "fecha": "Miércoles 11 de noviembre de 2026",
-  "actualizado": "19:26",
+  "actualizado": "20:01",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Sociedad",
-      "titulo": "El Papa León XIV se despidió de Argentina tras una visita histórica",
+      "categoria": "Bahía Blanca",
+      "titulo": "Incendio en bazar céntrico: riesgo de derrumbe y parada de colectivo inhabilitada",
       "resumen": [
-        "El Papa León XIV concluyó su visita de cuatro días a Argentina, despidiéndose en Ezeiza junto al presidente Milei antes de partir hacia Perú. Su paso por el país movilizó a millones de fieles y generó un importante impacto en el turismo nacional, con más de 1,2 millones de personas movilizadas."
+        "Un incendio en un bazar del centro de Bahía Blanca dejó tres personas hospitalizadas y causó daños estructurales que generan preocupación por un posible derrumbe. Ingenieros evaluarán la seguridad del inmueble y de propiedades linderas.",
+        "Como consecuencia del siniestro, se inhabilitó temporalmente una parada de transporte público en la primera cuadra de calle Chiclana."
       ],
       "fuentes": [
         {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/sociedad/papa-leon-xiv-en-la-argentina-en-vivo-la-misa-en-lujan-y-la-despedida-en-ezeiza-hoy-minuto-a-minuto-nid11112026/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-11-9-50-0-el-techo-esta-a-punto-de-caerse-preocupacion-por-los-danos-en-el-bazar-incendiado"
         },
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/11/la-visita-del-papa-impulso-el-turismo-mas-de-12-millones-de-argentinos-se-movilizaron-n530329/"
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/el-incendio-en-el-bazar-dejo-tres-personas-hospitalizadas-y-riesgo-de-derrumbe/"
         },
         {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/del-turismo-al-merchandising-papal-todos-los-numeros-que-dejo-la-visita-del-leon-xiv/"
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/10/inhabilitacion-provisoria-de-parada-de-transporte-publico-en-primera-cuadra-de-calle-chiclana/"
         }
       ]
     },
     {
-      "categoria": "Economía",
-      "titulo": "Aumentan los costos para tramitar DNI y pasaporte en todo el país",
+      "categoria": "Servicios",
+      "titulo": "Aumentan los costos para tramitar el DNI y el pasaporte a nivel nacional",
       "resumen": [
-        "El Gobierno nacional actualizó el cuadro tarifario para la obtención del Documento Nacional de Identidad y el pasaporte. Los aumentos, que pueden llegar hasta el 100% para el DNI, se aplicarán de forma semestral y afectan directamente el bolsillo de los ciudadanos que necesiten realizar estos trámites."
+        "El Gobierno nacional actualizó el cuadro tarifario para la expedición del Documento Nacional de Identidad y el pasaporte. Los aumentos serán semestrales, impactando directamente en el bolsillo de quienes necesiten realizar estos trámites."
       ],
       "fuentes": [
         {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/11/aumenta-30-el-costo-de-tramitar-pasaportes-y-hasta-un-100-sacar-el-dni-cuanto-costara/"
-        },
-        {
           "medio": "La Brújula 24",
           "url": "https://www.labrujula24.com/notas/2026/11/11/anuncian-un-aumento-en-los-precios-para-sacar-el-dni-y-el-pasaporte-n530316/"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/11/aumenta-30-el-costo-de-tramitar-pasaportes-y-hasta-un-100-sacar-el-dni-cuanto-costara/"
         },
         {
           "medio": "BVC Noticias",
@@ -46,48 +47,44 @@
       ]
     },
     {
-      "categoria": "Política",
-      "titulo": "Irán declara terroristas a la Armada y Fuerza Aérea argentinas",
+      "categoria": "Servicios",
+      "titulo": "Corte de agua programado para mañana en varios sectores de Bahía Blanca",
       "resumen": [
-        "El Gobierno de Irán designó a la Armada y la Fuerza Aérea de Argentina como organizaciones terroristas. Esta medida, que fue rechazada por el Gobierno argentino, tiene implicaciones significativas en las relaciones internacionales y la seguridad nacional del país."
+        "Se anunció un corte de agua programado para este viernes en distintos barrios de Bahía Blanca. Se recomienda a los vecinos de las zonas afectadas tomar las precauciones necesarias para minimizar el impacto de la interrupción del servicio."
       ],
       "fuentes": [
         {
           "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/el-gobierno-rechazo-que-iran-declare-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas/"
-        },
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas/"
+          "url": "https://frenteacano.com.ar/manana-cortaran-el-agua-en-distintos-sectores/"
         }
       ]
     },
     {
-      "categoria": "Seguridad",
-      "titulo": "Incendio en bazar céntrico de Bahía Blanca dejó heridos y riesgo de derrumbe",
+      "categoria": "Economía",
+      "titulo": "Consultoras anticipan que la inflación de octubre se mantendría en niveles similares",
       "resumen": [
-        "Un importante incendio en un bazar de calle Chiclana, en el centro de Bahía Blanca, provocó el rescate de dos menores y dejó tres personas hospitalizadas por inhalación de humo. El siniestro generó preocupación por el riesgo de derrumbe del edificio y la inhabilitación temporal de una parada de colectivos en la cuadra afectada."
+        "Las estimaciones privadas sugieren que la inflación de octubre se ubicaría entre el 1,8% y el 2%, un nivel similar al de septiembre. Esto marcaría seis meses de estancamiento en la suba de precios, lo que genera advertencias sobre los límites para retomar un sendero de desinflación."
       ],
       "fuentes": [
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-impresionante-incendio-en-pleno-centro-dos-menores-fueron-rescatados-y-evaluan-riesgo-de-derrumbe/"
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/economia/la-inflacion-octubre-seria-similar-la-septiembre-y-ya-acumularia-seis-meses-estancada-un-mismo-nivel-n6343939"
         },
         {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/el-incendio-en-el-bazar-dejo-tres-personas-hospitalizadas-y-riesgo-de-derrumbe/"
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/inflacion-de-octubre-que-numero-anticipan-las-principales-consultoras-supera-el-2/"
         },
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-10-21-25-0-por-el-incendio-del-bazar-quedo-inhabilitada-la-parada-de-colectivos-en-la-primera-cuadra-de-chiclana"
+          "medio": "Perfil",
+          "url": "https://perfil.com/mas-perfil/la-inflacion-podria-acercarse-al-25-anual-en-rdeco-explicaron-que-factores-pueden-presionar-sobre-los-precios-abdtZ9R0KEpu"
         }
       ]
     },
     {
       "categoria": "Clima",
-      "titulo": "Doble alerta por tormentas y vientos fuertes para Bahía Blanca",
+      "titulo": "Doble alerta amarilla por tormentas y vientos fuertes para Bahía Blanca y la región",
       "resumen": [
-        "El Servicio Meteorológico Nacional emitió una doble alerta amarilla por tormentas y vientos fuertes para Bahía Blanca y la región. Se esperan condiciones climáticas adversas durante la tarde y noche del jueves, con posibles ráfagas intensas y precipitaciones, lo que requiere precaución por parte de los vecinos."
+        "El Servicio Meteorológico Nacional emitió un doble alerta amarillo para este jueves por la tarde y noche en Bahía Blanca y localidades cercanas. Se esperan tormentas y vientos fuertes, por lo que se recomienda tomar precauciones."
       ],
       "fuentes": [
         {
@@ -95,12 +92,12 @@
           "url": "https://www.lanueva.com/nota/2026-11-11-18-7-0-tormentas-y-vientos-fuertes-emiten-un-doble-alerta-amarillo-para-este-jueves-en-bahia-blanca-y-la-region"
         },
         {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/doble-alerta-por-viento-y-tormentas-para-manana/"
-        },
-        {
           "medio": "La Brújula 24",
           "url": "https://www.labrujula24.com/notas/2026/11/11/jueves-con-calor-y-alerta-amarilla-por-tormentas-en-bahia-y-la-region-n530321/"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/doble-alerta-por-viento-y-tormentas-para-manana/"
         }
       ]
     }
