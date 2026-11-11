@@ -1,14 +1,14 @@
 {
   "fecha": "Miércoles 11 de noviembre de 2026",
-  "actualizado": "08:01",
+  "actualizado": "13:01",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Seguridad",
-      "titulo": "Incendio en pleno centro de Bahía Blanca: rescate y corte de calles",
+      "categoria": "Bahía Blanca",
+      "titulo": "Incendio en bazar céntrico dejó heridos y riesgo de derrumbe",
       "resumen": [
-        "Un importante incendio afectó un bazar en calle Chiclana 45, en el centro de Bahía Blanca. Bomberos rescataron a dos adolescentes y lograron controlar el fuego, aunque se evalúa el riesgo de derrumbe. La parada de colectivos en la primera cuadra de Chiclana fue inhabilitada temporalmente, afectando el tránsito y el transporte público en la zona.",
-        "El intendente Federico Susbielles destacó la labor de los equipos de emergencia que intervinieron en el siniestro."
+        "Un importante incendio en un bazar del centro de Bahía Blanca requirió el rescate de dos menores y dejó a tres personas hospitalizadas por inhalación de humo. El edificio presenta riesgo de derrumbe, lo que llevó a la inhabilitación de una parada de colectivos cercana.",
+        "El intendente Susbielles destacó el trabajo de los equipos de emergencia."
       ],
       "fuentes": [
         {
@@ -17,11 +17,63 @@
         },
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-10-17-55-0-video-una-columna-de-humo-sale-de-los-techos-del-hotel-muniz"
+          "url": "https://www.lanueva.com/nota/2026-11-11-9-50-0-el-techo-esta-a-punto-de-caerse-preocupacion-por-los-danos-en-el-bazar-incendiado"
+        }
+      ]
+    },
+    {
+      "categoria": "Nacional",
+      "titulo": "El Papa León XIV se despidió de Argentina con un llamado a la reconciliación",
+      "resumen": [
+        "El Papa León XIV concluyó su visita a Argentina con una multitudinaria misa en Luján, donde convocó a la reconciliación y a construir un futuro de solidaridad. Previamente, visitó la cárcel de Devoto, llevando un mensaje de esperanza a los internos.",
+        "Millones de fieles participaron de las actividades y el Pontífice partió hacia Perú."
+      ],
+      "fuentes": [
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/informacion-general/el-papa-leon-xiv-llamo-la-reconciliacion-construir-un-nuevo-futuro-argentina-levantate-y-camina-n6343891"
         },
         {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/sociedad/el-mensaje-de-despedida-del-papa-leon-xiv-antes-de-viajar-hacia-peru-gracias-argentina-por-recibirme-nid11112026/"
+        },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/es-momento-de-reiniciar-sus-vidas-el-emotivo-mensaje-de-leon-xiv-en-la-carcel-de-devoto/"
+        }
+      ]
+    },
+    {
+      "categoria": "Bahía Blanca",
+      "titulo": "Imputaron a bahiense por amenazar al Papa León XIV",
+      "resumen": [
+        "Un vecino de Bahía Blanca, de 58 años, fue imputado por amenazar de muerte al Papa León XIV. El hombre fue detenido en su vivienda y la Justicia estableció un plazo de 90 días para investigar el caso."
+      ],
+      "fuentes": [
+        {
           "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/11/tras-los-incendios-en-el-centro-susbielles-destaco-el-trabajo-de-todo-el-sistema-de-emergencias-n530228/"
+          "url": "https://www.labrujula24.com/notas/2026/11/11/imputaron-al-bahiense-detenido-por-amenazar-de-muerte-al-papa-leon-xiv-n530306/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-11-12-37-0-quedo-imputado-el-bahiense-que-amenazo-al-papa-leon-xiv"
+        }
+      ]
+    },
+    {
+      "categoria": "Economía",
+      "titulo": "Aumentan los costos para tramitar DNI y pasaporte",
+      "resumen": [
+        "El costo para tramitar el pasaporte y el Documento Nacional de Identidad (DNI) se incrementó. El pasaporte sube un 30% y el DNI hasta un 100%, según la actualización tarifaria del RENAPER."
+      ],
+      "fuentes": [
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/11/aumenta-30-el-costo-de-tramitar-pasaportes-y-hasta-un-100-sacar-el-dni-cuanto-costara/"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/tramitar-el-pasaporte-y-el-dni-saldra-mas-caro/"
         }
       ]
     },
@@ -29,76 +81,20 @@
       "categoria": "Política",
       "titulo": "Irán declara terroristas a la Armada y Fuerza Aérea argentinas",
       "resumen": [
-        "El gobierno de Irán designó a la Armada y la Fuerza Aérea de Argentina como organizaciones terroristas. Esta medida se tomó en respuesta a la decisión del presidente Javier Milei de incluir a la Guardia Revolucionaria iraní en la misma categoría."
+        "El gobierno de Irán designó a la Armada y la Fuerza Aérea de Argentina como organizaciones terroristas. La senadora Bullrich reaccionó a la medida, afirmando que marca de qué lado está el país."
       ],
       "fuentes": [
-        {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/el-mundo/iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas-nid11112026/"
-        },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/11/iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentina-n530223/"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-7-27-0-iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas"
-        }
-      ]
-    },
-    {
-      "categoria": "Sociedad",
-      "titulo": "Último día del Papa León XIV en Argentina: Devoto, Luján y despedida",
-      "resumen": [
-        "El Papa León XIV finaliza hoy su visita a Argentina con una agenda que incluye un encuentro con 69 presos en el penal de Villa Devoto y una multitudinaria misa frente a la Basílica de Luján. Se espera una gran concurrencia de fieles en Luján, y la Arquidiócesis de Bahía Blanca invitó a seguir la misa en Plaza Rivadavia.",
-        "La jornada culminará con la ceremonia de despedida en Ezeiza, lo que podría generar afectaciones en los vuelos."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/sociedad/papa-leon-xiv-en-la-argentina-en-vivo-la-misa-en-lujan-y-la-despedida-en-ezeiza-hoy-minuto-a-minuto-nid11112026/"
-        },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/11/el-papa-leon-xiv-cierra-su-gira-en-argentina-con-una-visita-a-la-carcel-de-devoto-y-una-misa-en-lujan-n530242/"
-        },
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/informacion-general/el-papa-leon-xiv-lujan-la-agenda-del-ultimo-dia-del-pontifice-argentina-n6343770"
-        }
-      ]
-    },
-    {
-      "categoria": "Servicios",
-      "titulo": "Cortes de agua programados en Bahía Blanca y General Cerri",
-      "resumen": [
-        "ABSA informó que realizará trabajos de mantenimiento el jueves, lo que afectará el suministro de agua en distintos puntos de Bahía Blanca y en la localidad de General Cerri. Se recomienda a los vecinos tomar las precauciones necesarias."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-10-11-22-0-absa-realizara-trabajos-el-jueves-en-cerri-y-bahia-blanca"
-        },
         {
           "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-en-bahia-blanca-y-general-daniel-cerri/"
-        }
-      ]
-    },
-    {
-      "categoria": "Economía",
-      "titulo": "Trabajadores de Papelera del Sur en Tornquist acampan por reapertura",
-      "resumen": [
-        "Trabajadores de Papelera del Sur en Tornquist iniciaron un acampe por tiempo indeterminado ante el cierre definitivo de la fábrica. La intendenta de Tornquist, Estefanía Bordoni, expresó que la empresa no contempla las alternativas propuestas por el ejecutivo municipal, generando una crisis laboral en la región."
-      ],
-      "fuentes": [
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/tornquist-160-trabajadores-iniciaron-un-acampe-por-la-reapertura-de-la-papelera-del-sur/"
+          "url": "https://www.delabahia.com.ar/iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas/"
         },
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-10-10-12-0-crisis-en-la-papelera-no-quieren-escuchar-nuestras-propuestas"
+          "url": "https://www.lanueva.com/nota/2026-11-11-11-19-0-bullrich-a-iran-que-un-estado-terrorista-nos-declare-terroristas-marca-de-que-lado-estamos"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/iran-denuncio-a-la-fuerza-aerea-argentina-y-a-la-armada-como-organizaciones-terroristas/"
         }
       ]
     }
