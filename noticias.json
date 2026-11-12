@@ -1,14 +1,14 @@
 {
   "fecha": "Jueves 12 de noviembre de 2026",
-  "actualizado": "20:01",
+  "actualizado": "20:23",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Economía",
-      "titulo": "La inflación de octubre fue del 2,2% y acumula 33,1% interanual",
+      "titulo": "La inflación de octubre fue del 2,2% y la canasta básica superó los $1,6 millones",
       "resumen": [
-        "El Instituto Nacional de Estadística y Censos (INDEC) informó que la inflación de octubre alcanzó el 2,2% a nivel nacional. Con este dato, el aumento de precios acumulado en los últimos doce meses llega al 33,1%.",
-        "Esta cifra, que muestra una aceleración respecto al mes anterior, impacta directamente en el poder adquisitivo de los hogares y en el costo de vida de los bahienses."
+        "El INDEC informó que la inflación de octubre alcanzó el 2,2% a nivel nacional, acumulando un 33,1% interanual. Este dato impacta directamente en el poder adquisitivo y determina el aumento de jubilaciones y asignaciones de ANSES en diciembre.",
+        "Una familia tipo necesitó más de $1.690.000 en octubre para no ser considerada pobre, según la canasta básica total."
       ],
       "fuentes": [
         {
@@ -16,48 +16,8 @@
           "url": "https://www.lanueva.com/nota/2026-11-12-15-0-0-no-logra-bajar-la-inflacion-de-octubre-llego-al-2-2-y-acumula-un-26-3-en-lo-que-va-de-2026"
         },
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/12/la-inflacion-volvio-a-superar-el-2-en-octubre-n530481/"
-        },
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses/"
-        }
-      ]
-    },
-    {
-      "categoria": "Clima",
-      "titulo": "Alerta naranja por tormentas fuertes y posible granizo en Bahía Blanca",
-      "resumen": [
-        "El Servicio Meteorológico Nacional emitió una alerta naranja por tormentas fuertes y posible caída de granizo para Bahía Blanca y la región. Se esperan condiciones climáticas adversas, especialmente durante la madrugada del viernes.",
-        "Se recomienda a los vecinos tomar precauciones ante la posibilidad de lluvias intensas y ráfagas de viento, que podrían afectar la rutina diaria y la seguridad."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-18-17-0-ratifican-el-alerta-amarillo-para-esta-noche-y-emiten-un-alerta-naranja-para-la-tarde-y-noche-del-viernes"
-        },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/12/emiten-alerta-naranja-por-tormentas-para-este-viernes-en-bahia-cuando-comenzaran-las-lluvias-n530488/"
-        },
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-el-smn-emitio-una-doble-alerta-amarilla-por-tormentas-y-fuertes-vientos/"
-        }
-      ]
-    },
-    {
-      "categoria": "Economía",
-      "titulo": "Advierten que las tarifas de servicios seguirán aumentando por encima de la inflación",
-      "resumen": [
-        "Especialistas económicos proyectan que los aumentos en las tarifas de servicios públicos continuarán superando el índice de inflación. Esta tendencia presionará aún más sobre el costo de vida de los argentinos.",
-        "La situación genera preocupación en los hogares, que deberán afrontar mayores gastos en servicios esenciales en los próximos meses."
-      ],
-      "fuentes": [
-        {
-          "medio": "Perfil",
-          "url": "https://perfil.com/mas-perfil/rdeco-por-que-las-tarifas-van-a-seguir-aumentando-por-encima-de-la-inflacion-aHiYL7m3DwLM"
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/canasta-basica-una-familia-tipo-necesito-1690000-en-octubre-para-no-ser-pobre/"
         }
       ]
     },
@@ -65,8 +25,8 @@
       "categoria": "Servicios",
       "titulo": "Corte de agua programado en General Cerri por obras en el acueducto",
       "resumen": [
-        "Este viernes se interrumpirá el servicio de agua potable en General Cerri debido a trabajos de continuidad en el acueducto. La interrupción comenzará a las 8 de la mañana y se extenderá hasta la tarde.",
-        "Los vecinos de la localidad deberán tomar previsiones para abastecerse de agua durante el período que duren las tareas de mantenimiento y mejora de la infraestructura."
+        "Este viernes se interrumpirá el servicio de agua en General Cerri y sectores de Bahía Blanca debido a la continuidad de los trabajos en el acueducto. La obra se ejecuta a la altura de la Ruta 3 y el acceso a la localidad.",
+        "El suministro se verá afectado a partir de las 8 de la mañana y se extenderá hasta horas de la tarde, por lo que se recomienda a los vecinos tomar precauciones."
       ],
       "fuentes": [
         {
@@ -80,24 +40,56 @@
       ]
     },
     {
-      "categoria": "Política",
-      "titulo": "Avanza el debate por el Presupuesto 2027 y la posible suspensión de las PASO",
+      "categoria": "Clima",
+      "titulo": "Alerta naranja por tormentas fuertes y posible granizo en Bahía Blanca y la región",
       "resumen": [
-        "El Presupuesto 2027 se encamina a ser tratado en Diputados la próxima semana, tras negociaciones entre el oficialismo y el PRO. Paralelamente, se anticipa que el Senado podría debatir la suspensión de las PASO en las próximas semanas.",
-        "Ambos temas son clave para el futuro político y económico del país, con decisiones que impactarán en la organización electoral y en la asignación de recursos a nivel nacional y provincial."
+        "El Servicio Meteorológico Nacional emitió una alerta naranja por tormentas fuertes para este viernes en Bahía Blanca y la región, con validez desde la madrugada. Se esperan lluvias intensas, ráfagas de viento y posible caída de granizo.",
+        "Además, rige un aviso a muy corto plazo por tormentas fuertes que afecta a Bahía Blanca, Puan, Villarino y Tornquist, con validez hasta la tarde. Se recomienda tomar precauciones ante las condiciones climáticas adversas."
       ],
       "fuentes": [
         {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/activan-ronda-final-con-gobernadores-para-definir-paso-y-presupuesto-la-cuenta-que-manejan-y-que-puede-caer/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-18-17-0-ratifican-el-alerta-amarillo-para-esta-noche-y-emiten-un-alerta-naranja-para-la-tarde-y-noche-del-viernes"
         },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/emiten-alerta-naranja-por-tormentas-para-este-viernes-en-bahia-cuando-comenzaran-las-lluvias-n530488/"
+        }
+      ]
+    },
+    {
+      "categoria": "Sociedad",
+      "titulo": "Paro docente de siete días en la UNS: reclaman por el financiamiento universitario",
+      "resumen": [
+        "Docentes de la Universidad Nacional del Sur (UNS) iniciaron un paro de siete días, que se extenderá hasta el próximo miércoles 18 de noviembre. La medida de fuerza, a la que adhirió ADUNS, afectará el dictado de clases en la casa de altos estudios y sus escuelas dependientes.",
+        "El principal reclamo es que el Gobierno nacional cumpla con la Ley de Financiamiento Universitario, en un contexto de preocupación por el presupuesto educativo."
+      ],
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-docentes-de-universidades-nacionales-iniciaron-este-jueves-un-paro-que-se-extendera-por-siete-dias-sera-desde-hoy-hasta-el-proximo-miercoles-18-de-noviembre-el-principal-reclamo-es-qu/"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/aduns-anuncio-nuevas-jornadas-de-paro-docente-y-no-docente-en-la-uns/"
+        }
+      ]
+    },
+    {
+      "categoria": "Política",
+      "titulo": "El Presupuesto 2027 avanza en Diputados tras negociaciones y acuerdos",
+      "resumen": [
+        "El proyecto de Presupuesto 2027 llegará al recinto de la Cámara de Diputados la próxima semana, luego de nuevas negociaciones entre el oficialismo y bloques opositores. El Gobierno busca reunir los votos necesarios para su aprobación antes de finalizar noviembre.",
+        "La Libertad Avanza y el PRO alcanzaron un principio de acuerdo, lo que allana el camino para el dictamen. Este presupuesto definirá el marco económico y las políticas públicas para el próximo año."
+      ],
+      "fuentes": [
         {
           "medio": "La Brújula 24",
           "url": "https://www.labrujula24.com/notas/2026/11/12/el-presupuesto-2027-llegara-al-recinto-de-diputados-la-semana-proxima-tras-nuevas-negociaciones-n530507/"
         },
         {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/martin-menem-anticipo-que-el-senado-podria-tratar-la-suspension-de-las-paso-en-las-proximas-semanas/"
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/presupuesto-2027-el-gobierno-acordo-con-el-pro-los-cambios-y-pone-fecha-para-el-dictamen/"
         }
       ]
     }
