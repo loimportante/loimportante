@@ -1,99 +1,106 @@
 {
   "fecha": "Jueves 12 de noviembre de 2026",
-  "actualizado": "08:01",
+  "actualizado": "13:01",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Bahía Blanca",
-      "titulo": "Alerta meteorológica por tormentas y vientos fuertes en Bahía Blanca y la región",
+      "categoria": "Economía",
+      "titulo": "Inflación de octubre: el INDEC publica el dato clave para el bolsillo",
       "resumen": [
-        "El Servicio Meteorológico Nacional emitió una alerta amarilla por tormentas y vientos fuertes para Bahía Blanca y la región. Se esperan precipitaciones de entre 20 y 50 milímetros, actividad eléctrica y ráfagas de hasta 70 kilómetros por hora para este jueves.",
-        "Las condiciones climáticas adversas se prevén para la tarde, con un descenso de temperatura tras una jornada calurosa. Es importante tomar precauciones ante la inestabilidad del tiempo."
+        "Este jueves se conocerá el índice de inflación de octubre, un dato crucial para la economía nacional. Los especialistas esperan que el informe del INDEC refleje las presiones de precios en alimentos y servicios, impactando directamente en el poder adquisitivo de los ciudadanos."
       ],
       "fuentes": [
         {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/hoy-se-conoce-el-dato-de-inflacion-de-octubre-que-numero-esperan-los-especialistas/"
+        },
+        {
           "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/alerta-amarillo-por-tormenta-y-viento-para-bahia-y-la-region/"
+          "url": "https://bvcnoticias.com.ar/2026/11/hoy-se-conoce-el-dato-de-inflacion-de-octubre/"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/el-indec-dara-a-conocer-la-inflacion-de-octubre/"
+        }
+      ]
+    },
+    {
+      "categoria": "Bahía Blanca",
+      "titulo": "Alerta meteorológica en Bahía Blanca por tormentas y fuertes vientos",
+      "resumen": [
+        "El Servicio Meteorológico Nacional emitió una alerta amarilla para Bahía Blanca y la región, previendo tormentas intensas, ráfagas de hasta 55 km/h y posible caída de granizo. Se recomienda tomar precauciones, especialmente durante la noche y madrugada, ya que las precipitaciones podrían extenderse hasta el viernes."
+      ],
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-el-smn-emitio-una-doble-alerta-amarilla-por-tormentas-y-fuertes-vientos/"
         },
         {
           "medio": "La Nueva",
           "url": "https://www.lanueva.com/nota/2026-11-11-18-7-0-tormentas-y-vientos-fuertes-emiten-un-doble-alerta-amarillo-para-este-jueves-en-bahia-blanca-y-la-region"
         },
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-el-smn-emitio-una-doble-alerta-amarilla-por-tormentas-y-fuertes-vientos/"
-        }
-      ]
-    },
-    {
-      "categoria": "Economía",
-      "titulo": "Aumentan los costos de trámites de DNI y pasaporte a nivel nacional",
-      "resumen": [
-        "El Gobierno nacional aprobó un nuevo cuadro tarifario para los trámites de la Dirección Nacional del Registro Nacional de las Personas (RENAPER). Esto implica un aumento en los costos de expedición del pasaporte y el DNI.",
-        "Los nuevos valores afectan directamente el bolsillo de los ciudadanos que necesiten realizar o renovar estos documentos, siendo un tema de impacto económico y utilidad práctica."
-      ],
-      "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/el-gobierno-aumento-los-precios-para-tramitar-el-pasaporte-y-el-dni/"
-        },
-        {
           "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/11/aumenta-30-el-costo-de-tramitar-pasaportes-y-hasta-un-100-sacar-el-dni-cuanto-costara/"
+          "url": "https://www.ingenierowhite.com/2026/11/11/el-servicio-meteorologico-nacional-emitio-alerta-amarilla-por-tormentas-para-el-jueves-por-la-tarde-en-bahia-blanca/"
         }
       ]
     },
     {
-      "categoria": "Bahía Blanca",
-      "titulo": "Incendio en un bazar céntrico de Bahía Blanca genera preocupación por daños",
+      "categoria": "Política",
+      "titulo": "Martín Menem impulsa la suspensión de las PASO y apunta al Senado",
       "resumen": [
-        "Un incendio afectó un histórico bazar en calle Chiclana 47 en Bahía Blanca, generando preocupación por los daños estructurales. Tres personas fueron asistidas por inhalación de humo y un miembro de Defensa Civil rescató a dos atrapados.",
-        "Ingenieros deberán evaluar las condiciones del inmueble y la seguridad de las propiedades linderas, lo que podría afectar la zona céntrica. El hecho movilizó a los servicios de emergencia y a la comunidad."
+        "El presidente de la Cámara de Diputados, Martín Menem, busca acelerar la suspensión de las PASO 2027, señalando al Senado como el ámbito clave para su aprobación. Se espera que la Cámara Alta trate el tema en las próximas semanas, generando debate en el ámbito político nacional."
       ],
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-6-0-18-el-incendio-de-un-edificio-cargado-de-historia"
-        }
-      ]
-    },
-    {
-      "categoria": "Economía",
-      "titulo": "El INDEC dará a conocer la inflación de octubre con expectativa de desaceleración",
-      "resumen": [
-        "El Instituto Nacional de Estadística y Censos (INDEC) difundirá este jueves el índice de inflación correspondiente a octubre. Hay expectativa por una cifra que podría ubicarse por debajo del 2%.",
-        "Este dato es clave para la economía nacional y para el bolsillo de los argentinos, ya que permitirá conocer si se consolida una desaceleración en el aumento de precios."
-      ],
-      "fuentes": [
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/el-indec-dara-a-conocer-la-inflacion-de-octubre/"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-22-48-0-inflacion-el-indec-dara-a-conocer-el-dato-de-octubre-y-crece-la-expectativa-por-una-cifra-inferior-al-2"
-        },
-        {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/inflacion-de-octubre-que-numero-anticipan-las-principales-consultoras-supera-el-2/"
-        }
-      ]
-    },
-    {
-      "categoria": "Bahía Blanca",
-      "titulo": "Docentes universitarios de la UNS inician nuevas jornadas de paro",
-      "resumen": [
-        "La Asociación de Docentes de la Universidad Nacional del Sur (ADUNS) anunció nuevas jornadas de paro docente y no docente. Esta medida de fuerza afectará el normal desarrollo de las actividades académicas.",
-        "La decisión gremial impacta directamente en la comunidad universitaria de Bahía Blanca, incluyendo a estudiantes, docentes y personal no docente."
-      ],
-      "fuentes": [
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/aduns-anuncio-nuevas-jornadas-de-paro-docente-y-no-docente-en-la-uns/"
+          "url": "https://www.lanueva.com/nota/2026-11-12-10-2-0-martin-menem-pidio-acelerar-la-suspension-de-las-paso-2027-y-apunto-al-senado"
         },
         {
           "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/docentes-universitarios-iniciaron-un-paro-de-una-semana/"
+          "url": "https://frenteacano.com.ar/martin-menem-afirmo-que-el-senado-podria-aprobar-la-suspension-de-las-paso-en-dos-semanas/"
+        },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/presion-a-patricia-bullrich-menem-espera-que-el-senado-suspenda-las-paso-en-los-proximos-15-dias/"
+        }
+      ]
+    },
+    {
+      "categoria": "Bahía Blanca",
+      "titulo": "Conflicto en Papelera del Sur: dictan conciliación obligatoria",
+      "resumen": [
+        "El Ministerio de Trabajo bonaerense dictó la conciliación obligatoria en el conflicto de Papelera del Sur en Tornquist, lo que implica que los trabajadores volverán a la fábrica. La medida busca destrabar la situación tras el cierre de la planta que dejó a más de 160 empleados sin trabajo y generó movilizaciones en apoyo."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/dictaron-la-conciliacion-obligatoria-en-papelera-del-sur-y-los-trabajadores-volveran-a-la-fabrica-n530443/"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/tornquist-masiva-movilizacion-en-apoyo-a-los-trabajadores-de-la-papelera/"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/cierre-de-papelera-del-sur-la-fabrica-es-parte-del-pueblo/"
+        }
+      ]
+    },
+    {
+      "categoria": "Servicios",
+      "titulo": "Cortes de agua y luz programados para Bahía Blanca y la región",
+      "resumen": [
+        "ABSA realizará trabajos programados que afectarán el suministro de agua en Bahía Blanca y General Cerri durante este jueves. Por su parte, EDES informó interrupciones del servicio eléctrico en algunos sectores de Bahía Blanca y Coronel Suárez. Se recomienda a los vecinos tomar las precauciones necesarias."
+      ],
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-que-afectaran-el-suministro-de-agua-en-bahia-blanca-y-general-cerri/"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/edes-interrumpira-el-servicio-en-algunos-sectores-de-bahia-y-coronel-suarez-10/"
         }
       ]
     }
