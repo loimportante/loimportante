@@ -1,14 +1,14 @@
 {
   "fecha": "Jueves 12 de noviembre de 2026",
-  "actualizado": "19:26",
+  "actualizado": "20:01",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Economía",
-      "titulo": "La inflación de octubre fue del 2,2% y una familia necesitó $1.690.000 para no ser pobre",
+      "titulo": "La inflación de octubre fue del 2,2% y acumula 33,1% interanual",
       "resumen": [
-        "El INDEC informó que el Índice de Precios al Consumidor (IPC) subió 2,2% en octubre a nivel nacional, acumulando un 33,1% interanual. En Bahía Blanca y la región, el aumento fue similar.",
-        "La canasta básica total, que marca la línea de pobreza, alcanzó los $1.690.000 para una familia tipo, mientras que la canasta básica alimentaria también creció por encima de la inflación general."
+        "El Instituto Nacional de Estadística y Censos (INDEC) informó que la inflación de octubre alcanzó el 2,2% a nivel nacional. Con este dato, el aumento de precios acumulado en los últimos doce meses llega al 33,1%.",
+        "Esta cifra, que muestra una aceleración respecto al mes anterior, impacta directamente en el poder adquisitivo de los hogares y en el costo de vida de los bahienses."
       ],
       "fuentes": [
         {
@@ -16,21 +16,21 @@
           "url": "https://www.lanueva.com/nota/2026-11-12-15-0-0-no-logra-bajar-la-inflacion-de-octubre-llego-al-2-2-y-acumula-un-26-3-en-lo-que-va-de-2026"
         },
         {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/economia/la-canasta-basica-trepo-35-octubre-su-mayor-suba-enero-cuanto-necesito-una-familia-no-ser-pobre-n6344587"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/la-inflacion-volvio-a-superar-el-2-en-octubre-n530481/"
         },
         {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/canasta-basica-una-familia-tipo-necesito-1690000-en-octubre-para-no-ser-pobre/"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses/"
         }
       ]
     },
     {
       "categoria": "Clima",
-      "titulo": "Alerta naranja por tormentas fuertes y posible granizo para Bahía Blanca este viernes",
+      "titulo": "Alerta naranja por tormentas fuertes y posible granizo en Bahía Blanca",
       "resumen": [
-        "El Servicio Meteorológico Nacional emitió una alerta naranja por tormentas fuertes para Bahía Blanca y la región, que comenzarán durante la madrugada del viernes.",
-        "Se esperan lluvias intensas, ráfagas de viento y posible caída de granizo. La advertencia climática abarca también a distritos vecinos como Coronel Rosales y Villarino."
+        "El Servicio Meteorológico Nacional emitió una alerta naranja por tormentas fuertes y posible caída de granizo para Bahía Blanca y la región. Se esperan condiciones climáticas adversas, especialmente durante la madrugada del viernes.",
+        "Se recomienda a los vecinos tomar precauciones ante la posibilidad de lluvias intensas y ráfagas de viento, que podrían afectar la rutina diaria y la seguridad."
       ],
       "fuentes": [
         {
@@ -49,28 +49,24 @@
     },
     {
       "categoria": "Economía",
-      "titulo": "Jubilaciones y asignaciones de ANSES aumentarán en diciembre tras el dato de inflación",
+      "titulo": "Advierten que las tarifas de servicios seguirán aumentando por encima de la inflación",
       "resumen": [
-        "Tras conocerse el índice de inflación de octubre, se activará un nuevo incremento para jubilados, pensionados y beneficiarios de asignaciones de ANSES a partir de diciembre.",
-        "Este ajuste busca compensar la suba de precios y se aplicará a los haberes y otros beneficios que paga el organismo previsional."
+        "Especialistas económicos proyectan que los aumentos en las tarifas de servicios públicos continuarán superando el índice de inflación. Esta tendencia presionará aún más sobre el costo de vida de los argentinos.",
+        "La situación genera preocupación en los hogares, que deberán afrontar mayores gastos en servicios esenciales en los próximos meses."
       ],
       "fuentes": [
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-17-3-0-tras-conocerse-el-dato-de-inflacion-cuanto-aumentaran-jubilaciones-y-asignaciones-de-anses-en-diciembre"
-        },
-        {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/aumenta-la-auh-de-anses-cuanto-cobrarian-los-beneficiarios-de-la-asignacion-en-diciembre-2026/"
+          "medio": "Perfil",
+          "url": "https://perfil.com/mas-perfil/rdeco-por-que-las-tarifas-van-a-seguir-aumentando-por-encima-de-la-inflacion-aHiYL7m3DwLM"
         }
       ]
     },
     {
       "categoria": "Servicios",
-      "titulo": "Interrupción del servicio de agua este viernes en General Cerri por obras en el acueducto",
+      "titulo": "Corte de agua programado en General Cerri por obras en el acueducto",
       "resumen": [
-        "Este viernes se interrumpirá el servicio de agua en General Cerri debido a la continuidad de los trabajos en el acueducto.",
-        "La obra se realiza a la altura de la Ruta 3 y el acceso a la localidad. El suministro se cortará a partir de las 8 de la mañana y se extenderá hasta horas de la tarde."
+        "Este viernes se interrumpirá el servicio de agua potable en General Cerri debido a trabajos de continuidad en el acueducto. La interrupción comenzará a las 8 de la mañana y se extenderá hasta la tarde.",
+        "Los vecinos de la localidad deberán tomar previsiones para abastecerse de agua durante el período que duren las tareas de mantenimiento y mejora de la infraestructura."
       ],
       "fuentes": [
         {
@@ -84,24 +80,24 @@
       ]
     },
     {
-      "categoria": "Economía",
-      "titulo": "La industria textil nacional se hunde con casi 1.000 empresas menos y 29.000 empleos perdidos",
+      "categoria": "Política",
+      "titulo": "Avanza el debate por el Presupuesto 2027 y la posible suspensión de las PASO",
       "resumen": [
-        "El sector textil atraviesa una profunda crisis, con una caída de actividad del 20% en el año y la pérdida de casi 29.000 puestos de trabajo.",
-        "Se estima que seis de cada diez máquinas están paralizadas y cerca de mil empresas cerraron. Empresarios reclaman medidas urgentes para revertir la situación."
+        "El Presupuesto 2027 se encamina a ser tratado en Diputados la próxima semana, tras negociaciones entre el oficialismo y el PRO. Paralelamente, se anticipa que el Senado podría debatir la suspensión de las PASO en las próximas semanas.",
+        "Ambos temas son clave para el futuro político y económico del país, con decisiones que impactarán en la organización electoral y en la asignación de recursos a nivel nacional y provincial."
       ],
       "fuentes": [
         {
-          "medio": "Perfil",
-          "url": "https://perfil.com/economia/crisis-textil-y-fuerte-reclamo-al-gobierno-a40-av1239N7qdf5"
-        },
-        {
           "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/el-70-del-mercado-textil-ya-esta-en-manos-de-importados-que-pide-la-industria-para-producir-por-2-dolares-como-sus-competidores/"
+          "url": "https://www.cronista.com/economia-politica/activan-ronda-final-con-gobernadores-para-definir-paso-y-presupuesto-la-cuenta-que-manejan-y-que-puede-caer/"
         },
         {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/la-actividad-textil-cayo-mas-de-20-en-el-ano-y-ya-se-perdieron-mas-de-29-000-puestos-de-trabajo/"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/el-presupuesto-2027-llegara-al-recinto-de-diputados-la-semana-proxima-tras-nuevas-negociaciones-n530507/"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/martin-menem-anticipo-que-el-senado-podria-tratar-la-suspension-de-las-paso-en-las-proximas-semanas/"
         }
       ]
     }
