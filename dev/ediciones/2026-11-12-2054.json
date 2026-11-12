@@ -1,0 +1,587 @@
+{
+  "id": "2026-11-12-2054",
+  "fecha": "Jueves 12 de noviembre de 2026",
+  "actualizado": "20:54",
+  "publicada": "2026-11-12T20:54:19.674-03:00",
+  "notas": [
+    {
+      "categoria": "Clima",
+      "ambito": "local",
+      "titulo": "Alerta naranja por tormentas fuertes y ráfagas de viento en Bahía Blanca",
+      "resumen": [
+        "El Servicio Meteorológico Nacional elevó a naranja la alerta por tormentas fuertes para este viernes en Bahía Blanca y la región. Se esperan fenómenos severos con abundante caída de agua, granizo y ráfagas de viento que podrían superar los 90 kilómetros por hora.",
+        "La advertencia rige desde la mañana y hasta la tarde del viernes, con un nivel amarillo vigente durante la noche del jueves y la madrugada del viernes. Se recomienda tomar precauciones ante el empeoramiento de las condiciones climáticas."
+      ],
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-el-smn-elevo-a-naranja-la-alerta-por-tormentas-fuertes-podrian-caer-hasta-90-milimetros/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-18-17-0-ratifican-el-alerta-amarillo-para-esta-noche-y-emiten-un-alerta-naranja-para-la-tarde-y-noche-del-viernes"
+        }
+      ]
+    },
+    {
+      "categoria": "Servicios",
+      "ambito": "local",
+      "titulo": "Corte de agua programado en General Cerri por obras en el acueducto",
+      "resumen": [
+        "Este viernes se interrumpirá el servicio de agua en General Cerri a partir de las 8 de la mañana y hasta horas de la tarde. La medida se debe a la continuidad de los trabajos en el acueducto a la altura de la Ruta 3 y el acceso a la localidad.",
+        "ABSA realizará trabajos programados que afectarán el suministro. Se recomienda a los vecinos tomar las previsiones necesarias para minimizar el impacto del corte."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-16-20-0-acueducto-en-cerri-por-la-continuidad-de-los-trabajos-este-viernes-se-interrumpira-el-servicio-de-agua"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-que-afectaran-el-suministro-de-agua-en-bahia-blanca-y-general-cerri/"
+        }
+      ]
+    },
+    {
+      "categoria": "Sociedad",
+      "ambito": "local",
+      "titulo": "Un niño bahiense de 5 años murió ahogado en una pileta en Villarino",
+      "resumen": [
+        "Un trágico suceso ocurrió en Villarino, donde un niño de 5 años oriundo de Bahía Blanca falleció ahogado en una pileta. El pequeño se encontraba de paseo con su padre en un campo cercano a Hilario Ascasubi.",
+        "Personal médico intentó reanimarlo sin éxito. La noticia generó conmoción en la comunidad local."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-20-7-0-tragedia-en-villarino-un-nene-bahiense-de-5-anos-murio-ahogado-en-una-pileta"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/ascasubi-un-nino-bahiense-murio-al-caer-a-una-pileta-n530512/"
+        }
+      ]
+    },
+    {
+      "categoria": "Política",
+      "ambito": "nacional",
+      "titulo": "El Presupuesto 2027 y la suspensión de las PASO avanzan en el Congreso",
+      "resumen": [
+        "El oficialismo buscará reunir los votos necesarios para avanzar con el Presupuesto 2027 la semana próxima en Diputados, tras un principio de acuerdo con el PRO. El proyecto llegaría al recinto antes de finalizar noviembre.",
+        "Paralelamente, el presidente de la Cámara de Diputados, Martín Menem, anticipó que el Senado podría tratar la suspensión de las PASO en las próximas semanas."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/el-presupuesto-2027-llegara-al-recinto-de-diputados-la-semana-proxima-tras-nuevas-negociaciones-n530507/"
+        },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/presupuesto-2027-el-gobierno-acordo-con-el-pro-los-cambios-y-pone-fecha-para-el-dictamen/"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/martin-menem-anticipo-que-el-senado-podria-tratar-la-suspension-de-las-paso-en-las-proximas-semanas/"
+        }
+      ]
+    },
+    {
+      "categoria": "Sociedad",
+      "ambito": "nacional",
+      "titulo": "La Ley de Discapacidad se tratará en el Senado con amplio respaldo",
+      "resumen": [
+        "La iniciativa de fortalecimiento del sistema de discapacidad se trataría el 19 de noviembre en el Senado y se espera una aprobación holgada. Patricia Bullrich anticipó el tratamiento del proyecto.",
+        "El jefe de Gabinete de la provincia de Buenos Aires, Carlos Bianco, pidió revisar las políticas sobre jubilaciones, discapacidad y empleo, haciendo eco del mensaje del papa León XIV."
+      ],
+      "fuentes": [
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/politica/mientras-el-mileismo-promete-el-fin-las-paso-patricia-bullrich-anticipa-el-tratamiento-del-proyecto-discapacidad-n6344677"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/patricia-bullrich-estamos-listos-para-tratar-la-ley-de-discapacidad-en-el-senado/"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/funcionario-bonaerense-pidio-revisar-las-politicas-sobre-jubilaciones-discapacidad-y-empleo/"
+        }
+      ]
+    }
+  ],
+  "resto": [
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Conciliación obligatoria en Papelera del Sur: 160 despedidos deberán volver a trabajar",
+      "breve": "El Ministerio de Trabajo bonaerense dictó la conciliación obligatoria en el conflicto de Papelera del Sur en Tornquist, ordenando la reincorporación de 160 trabajadores.",
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/tornquist-papelera-del-sur-dictaron-la-conciliacion-obligatoria-y-los-160-despedidos-deberan-volver-a-trabajar/"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/vecinos-de-tornquist-convocan-a-una-movilizacion-en-apoyo-a-los-trabajadores-de-papelera-del-sur/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Adjudicada la reparación del Paso Urbano en Ruta 33: obras en 30 días",
+      "breve": "El Municipio adjudicó la reparación de 7,5 kilómetros de la Ruta Nacional 33, entre El Cholo y Bosque Alto, con inicio de obras en los próximos 30 días.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-19-8-0-el-municipio-adjudico-la-reparacion-del-paso-urbano-la-obra-comenzara-dentro-de-los-proximos-30-dias"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/en-un-mes-comenzaran-las-mejoras-en-el-paso-urbano-frente-al-desamparo-elegimos-hacernos-cargo/"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/frente-al-desamparo-elegimos-hacernos-cargo-el-municipio-adjudico-la-reparacion-del-paso-urbano/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Cortes programados de calles en Bahía Blanca para este jueves y viernes",
+      "breve": "Se anunciaron cortes de tránsito en distintos puntos de la ciudad, incluyendo la bocacalle de Don Bosco y Rondeau por 20 días, y Pilcaniyén este viernes.",
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-cortes-programados-de-calles-para-este-jueves-3/"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/cortes-programados-2/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Tres aprehendidos por intentar usurpar una vivienda en calle Undiano",
+      "breve": "Tres hombres fueron aprehendidos por la Policía tras ser sorprendidos cambiando la cerradura de una vivienda en Undiano al 1500, en un intento de usurpación.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-15-16-0-tres-aprehendidos-tras-ser-sorprendidos-cambiando-la-cerradura-para-usurpar-una-vivienda"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/intentaron-usurpar-una-vivienda-y-los-sorprendieron-cuando-cambiaban-la-cerradura-n530474/"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/trataban-de-usurpar-una-casa-y-los-detuvieron-cuando-estaban-cambiando-la-cerradura/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Operativo preventivo de vacunación antirrábica gratuita para perros y gatos",
+      "breve": "La Dirección de Veterinaria y Zoonosis realizará una jornada de vacunación antirrábica gratuita en Plaza Rivadavia y Club Pacífico, ante casos positivos de rabia en murciélagos.",
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-operativo-preventivo-de-vacunacion-antirrabica/"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/operativo-preventivo-de-vacunacion-antirrabica/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Bahía Blanca debate el presente y futuro de su polo petroquímico en un foro",
+      "breve": "La ciudad será sede del primer Foro Petroquímico Bahía Blanca, reuniendo a empresarios, especialistas y académicos para discutir el sector.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/bahia-blanca-debate-el-presente-y-el-futuro-de-su-polo-petroquimico/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "El 93% de los locales comerciales del microcentro de Bahía Blanca está ocupado",
+      "breve": "Un relevamiento de la Corporación del Comercio, Industria y Servicios de Bahía Blanca reveló una alta ocupación de locales en el microcentro.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/el-93-de-los-locales-comerciales-del-microcentro-de-bahia-blanca-esta-ocupado/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Olimpo empató 1 a 1 ante Kimberley en Mar del Plata y definirá en casa",
+      "breve": "El aurinegro igualó en la reválida con un polémico penal en contra, dejando la serie abierta para la vuelta en el Carminatti.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-5-0-18-revalida-olimpo-visita-a-kimberley-en-la-ida-de-los-cuartos-de-final"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/olimpo-logro-un-empate-milagroso-ante-kimberley-y-dejo-la-serie-abierta-n530485/"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/olimpo-rescato-un-empate-en-mar-del-plata-y-lo-definira-en-bahia/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Dos hombres aprehendidos tras incidentes en una pollería de barrio Moresino",
+      "breve": "La Policía aprehendió a dos hombres por protagonizar un episodio de violencia en una pollería ubicada en Brickman al 3200.",
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-dos-hombres-fueron-aprehendidos-tras-protagonizar-incidentes-en-una-polleria-de-barrio-moresino/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Detuvieron a tres personas en controles en pensiones de calle Soler y Lavalle",
+      "breve": "Controles policiales en pensiones de Bahía Blanca resultaron en la detención de tres individuos, identificados como Rodrigo Manuel Vargas, Matías Rubén Spinelli y Matías Ezequiel Díaz Inacovich.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-14-2-0-detuvieron-a-tres-personas-luego-de-controles-en-pensiones-de-calle-soler-y-lavalle"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Vecinos en alerta por otra pelea de trapitos en la puerta del Correo Argentino",
+      "breve": "Relataron que un grupo de 10 personas protagonizó una brutal pelea en las inmediaciones del edificio del Correo Argentino.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-10-49-0-vecinos-en-alerta-por-otra-pelea-de-trapitos-en-la-puerta-del-correo-argentino"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Detuvieron a un joven tras saltar un paredón y robar un celular",
+      "breve": "Tomás Nahuel Figueroa, de 27 años, fue detenido y es investigado por su presunta vinculación con otros hechos similares en la ciudad.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-15-36-0-detuvieron-a-un-joven-tras-saltar-un-paredon-y-robar-un-celular"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Absolvieron a un hombre acusado de intervenir en un asalto en Bahía Blanca",
+      "breve": "No se probó que Gabriel Bonomo haya intervenido en el hecho ocurrido a mediados de 2023, por lo que fue absuelto.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-11-59-0-absolvieron-a-un-hombre-que-estaba-acusado-de-intervenir-en-un-asalto"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Buscan que imputados por accidentes de tránsito no puedan conducir en la provincia",
+      "breve": "La diputada Laura Ricchini presentó un proyecto para que los jueces puedan quitar licencias a personas imputadas por accidentes de tránsito en la provincia de Buenos Aires.",
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/buscan-que-los-imputados-por-accidentes-de-transito-no-puedan-conducir-en-la-provincia/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "El precio internacional del petróleo bajó 20%, pero no se siente en surtidores",
+      "breve": "El valor del Brent marcó una baja significativa, pero no se traslada a los precios de nafta y gasoil en Argentina.",
+      "fuentes": [
+        {
+          "medio": "Perfil",
+          "url": "https://perfil.com/economia/el-precio-internacional-del-petroleo-bajo-20-por-que-no-se-hace-sentir-en-los-surtidores-de-nafta-y-gasoil-a1HL91z32Ojf"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Dólar en Bahía Blanca: a cuánto cerraron este jueves todas las cotizaciones",
+      "breve": "Se conocieron los valores de la divisa estadounidense en Bahía Blanca y en la city porteña, con el techo de la banda cambiaria actualizado para diciembre.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-14-23-0-dolar-en-bahia-blanca-a-cuanto-cerraron-este-jueves-todas-las-cotizaciones"
+        },
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/finanzas/dolar-oficial-se-actualizo-el-techo-la-banda-cambiaria-diciembre-hasta-cuanto-podra-subir-n6344608"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "El empleo privado registrado cayó pese a beneficios de la reforma laboral",
+      "breve": "En los primeros cuatro meses del régimen que reduce las contribuciones patronales, el sector privado perdió 37.800 asalariados registrados.",
+      "fuentes": [
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/hubo-82000-contrataciones-con-beneficios-de-la-reforma-laboral-pero-el-empleo-privado-registrado-nid12112026/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "ARBA: vence la primera etapa del plan de pagos con descuentos este viernes",
+      "breve": "La Agencia de Recaudación de la provincia de Buenos Aires recordó que este viernes 13 de noviembre finaliza la primera etapa de su plan de pagos con bonificaciones.",
+      "fuentes": [
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/arba-deuda-por-deuda-y-plan-por-plan-como-gozar-de-los-mayores-beneficios-de-las-facilidades-de-pago/"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/arba-vence-la-primera-etapa-del-plan-de-pagos-con-descuentos/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Críticas a la reforma de la Ley de Salud Mental: “La entendemos como una restricción”",
+      "breve": "La trabajadora social Marcela Arzuaga cuestionó los cambios que promueve el gobierno y que ya obtuvieron media sanción en el Senado, reclamando mayor presupuesto.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-8-54-0-criticas-a-la-reforma-de-la-ley-de-salud-mental-la-entendemos-como-una-restriccion"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Investigación internacional: el “caso 13” clave en brote de hantavirus en crucero",
+      "breve": "Dos estudios en la revista Science confirman que el contagio inicial de hantavirus ocurrió en la Patagonia argentina, con participación de equipos de 21 instituciones.",
+      "fuentes": [
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/sociedad/exhaustiva-investigacion-internacional-el-caso-13-clave-en-el-brote-de-hantavirus-en-un-crucero-que-nid12112026/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Desde la cárcel, Lázaro Báez daba órdenes para explotar bienes decomisados",
+      "breve": "Se documentaron movimientos de fondos por $390 millones en los últimos ocho meses, con 12 personas detenidas en relación a la explotación de bienes decomisados.",
+      "fuentes": [
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/desde-la-carcel-lazaro-baez-daba-ordenes-para-explotar-sus-bienes-decomisados-nid12112026/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "El RIGI suma u$s 43 mil millones en inversiones en dos provincias",
+      "breve": "",
+      "fuentes": [
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/ranking-rigi-las-dos-provincias-que-suman-us-43-mil-millones-en-inversiones-y-una-tercera-ya-les-pisa-los-talones/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Scaloni confirmó su continuidad en la Selección Argentina hasta 2030",
+      "breve": "Lionel Scaloni anunció su renovación como entrenador de la Selección Argentina hasta 2030, emocionado por seguir al frente del equipo nacional.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-15-20-0-la-emocion-de-scaloni-al-confirmar-su-continuidad-en-la-seleccion-esto-me-llena"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/scaloni-renovo-hasta-2030-y-se-emociono-al-anunciar-su-continuidad-en-la-seleccion-n530478/"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/la-seleccion-argentina-anuncio-la-renovacion-de-lionel-scaloni-como-entrenador/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "El MSCI Merval sufrió su quinta caída al hilo, pero el riesgo país volvió a ceder",
+      "breve": "Las acciones argentinas volvieron a caer, aunque los bonos en dólares avanzaron y el riesgo país bajó a 829 puntos.",
+      "fuentes": [
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/los-bonos-dolares-retroceden-luego-tres-dias-repunte-y-el-riesgo-pais-se-mantiene-arriba-850-puntos-n6344388"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "El BCRA realizó la mayor compra de divisas en casi un mes, pero reservas cayeron",
+      "breve": "El Banco Central adquirió u$s103 millones, pero las reservas retrocedieron u$s257 millones, afectadas principalmente por el oro.",
+      "fuentes": [
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/finanzas/el-bcra-realizo-la-mayor-compra-casi-un-mes-aunque-las-reservas-cayeron-arrastradas-el-oro-n6344627"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Antonella Menem busca reconstruir el patrimonio de su padre, Carlos Menem Jr.",
+      "breve": "La hija de Carlos Menem Jr. impulsa un relevamiento judicial para identificar autos de competición, joyas, relojes, propiedades y otros activos de su padre.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-16-53-0-antonella-menem-busca-reconstruir-el-patrimonio-de-su-padre-y-rastrear-el-destino-de-sus-bienes"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Carlos Tévez confirmó a Gianluigi Buffon para su partido de despedida",
+      "breve": "El “Apache” realizará su esperado partido de despedida el 20 de diciembre en La Bombonera, con la presencia confirmada del arquero italiano.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-17-35-0-carlos-tevez-confirmo-a-buffon-para-su-partido-de-despedida"
+        }
+      ]
+    }
+  ],
+  "diarios": [
+    {
+      "medio": "Clarín",
+      "url": "https://www.clarin.com"
+    },
+    {
+      "medio": "La Nación",
+      "url": "https://www.lanacion.com.ar"
+    },
+    {
+      "medio": "Infobae",
+      "url": "https://www.infobae.com"
+    },
+    {
+      "medio": "Perfil",
+      "url": "https://www.perfil.com"
+    },
+    {
+      "medio": "Ámbito",
+      "url": "https://www.ambito.com"
+    },
+    {
+      "medio": "El Cronista",
+      "url": "https://www.cronista.com"
+    }
+  ],
+  "diarios_locales": [
+    {
+      "medio": "La Nueva",
+      "url": "https://www.lanueva.com"
+    },
+    {
+      "medio": "La Brújula 24",
+      "url": "https://www.labrujula24.com"
+    },
+    {
+      "medio": "360 Más Noticias",
+      "url": "https://360masnoticias.com"
+    },
+    {
+      "medio": "Frente a Cano",
+      "url": "https://frenteacano.com.ar"
+    },
+    {
+      "medio": "BVC Noticias",
+      "url": "https://www.bvcnoticias.com.ar"
+    },
+    {
+      "medio": "De la Bahía Noticias",
+      "url": "https://www.delabahia.com.ar"
+    },
+    {
+      "medio": "Ingeniero White",
+      "url": "https://www.ingenierowhite.com"
+    }
+  ],
+  "control": {
+    "titulares_leidos": 147,
+    "titulares_nuevos": 13,
+    "por_medio": {
+      "Infobae": 10,
+      "360 Más Noticias": 10,
+      "Perfil": 10,
+      "La Nación": 10,
+      "La Nueva": 30,
+      "La Brújula 24": 10,
+      "El Cronista": 10,
+      "Clarín": 10,
+      "Ámbito": 10,
+      "Frente a Cano": 10,
+      "Ingeniero White": 10,
+      "BVC Noticias": 10,
+      "De la Bahía Noticias": 7
+    },
+    "medios_sin_notas": [],
+    "notas": [
+      {
+        "orden": 1,
+        "titulo": "Alerta naranja por tormentas fuertes y ráfagas de viento en Bahía Blanca",
+        "rol": "titular",
+        "conservada": false,
+        "puntaje": 10,
+        "motivo": "Impacto directo en la seguridad y vida cotidiana de los bahienses, con información práctica para las próximas 48 horas."
+      },
+      {
+        "orden": 2,
+        "titulo": "Corte de agua programado en General Cerri por obras en el acueducto",
+        "rol": "titular",
+        "conservada": true,
+        "puntaje": 9,
+        "motivo": "Afecta directamente un servicio esencial para los vecinos de Bahía Blanca y General Cerri."
+      },
+      {
+        "orden": 3,
+        "titulo": "Un niño bahiense de 5 años murió ahogado en una pileta en Villarino",
+        "rol": "titular",
+        "conservada": true,
+        "puntaje": 9,
+        "motivo": "Noticia de alto impacto emocional y social para la comunidad bahiense y de la región."
+      },
+      {
+        "orden": 4,
+        "titulo": "El Presupuesto 2027 y la suspensión de las PASO avanzan en el Congreso",
+        "rol": "titular",
+        "conservada": true,
+        "puntaje": 9,
+        "motivo": "Decisiones políticas y económicas clave que impactan en la gobernabilidad y el futuro del país."
+      },
+      {
+        "orden": 5,
+        "titulo": "La Ley de Discapacidad se tratará en el Senado con amplio respaldo",
+        "rol": "suplente",
+        "conservada": true,
+        "puntaje": 9,
+        "motivo": "Legislación con impacto directo en los derechos y calidad de vida de personas con discapacidad a nivel nacional."
+      }
+    ],
+    "avisos": [
+      "Resumen largo (501) en: Alerta naranja por tormentas fuertes y ráfagas de ",
+      "Resumen largo (475) en: La inflación de octubre fue del 2,2% y ya impacta ",
+      "Entró un suplente: La Ley de Discapacidad se tratará en el Senado con amplio re",
+      "Descartada \"La inflación de octubre fue del 2,2% y ya impacta \": datos que no están en ninguna fuente: 3,5",
+      "Resto: 1 bajadas borradas por control"
+    ]
+  }
+}
