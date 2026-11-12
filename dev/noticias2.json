@@ -1,98 +1,98 @@
 {
-  "fecha": "Miércoles 11 de noviembre de 2026",
-  "actualizado": "20:01",
+  "fecha": "Jueves 12 de noviembre de 2026",
+  "actualizado": "08:01",
   "notas": [
     {
-      "categoria": "Clima",
-      "titulo": "Alerta amarilla por tormentas y vientos fuertes para Bahía Blanca y la región",
+      "categoria": "Servicios",
+      "titulo": "Cortes de agua programados en Bahía Blanca y Cerri para este jueves",
       "resumen": [
-        "El Servicio Meteorológico Nacional emitió una doble alerta amarilla por tormentas y vientos fuertes para este jueves en Bahía Blanca y localidades cercanas como Coronel Rosales, Monte Hermoso, Dorrego, Suárez, Pringles, Villarino, Puan, Saavedra y Tornquist.",
-        "Se esperan condiciones climáticas adversas durante la tarde y noche, con posibles ráfagas intensas y precipitaciones. Se recomienda tomar precauciones."
+        "ABSA realizará trabajos programados este jueves 12 de noviembre que afectarán el suministro de agua en varios sectores de Bahía Blanca y General Cerri. Se recomienda a los vecinos tomar las precauciones necesarias y reservar agua para las horas en que se realicen las tareas.",
+        "Estos trabajos son parte de un mantenimiento en la red que busca mejorar el servicio a largo plazo, pero impactarán directamente en la disponibilidad del recurso durante la jornada."
       ],
       "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-que-afectaran-el-suministro-de-agua-en-bahia-blanca-y-general-cerri/"
+        }
+      ]
+    },
+    {
+      "categoria": "Clima",
+      "titulo": "Doble alerta amarilla por tormentas y fuertes vientos para Bahía Blanca y la región",
+      "resumen": [
+        "El Servicio Meteorológico Nacional emitió una doble alerta amarilla por tormentas y vientos fuertes para Bahía Blanca y la región este jueves. Se esperan precipitaciones de entre 20 y 50 milímetros, actividad eléctrica y ráfagas de hasta 70 kilómetros por hora, con un tiempo inestable desde el mediodía.",
+        "Las condiciones climáticas desmejorarán hacia la tarde, luego de una jornada con altas temperaturas. Se aconseja tomar precauciones ante posibles anegamientos y voladuras de objetos."
+      ],
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/alerta-amarillo-por-tormenta-y-viento-para-bahia-y-la-region/"
+        },
         {
           "medio": "La Nueva",
           "url": "https://www.lanueva.com/nota/2026-11-11-18-7-0-tormentas-y-vientos-fuertes-emiten-un-doble-alerta-amarillo-para-este-jueves-en-bahia-blanca-y-la-region"
         },
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/11/jueves-con-calor-y-alerta-amarilla-por-tormentas-en-bahia-y-la-region-n530321/"
-        },
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/doble-alerta-por-viento-y-tormentas-para-manana/"
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-el-smn-emitio-una-doble-alerta-amarilla-por-tormentas-y-fuertes-vientos/"
         }
       ]
     },
     {
       "categoria": "Servicios",
-      "titulo": "Corte de agua programado para este jueves en distintos sectores de Bahía Blanca",
+      "titulo": "Nuevos cortes de calles en Bahía Blanca, uno se extenderá por 20 días",
       "resumen": [
-        "Se anunció un corte de agua programado para este jueves en varios barrios de Bahía Blanca. La medida afectará a distintos sectores de la ciudad.",
-        "Se recomienda a los vecinos tomar las previsiones necesarias para minimizar el impacto en sus actividades diarias."
+        "Este jueves comienzan dos cortes de calles que modificarán la circulación en Bahía Blanca. Uno de ellos, en la bocacalle de Don Bosco y Rondeau, será total y se extenderá por 20 días debido a trabajos de reparación de losas dentro del plan de bacheo.",
+        "El otro corte será el viernes 13, de 15:30 a 17, en Pilcaniyén y la Ruta 3 Sur. Se recomienda a los conductores buscar vías alternativas y circular con precaución en las zonas afectadas."
       ],
       "fuentes": [
         {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/manana-cortaran-el-agua-en-distintos-sectores/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-11-19-56-0-dos-cortes-de-calles-modificaran-la-circulacion-en-bahia-blanca-donde-y-cuando-seran"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-cortes-programados-de-calles-para-este-jueves-3/"
         }
       ]
     },
     {
       "categoria": "Economía",
-      "titulo": "Aumentan los costos para tramitar el DNI y el pasaporte a nivel nacional",
+      "titulo": "El Gobierno aumentó los precios para tramitar el pasaporte y el DNI",
       "resumen": [
-        "El Gobierno nacional aprobó un nuevo cuadro tarifario para los trámites de la Dirección Nacional del Registro Nacional de las Personas (RENAPER), lo que implica un aumento en los precios para sacar el DNI y el pasaporte.",
-        "Los aumentos para estos documentos serán semestrales, impactando directamente en el bolsillo de los ciudadanos que necesiten realizar estas gestiones."
+        "El Gobierno nacional aprobó un nuevo cuadro tarifario para los trámites de la Dirección Nacional del Registro Nacional de las Personas (RENAPER). Esto implica aumentos en la expedición y renovación del pasaporte y el DNI, afectando el bolsillo de quienes necesiten realizar estos trámites.",
+        "Los nuevos valores ya están vigentes y representan un incremento significativo en el costo de obtener o actualizar la documentación personal, un gasto ineludible para muchos ciudadanos."
       ],
       "fuentes": [
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/11/anuncian-un-aumento-en-los-precios-para-sacar-el-dni-y-el-pasaporte-n530316/"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/el-gobierno-aumento-los-precios-para-tramitar-el-pasaporte-y-el-dni/"
         },
         {
           "medio": "Ingeniero White",
           "url": "https://www.ingenierowhite.com/2026/11/11/aumenta-30-el-costo-de-tramitar-pasaportes-y-hasta-un-100-sacar-el-dni-cuanto-costara/"
-        },
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/el-gobierno-aumento-los-precios-para-tramitar-el-pasaporte-y-el-dni/"
         }
       ]
     },
     {
-      "categoria": "Seguridad",
-      "titulo": "Preocupación por daños estructurales tras el incendio en un bazar céntrico",
+      "categoria": "Economía",
+      "titulo": "El INDEC dará a conocer este jueves el índice de inflación de octubre",
       "resumen": [
-        "El incendio ocurrido en un bazar de la primera cuadra de calle Chiclana dejó tres personas asistidas por inhalación de humo y generó preocupación por el riesgo de derrumbe del inmueble.",
-        "Ingenieros deberán evaluar las condiciones del edificio y la seguridad de las propiedades linderas. Además, se inhabilitó temporalmente una parada de transporte público en la zona afectada."
+        "El Instituto Nacional de Estadística y Censos (INDEC) difundirá este jueves el índice de inflación correspondiente a octubre. Hay gran expectativa por conocer la cifra, ya que consultoras privadas estiman que podría ubicarse entre el 1,8% y el 2,1%.",
+        "Este dato será clave para evaluar si se consolida una desaceleración en el aumento de precios y tendrá implicancias en el poder adquisitivo y las decisiones económicas de los hogares."
       ],
       "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-9-50-0-el-techo-esta-a-punto-de-caerse-preocupacion-por-los-danos-en-el-bazar-incendiado"
-        },
         {
           "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/el-incendio-en-el-bazar-dejo-tres-personas-hospitalizadas-y-riesgo-de-derrumbe/"
+          "url": "https://www.delabahia.com.ar/el-indec-dara-a-conocer-la-inflacion-de-octubre/"
         },
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-impresionante-incendio-en-pleno-centro-dos-menores-fueron-rescatados-y-evaluan-riesgo-de-derrumbe/"
-        }
-      ]
-    },
-    {
-      "categoria": "Educación",
-      "titulo": "Docentes universitarios anuncian un paro nacional desde este jueves",
-      "resumen": [
-        "La Asociación de Docentes de la Universidad Nacional del Sur (ADUNS) adhirió a un nuevo paro nacional de docentes universitarios que comenzará este jueves.",
-        "La medida de fuerza afectará el dictado de clases y las actividades académicas en las universidades públicas de todo el país, incluyendo la UNS en Bahía Blanca."
-      ],
-      "fuentes": [
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-11-22-48-0-inflacion-el-indec-dara-a-conocer-el-dato-de-octubre-y-crece-la-expectativa-por-una-cifra-inferior-al-2"
+        },
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/11/docentes-universitarios-anunciaron-un-nuevo-paro-nacional-desde-este-jueves-n530325/"
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/inflacion-de-octubre-que-numero-anticipan-las-principales-consultoras-supera-el-2/"
         }
       ]
     }
@@ -100,123 +100,38 @@
   "resto": [
     {
       "seccion": "Bahía y región",
-      "titulo": "Imputaron al bahiense que amenazó al papa León XIV",
-      "breve": "A través de la titularidad de la línea telefónica utilizada se logró dar con el implicado, que vive en nuestra ciudad.",
+      "titulo": "Preocupación por los daños en el bazar incendiado en calle Chiclana",
+      "breve": "Tras el incendio en la centenaria casona de Chiclana 47, se evalúan los daños estructurales y la seguridad de las propiedades linderas, con preocupación por el estado del techo.",
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-12-37-0-quedo-imputado-el-bahiense-que-amenazo-al-papa-leon-xiv"
+          "url": "https://www.lanueva.com/nota/2026-11-11-9-50-0-el-techo-esta-a-punto-de-caerse-preocupacion-por-los-danos-en-el-bazar-incendiado"
         },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/11/imputaron-al-bahiense-detenido-por-amenazar-de-muerte-al-papa-leon-xiv-n530306/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Detuvieron a dos hombres por robar un freezer y una carretilla en barrio Mi Casita",
-      "breve": "El hecho ocurrió en la noche de este martes en el barrio Mi Casita.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-8-19-0-detuvieron-a-dos-hombres-por-robar-un-freezer-y-una-carretilla"
-        },
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/detenidos-por-robar-un-freezer-y-una-carretilla/"
-        },
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/arrestaron-a-dos-hombres-acusados-de-robar-un-freezer-y-una-carretilla/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Escapó de un retén policial y fue detenido en una moto robada en calle Esmeralda",
-      "breve": "El hecho ocurrió en la madrugada de este miércoles en calle Esmeralda al 300.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-8-0-0-escapo-de-un-reten-policial-y-lo-detuvieron-en-una-moto-robada"
-        },
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/aprehendieron-a-un-joven-que-circulaba-en-una-moto-con-pedido-de-secuestro-por-hurto/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Se impulsa una caravana por la situación de la OSFA este jueves",
-      "breve": "Será este jueves, a las 12.30, con punto de partida desde la farmacia ubicada en Puerto Belgrano.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-14-16-0-se-impulsa-una-caravana-por-la-situacion-de-la-osfa"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Reclamo de Agüero al Concejo por Defensa Civil: \"Los trabajadores se sintieron despojados\"",
-      "breve": "El titular del Sindicato de Trabajadores Municipales cuestionó la ausencia de ediles de otros bloques en una reunión convocada para explicar un proyecto de bonificación para el personal.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-7-39-0-reclamo-de-aguero-al-concejo-por-defensa-civil-los-trabajadores-se-sintieron-despojados"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Entregan minibús para la educación agraria en Bajo Hondo",
-      "breve": "El intendente Rodrigo Aristimuño y el ministro de Desarrollo Agrario de la provincia de Buenos Aires, Javier Rodríguez, encabezaron el encuentro en la Escuela de Educación Secundaria Agraria N° 1 “Ped.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-11-48-0-mas-herramientas-para-la-educacion-agraria-entregaron-un-minibus-en-bajo-hondo"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Este domingo se desarrollará la 13ª Carrera de la Inclusión en el Parque de Mayo",
-      "breve": "La competencia de 8 kilómetros comenzará a las 9 en el Parque de Mayo.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-9-53-0-este-domingo-se-desarrollara-la-13-carrera-de-la-inclusion-detalles-e-inscripcion"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Última función de Impro Delivery en los festejos por sus 20 años",
-      "breve": "El grupo de improvisación teatral realizó funciones en diferentes salas de Bahía Blanca y realizará un cierre a toda máquina.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-5-0-42-ultima-funcion-de-impro-delivery-en-los-festejos-por-sus-20-anos"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "El puerto de Bahía Blanca movilizará más de 270 mil toneladas esta semana",
-      "breve": "En sus redes, el Puerto compartió detalles sobre los movimientos, mercaderías y destinos.",
-      "fuentes": [
         {
           "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/11/puerto-operativo-esta-semana-se-movilizan-mas-de-270-mil-toneladas/"
+          "url": "https://www.ingenierowhite.com/2026/11/11/brian-lardet-el-heroe-de-calle-chiclana-los-bomberos-de-white-me-brindaron-las-herramientas-para-afrontar-situaciones-asi/"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Juicio por robo en Incob: familiares de Gabriel Bonomo reclaman inocencia",
-      "breve": "Familiares y allegados de Gabriel Bonomo, reclamaron públicamente que la justicia lo declare inocente en el juicio que se le sigue por un robo al frigorífico Incob.",
+      "titulo": "ADUNS anunció nuevas jornadas de paro docente y no docente en la UNS",
+      "breve": "La Asociación de Docentes de la Universidad Nacional del Sur (ADUNS) confirmó un nuevo cronograma de medidas de fuerza, afectando las actividades académicas y administrativas.",
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/aduns-anuncio-nuevas-jornadas-de-paro-docente-y-no-docente-en-la-uns/"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/docentes-universitarios-iniciaron-un-paro-de-una-semana/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Juicio por robo en Incob: familiares de un acusado reclaman su inocencia",
+      "breve": "Familiares y allegados de Gabriel Bonomo reclamaron públicamente que la justicia lo declare inocente en el juicio que se le sigue por un robo al frigorífico Incob.",
       "fuentes": [
         {
           "medio": "BVC Noticias",
@@ -226,91 +141,269 @@
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "La final de LBB Plata entre San Lorenzo y Altense tiene fechas y cancha confirmada",
-      "breve": "La misma se disputará al mejor de cinco.",
+      "titulo": "Médanos está de fiesta: Caza y Pesca Huracán campeón de la LBB Bronce y ascendió",
+      "breve": "Caza y Pesca Huracán Médanos se consagró campeón de la Liga Bahiense de Básquetbol Bronce y logró el ascenso, generando alegría en la localidad.",
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-14-2-0-lbb-plata-la-final-entre-san-lorenzo-y-altense-tiene-fechas-y-cancha-confirmada"
-        },
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/asi-se-jugarian-los-octavos-de-final-del-torneo-clausura/"
+          "url": "https://www.lanueva.com/nota/2026-11-11-22-23-0-medanos-esta-de-fiesta-caza-y-pesca-huracan-se-consagro-campeon-de-lbb-bronce-y-ascendio"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Huracán de Bahía Blanca juega el domingo por el Regional Amateur",
-      "breve": "El “Globito” está obligado a remontar el 0-3 frente a Ferro de General Pico en la revancha.",
+      "titulo": "Comienzan los cuartos de final de la Liga Bahiense de Básquetbol Oro",
+      "breve": "Los ocho mejores equipos de la temporada iniciarán esta noche las series de playoffs, que se disputarán al mejor de tres partidos en distintas canchas de la ciudad.",
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-15-6-0-huracan-domingo-a-las-20-por-el-regional-amateur-es-dificil-pero-no-imposible"
+          "url": "https://www.lanueva.com/nota/2026-11-12-5-0-18-los-cuartos-de-final-de-la-lbb-oro-comienzan-en-estrella-naposta-bahiense-y-pueyrredon"
         },
         {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/11/agradecimiento-del-club-huracan-a-habitat-para-la-humanidad-y-pampa-energia/"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/el-basquet-bahiense-en-etapa-de-definiciones-comienzan-los-cuartos-de-final-de-la-liga-de-oro-n530387/"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Olimpo juega la ida mañana y ya tiene definidas las revanchas",
-      "breve": "El aurinegro visita este jueves a Kimberley y lo recibe el martes en el Carminatti.",
+      "titulo": "Olimpo visita a Kimberley en Mar del Plata por la Reválida del Federal A",
+      "breve": "El aurinegro jugará este jueves desde las 15:30 en la ida de los cuartos de final de la Reválida del Federal A, buscando dar el primer golpe.",
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-17-31-0-aunque-olimpo-juega-manana-la-ida-ya-esta-todo-definido-para-las-revanchas-dias-horarios-y-arbitros"
+          "url": "https://www.lanueva.com/nota/2026-11-12-5-0-18-revalida-olimpo-visita-a-kimberley-en-la-ida-de-los-cuartos-de-final"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/olimpo-visita-a-kimberley-en-mar-del-plata-y-busca-dar-el-primer-golpe-n530381/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Vecinos de Tornquist convocan a movilización en apoyo a Papelera del Sur",
+      "breve": "Vecinos de Tornquist convocaron a la comunidad a acompañar este jueves, desde las 10, a los trabajadores de Papelera del Sur.",
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/vecinos-de-tornquist-convocan-a-una-movilizacion-en-apoyo-a-los-trabajadores-de-papelera-del-sur/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Caravana en Puerto Belgrano por la situación de la OSFA este jueves",
+      "breve": "Se impulsa una caravana este jueves, a las 12:30, con punto de partida desde la farmacia ubicada en Puerto Belgrano, para visibilizar la situación de la OSFA.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-11-14-16-0-se-impulsa-una-caravana-por-la-situacion-de-la-osfa"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Detuvieron a dos hombres por robar un freezer y una carretilla en Bahía",
+      "breve": "Dos hombres de 35 y 28 años fueron aprehendidos anoche por el delito de robo luego de sustraer un freezer y una carretilla en el barrio Mi Casita.",
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/arrestaron-a-dos-hombres-acusados-de-robar-un-freezer-y-una-carretilla/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-11-8-19-0-detuvieron-a-dos-hombres-por-robar-un-freezer-y-una-carretilla"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Allanaron viviendas por robo con armas y encontraron cocaína y marihuana",
+      "breve": "El procedimiento se realizó en el marco de una investigación por el asalto a un grupo de amigos, al que le sustrajeron una bicicleta, y se secuestró un arma y droga.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-11-20-27-0-allanaron-dos-viviendas-por-un-robo-con-armas-y-encontraron-cocaina-y-marihuana"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/secuestran-un-arma-y-droga-en-dos-allanamientos-por-el-robo-de-una-bicicleta-n530367/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Arrestaron a dos hombres por disturbios en una pollería en Bahía Blanca",
+      "breve": "El hecho ocurrió en la tarde noche del miércoles en Brickman al 3200, donde dos personas fueron detenidas por generar disturbios en un comercio.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-7-26-0-dos-detenidos-por-disturbios-en-una-polleria"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Aprehendieron a un joven que circulaba en una moto con pedido de secuestro",
+      "breve": "El Comando de Patrullas aprehendió a un joven de 18 años, imputado por encubrimiento, luego de ser interceptado mientras circulaba en una moto con pedido de secuestro por hurto.",
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/aprehendieron-a-un-joven-que-circulaba-en-una-moto-con-pedido-de-secuestro-por-hurto/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Sobreviviente de la tragedia de Bahiense del Norte manifestó su impotencia",
+      "breve": "Martín Ramírez, uno de los sobrevivientes de la tragedia ocurrida en el club Bahiense del Norte, manifestó su indignación ante la situación.",
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/te-da-una-bronca-terrible-la-impotencia-de-un-sobreviviente-de-la-tragedia-de-bahiense-del-norte/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Eva necesita ayuda para adaptar su prótesis y volver a caminar",
+      "breve": "Eva, a quien le amputaron su pierna izquierda por diabetes, necesita la ayuda de la comunidad para adaptar su prótesis y poder recuperar su movilidad.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/necesita-ayuda-para-adaptar-la-protesis-lo-unico-que-quiero-es-volver-a-caminar/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Presentan la traducción de la obra homoerótica de Miguel Ángel en Bahía",
+      "breve": "La obra “Poemas a Tomasso”, que recopila poesía homoerótica de Miguel Ángel, será presentada mañana jueves en la Sociedad Dante Alighieri de Bahía Blanca.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/presentan-la-traduccion-de-la-obra-homoerotica-de-miguel-angel/"
         }
       ]
     },
     {
       "seccion": "País",
-      "titulo": "El papa León XIV se despidió de Argentina y llegó a Perú",
-      "breve": "El Sumo Pontífice cerró su visita al país con una ceremonia previa a subir al avión que lo trasladó hacia Lima, donde continuará su gira sudamericana.",
+      "titulo": "Finalizó la visita del Papa León XIV a la Argentina",
+      "breve": "Después de tres jornadas de actividades y encuentros pastorales, el papa León XIV cerró este miércoles su visita histórica a la Argentina, que reunió a millones de fieles.",
       "fuentes": [
-        {
-          "medio": "Infobae",
-          "url": "https://www.infobae.com/sociedad/2026/11/11/ultimo-dia-del-papa-leon-xiv-en-la-argentina-noche-de-vigilia-en-lujan-y-una-misa-que-espera-reunir-a-mas-de-un-millon-de-fieles/"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-14-10-0-tras-su-historica-visita-a-la-argentina-el-papa-leon-xiv-saluda-a-milei-y-se-prepara-para-partir-rumbo-a-peru"
-        },
         {
           "medio": "BVC Noticias",
           "url": "https://bvcnoticias.com.ar/2026/11/el-papa-dejo-argentina-tras-una-historica-visita-que-reunio-a-7-millones-de-fieles/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "El Gobierno rechazó que Irán declare terroristas a la Armada y la Fuerza Aérea argentinas",
-      "breve": "",
-      "fuentes": [
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/el-gobierno-rechazo-que-iran-declare-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas/"
-        },
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/iran-declaro-organizaciones-terroristas-a-la-armada-y-la-fuerza-aerea-argentinas/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "La inflación de octubre se mantendría estancada en un nivel similar al de septiembre",
-      "breve": "Las estimaciones privadas ubican la suba de precios entre 1,8% y 2%.",
-      "fuentes": [
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/economia/la-inflacion-octubre-seria-similar-la-septiembre-y-ya-acumularia-seis-meses-estancada-un-mismo-nivel-n6343939"
         },
         {
           "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/inflacion-de-octubre-que-numero-anticipan-las-principales-consultoras-supera-el-2/"
+          "url": "https://www.cronista.com/economia-politica/papa-leon-xiv-en-argentina-en-vivo-su-visita-minuto-a-minuto-y-la-agenda-en-cordoba-buenos-aires-y-lujan/"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/11/el-papa-leon-xiv-cierra-su-gira-en-argentina-con-una-visita-a-la-carcel-de-devoto-y-una-misa-en-la-basilica-de-lujan/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "ANSES: cronograma de pagos de jubilaciones y asignaciones familiares de noviembre",
+      "breve": "ANSES informó el calendario de pagos de noviembre para jubilados, pensionados y titulares de asignaciones familiares (SUAF), detallando las fechas según la terminación del DNI.",
+      "fuentes": [
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/cuando-cobran-los-jubilados-de-la-anses-en-noviembre-2026-nid12112026/"
+        },
+        {
+          "medio": "Perfil",
+          "url": "https://perfil.com/economia/quienes-cobran-por-anses-este-jueves-12-de-noviembre-a40-aUhPp0K43WOz"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "El ramal Retiro-José León Suárez del Tren Mitre permanece interrumpido",
+      "breve": "La empresa Trenes Argentinos informó que el servicio ferroviario no circula entre ambas cabeceras debido a fallas en el suministro eléctrico, afectando a miles de pasajeros.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "url": "https://www.infobae.com/sociedad/2026/11/12/el-ramal-retiro-jose-leon-suarez-del-tren-mitre-permanece-interrumpido-por-fallas-en-el-suministro-electrico/"
+        },
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/informacion-general/tren-mitre-el-ramal-retiro-jose-leon-suarez-permanece-interrumpido-fallas-el-suministro-electrico-n6344295"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Estudiantes e Independiente Rivadavia definen la Supercopa Argentina",
+      "breve": "El Pincha y la Lepra mendocina se enfrentarán desde las 20 en el estadio de Belgrano de Córdoba por la final de la Supercopa Argentina.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-5-0-18-hora-tv-y-formaciones-estudiantes-e-independiente-rivadavia-definen-la-campeon-supercopa-argentina"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/estudiantes-e-independiente-rivadavia-definen-la-supercopa-argentina-n530384/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Scaloni renovará como DT de la Selección Argentina hasta 2030",
+      "breve": "El director técnico de la Selección Argentina, Lionel Scaloni, renovará su contrato con la AFA hasta 2030 y el anuncio se espera para este jueves.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/scaloni-renovara-como-dt-de-la-seleccion-cuando-se-anuncia-y-el-record-que-alcanzara/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Murió Jorge Juan Montejo, el recordado “Paolo, el rockero” a los 68 años",
+      "breve": "El humorista falleció a los 68 años en Tandil tras permanecer internado por un cuadro de pulmonía, dejando un legado en la televisión argentina de los 80 y 90.",
+      "fuentes": [
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/espectaculos/murio-jorge-juan-montejo-el-recordado-paolo-el-rockero-nid12112026/"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/murio-jorge-montejo-el-recordado-paolo-el-rockero-tenia-68-anos-n530353/"
+        },
+        {
+          "medio": "Clarín",
+          "url": "https://www.clarin.com/espectaculos/murio-68-anos-jorge-juan-montejo-actor-popularizo-personaje-paolo-rockero_0_NQgvrIsczq.html"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Más de 11 millones de latinoamericanos tienen diabetes y no lo saben",
+      "breve": "Especialistas de Argentina, Colombia y México destacan la importancia de identificar los factores de riesgo y avanzar en la detección temprana de la diabetes.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-7-12-0-mas-de-11-millones-de-latinoamericanos-tienen-diabetes-y-no-lo-saben"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Se definen los octavos de final de la Liga Argentina de fútbol",
+      "breve": "Los 16 mejores equipos de la fase regular se medirán entre el viernes 20 y el miércoles 25 de noviembre en los playoffs del Clausura 2026.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-11-22-23-0-octavos-del-clausura-2026-cruces-dias-y-horarios-de-los-playoffs-de-la-liga-argentina"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/malestar-en-river-tras-la-decision-de-la-afa-los-horarios-confirmados-para-los-playoffs-n530390/"
         }
       ]
     }
