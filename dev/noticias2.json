@@ -1,106 +1,102 @@
 {
   "fecha": "Jueves 12 de noviembre de 2026",
-  "actualizado": "13:01",
+  "actualizado": "20:01",
   "notas": [
     {
-      "categoria": "Servicios",
-      "titulo": "Cortes de agua y luz programados en Bahía Blanca y General Cerri",
+      "categoria": "Clima",
+      "titulo": "Alerta naranja por tormentas fuertes y vientos para Bahía Blanca y la región",
       "resumen": [
-        "ABSA realizará trabajos este jueves que afectarán el suministro de agua en Bahía Blanca y General Cerri. Vecinos del barrio 9 de Noviembre ya denuncian estar sin agua desde hace cinco días.",
-        "Por su parte, EDES también informó interrupciones programadas del servicio eléctrico en algunos sectores de Bahía y Coronel Suárez para hoy."
+        "El Servicio Meteorológico Nacional emitió una alerta naranja por tormentas fuertes y posible caída de granizo para este viernes en Bahía Blanca y la zona. Se esperan lluvias intensas, ráfagas de viento y actividad eléctrica, especialmente durante la madrugada.",
+        "Se recomienda a los vecinos tomar precauciones ante las condiciones climáticas adversas que podrían afectar la seguridad y la vida cotidiana."
       ],
       "fuentes": [
         {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-que-afectaran-el-suministro-de-agua-en-bahia-blanca-y-general-cerri/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-18-17-0-ratifican-el-alerta-amarillo-para-esta-noche-y-emiten-un-alerta-naranja-para-la-tarde-y-noche-del-viernes"
         },
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/vecinas-del-barrio-9-de-noviembre-denuncian-que-hace-mas-de-cinco-dias-que-estan-sin-agua/"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/emiten-alerta-naranja-por-tormentas-para-este-viernes-en-bahia-cuando-comenzaran-las-lluvias-n530488/"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-el-smn-emitio-una-doble-alerta-amarilla-por-tormentas-y-fuertes-vientos/"
         }
       ]
     },
     {
-      "categoria": "Clima",
-      "titulo": "Alerta amarilla por tormentas y fuertes vientos en Bahía Blanca",
+      "categoria": "Servicios",
+      "titulo": "Interrupción del servicio de agua en General Cerri por obras del acueducto",
       "resumen": [
-        "El Servicio Meteorológico Nacional emitió una doble alerta amarilla para Bahía Blanca y la región por tormentas y vientos fuertes para este jueves. Se esperan chaparrones intensos, ráfagas de hasta 55 km/h y ocasional caída de granizo, con precipitaciones que podrían extenderse hasta el viernes.",
-        "Las condiciones climáticas desmejorarán hacia la tarde, tras una jornada de altas temperaturas."
+        "Este viernes se interrumpirá el servicio de agua potable en General Cerri debido a la continuidad de los trabajos en el acueducto. La obra se ejecuta a la altura de la Ruta 3 y el acceso a la localidad.",
+        "El suministro se verá afectado desde las 8 y hasta horas de la tarde. Se recomienda a los vecinos tomar las previsiones necesarias ante este corte programado de un servicio esencial."
       ],
       "fuentes": [
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-el-smn-emitio-una-doble-alerta-amarilla-por-tormentas-y-fuertes-vientos/"
-        },
-        {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-18-7-0-tormentas-y-vientos-fuertes-emiten-un-doble-alerta-amarillo-para-este-jueves-en-bahia-blanca-y-la-region"
+          "url": "https://www.lanueva.com/nota/2026-11-12-16-20-0-acueducto-en-cerri-por-la-continuidad-de-los-trabajos-este-viernes-se-interrumpira-el-servicio-de-agua"
         },
         {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/11/el-servicio-meteorologico-nacional-emitio-alerta-amarilla-por-tormentas-para-el-jueves-por-la-tarde-en-bahia-blanca/"
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-que-afectaran-el-suministro-de-agua-en-bahia-blanca-y-general-cerri/"
         }
       ]
     },
     {
       "categoria": "Educación",
-      "titulo": "Paro docente y no docente de siete días en la UNS por reclamo salarial",
+      "titulo": "Docentes de la UNS inician paro de siete días por reclamo salarial y financiamiento",
       "resumen": [
-        "La Asociación de Docentes de la Universidad Nacional del Sur (ADUNS) anunció nuevas jornadas de paro docente y no docente que se extenderán por siete días, desde este jueves hasta el próximo miércoles 18 de noviembre.",
-        "El principal reclamo es que el Gobierno cumpla con la Ley de Financiamiento Universitario, lo que afectará el dictado de clases en la UNS y sus escuelas dependientes."
+        "La Asociación de Docentes de la Universidad Nacional del Sur (ADUNS) confirmó un paro de siete días, desde este jueves hasta el próximo miércoles 18 de noviembre. La medida de fuerza, a la que adhirió ADUNS, afectará el dictado de clases en la UNS y sus escuelas dependientes.",
+        "El principal reclamo es que el Gobierno de Javier Milei cumpla con la Ley de Financiamiento Universitario, impactando directamente en la comunidad educativa bahiense."
       ],
       "fuentes": [
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-docentes-de-universidades-nacionales-iniciaron-este-jueves-un-paro-que-se-extendera-por-siete-dias-sera-desde-hoy-hasta-el-proximo-miercoles-18-de-noviembre-el-principal-reclamo-es-qu/"
-        },
-        {
           "medio": "De la Bahía Noticias",
           "url": "https://www.delabahia.com.ar/aduns-anuncio-nuevas-jornadas-de-paro-docente-y-no-docente-en-la-uns/"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-docentes-de-universidades-nacionales-iniciaron-este-jueves-un-paro-que-se-extendera-por-siete-dias-sera-desde-hoy-hasta-el-proximo-miercoles-18-de-noviembre-el-principal-reclamo-es-qu/"
         }
       ]
     },
     {
       "categoria": "Economía",
-      "titulo": "Se conoce hoy el dato de inflación de octubre",
+      "titulo": "La inflación de octubre fue del 2,2% y acumula 33,1% interanual",
       "resumen": [
-        "Este jueves, el Instituto Nacional de Estadística y Censos (Indec) publicará el índice de inflación correspondiente a octubre. Los especialistas esperan que el aumento promedio de precios se ubique en torno al 10%, con presiones en alimentos y hotelería.",
-        "La expectativa está puesta en si el Gobierno logró consolidar la tendencia de desaceleración."
+        "El INDEC informó que la inflación de octubre alcanzó el 2,2% a nivel nacional, acelerándose respecto al mes anterior. Con este dato, el acumulado interanual llega al 33,1%.",
+        "La región que incluye a Bahía Blanca registró un incremento del 2,6%, mostrando que los precios continúan presionando el poder adquisitivo de los hogares en todo el país."
       ],
       "fuentes": [
         {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/el-indec-dara-a-conocer-la-inflacion-de-octubre/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-15-0-0-no-logra-bajar-la-inflacion-de-octubre-llego-al-2-2-y-acumula-un-26-3-en-lo-que-va-de-2026"
         },
         {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/12/hoy-se-conoce-el-dato-de-inflacion-de-octubre-que-numero-esperan-los-especialistas/"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/la-inflacion-volvio-a-superar-el-2-en-octubre-n530481/"
         },
         {
           "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/hoy-se-conoce-el-dato-de-inflacion-de-octubre/"
+          "url": "https://bvcnoticias.com.ar/2026/11/la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses/"
         }
       ]
     },
     {
-      "categoria": "Laboral",
-      "titulo": "Conciliación obligatoria en Papelera del Sur; trabajadores vuelven a la fábrica",
+      "categoria": "Economía",
+      "titulo": "Jubilaciones y asignaciones de ANSES aumentarán en diciembre tras dato de inflación",
       "resumen": [
-        "El Ministerio de Trabajo bonaerense dictó la conciliación obligatoria en Papelera del Sur, en Tornquist, tras el conflicto por el cierre de la planta que dejó a más de 160 empleados sin trabajo. Los trabajadores volverán a la fábrica.",
-        "Vecinos de Tornquist habían convocado a una movilización en apoyo a los empleados, quienes consideran que la fábrica es parte fundamental del pueblo."
+        "La difusión del índice de precios de octubre activa el nuevo incremento de los haberes para jubilados, pensionados y otros beneficios que paga ANSES. Este ajuste, que se aplicará en diciembre, busca compensar la pérdida de poder adquisitivo.",
+        "La medida es crucial para millones de beneficiarios en todo el país, quienes verán una actualización en sus ingresos en el último mes del año."
       ],
       "fuentes": [
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/12/dictaron-la-conciliacion-obligatoria-en-papelera-del-sur-y-los-trabajadores-volveran-a-la-fabrica-n530443/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-17-3-0-tras-conocerse-el-dato-de-inflacion-cuanto-aumentaran-jubilaciones-y-asignaciones-de-anses-en-diciembre"
         },
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/cierre-de-papelera-del-sur-la-fabrica-es-parte-del-pueblo/"
-        },
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/vecinos-de-tornquist-convocan-a-una-movilizacion-en-apoyo-a-los-trabajadores-de-papelera-del-sur/"
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/aumenta-la-auh-de-anses-cuanto-cobrarian-los-beneficiarios-de-la-asignacion-en-diciembre-2026/"
         }
       ]
     }
@@ -108,180 +104,144 @@
   "resto": [
     {
       "seccion": "Bahía y región",
-      "titulo": "Cortes de calles programados en Bahía Blanca para este jueves y los próximos 20 días",
-      "breve": "Dos cortes de calles modificarán la circulación en Bahía Blanca, uno de ellos por 20 días para reparación de losas.",
+      "titulo": "El Municipio adjudicó la reparación del Paso Urbano",
+      "breve": "La obra, que comprende 7,5 kilómetros de la Ruta Nacional 33, comenzará en los próximos 30 días con financiación comunal y portuaria.",
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-19-56-0-dos-cortes-de-calles-modificaran-la-circulacion-en-bahia-blanca-donde-y-cuando-seran"
+          "url": "https://www.lanueva.com/nota/2026-11-12-19-8-0-el-municipio-adjudico-la-reparacion-del-paso-urbano-la-obra-comenzara-dentro-de-los-proximos-30-dias"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/en-un-mes-comenzaran-las-mejoras-en-el-paso-urbano-frente-al-desamparo-elegimos-hacernos-cargo/"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/frente-al-desamparo-elegimos-hacernos-cargo-el-municipio-adjudico-la-reparacion-del-paso-urbano/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Detuvieron a tres personas por intentar usurpar una vivienda en Bahía Blanca",
+      "breve": "El hecho ocurrió en calle Undiano al 1500, donde los aprehendidos fueron sorprendidos cambiando la cerradura de una casa.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-15-16-0-tres-aprehendidos-tras-ser-sorprendidos-cambiando-la-cerradura-para-usurpar-una-vivienda"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/intentaron-usurpar-una-vivienda-y-los-sorprendieron-cuando-cambiaban-la-cerradura-n530474/"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/trataban-de-usurpar-una-casa-y-los-detuvieron-cuando-estaban-cambiando-la-cerradura/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Operativo preventivo de vacunación antirrábica en Bahía Blanca",
+      "breve": "Ante casos positivos de rabia en murciélagos, se realizará una jornada gratuita de vacunación para perros y gatos en Plaza Rivadavia y Club Pacífico.",
+      "fuentes": [
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/operativo-preventivo-de-vacunacion-antirrabica/"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-operativo-preventivo-de-vacunacion-antirrabica/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Cortes programados de calles en Bahía Blanca para este jueves y viernes",
+      "breve": "Se anuncian cortes totales en Don Bosco y Rondeau por bacheo, y en Pilcaniyén y Esmeralda por trabajos de ABSA.",
+      "fuentes": [
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/cortes-programados-2/"
         },
         {
           "medio": "360 Más Noticias",
           "url": "https://360masnoticias.com/bahia-blanca-cortes-programados-de-calles-para-este-jueves-3/"
-        },
-        {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/12/cortes-programados-2/"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Riesgo de derrumbe en el bazar incendiado de calle Chiclana",
-      "breve": "El abogado de los comerciantes chinos afirmó que volvió a detectarse humo en el inmueble y un profesional evalúa daños estructurales.",
-      "fuentes": [
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/12/aseguran-que-el-bazar-que-se-incendio-podria-ser-demolido-por-riesgo-de-derrumbe-n530424/"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-6-0-18-el-incendio-de-un-edificio-cargado-de-historia"
-        },
-        {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/11/brian-lardet-el-heroe-de-calle-chiclana-los-bomberos-de-white-me-brindaron-las-herramientas-para-afrontar-situaciones-asi/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Operativo de vacunación antirrábica gratuita en Bahía Blanca",
-      "breve": "La Dirección de Veterinaria y Zoonosis realizará una jornada de vacunación antirrábica gratuita para perros y gatos, ante dos casos positivos de rabia en murciélagos.",
-      "fuentes": [
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-operativo-preventivo-de-vacunacion-antirrabica/"
-        },
-        {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/12/operativo-preventivo-de-vacunacion-antirrabica/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Denuncian pelea de 'trapitos' en la puerta del Correo Argentino",
-      "breve": "Vecinos en alerta relataron que un grupo de 10 personas protagonizó una brutal pelea en las inmediaciones del Correo Argentino.",
+      "titulo": "Condenaron a 8 años de cárcel a un hombre por abuso de su nieta en Bahía Blanca",
+      "breve": "El Tribunal en lo Criminal N° 1 de Bahía Blanca dictó sentencia por hechos ocurridos durante casi una década en dos domicilios de la ciudad.",
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-10-49-0-vecinos-en-alerta-por-otra-pelea-de-trapitos-en-la-puerta-del-correo-argentino"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Dos detenidos por disturbios en una pollería de barrio Moresino",
-      "breve": "Dos hombres fueron aprehendidos por la Policía luego de protagonizar un episodio de violencia en una pollería ubicada en Brickman al 3200.",
-      "fuentes": [
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-dos-hombres-fueron-aprehendidos-tras-protagonizar-incidentes-en-una-polleria-de-barrio-moresino/"
+          "url": "https://www.lanueva.com/nota/2026-11-12-11-43-0-condenaron-a-8-anos-de-carcel-a-un-hombre-que-abuso-de-su-nieta"
         },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-7-26-0-dos-detenidos-por-disturbios-en-una-polleria"
-        },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/12/escandalo-en-una-polleria-dos-hombres-detenidos-y-un-ladrillazo-contra-la-policia-n530397/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Allanamientos por robo con armas en Bahía Blanca",
-      "breve": "Se allanaron dos viviendas en el marco de una investigación por el asalto a un grupo de amigos, encontrando cocaína y marihuana.",
-      "fuentes": [
         {
           "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/allanamientos-por-un-robo-con-armas/"
+          "url": "https://bvcnoticias.com.ar/2026/11/condenaron-a-8-anos-de-prision-a-un-hombre-que-abuso-de-su-nieta-durante-ocho-anos/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Olimpo empató 1 a 1 ante Kimberley en Mar del Plata y definirá en casa",
+      "breve": "El equipo bahiense logró un empate milagroso en la reválida, con un polémico penal en contra, y definirá la llave el martes en el Carminatti.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-5-0-18-revalida-olimpo-visita-a-kimberley-en-la-ida-de-los-cuartos-de-final"
         },
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-20-27-0-allanaron-dos-viviendas-por-un-robo-con-armas-y-encontraron-cocaina-y-marihuana"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "El Concejo Deliberante busca dejar sin efecto despidos en el ex IOSFA",
-      "breve": "El proyecto para dejar sin efecto los despidos y desvinculaciones del personal del ex IOSFA se aprobó con el apoyo de la mayoría de los concejales.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-12-32-0-cd-se-pretende-dejar-sin-efecto-los-despidos-y-desvinculaciones-del-personal-del-ex-iosfa"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Se impulsa una caravana por la situación de la OSFA",
-      "breve": "La caravana se realizará este jueves, a las 12.30, con punto de partida desde la farmacia ubicada en Puerto Belgrano.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-14-16-0-se-impulsa-una-caravana-por-la-situacion-de-la-osfa"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Bahía Blanca debate el futuro de su polo petroquímico",
-      "breve": "Se realizará una jornada que reunirá a referentes del sector productivo, académico y gubernamental para debatir los desafíos y oportunidades de la industria.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-8-20-0-bahia-blanca-debate-el-presente-y-el-futuro-de-su-polo-petroquimico"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Reclamo del sindicato de Municipales por bonificación para Defensa Civil",
-      "breve": "",
-      "fuentes": [
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/olimpo-logro-un-empate-milagroso-ante-kimberley-y-dejo-la-serie-abierta-n530485/"
+        },
         {
           "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/el-reclamo-del-sindicato-de-municipales-de-una-bonificacion-para-el-personal-de-defensa-civil/"
+          "url": "https://frenteacano.com.ar/olimpo-rescato-un-empate-en-mar-del-plata-y-lo-definira-en-bahia/"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Profertil finalizó la parada de planta en Ingeniero White",
-      "breve": "La compañía informó que finalizó la parada de planta realizada en su complejo industrial y actualmente se encuentra llevando adelante maniobras de arranque del proceso productivo.",
+      "titulo": "Bahía Blanca debate el presente y futuro de su polo petroquímico",
+      "breve": "La ciudad será sede del primer Foro Petroquímico, reuniendo a empresarios, especialistas y académicos del sector.",
       "fuentes": [
         {
           "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/profertil-informo-sobre-la-finalizacion-de-la-parada-de-planta/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "OMIC recomienda revisar contratos antes de contratar casas prefabricadas",
-      "breve": "El titular de la Oficina Municipal de Información al Consumidor (OMIC) brindó una serie de recomendaciones para quienes estén pensando en contratar una empresa de construcción de casas.",
-      "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/casas-prefabricadas-omic-recomienda-revisar-contratos-antes-de-contratar/"
+          "url": "https://bvcnoticias.com.ar/2026/11/bahia-blanca-debate-el-presente-y-el-futuro-de-su-polo-petroquimico/"
         }
       ]
     },
     {
       "seccion": "País",
-      "titulo": "Martín Menem impulsa la suspensión de las PASO 2027",
-      "breve": "El presidente de la Cámara de Diputados pidió acelerar la suspensión de las PASO 2027 y apuntó al Senado, negando que se trate de una presión a Patricia Bullrich.",
+      "titulo": "La Canasta Básica Familiar superó los $1.690.000 en octubre para no ser pobre",
+      "breve": "La canasta que determina la línea de pobreza tuvo su mayor suba en ocho meses, afectando el poder adquisitivo de las familias.",
       "fuentes": [
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-10-2-0-martin-menem-pidio-acelerar-la-suspension-de-las-paso-2027-y-apunto-al-senado"
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/la-canasta-basica-tuvo-su-salto-mas-alto-de-los-ultimos-ocho-meses-1-690-000-para-no-ser-pobre/"
         },
         {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/martin-menem-afirmo-que-el-senado-podria-aprobar-la-suspension-de-las-paso-en-dos-semanas/"
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/economia/la-canasta-basica-trepo-35-octubre-su-mayor-suba-enero-cuanto-necesito-una-familia-no-ser-pobre-n6344587"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "El Presupuesto 2027 y la suspensión de las PASO avanzan en el Congreso",
+      "breve": "El oficialismo busca reunir los votos para aprobar el Presupuesto la próxima semana y Martín Menem anticipó que el Senado podría tratar la suspensión de las PASO.",
+      "fuentes": [
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/el-presupuesto-2027-llegara-al-recinto-de-diputados-la-semana-proxima-tras-nuevas-negociaciones-n530507/"
+        },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/activan-ronda-final-con-gobernadores-para-definir-paso-y-presupuesto-la-cuenta-que-manejan-y-que-puede-caer/"
         },
         {
           "medio": "De la Bahía Noticias",
@@ -291,38 +251,94 @@
     },
     {
       "seccion": "País",
-      "titulo": "Argentina podría iniciar acciones penales contra directivos de petroleras británicas por Malvinas",
-      "breve": "El canciller Pablo Quirno advirtió que el Gobierno utilizará todas las herramientas legales para frenar la explotación de hidrocarburos en las islas.",
+      "titulo": "Patricia Bullrich anticipa tratamiento de la Ley de Discapacidad en el Senado",
+      "breve": "La iniciativa de fortalecimiento del sistema de discapacidad se trataría el 19 de noviembre y se espera una aprobación holgada.",
       "fuentes": [
         {
           "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/malvinas-quirno-dijo-que-argentina-puede-iniciar-acciones-penales-contra-directivos-de-petroleras-britanicas/"
+          "url": "https://frenteacano.com.ar/patricia-bullrich-estamos-listos-para-tratar-la-ley-de-discapacidad-en-el-senado/"
         },
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/12/malvinas-argentina-podria-iniciar-acciones-penales-contra-directivos-de-petroleras-britanicas-n530438/"
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/politica/mientras-el-mileismo-promete-el-fin-las-paso-patricia-bullrich-anticipa-el-tratamiento-del-proyecto-discapacidad-n6344677"
         }
       ]
     },
     {
       "seccion": "País",
-      "titulo": "ANSES permitirá recuperar la Clave de Seguridad Social con validación biométrica",
-      "breve": "El organismo explicó que los beneficiarios podrán generarla al escanear sus DNI y realizar una biometría facial.",
+      "titulo": "ARBA: vence la primera etapa del plan de pagos con descuentos",
+      "breve": "La Agencia de Recaudación de la provincia de Buenos Aires recordó que este viernes 13 de noviembre finaliza la primera etapa de su programa de facilidades con bonificaciones.",
+      "fuentes": [
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/arba-deuda-por-deuda-y-plan-por-plan-como-gozar-de-los-mayores-beneficios-de-las-facilidades-de-pago/"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/arba-vence-la-primera-etapa-del-plan-de-pagos-con-descuentos/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Las tarifas seguirán aumentando por encima de la inflación, advierten economistas",
+      "breve": "Especialistas señalan que los incrementos en los servicios públicos continuarán presionando sobre el índice de precios, incluso en un contexto de desaceleración general.",
       "fuentes": [
         {
           "medio": "Perfil",
-          "url": "https://perfil.com/economia/anses-confirmo-que-se-podra-recuperar-la-clave-de-seguridad-social-con-validacion-biometrica-a50-jsm-atmYT9z3EgeB"
+          "url": "https://perfil.com/mas-perfil/rdeco-por-que-las-tarifas-van-a-seguir-aumentando-por-encima-de-la-inflacion-aHiYL7m3DwLM"
         }
       ]
     },
     {
       "seccion": "País",
-      "titulo": "El dólar descomprime y cae tras días sin actividad por la visita del Papa",
-      "breve": "El tipo de cambio oficial opera en $1.543,5 en una jornada que vuelve a operar con normalidad tras cinco días sin actividad por los feriados debido a la visita del papa León XIV.",
+      "titulo": "El FMI pidió al Gobierno seguir acumulando reservas y fortalecer la economía",
+      "breve": "El organismo destacó los avances del programa económico de Javier Milei, pero insistió en la necesidad de mantener la disciplina fiscal y aún no hay fecha para un nuevo desembolso.",
       "fuentes": [
         {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/el-fmi-le-pidio-al-gobierno-seguir-acumulando-reservas-y-fortalecer-la-economia-n530466/"
+        },
+        {
           "medio": "Ámbito",
-          "url": "https://www.ambito.com/finanzas/el-dolar-cayo-los-feriados-pero-subio-el-blue-y-crece-la-atencion-las-tasas-n6344297"
+          "url": "https://www.ambito.com/finanzas/el-bcra-realizo-la-mayor-compra-casi-un-mes-aunque-las-reservas-cayeron-arrastradas-el-oro-n6344627"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "La actividad textil cayó más de 20% en el año y se perdieron 29.000 puestos de trabajo",
+      "breve": "La industria textil acumula una fuerte caída y advierte que sin una reducción de la mochila fiscal, no puede competir con los productos importados.",
+      "fuentes": [
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/la-actividad-textil-cayo-mas-de-20-en-el-ano-y-ya-se-perdieron-mas-de-29-000-puestos-de-trabajo/"
+        },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/el-70-del-mercado-textil-ya-esta-en-manos-de-importados-que-pide-la-industria-para-producir-por-2-dolares-como-sus-competidores/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Cambio en la detección del cáncer de próstata: nuevas directrices de EE.UU.",
+      "breve": "Expertos de la Sociedad Estadounidense contra el Cáncer recomiendan realizar la prueba de PSA cada dos años para hombres de 50 a 69 años.",
+      "fuentes": [
+        {
+          "medio": "Clarín",
+          "url": "https://www.clarin.com/sociedad/cambio-importante-deteccion-cancer-prostata-nuevas-directrices-expertos-eeuu_0_a5JRD6sHVy.html"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Proponen quitar licencias de conducir a imputados por accidentes de tránsito",
+      "breve": "Un proyecto de ley busca habilitar a los jueces a inhabilitar para conducir a personas imputadas en siniestros viales en la provincia de Buenos Aires.",
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/buscan-que-los-imputados-por-accidentes-de-transito-no-puedan-conducir-en-la-provincia/"
         }
       ]
     }
