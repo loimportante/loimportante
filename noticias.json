@@ -1,106 +1,107 @@
 {
   "fecha": "Jueves 12 de noviembre de 2026",
-  "actualizado": "13:01",
+  "actualizado": "19:26",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Economía",
-      "titulo": "Inflación de octubre: el INDEC publica el dato clave para el bolsillo",
+      "titulo": "La inflación de octubre fue del 2,2% y una familia necesitó $1.690.000 para no ser pobre",
       "resumen": [
-        "Este jueves se conocerá el índice de inflación de octubre, un dato crucial para la economía nacional. Los especialistas esperan que el informe del INDEC refleje las presiones de precios en alimentos y servicios, impactando directamente en el poder adquisitivo de los ciudadanos."
-      ],
-      "fuentes": [
-        {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/12/hoy-se-conoce-el-dato-de-inflacion-de-octubre-que-numero-esperan-los-especialistas/"
-        },
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/hoy-se-conoce-el-dato-de-inflacion-de-octubre/"
-        },
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/el-indec-dara-a-conocer-la-inflacion-de-octubre/"
-        }
-      ]
-    },
-    {
-      "categoria": "Bahía Blanca",
-      "titulo": "Alerta meteorológica en Bahía Blanca por tormentas y fuertes vientos",
-      "resumen": [
-        "El Servicio Meteorológico Nacional emitió una alerta amarilla para Bahía Blanca y la región, previendo tormentas intensas, ráfagas de hasta 55 km/h y posible caída de granizo. Se recomienda tomar precauciones, especialmente durante la noche y madrugada, ya que las precipitaciones podrían extenderse hasta el viernes."
-      ],
-      "fuentes": [
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-el-smn-emitio-una-doble-alerta-amarilla-por-tormentas-y-fuertes-vientos/"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-11-18-7-0-tormentas-y-vientos-fuertes-emiten-un-doble-alerta-amarillo-para-este-jueves-en-bahia-blanca-y-la-region"
-        },
-        {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/11/el-servicio-meteorologico-nacional-emitio-alerta-amarilla-por-tormentas-para-el-jueves-por-la-tarde-en-bahia-blanca/"
-        }
-      ]
-    },
-    {
-      "categoria": "Política",
-      "titulo": "Martín Menem impulsa la suspensión de las PASO y apunta al Senado",
-      "resumen": [
-        "El presidente de la Cámara de Diputados, Martín Menem, busca acelerar la suspensión de las PASO 2027, señalando al Senado como el ámbito clave para su aprobación. Se espera que la Cámara Alta trate el tema en las próximas semanas, generando debate en el ámbito político nacional."
+        "El INDEC informó que el Índice de Precios al Consumidor (IPC) subió 2,2% en octubre a nivel nacional, acumulando un 33,1% interanual. En Bahía Blanca y la región, el aumento fue similar.",
+        "La canasta básica total, que marca la línea de pobreza, alcanzó los $1.690.000 para una familia tipo, mientras que la canasta básica alimentaria también creció por encima de la inflación general."
       ],
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-10-2-0-martin-menem-pidio-acelerar-la-suspension-de-las-paso-2027-y-apunto-al-senado"
+          "url": "https://www.lanueva.com/nota/2026-11-12-15-0-0-no-logra-bajar-la-inflacion-de-octubre-llego-al-2-2-y-acumula-un-26-3-en-lo-que-va-de-2026"
         },
         {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/martin-menem-afirmo-que-el-senado-podria-aprobar-la-suspension-de-las-paso-en-dos-semanas/"
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/economia/la-canasta-basica-trepo-35-octubre-su-mayor-suba-enero-cuanto-necesito-una-familia-no-ser-pobre-n6344587"
         },
         {
           "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/presion-a-patricia-bullrich-menem-espera-que-el-senado-suspenda-las-paso-en-los-proximos-15-dias/"
+          "url": "https://www.cronista.com/economia-politica/canasta-basica-una-familia-tipo-necesito-1690000-en-octubre-para-no-ser-pobre/"
         }
       ]
     },
     {
-      "categoria": "Bahía Blanca",
-      "titulo": "Conflicto en Papelera del Sur: dictan conciliación obligatoria",
+      "categoria": "Clima",
+      "titulo": "Alerta naranja por tormentas fuertes y posible granizo para Bahía Blanca este viernes",
       "resumen": [
-        "El Ministerio de Trabajo bonaerense dictó la conciliación obligatoria en el conflicto de Papelera del Sur en Tornquist, lo que implica que los trabajadores volverán a la fábrica. La medida busca destrabar la situación tras el cierre de la planta que dejó a más de 160 empleados sin trabajo y generó movilizaciones en apoyo."
+        "El Servicio Meteorológico Nacional emitió una alerta naranja por tormentas fuertes para Bahía Blanca y la región, que comenzarán durante la madrugada del viernes.",
+        "Se esperan lluvias intensas, ráfagas de viento y posible caída de granizo. La advertencia climática abarca también a distritos vecinos como Coronel Rosales y Villarino."
       ],
       "fuentes": [
         {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-18-17-0-ratifican-el-alerta-amarillo-para-esta-noche-y-emiten-un-alerta-naranja-para-la-tarde-y-noche-del-viernes"
+        },
+        {
           "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/12/dictaron-la-conciliacion-obligatoria-en-papelera-del-sur-y-los-trabajadores-volveran-a-la-fabrica-n530443/"
+          "url": "https://www.labrujula24.com/notas/2026/11/12/emiten-alerta-naranja-por-tormentas-para-este-viernes-en-bahia-cuando-comenzaran-las-lluvias-n530488/"
         },
         {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/tornquist-masiva-movilizacion-en-apoyo-a-los-trabajadores-de-la-papelera/"
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-el-smn-emitio-una-doble-alerta-amarilla-por-tormentas-y-fuertes-vientos/"
+        }
+      ]
+    },
+    {
+      "categoria": "Economía",
+      "titulo": "Jubilaciones y asignaciones de ANSES aumentarán en diciembre tras el dato de inflación",
+      "resumen": [
+        "Tras conocerse el índice de inflación de octubre, se activará un nuevo incremento para jubilados, pensionados y beneficiarios de asignaciones de ANSES a partir de diciembre.",
+        "Este ajuste busca compensar la suba de precios y se aplicará a los haberes y otros beneficios que paga el organismo previsional."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-17-3-0-tras-conocerse-el-dato-de-inflacion-cuanto-aumentaran-jubilaciones-y-asignaciones-de-anses-en-diciembre"
         },
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/cierre-de-papelera-del-sur-la-fabrica-es-parte-del-pueblo/"
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/aumenta-la-auh-de-anses-cuanto-cobrarian-los-beneficiarios-de-la-asignacion-en-diciembre-2026/"
         }
       ]
     },
     {
       "categoria": "Servicios",
-      "titulo": "Cortes de agua y luz programados para Bahía Blanca y la región",
+      "titulo": "Interrupción del servicio de agua este viernes en General Cerri por obras en el acueducto",
       "resumen": [
-        "ABSA realizará trabajos programados que afectarán el suministro de agua en Bahía Blanca y General Cerri durante este jueves. Por su parte, EDES informó interrupciones del servicio eléctrico en algunos sectores de Bahía Blanca y Coronel Suárez. Se recomienda a los vecinos tomar las precauciones necesarias."
+        "Este viernes se interrumpirá el servicio de agua en General Cerri debido a la continuidad de los trabajos en el acueducto.",
+        "La obra se realiza a la altura de la Ruta 3 y el acceso a la localidad. El suministro se cortará a partir de las 8 de la mañana y se extenderá hasta horas de la tarde."
       ],
       "fuentes": [
         {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-que-afectaran-el-suministro-de-agua-en-bahia-blanca-y-general-cerri/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-16-20-0-acueducto-en-cerri-por-la-continuidad-de-los-trabajos-este-viernes-se-interrumpira-el-servicio-de-agua"
         },
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/edes-interrumpira-el-servicio-en-algunos-sectores-de-bahia-y-coronel-suarez-10/"
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-que-afectaran-el-suministro-de-agua-en-bahia-blanca-y-general-cerri/"
+        }
+      ]
+    },
+    {
+      "categoria": "Economía",
+      "titulo": "La industria textil nacional se hunde con casi 1.000 empresas menos y 29.000 empleos perdidos",
+      "resumen": [
+        "El sector textil atraviesa una profunda crisis, con una caída de actividad del 20% en el año y la pérdida de casi 29.000 puestos de trabajo.",
+        "Se estima que seis de cada diez máquinas están paralizadas y cerca de mil empresas cerraron. Empresarios reclaman medidas urgentes para revertir la situación."
+      ],
+      "fuentes": [
+        {
+          "medio": "Perfil",
+          "url": "https://perfil.com/economia/crisis-textil-y-fuerte-reclamo-al-gobierno-a40-av1239N7qdf5"
+        },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/el-70-del-mercado-textil-ya-esta-en-manos-de-importados-que-pide-la-industria-para-producir-por-2-dolares-como-sus-competidores/"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/la-actividad-textil-cayo-mas-de-20-en-el-ano-y-ya-se-perdieron-mas-de-29-000-puestos-de-trabajo/"
         }
       ]
     }
