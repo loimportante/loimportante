@@ -1,0 +1,454 @@
+{
+  "id": "2026-11-12-2158",
+  "fecha": "Jueves 12 de noviembre de 2026",
+  "actualizado": "21:58",
+  "publicada": "2026-11-12T21:58:38.221-03:00",
+  "notas": [
+    {
+      "categoria": "Clima",
+      "ambito": "local",
+      "titulo": "Alerta naranja por tormentas en Bahía Blanca: clases suspendidas y precaución",
+      "resumen": [
+        "El Servicio Meteorológico Nacional elevó a naranja la alerta por tormentas fuertes para este viernes en Bahía Blanca y la región. Se esperan fenómenos severos con abundante caída de agua, granizo y ráfagas de viento que podrían superar los 90 kilómetros por hora.",
+        "De manera preventiva, se suspendieron las clases en todas las instituciones educativas públicas y privadas, y se restringió la circulación en espacios públicos. Las lluvias y tormentas comenzarían en la noche del jueves y se extenderían hasta la tarde del viernes."
+      ],
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-el-smn-elevo-a-naranja-la-alerta-por-tormentas-fuertes-podrian-caer-hasta-90-milimetros/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-18-17-0-ratifican-el-alerta-amarillo-para-esta-noche-y-emiten-un-alerta-naranja-para-la-tarde-y-noche-del-viernes"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/alerta-naranja-por-tormentas-para-este-viernes-13-de-noviembre-clases-suspendidas-y-circulacion-restringida-en-espacios-publicos/"
+        }
+      ]
+    },
+    {
+      "categoria": "Sociedad",
+      "ambito": "local",
+      "titulo": "Un niño bahiense de 5 años murió ahogado en una pileta en Villarino",
+      "resumen": [
+        "Un trágico suceso ocurrió en Villarino, donde un niño de 5 años oriundo de Bahía Blanca falleció ahogado en una pileta. El pequeño se encontraba de paseo con su padre en un campo cercano a Hilario Ascasubi.",
+        "Personal médico intentó reanimarlo sin éxito. La noticia generó conmoción en la comunidad local."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-20-7-0-tragedia-en-villarino-un-nene-bahiense-de-5-anos-murio-ahogado-en-una-pileta"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/ascasubi-un-nino-bahiense-murio-al-caer-a-una-pileta-n530512/"
+        }
+      ]
+    },
+    {
+      "categoria": "Economía",
+      "ambito": "nacional",
+      "titulo": "Inflación de octubre: 2,2% a nivel nacional y 2,6% en Bahía Blanca",
+      "resumen": [
+        "El INDEC informó que la inflación de octubre fue del 2,2% a nivel nacional, acumulando un 33,1% interanual. La cifra muestra una aceleración respecto al mes anterior.",
+        "En la región que incluye a Bahía Blanca, el incremento de precios fue del 2,6%. Una familia tipo necesitó $1.690.000 en octubre para no ser pobre, según los datos oficiales."
+      ],
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses/"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/la-inflacion-volvio-a-superar-el-2-en-octubre-n530481/"
+        },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/canasta-basica-una-familia-tipo-necesito-1690000-en-octubre-para-no-ser-pobre/"
+        }
+      ]
+    },
+    {
+      "categoria": "Servicios",
+      "ambito": "local",
+      "titulo": "Corte de agua programado en General Cerri por obras en el acueducto",
+      "resumen": [
+        "Este viernes se interrumpirá el servicio de agua en General Cerri a partir de las 8 de la mañana y hasta horas de la tarde. La medida se debe a la continuidad de los trabajos en el acueducto a la altura de la Ruta 3 y el acceso a la localidad.",
+        "ABSA realizará trabajos programados que afectarán el suministro. Se recomienda a los vecinos tomar las previsiones necesarias para minimizar el impacto del corte."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-16-20-0-acueducto-en-cerri-por-la-continuidad-de-los-trabajos-este-viernes-se-interrumpira-el-servicio-de-agua"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-que-afectaran-el-suministro-de-agua-en-bahia-blanca-y-general-cerri/"
+        }
+      ]
+    },
+    {
+      "categoria": "Economía",
+      "ambito": "nacional",
+      "titulo": "El empleo privado registrado suma 15 meses de caída en el país",
+      "resumen": [
+        "El mercado laboral argentino registró 15 meses consecutivos de caída en el empleo privado registrado, según los últimos datos oficiales del Sistema Integrado Previsional Argentino (SIPA).",
+        "A pesar de 82.000 contrataciones con beneficios de la reforma laboral, el sector privado perdió 37.800 asalariados registrados en los primeros cuatro meses del régimen."
+      ],
+      "fuentes": [
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/el-mercado-laboral-suma-15-meses-de-caida-del-empleo-privado-que-dicen-los-ultimos-datos-oficiales/"
+        },
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/hubo-82000-contrataciones-con-beneficios-de-la-reforma-laboral-pero-el-empleo-privado-registrado-nid12112026/"
+        },
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/economia/el-empleo-asalariado-privado-sumo-15-meses-seguidos-baja-mientras-el-monotributo-anoto-su-mayor-alza-dos-anos-n6344697"
+        }
+      ]
+    }
+  ],
+  "resto": [
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Paro docente y no docente en la UNS por siete días",
+      "breve": "Docentes y no docentes de la Universidad Nacional del Sur iniciaron un paro de siete días, reclamando al Gobierno el cumplimiento de la Ley de Financiamiento Universitario.",
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-docentes-de-universidades-nacionales-iniciaron-este-jueves-un-paro-que-se-extendera-por-siete-dias-sera-desde-hoy-hasta-el-proximo-miercoles-18-de-noviembre-el-principal-reclamo-es-qu/"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/aduns-anuncio-nuevas-jornadas-de-paro-docente-y-no-docente-en-la-uns/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Operativo preventivo de vacunación antirrábica en Bahía Blanca",
+      "breve": "La Dirección de Veterinaria y Zoonosis realiza una jornada de vacunación antirrábica gratuita para perros y gatos, tras dos casos positivos de rabia en murciélagos.",
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-operativo-preventivo-de-vacunacion-antirrabica/"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/operativo-preventivo-de-vacunacion-antirrabica/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "ARBA: vence la primera etapa del plan de pagos con descuentos",
+      "breve": "Este viernes 13 de noviembre finaliza la primera etapa del plan de pagos de ARBA con bonificaciones de hasta el 40% del total de la deuda.",
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/arba-vence-la-primera-etapa-del-plan-de-pagos-con-descuentos/"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/arba-deuda-por-deuda-y-plan-por-plan-como-gozar-de-los-mayores-beneficios-de-las-facilidades-de-pago/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Olimpo empató en Mar del Plata y definirá la Reválida en Bahía",
+      "breve": "El aurinegro igualó 1 a 1 ante Kimberley en Mar del Plata, en un partido marcado por un polémico penal, y definirá la llave el martes en el Carminatti.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-5-0-18-revalida-olimpo-visita-a-kimberley-en-la-ida-de-los-cuartos-de-final"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/olimpo-logro-un-empate-milagroso-ante-kimberley-y-dejo-la-serie-abierta-n530485/"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/olimpo-rescato-un-empate-en-mar-del-plata-y-lo-definira-en-bahia/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Cortes programados de calles en Bahía Blanca para este jueves y viernes",
+      "breve": "Se anunciaron cortes de calles programados en distintos puntos de la ciudad para este jueves y viernes, incluyendo la bocacalle de Don Bosco y Rondeau.",
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-cortes-programados-de-calles-para-este-jueves-3/"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/cortes-programados-2/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Despidos en Papelera del Sur (Tornquist): dictan conciliación obligatoria",
+      "breve": "El Ministerio de Trabajo dictó la conciliación obligatoria en el conflicto de Papelera del Sur en Tornquist, ordenando reincorporar a los 160 trabajadores despedidos.",
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/tornquist-papelera-del-sur-dictaron-la-conciliacion-obligatoria-y-los-160-despedidos-deberan-volver-a-trabajar/"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/vecinos-de-tornquist-convocan-a-una-movilizacion-en-apoyo-a-los-trabajadores-de-papelera-del-sur/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Jornada de asesoramiento notarial comunitario en Bahía Blanca",
+      "breve": "Este sábado 14 de noviembre se realizará la XIV Jornada Federal de Asesoramiento Notarial Comunitario, ofreciendo información y asesoramiento gratuito a los vecinos.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/realizaran-una-jornada-de-asesoramiento-notarial-comunitario-en-bahia-blanca/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Jornada para prevenir el grooming en el mundo digital en Bahía Blanca",
+      "breve": "El Municipio de Bahía Blanca, junto a la Fundación Ser y Hacer, realizará una actividad abierta a la comunidad para prevenir el grooming y promover el cuidado digital.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/conectados-y-en-familia-una-jornada-para-prevenir-el-grooming-y-promover-el-cuidado-en-el-mundo-digital/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Robaron herramientas de una vivienda en el barrio 5 de Abril",
+      "breve": "Un vecino del barrio 5 de Abril sufrió el robo de herramientas y otros elementos de valor de su vivienda en calle Cabildo 55.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/robaron-herramientas-y-otros-elementos-de-una-vivienda-en-el-barrio-5-de-abril/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Tres aprehendidos por intentar usurpar una vivienda en Undiano al 1500",
+      "breve": "Tres personas fueron aprehendidas tras ser sorprendidas cambiando la cerradura para usurpar una vivienda en calle Undiano al 1500.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-15-16-0-tres-aprehendidos-tras-ser-sorprendidos-cambiando-la-cerradura-para-usurpar-una-vivienda"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Detuvieron a tres personas en controles en pensiones de Soler y Lavalle",
+      "breve": "Tres personas fueron detenidas luego de controles realizados en pensiones ubicadas en las calles Soler y Lavalle.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-14-2-0-detuvieron-a-tres-personas-luego-de-controles-en-pensiones-de-calle-soler-y-lavalle"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "CD: buscan dejar sin efecto despidos de personal del ex IOSFA",
+      "breve": "El Concejo Deliberante aprobó un proyecto para dejar sin efecto los despidos y desvinculaciones del personal del ex IOSFA.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-12-32-0-cd-se-pretende-dejar-sin-efecto-los-despidos-y-desvinculaciones-del-personal-del-ex-iosfa"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Aumentan jubilaciones y asignaciones de ANSES en diciembre",
+      "breve": "La difusión del índice de precios de octubre activa el nuevo incremento de los haberes para jubilados, pensiones y otros beneficios que paga ANSES en diciembre.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-17-3-0-tras-conocerse-el-dato-de-inflacion-cuanto-aumentaran-jubilaciones-y-asignaciones-de-anses-en-diciembre"
+        },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/aumenta-la-auh-de-anses-cuanto-cobrarian-los-beneficiarios-de-la-asignacion-en-diciembre-2026/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "La actividad textil cayó más de 20% en el año, con 29.000 empleos perdidos",
+      "breve": "La actividad textil en el país sufrió una caída superior al 20% en el año, resultando en la pérdida de más de 29.000 puestos de trabajo.",
+      "fuentes": [
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/la-actividad-textil-cayo-mas-de-20-en-el-ano-y-ya-se-perdieron-mas-de-29-000-puestos-de-trabajo/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Críticas a la reforma de la Ley de Salud Mental: la ven como una restricción",
+      "breve": "Trabajadores sociales cuestionaron los cambios que promueve el gobierno a la Ley de Salud Mental, que ya obtuvieron media sanción en el Senado, reclamando mayor presupuesto.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-8-54-0-criticas-a-la-reforma-de-la-ley-de-salud-mental-la-entendemos-como-una-restriccion"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Scaloni renovó como entrenador de la Selección Argentina hasta 2030",
+      "breve": "Lionel Scaloni confirmó su continuidad al frente de la Selección Argentina hasta 2030, anunciando que dirigirá su tercer Mundial.",
+      "fuentes": [
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/scaloni-renovo-hasta-2030-y-se-emociono-al-anunciar-su-continuidad-en-la-seleccion-n530478/"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/la-seleccion-argentina-anuncio-la-renovacion-de-lionel-scaloni-como-entrenador/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-15-20-0-la-emocion-de-scaloni-al-confirmar-su-continuidad-en-la-seleccion-esto-me-llena"
+        }
+      ]
+    }
+  ],
+  "diarios": [
+    {
+      "medio": "Clarín",
+      "url": "https://www.clarin.com"
+    },
+    {
+      "medio": "La Nación",
+      "url": "https://www.lanacion.com.ar"
+    },
+    {
+      "medio": "Infobae",
+      "url": "https://www.infobae.com"
+    },
+    {
+      "medio": "Perfil",
+      "url": "https://www.perfil.com"
+    },
+    {
+      "medio": "Ámbito",
+      "url": "https://www.ambito.com"
+    },
+    {
+      "medio": "El Cronista",
+      "url": "https://www.cronista.com"
+    }
+  ],
+  "diarios_locales": [
+    {
+      "medio": "La Nueva",
+      "url": "https://www.lanueva.com"
+    },
+    {
+      "medio": "La Brújula 24",
+      "url": "https://www.labrujula24.com"
+    },
+    {
+      "medio": "360 Más Noticias",
+      "url": "https://360masnoticias.com"
+    },
+    {
+      "medio": "Frente a Cano",
+      "url": "https://frenteacano.com.ar"
+    },
+    {
+      "medio": "BVC Noticias",
+      "url": "https://www.bvcnoticias.com.ar"
+    },
+    {
+      "medio": "De la Bahía Noticias",
+      "url": "https://www.delabahia.com.ar"
+    },
+    {
+      "medio": "Ingeniero White",
+      "url": "https://www.ingenierowhite.com"
+    }
+  ],
+  "control": {
+    "titulares_leidos": 148,
+    "titulares_nuevos": 46,
+    "por_medio": {
+      "Infobae": 10,
+      "Ingeniero White": 10,
+      "La Nación": 10,
+      "BVC Noticias": 10,
+      "La Brújula 24": 10,
+      "La Nueva": 30,
+      "Perfil": 10,
+      "Clarín": 10,
+      "El Cronista": 10,
+      "Ámbito": 10,
+      "360 Más Noticias": 9,
+      "Frente a Cano": 10,
+      "De la Bahía Noticias": 7
+    },
+    "medios_sin_notas": [],
+    "notas": [
+      {
+        "orden": 1,
+        "titulo": "Alerta naranja por tormentas en Bahía Blanca: clases suspendidas y precaución",
+        "rol": "titular",
+        "conservada": false,
+        "puntaje": 10,
+        "motivo": "Impacto directo e inmediato en la seguridad, servicios y educación de Bahía Blanca."
+      },
+      {
+        "orden": 2,
+        "titulo": "Un niño bahiense de 5 años murió ahogado en una pileta en Villarino",
+        "rol": "titular",
+        "conservada": true,
+        "puntaje": 9,
+        "motivo": "Tragedia local con alto impacto emocional en la comunidad."
+      },
+      {
+        "orden": 3,
+        "titulo": "Inflación de octubre: 2,2% a nivel nacional y 2,6% en Bahía Blanca",
+        "rol": "titular",
+        "conservada": false,
+        "puntaje": 9,
+        "motivo": "Impacto directo en el bolsillo de todos los vecinos, con dato específico para la región."
+      },
+      {
+        "orden": 4,
+        "titulo": "Corte de agua programado en General Cerri por obras en el acueducto",
+        "rol": "titular",
+        "conservada": true,
+        "puntaje": 8,
+        "motivo": "Afecta directamente un servicio esencial para los vecinos de Bahía Blanca y Cerri."
+      },
+      {
+        "orden": 5,
+        "titulo": "El empleo privado registrado suma 15 meses de caída en el país",
+        "rol": "titular",
+        "conservada": false,
+        "puntaje": 8,
+        "motivo": "Indicador económico clave que afecta directamente el trabajo y las perspectivas laborales de los argentinos."
+      }
+    ],
+    "avisos": [
+      "Resumen largo (528) en: Alerta naranja por tormentas en Bahía Blanca: clas"
+    ]
+  }
+}
