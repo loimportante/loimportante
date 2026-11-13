@@ -1,76 +1,50 @@
 {
   "fecha": "Viernes 13 de noviembre de 2026",
-  "actualizado": "08:01",
+  "actualizado": "09:11",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Clima",
-      "titulo": "Alerta naranja por tormentas en Bahía Blanca: suspendieron las clases y piden precaución",
+      "titulo": "Alerta naranja por tormentas y suspensión de clases en Bahía Blanca y la región",
       "resumen": [
-        "El Servicio Meteorológico Nacional mantiene el alerta naranja por tormentas fuertes y severas para Bahía Blanca y la región hasta la tarde de hoy. Se esperan lluvias intensas, granizo y ráfagas de viento de hasta 90 km/h.",
-        "Debido a esto, se suspendieron las clases presenciales en todos los niveles y turnos, tanto en establecimientos públicos como privados, incluyendo la UNS. Se recomienda extremar precauciones y evitar salir si no es necesario."
+        "El Servicio Meteorológico Nacional emitió una alerta naranja por tormentas fuertes para Bahía Blanca y la zona, con previsión de intensas precipitaciones, ráfagas y granizo.",
+        "Como medida de precaución, las autoridades educativas resolvieron suspender las clases presenciales durante todo el viernes en establecimientos de gestión pública y privada, esquema al que también se sumaron las universidades locales."
       ],
       "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/continua-el-alerta-naranja-hasta-la-tarde-para-bahia-y-la-region-y-se-suspendieron-las-clases-en-todos-los-turnos/"
-        },
         {
           "medio": "La Nueva",
           "url": "https://www.lanueva.com/nota/2026-11-12-21-52-0-por-las-condiciones-climaticas-no-habra-clases-presenciales-este-viernes-en-bahia-y-la-region"
         },
         {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/alerta-naranja-por-tormentas-suspendieron-clases-en-bahia-blanca-y-la-region/"
+        },
+        {
           "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-el-smn-elevo-a-naranja-la-alerta-por-tormentas-fuertes-podrian-caer-hasta-90-milimetros/"
+          "url": "https://360masnoticias.com/por-la-alerta-naranja-suspenden-las-clases-presenciales-este-viernes-en-bahia-blanca-y-la-region/"
         }
       ]
     },
     {
       "categoria": "Economía",
-      "titulo": "La inflación de octubre fue del 2,2% y acumula 33,1% en los últimos doce meses",
+      "titulo": "La inflación fue del 2,2% en octubre impulsada por tarifas y alquileres",
       "resumen": [
-        "El Instituto Nacional de Estadísticas y Censos (Indec) informó que la inflación de octubre alcanzó el 2,2%, acelerándose por segundo mes consecutivo. Este dato lleva el acumulado interanual a 33,1%.",
-        "Los rubros que más aumentaron fueron vivienda, agua, electricidad, gas y otros combustibles, impulsados por subas en tarifas y alquileres. Los alimentos también registraron incrementos, principalmente en verduras."
+        "El Instituto Nacional de Estadística y Censos informó que la inflación de octubre alcanzó el 2,2%, registrando una aceleración respecto de los meses previos.",
+        "El rubro de vivienda, agua, electricidad y gas encabezó las subas con un incremento del 4,2% por ajustes en servicios y alquileres, mientras que los alimentos subieron un 2% y la inflación núcleo se ubicó en 1,5%."
       ],
       "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses/"
-        },
         {
           "medio": "360 Más Noticias",
           "url": "https://360masnoticias.com/la-inflacion-se-acelero-al-22-en-octubre-y-alcanzo-su-mayor-nivel-en-seis-meses/"
-        },
-        {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/12/hoy-se-conoce-el-dato-de-inflacion-de-octubre-que-numero-esperan-los-especialistas/"
         }
       ]
     },
     {
-      "categoria": "Economía",
-      "titulo": "Aprobaron dos grandes proyectos de gas por más de 3.200 millones de dólares",
+      "categoria": "Bahía Blanca",
+      "titulo": "El Municipio adjudicó las obras para reparar el Paso Urbano",
       "resumen": [
-        "El Gobierno dio luz verde a dos importantes proyectos de gas en el marco del Régimen de Incentivo a Grandes Inversiones (RIGI), que suman más de 3.200 millones de dólares. Ambos están destinados al tratamiento, fraccionamiento y exportación de gas.",
-        "Uno de los proyectos contempla gasoductos y una planta en Tratayén, mientras que el otro incluye un poliducto de 577 kilómetros que llegará hasta Bahía Blanca. Se espera que impulsen la producción interna y las exportaciones."
-      ],
-      "fuentes": [
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/energia/rigi-aprueban-dos-proyectos-gas-mas-us3200-millones-procesar-y-exportar-liquidos-n6344764"
-        },
-        {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/negocios/mindlin-consigue-luz-verde-oficial-para-avanzar-con-dos-rigi-por-mas-de-us-3200-millones/"
-        }
-      ]
-    },
-    {
-      "categoria": "Servicios",
-      "titulo": "El Municipio adjudicó la reparación del Paso Urbano en la Ruta 33",
-      "resumen": [
-        "La Municipalidad de Bahía Blanca adjudicó a la empresa Ingeniería y Arquitectura S.R.L. la obra de reparación y mantenimiento vial del Paso Urbano, sobre la Ruta Nacional 33. Los trabajos comenzarán dentro de los próximos 30 días.",
-        "La obra abarca 7,5 kilómetros de la Ruta 33, desde el cruce de El Cholo hasta Bosque Alto. La inversión será financiada con recursos municipales y del Consorcio de Gestión del Puerto, buscando mejorar una vía clave para la ciudad."
+        "La Municipalidad de Bahía Blanca adjudicó a la empresa Ingeniería y Arquitectura S.R.L. la reparación y mantenimiento de 7,5 kilómetros de la Ruta Nacional 33, en el sector comprendido entre El Cholo y Bosque Alto.",
+        "Los trabajos iniciarán dentro de los próximos 30 días y contarán con financiamiento compartido entre fondos comunales y el Consorcio de Gestión del Puerto."
       ],
       "fuentes": [
         {
@@ -78,26 +52,56 @@
           "url": "https://www.lanueva.com/nota/2026-11-12-19-8-0-el-municipio-adjudico-la-reparacion-del-paso-urbano-la-obra-comenzara-dentro-de-los-proximos-30-dias"
         },
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/el-municipio-adjudico-la-reparacion-del-paso-urbano/"
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/en-un-mes-comenzaran-las-mejoras-en-el-paso-urbano-frente-al-desamparo-elegimos-hacernos-cargo/"
         },
         {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/12/frente-al-desamparo-elegimos-hacernos-cargo-el-municipio-adjudico-la-reparacion-del-paso-urbano/"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/el-municipio-adjudico-la-reparacion-del-paso-urbano/"
         }
       ]
     },
     {
-      "categoria": "Sociedad",
-      "titulo": "Tragedia en Villarino: un niño bahiense de 5 años murió ahogado en una pileta",
+      "categoria": "Política",
+      "titulo": "El Gobierno nacional licitará 27 tramos de rutas para concesionarlos a privados",
       "resumen": [
-        "Un niño de 5 años, oriundo de Bahía Blanca, falleció ahogado en una pileta en un campo cercano a Hilario Ascasubi, en el partido de Villarino. El hecho ocurrió mientras el pequeño estaba de paseo con su padre en el lugar donde trabaja su abuelo.",
-        "La familia del menor está solicitando colaboración para afrontar los gastos derivados de esta trágica pérdida."
+        "A través del Decreto 1358/2026, el Ejecutivo nacional amplió la Red Federal de Concesiones y fijó un plazo de 12 meses para licitar más de 25 tramos viales del país.",
+        "El modelo proyectado traspasa la operación, el arreglo y el mantenimiento de las calzadas a empresas privadas, quienes financiarán las tareas mediante el cobro de peajes."
       ],
       "fuentes": [
         {
+          "medio": "Perfil",
+          "url": "https://perfil.com/economia/el-gobierno-amplia-las-concesiones-privadas-de-27-rutas-nacionales-a40-aGQ2v0c49TOS"
+        },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/caputo-avanza-con-la-privatizacion-de-las-rutas-nacionales-suma-27-tramos-a-licitar-en-un-ano/"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/el-gobierno-habilito-nuevas-licitaciones-para-concesionar-mas-de-25-tramos-de-rutas-nacionales/"
+        }
+      ]
+    },
+    {
+      "categoria": "Seguridad",
+      "titulo": "Detuvieron a sospechosos de asaltos en barrio Patagonia tras una persecución",
+      "resumen": [
+        "Un operativo cerrojo que inició en las calles céntricas de Bahía Blanca y culminó en la localidad de Médanos terminó con dos personas detenidas y un auto secuestrado.",
+        "Los acusados están vinculados a recientes robos en viviendas del barrio Patagonia. Durante la fuga a bordo del vehículo, atropellaron a un motociclista que resultó herido pero quedó fuera de peligro."
+      ],
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-persecucion-policial-un-choque-y-dos-detenidos-tras-una-fuga-por-las-calles-de-bahia/"
+        },
+        {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-20-7-0-tragedia-en-villarino-un-nene-bahiense-de-5-anos-murio-ahogado-en-una-pileta"
+          "url": "https://www.lanueva.com/nota/2026-11-13-6-24-0-persecucion-en-el-centro-de-la-ciudad-culmina-con-un-detenido-y-un-auto-secuestrado"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/atropellaron-a-un-motociclista-durante-una-persecucion-y-uno-de-los-delincuentes-fue-atrapado/"
         }
       ]
     }
