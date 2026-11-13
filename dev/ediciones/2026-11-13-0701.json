@@ -1,0 +1,641 @@
+{
+  "id": "2026-11-13-0701",
+  "fecha": "Viernes 13 de noviembre de 2026",
+  "actualizado": "07:01",
+  "publicada": "2026-11-13T07:01:01.079-03:00",
+  "notas": [
+    {
+      "categoria": "Clima",
+      "ambito": "local",
+      "titulo": "Alerta naranja por tormentas en Bahía Blanca: clases suspendidas y precaución",
+      "resumen": [
+        "El Servicio Meteorológico Nacional elevó a naranja la alerta por tormentas fuertes para este viernes en Bahía Blanca y la región. Se esperan fenómenos severos con abundante caída de agua, granizo y ráfagas de viento que podrían superar los 90 kilómetros por hora.",
+        "De manera preventiva, se suspendieron las clases en todas las instituciones educativas públicas y privadas, y se restringió la circulación en espacios públicos. Las lluvias y tormentas comenzarían en la noche del jueves y se extenderían hasta la tarde del viernes."
+      ],
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-el-smn-elevo-a-naranja-la-alerta-por-tormentas-fuertes-podrian-caer-hasta-90-milimetros/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-18-17-0-ratifican-el-alerta-amarillo-para-esta-noche-y-emiten-un-alerta-naranja-para-la-tarde-y-noche-del-viernes"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/alerta-naranja-por-tormentas-para-este-viernes-13-de-noviembre-clases-suspendidas-y-circulacion-restringida-en-espacios-publicos/"
+        }
+      ]
+    },
+    {
+      "categoria": "Servicios",
+      "ambito": "local",
+      "titulo": "Corte de agua programado en General Cerri por obras en el acueducto",
+      "resumen": [
+        "Este viernes se interrumpirá el servicio de agua en General Cerri a partir de las 8 de la mañana y hasta horas de la tarde. La medida se debe a la continuidad de los trabajos en el acueducto a la altura de la Ruta 3 y el acceso a la localidad.",
+        "ABSA realizará trabajos programados que afectarán el suministro. Se recomienda a los vecinos tomar las previsiones necesarias para minimizar el impacto del corte."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-16-20-0-acueducto-en-cerri-por-la-continuidad-de-los-trabajos-este-viernes-se-interrumpira-el-servicio-de-agua"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-que-afectaran-el-suministro-de-agua-en-bahia-blanca-y-general-cerri/"
+        }
+      ]
+    },
+    {
+      "categoria": "Economía",
+      "ambito": "nacional",
+      "titulo": "Inflación de octubre: 2,2% a nivel nacional y 2,6% en Bahía Blanca",
+      "resumen": [
+        "El INDEC informó que la inflación de octubre fue del 2,2% a nivel nacional, acumulando un 33,1% interanual. La cifra muestra una aceleración respecto al mes anterior.",
+        "En la región que incluye a Bahía Blanca, el incremento de precios fue del 2,6%. Una familia tipo necesitó $1.690.000 en octubre para no ser pobre, según los datos oficiales."
+      ],
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses/"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/la-inflacion-volvio-a-superar-el-2-en-octubre-n530481/"
+        },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/canasta-basica-una-familia-tipo-necesito-1690000-en-octubre-para-no-ser-pobre/"
+        }
+      ]
+    },
+    {
+      "categoria": "Educación",
+      "ambito": "local",
+      "titulo": "Docentes de la UNS inician paro de siete días por reclamos salariales",
+      "resumen": [
+        "Docentes de universidades nacionales, incluyendo la Universidad Nacional del Sur (UNS) en Bahía Blanca, iniciaron este jueves un paro que se extenderá por siete días, hasta el próximo miércoles 18 de noviembre. La medida de fuerza fue convocada por ADUNS.",
+        "El principal reclamo es que el Gobierno de Javier Milei cumpla con la Ley de Financiamiento Universitario. Este paro afectará el dictado de clases en la UNS y en las escuelas dependientes de la casa de altos estudios."
+      ],
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-docentes-de-universidades-nacionales-iniciaron-este-jueves-un-paro-que-se-extendera-por-siete-dias-sera-desde-hoy-hasta-el-proximo-miercoles-18-de-noviembre-el-principal-reclamo-es-qu/"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/aduns-anuncio-nuevas-jornadas-de-paro-docente-y-no-docente-en-la-uns/"
+        }
+      ]
+    },
+    {
+      "categoria": "Economía",
+      "ambito": "nacional",
+      "titulo": "El empleo privado registrado suma 15 meses de caída en el país",
+      "resumen": [
+        "El mercado laboral argentino registró 15 meses consecutivos de caída en el empleo privado registrado, según los últimos datos oficiales del Sistema Integrado Previsional Argentino (SIPA).",
+        "A pesar de 82.000 contrataciones con beneficios de la reforma laboral, el sector privado perdió 37.800 asalariados registrados en los primeros cuatro meses del régimen."
+      ],
+      "fuentes": [
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/el-mercado-laboral-suma-15-meses-de-caida-del-empleo-privado-que-dicen-los-ultimos-datos-oficiales/"
+        },
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/hubo-82000-contrataciones-con-beneficios-de-la-reforma-laboral-pero-el-empleo-privado-registrado-nid12112026/"
+        },
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/economia/el-empleo-asalariado-privado-sumo-15-meses-seguidos-baja-mientras-el-monotributo-anoto-su-mayor-alza-dos-anos-n6344697"
+        }
+      ]
+    }
+  ],
+  "resto": [
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Tragedia en Villarino: nene bahiense de 5 años murió ahogado en una pileta",
+      "breve": "El pequeño estaba de paseo con su padre en un campo donde trabaja su abuelo, a unos cuatro kilómetros de Hilario Ascasubi.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-20-7-0-tragedia-en-villarino-un-nene-bahiense-de-5-anos-murio-ahogado-en-una-pileta"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Persecución en Bahía Blanca: un detenido y auto secuestrado",
+      "breve": "Una persecución que comenzó en el centro de la ciudad culminó cerca de Médanos, con un detenido y un auto secuestrado.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-13-6-24-0-persecucion-en-el-centro-de-la-ciudad-culmina-con-un-detenido-y-un-auto-secuestrado"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/13/un-persecucion-que-empezo-en-centro-termino-cerca-de-medanos-un-detenido-n530547/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Cayeron tres hombres en operativo antidrogas en barrio Evita",
+      "breve": "Se hizo un allanamiento en una vivienda del barrio Evita donde se secuestró marihuana, una balanza de precisión, elementos de fraccionamiento y municiones calibre 22.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-22-31-0-cayeron-tres-hombres-en-un-operativo-antidrogas"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Denuncian cucarachas en la Escuela Secundaria N° 21 de Bahía Blanca",
+      "breve": "El planteo apunta a la Escuela Secundaria N° 21, ubicada en calle Zapiola, y reclaman medidas sanitarias.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-22-4-0-denuncian-la-presencia-de-cucarachas-en-una-escuela-de-bahia-y-reclaman-medidas-sanitarias"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Cortes de calles programados en Bahía Blanca por trabajos de bacheo",
+      "breve": "Habrá interrupciones totales y reducciones de calzada en distintos puntos de la ciudad por trabajos de bacheo y un acto educativo, con un corte que se extenderá durante 20 días.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-21-36-0-cuales-son-las-calles-cortadas-y-que-sectores-estaran-afectados-durante-los-proximos-dias"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/cortes-programados-2/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Tres aprehendidos por intentar usurpar una vivienda en calle Undiano",
+      "breve": "El hecho ocurrió en calle Undiano al 1500, donde tres personas fueron sorprendidas cambiando la cerradura para usurpar una vivienda.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-15-16-0-tres-aprehendidos-tras-ser-sorprendidos-cambiando-la-cerradura-para-usurpar-una-vivienda"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Detuvieron a tres personas tras controles en pensiones de calle Soler y Lavalle",
+      "breve": "Fueron identificados como Rodrigo Manuel Vargas, de 42 años, Matías Rubén Spinelli, de 18, y Matías Ezequiel Díaz Inacovich, de 20.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-14-2-0-detuvieron-a-tres-personas-luego-de-controles-en-pensiones-de-calle-soler-y-lavalle"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Concejo Deliberante busca dejar sin efecto despidos del ex IOSFA",
+      "breve": "El proyecto se aprobó por el apoyo de la mayoría de los concejales, buscando dejar sin efecto los despidos y desvinculaciones del personal del ex IOSFA.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-12-32-0-cd-se-pretende-dejar-sin-efecto-los-despidos-y-desvinculaciones-del-personal-del-ex-iosfa"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Detuvieron a un joven por robo de celular tras saltar un paredón",
+      "breve": "Tomás Nahuel Figueroa, de 27 años, también es investigado por una supuesta vinculación con otros hechos similares en la ciudad.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-15-36-0-detuvieron-a-un-joven-tras-saltar-un-paredon-y-robar-un-celular"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Absolvieron a un hombre acusado de intervenir en un asalto en Bahía Blanca",
+      "breve": "No se probó que Gabriel Bonomo haya intervenido en el hecho ocurrido a mediados de 2023.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-11-59-0-absolvieron-a-un-hombre-que-estaba-acusado-de-intervenir-en-un-asalto"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Robaron herramientas y otros elementos de una vivienda en el barrio 5 de Abril",
+      "breve": "Un vecino del barrio 5 de Abril sufrió un robo en su vivienda de calle Cabildo 55, donde desconocidos ingresaron durante la madrugada de este jueves.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/robaron-herramientas-y-otros-elementos-de-una-vivienda-en-el-barrio-5-de-abril/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Jornada de asesoramiento notarial comunitario en Bahía Blanca",
+      "breve": "Este sábado 14 de noviembre se llevará adelante la XIV Jornada Federal de Asesoramiento Notarial Comunitario, que busca acercar información y asesoramiento gratuito a los vecinos.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/realizaran-una-jornada-de-asesoramiento-notarial-comunitario-en-bahia-blanca/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Jornada para prevenir el grooming y promover el cuidado digital en Bahía Blanca",
+      "breve": "En el marco del Día Nacional de la Lucha contra el Grooming, el Municipio de Bahía Blanca, junto a la Fundación Ser y Hacer, realizará una actividad abierta a toda la comunidad.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/conectados-y-en-familia-una-jornada-para-prevenir-el-grooming-y-promover-el-cuidado-en-el-mundo-digital/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Dictaron conciliación obligatoria en Papelera del Sur de Tornquist",
+      "breve": "El Ministerio de Trabajo de la Provincia de Buenos Aires dictó la conciliación obligatoria en el conflicto por el cierre de Papelera del Sur, ordenando reincorporar a los 160 despedidos.",
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/tornquist-papelera-del-sur-dictaron-la-conciliacion-obligatoria-y-los-160-despedidos-deberan-volver-a-trabajar/"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/vecinos-de-tornquist-convocan-a-una-movilizacion-en-apoyo-a-los-trabajadores-de-papelera-del-sur/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Dos hombres aprehendidos tras incidentes en pollería de barrio Moresino",
+      "breve": "Dos hombres fueron aprehendidos por la Policía luego de protagonizar un episodio de violencia en una pollería ubicada en Brickman al 3200.",
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-dos-hombres-fueron-aprehendidos-tras-protagonizar-incidentes-en-una-polleria-de-barrio-moresino/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "ARBA: vence la primera etapa del plan de pagos con descuentos",
+      "breve": "La Agencia de Recaudación de la provincia de Buenos Aires recordó que este viernes 13 de noviembre finaliza la primera etapa del plan de pagos con bonificaciones de hasta el 40% del total de la deuda.",
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/arba-vence-la-primera-etapa-del-plan-de-pagos-con-descuentos/"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/arba-deuda-por-deuda-y-plan-por-plan-como-gozar-de-los-mayores-beneficios-de-las-facilidades-de-pago/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "ANSES: quiénes cobran hoy, viernes 13 de noviembre de 2026",
+      "breve": "El cronograma oficial fija las fechas según el último dígito del documento y detalla los nuevos montos para jubilaciones, AUH, asignaciones familiares y más beneficios.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/13/anses-quienes-cobran-hoy-viernes-13-de-noviembre-de-2026/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Javier Milei ante empresas: “Lo único que le faltaba al país eran reglas claras”",
+      "breve": "El Presidente defendió la apertura económica y fijó una meta ambiciosa: llegar al 90% de la población mundial para 2031.",
+      "fuentes": [
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-lo-unico-que-le-faltaba-al-pais-eran-reglas-claras-dijo-el-nid13112026/"
+        },
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/politica/javier-milei-defendio-el-impacto-sus-medidas-y-afirmo-abrimos-500-mercados-y-llegamos-al-30-del-planeta-n6344722"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Investigación internacional confirma origen patagónico de brote de hantavirus",
+      "breve": "Se publicaron dos estudios en la revista Science que confirman que el contagio inicial ocurrió en la Patagonia argentina, en un crucero que conmocionó al mundo.",
+      "fuentes": [
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/sociedad/exhaustiva-investigacion-internacional-el-caso-13-clave-en-el-brote-de-hantavirus-en-un-crucero-que-nid12112026/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Estudiantes ganó la Supercopa Argentina y levantó el vigésimo título",
+      "breve": "El “Pincha” se impuso ante Independiente Rivadavia en Córdoba, y ahora va por la Copa Libertadores.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-22-58-0-estudiantes-gano-la-supercopa-argentina-y-levanto-el-vigesimo-titulo-de-su-historia"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/estudiantes-se-quedo-con-la-supercopa-argentina-n530535/"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/estudiantes-se-quedo-con-la-supercopa-argentina/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "La Selección Argentina se enfrenta con Uruguay en fecha FIFA",
+      "breve": "El encuentro será este viernes a partir de las 20 en La Bombonera, en un interesante desafío en el inicio de la fecha FIFA.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-13-5-0-43-la-seleccion-argentina-se-enfrenta-con-uruguay-en-un-interesante-desafio-en-el-inicio-de-la-fecha-fifa"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Confirmada la salida de Walter Samuel de la Selección argentina",
+      "breve": "El ex defensor dejará de ser ayudante de campo para hacer su carrera como entrenador, lo que plantea qué planea hacer Scaloni.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-18-21-0-se-confirmo-la-salida-de-walter-samuel-de-la-seleccion-argentina-que-planea-hacer-scaloni"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Ingresos Brutos profundiza su caída y arrastra a la recaudación provincial",
+      "breve": "La caída de la actividad es el denominador común detrás de la menor recaudación, con solo cinco jurisdicciones registrando crecimiento en términos reales.",
+      "fuentes": [
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/ingresos-brutos-profundiza-su-caida-y-arrastra-a-la-recaudacion-las-provincias-que-mas-lo-sienten/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "El consumo se prepara para Navidad: claves para stocks y márgenes",
+      "breve": "Las campañas de descuentos pueden concentrar en pocos días el equivalente a semanas de ventas, lo que genera tensión en el abastecimiento.",
+      "fuentes": [
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/el-consumo-se-prepara-para-navidad-el-nuevo-cuello-de-botella-y-las-claves-para-stocks-y-margenes/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Tiempo límite para regularizar Ganancias y mantener beneficios de Inocencia Fiscal",
+      "breve": "El lunes 16 de noviembre vence el plazo para presentar la declaración jurada 2025, con condiciones específicas que deben cumplir los contribuyentes.",
+      "fuentes": [
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/tiempo-limite-como-regularizar-ganancias-y-mantener-los-beneficios-de-inocencia-fiscal/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Zonas Frías: un gesto político “caro” en materia de inflación",
+      "breve": "La medida será cobrada en el Congreso, siendo un gesto político con impacto en la inflación.",
+      "fuentes": [
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/columnistas/zonas-frias-un-gesto-politico-caro-en-materia-de-inflacion-que-sera-cobrado-en-el-congreso/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "El Gobierno anunció nuevas licitaciones para concesionar 27 tramos de rutas",
+      "breve": "La medida se anunció a través del decreto N° 1358/2026 publicado en el Boletín Oficial, alcanzando a varias provincias.",
+      "fuentes": [
+        {
+          "medio": "Perfil",
+          "url": "https://perfil.com/politica/el-gobierno-anuncio-nuevas-licitaciones-para-concesionar-27-tramos-de-rutas-nacionales-a-que-provincias-alcanza-esta-medida-aEwui5p6aIXG"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Profesor de rugby golpeó a un hombre por mirar a su pareja",
+      "breve": "El agresor le gritaba a su víctima mientras la golpeaba: \"¿Está bien así, o querés que siga? Pedí disculpas\".",
+      "fuentes": [
+        {
+          "medio": "Perfil",
+          "url": "https://perfil.com/sociedad/profesor-de-rugby-acuso-a-un-hombre-de-mirar-a-su-pareja-y-le-pego-mas-de-10-trompadas-en-la-cara-antes-de-escapar-en-su-camioneta-awdjU9U49ucl"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Encuesta regional: ¿Cómo quedó Milei y quién perdió más imagen?",
+      "breve": "Una encuesta regional con 51.350 casos comparó la imagen de 18 mandatarios y movió varios casilleros de la tabla respecto de octubre.",
+      "fuentes": [
+        {
+          "medio": "Perfil",
+          "url": "https://perfil.com/politica/una-encuesta-midio-a-18-presidentes-latinoamericanos-como-quedo-milei-y-quien-perdio-mas-imagen-anLM40g4SgCs"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Caso Loan: “Era imposible encontrarlo si no se sabía que estaba ahí”",
+      "breve": "Un policía declaró sobre el botín del nene, indicando que era imposible encontrarlo sin esa información.",
+      "fuentes": [
+        {
+          "medio": "Perfil",
+          "url": "https://perfil.com/sociedad/caso-loan-era-imposible-encontrarlo-si-no-se-sabia-que-estaba-ahi-declaro-un-policia-sobre-el-botin-del-nene-aems25S0yUxp"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Oro: la AGN prepara dura auditoría sobre envíos al exterior",
+      "breve": "La Auditoría General de la Nación recibió la respuesta del BCRA y prepara una dura auditoría sobre los envíos de oro al exterior.",
+      "fuentes": [
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/politica/oro-la-agn-recibio-la-respuesta-del-bcra-y-prepara-una-dura-auditoria-los-envios-al-exterior-n6344725"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Funcionario bonaerense pidió revisar políticas sobre jubilaciones y discapacidad",
+      "breve": "El jefe de Gabinete de la provincia de Buenos Aires, Carlos Bianco, afirmó que el mensaje del papa León XIV impulsa esta revisión.",
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/funcionario-bonaerense-pidio-revisar-las-politicas-sobre-jubilaciones-discapacidad-y-empleo/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Buscan que imputados por accidentes de tránsito no puedan conducir en la provincia",
+      "breve": "La diputada del PRO, Laura Ricchini, busca habilitar a los jueces a quitar licencias de conducir a personas imputadas por accidentes de tránsito.",
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/buscan-que-los-imputados-por-accidentes-de-transito-no-puedan-conducir-en-la-provincia/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "La actividad textil cayó más de 20% en el año y se perdieron 29.000 puestos",
+      "breve": "",
+      "fuentes": [
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/la-actividad-textil-cayo-mas-de-20-en-el-ano-y-ya-se-perdieron-mas-de-29-000-puestos-de-trabajo/"
+        }
+      ]
+    }
+  ],
+  "diarios": [
+    {
+      "medio": "Clarín",
+      "url": "https://www.clarin.com"
+    },
+    {
+      "medio": "La Nación",
+      "url": "https://www.lanacion.com.ar"
+    },
+    {
+      "medio": "Infobae",
+      "url": "https://www.infobae.com"
+    },
+    {
+      "medio": "Perfil",
+      "url": "https://www.perfil.com"
+    },
+    {
+      "medio": "Ámbito",
+      "url": "https://www.ambito.com"
+    },
+    {
+      "medio": "El Cronista",
+      "url": "https://www.cronista.com"
+    }
+  ],
+  "diarios_locales": [
+    {
+      "medio": "La Nueva",
+      "url": "https://www.lanueva.com"
+    },
+    {
+      "medio": "La Brújula 24",
+      "url": "https://www.labrujula24.com"
+    },
+    {
+      "medio": "360 Más Noticias",
+      "url": "https://360masnoticias.com"
+    },
+    {
+      "medio": "Frente a Cano",
+      "url": "https://frenteacano.com.ar"
+    },
+    {
+      "medio": "BVC Noticias",
+      "url": "https://www.bvcnoticias.com.ar"
+    },
+    {
+      "medio": "De la Bahía Noticias",
+      "url": "https://www.delabahia.com.ar"
+    },
+    {
+      "medio": "Ingeniero White",
+      "url": "https://www.ingenierowhite.com"
+    }
+  ],
+  "control": {
+    "titulares_leidos": 149,
+    "titulares_nuevos": 70,
+    "por_medio": {
+      "Infobae": 10,
+      "La Nación": 10,
+      "La Nueva": 30,
+      "La Brújula 24": 10,
+      "Frente a Cano": 10,
+      "Clarín": 10,
+      "BVC Noticias": 10,
+      "El Cronista": 10,
+      "Perfil": 10,
+      "Ámbito": 10,
+      "360 Más Noticias": 9,
+      "Ingeniero White": 10,
+      "De la Bahía Noticias": 7
+    },
+    "medios_sin_notas": [],
+    "notas": [
+      {
+        "orden": 1,
+        "titulo": "Alerta naranja por tormentas en Bahía Blanca: clases suspendidas y precaución",
+        "rol": "titular",
+        "conservada": true,
+        "puntaje": 10,
+        "motivo": "Impacto directo y masivo en la vida diaria de los bahienses (seguridad, educación, movilidad) para hoy."
+      },
+      {
+        "orden": 2,
+        "titulo": "Corte de agua programado en General Cerri por obras en el acueducto",
+        "rol": "titular",
+        "conservada": true,
+        "puntaje": 9,
+        "motivo": "Afecta un servicio esencial en Bahía Blanca y General Cerri durante el día de hoy."
+      },
+      {
+        "orden": 3,
+        "titulo": "Inflación de octubre: 2,2% a nivel nacional y 2,6% en Bahía Blanca",
+        "rol": "titular",
+        "conservada": true,
+        "puntaje": 8,
+        "motivo": "Impacto directo en el bolsillo de todos los ciudadanos, con datos específicos para la región."
+      },
+      {
+        "orden": 4,
+        "titulo": "Docentes de la UNS inician paro de siete días por reclamos salariales",
+        "rol": "titular",
+        "conservada": true,
+        "puntaje": 8,
+        "motivo": "Afecta directamente a la comunidad educativa de Bahía Blanca por varios días."
+      },
+      {
+        "orden": 5,
+        "titulo": "El empleo privado registrado suma 15 meses de caída en el país",
+        "rol": "titular",
+        "conservada": true,
+        "puntaje": 7,
+        "motivo": "Impacto significativo en el mercado laboral y la economía familiar a nivel nacional."
+      }
+    ],
+    "avisos": [
+      "Resumen largo (528) en: Alerta naranja por tormentas en Bahía Blanca: clas",
+      "Resumen largo (473) en: Docentes de la UNS inician paro de siete días por "
+    ]
+  }
+}
