@@ -1,55 +1,54 @@
 {
   "fecha": "Jueves 12 de noviembre de 2026",
-  "actualizado": "22:02",
+  "actualizado": "22:13",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Clima",
-      "titulo": "Alerta naranja por tormentas fuertes en Bahía Blanca: clases suspendidas para este viernes",
+      "titulo": "Alerta naranja por tormentas en Bahía Blanca: suspenden clases y restringen circulación",
       "resumen": [
-        "El Servicio Meteorológico Nacional elevó a naranja la alerta por tormentas fuertes para Bahía Blanca y la región este viernes. Se esperan fenómenos severos con abundante caída de agua, posible granizo y ráfagas de viento de hasta 90 km/h. Por precaución, se suspendieron las clases en todas las instituciones educativas y se restringió la circulación en espacios públicos."
+        "El Servicio Meteorológico Nacional elevó a naranja la alerta por tormentas fuertes para este viernes en Bahía Blanca y la región. Se esperan fenómenos severos con abundante caída de agua, granizo y ráfagas de viento.",
+        "Ante esta situación, el Municipio activó medidas de prevención, ratificó la suspensión de clases en todos los niveles educativos (públicos y privados) y restringió la circulación en espacios públicos."
       ],
       "fuentes": [
         {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/12/alerta-naranja-por-tormentas-para-este-viernes-13-de-noviembre-clases-suspendidas-y-circulacion-restringida-en-espacios-publicos/"
-        },
-        {
           "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/12/suspendieron-las-clases-este-viernes-por-el-alerta-de-tormentas-n530518/"
+          "url": "https://www.labrujula24.com/notas/2026/11/12/el-municipio-activa-medidas-de-prevencion-y-descartan-un-escenario-como-el-de-la-inundacion-n530526/"
         },
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-el-smn-elevo-a-naranja-la-alerta-por-tormentas-fuertes-podrian-caer-hasta-90-milimetros/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-21-52-0-por-las-condiciones-climaticas-no-habra-clases-presenciales-este-viernes-en-bahia-y-la-region"
         }
       ]
     },
     {
       "categoria": "Economía",
-      "titulo": "La inflación de octubre fue del 2,2% y la canasta básica superó los $1.690.000",
+      "titulo": "La inflación de octubre fue del 2,2% y la canasta básica superó los $1.690.000 para no ser pobre",
       "resumen": [
-        "El INDEC informó que la inflación de octubre alcanzó el 2,2% a nivel nacional, acumulando un 33,1% interanual. Este dato muestra una aceleración respecto al mes anterior. Además, se conoció que una familia tipo necesitó ingresos por $1.690.000 en octubre para no caer bajo la línea de pobreza, marcando la mayor suba de la canasta básica en ocho meses."
+        "El INDEC informó que la inflación de octubre alcanzó el 2,2% a nivel nacional, acumulando un 33,1% interanual. Este dato impacta directamente en el poder adquisitivo de los hogares.",
+        "Una familia tipo necesitó $1.690.000 en octubre para no caer bajo la línea de pobreza, lo que representa un aumento significativo en el costo de vida."
       ],
       "fuentes": [
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses/"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/la-inflacion-volvio-a-superar-el-2-en-octubre-n530481/"
         },
         {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/economia/la-canasta-basica-trepo-35-octubre-su-mayor-suba-enero-cuanto-necesito-una-familia-no-ser-pobre-n6344587"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-15-0-0-no-logra-bajar-la-inflacion-de-octubre-llego-al-2-2-y-acumula-un-26-3-en-lo-que-va-de-2026"
         },
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/la-inflacion-se-acelero-al-22-en-octubre-y-alcanzo-su-mayor-nivel-en-seis-meses/"
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/canasta-basica-una-familia-tipo-necesito-1690000-en-octubre-para-no-ser-pobre/"
         }
       ]
     },
     {
-      "categoria": "Bahía Blanca",
-      "titulo": "Adjudicaron la reparación del Paso Urbano en Ruta 33: obras comienzan en 30 días",
+      "categoria": "Servicios",
+      "titulo": "El Municipio adjudicó la reparación del Paso Urbano en Ruta 33: obras en 30 días",
       "resumen": [
-        "El Municipio de Bahía Blanca adjudicó la obra de reparación y mantenimiento vial del Paso Urbano, que abarca 7,5 kilómetros de la Ruta Nacional 33 entre El Cholo y Bosque Alto. La inversión será de más de $2.500 millones, financiada con recursos municipales y del Consorcio de Gestión del Puerto. Los trabajos comenzarán dentro de los próximos 30 días."
+        "El Municipio de Bahía Blanca adjudicó la obra de reparación y mantenimiento vial del Paso Urbano, en la Ruta Nacional 33, entre el cruce de El Cholo y Bosque Alto.",
+        "La inversión supera los 2.500 millones de pesos, financiados con recursos municipales y del Consorcio de Gestión del Puerto. Se espera que los trabajos comiencen dentro de los próximos 30 días."
       ],
       "fuentes": [
         {
@@ -70,7 +69,8 @@
       "categoria": "Economía",
       "titulo": "Jubilaciones y asignaciones de ANSES aumentarán en diciembre tras dato de inflación",
       "resumen": [
-        "Tras la difusión del índice de inflación de octubre, se activará el nuevo incremento para jubilaciones, pensiones y otras asignaciones que paga ANSES. Este ajuste, que se aplicará en diciembre, busca compensar la suba de precios y afectará directamente los ingresos de millones de beneficiarios en todo el país."
+        "Tras conocerse el índice de inflación de octubre, se activará el nuevo incremento para jubilaciones y asignaciones de ANSES a partir de diciembre.",
+        "Este ajuste busca compensar la suba de precios y beneficiará a jubilados, pensionados y otros titulares de asignaciones que paga el organismo previsional."
       ],
       "fuentes": [
         {
@@ -84,19 +84,24 @@
       ]
     },
     {
-      "categoria": "Sociedad",
-      "titulo": "Conciliación obligatoria en Papelera del Sur de Tornquist: 160 despedidos vuelven a trabajar",
+      "categoria": "Política",
+      "titulo": "El Presupuesto 2027 avanza en Diputados con acuerdo entre La Libertad Avanza y el PRO",
       "resumen": [
-        "El Ministerio de Trabajo bonaerense dictó la conciliación obligatoria en el conflicto por el cierre de Papelera del Sur en Tornquist. La resolución ordena a la empresa reincorporar de inmediato a los aproximadamente 160 trabajadores despedidos, retrotraer la situación al 4 de noviembre y dejar sin efecto los despidos."
+        "El proyecto de Presupuesto 2027 llegará al recinto de Diputados la próxima semana, luego de que La Libertad Avanza lograra un acuerdo político con el PRO.",
+        "El oficialismo busca reunir los votos necesarios para avanzar con la iniciativa antes de finalizar noviembre, incorporando reclamos del PRO al proyecto."
       ],
       "fuentes": [
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/tornquist-papelera-del-sur-dictaron-la-conciliacion-obligatoria-y-los-160-despedidos-deberan-volver-a-trabajar/"
+          "medio": "Perfil",
+          "url": "https://perfil.com/politica/la-libertad-avanza-logro-negociar-y-avanzar-en-un-acuerdo-politico-con-el-pro-para-conseguir-apoyo-al-presupuesto-2027-en-el-congreso-aB2YL0o24Z4Z"
         },
         {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/vecinos-de-tornquist-convocan-a-una-movilizacion-en-apoyo-a-los-trabajadores-de-papelera-del-sur/"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/el-presupuesto-2027-llegara-al-recinto-de-diputados-la-semana-proxima-tras-nuevas-negociaciones-n530507/"
+        },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/activan-ronda-final-con-gobernadores-para-definir-paso-y-presupuesto-la-cuenta-que-manejan-y-que-puede-caer/"
         }
       ]
     }
