@@ -1,8 +1,8 @@
 {
-  "id": "2026-11-12-2301",
-  "fecha": "Jueves 12 de noviembre de 2026",
-  "actualizado": "23:01",
-  "publicada": "2026-11-12T23:01:04.199-03:00",
+  "id": "2026-11-13-0701",
+  "fecha": "Viernes 13 de noviembre de 2026",
+  "actualizado": "07:01",
+  "publicada": "2026-11-13T07:01:01.079-03:00",
   "notas": [
     {
       "categoria": "Clima",
@@ -24,6 +24,25 @@
         {
           "medio": "Ingeniero White",
           "url": "https://www.ingenierowhite.com/2026/11/12/alerta-naranja-por-tormentas-para-este-viernes-13-de-noviembre-clases-suspendidas-y-circulacion-restringida-en-espacios-publicos/"
+        }
+      ]
+    },
+    {
+      "categoria": "Servicios",
+      "ambito": "local",
+      "titulo": "Corte de agua programado en General Cerri por obras en el acueducto",
+      "resumen": [
+        "Este viernes se interrumpirá el servicio de agua en General Cerri a partir de las 8 de la mañana y hasta horas de la tarde. La medida se debe a la continuidad de los trabajos en el acueducto a la altura de la Ruta 3 y el acceso a la localidad.",
+        "ABSA realizará trabajos programados que afectarán el suministro. Se recomienda a los vecinos tomar las previsiones necesarias para minimizar el impacto del corte."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-16-20-0-acueducto-en-cerri-por-la-continuidad-de-los-trabajos-este-viernes-se-interrumpira-el-servicio-de-agua"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-que-afectaran-el-suministro-de-agua-en-bahia-blanca-y-general-cerri/"
         }
       ]
     },
@@ -51,21 +70,21 @@
       ]
     },
     {
-      "categoria": "Servicios",
+      "categoria": "Educación",
       "ambito": "local",
-      "titulo": "Corte de agua programado en General Cerri por obras en el acueducto",
+      "titulo": "Docentes de la UNS inician paro de siete días por reclamos salariales",
       "resumen": [
-        "Este viernes se interrumpirá el servicio de agua en General Cerri a partir de las 8 de la mañana y hasta horas de la tarde. La medida se debe a la continuidad de los trabajos en el acueducto a la altura de la Ruta 3 y el acceso a la localidad.",
-        "ABSA realizará trabajos programados que afectarán el suministro. Se recomienda a los vecinos tomar las previsiones necesarias para minimizar el impacto del corte."
+        "Docentes de universidades nacionales, incluyendo la Universidad Nacional del Sur (UNS) en Bahía Blanca, iniciaron este jueves un paro que se extenderá por siete días, hasta el próximo miércoles 18 de noviembre. La medida de fuerza fue convocada por ADUNS.",
+        "El principal reclamo es que el Gobierno de Javier Milei cumpla con la Ley de Financiamiento Universitario. Este paro afectará el dictado de clases en la UNS y en las escuelas dependientes de la casa de altos estudios."
       ],
       "fuentes": [
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-16-20-0-acueducto-en-cerri-por-la-continuidad-de-los-trabajos-este-viernes-se-interrumpira-el-servicio-de-agua"
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-docentes-de-universidades-nacionales-iniciaron-este-jueves-un-paro-que-se-extendera-por-siete-dias-sera-desde-hoy-hasta-el-proximo-miercoles-18-de-noviembre-el-principal-reclamo-es-qu/"
         },
         {
           "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-que-afectaran-el-suministro-de-agua-en-bahia-blanca-y-general-cerri/"
+          "url": "https://www.delabahia.com.ar/aduns-anuncio-nuevas-jornadas-de-paro-docente-y-no-docente-en-la-uns/"
         }
       ]
     },
@@ -91,37 +110,14 @@
           "url": "https://www.ambito.com/economia/el-empleo-asalariado-privado-sumo-15-meses-seguidos-baja-mientras-el-monotributo-anoto-su-mayor-alza-dos-anos-n6344697"
         }
       ]
-    },
-    {
-      "categoria": "Educación",
-      "ambito": "local",
-      "titulo": "Docentes de la UNS inician paro de siete días por reclamos salariales",
-      "resumen": [
-        "Docentes de universidades nacionales, incluyendo la Universidad Nacional del Sur (UNS) en Bahía Blanca, iniciaron este jueves un paro que se extenderá por siete días, hasta el próximo miércoles 18 de noviembre. La medida de fuerza fue convocada por ADUNS.",
-        "El principal reclamo es que el Gobierno de Javier Milei cumpla con la Ley de Financiamiento Universitario. Este paro afectará el dictado de clases en la UNS y en las escuelas dependientes de la casa de altos estudios."
-      ],
-      "fuentes": [
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-docentes-de-universidades-nacionales-iniciaron-este-jueves-un-paro-que-se-extendera-por-siete-dias-sera-desde-hoy-hasta-el-proximo-miercoles-18-de-noviembre-el-principal-reclamo-es-qu/"
-        },
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/aduns-anuncio-nuevas-jornadas-de-paro-docente-y-no-docente-en-la-uns/"
-        }
-      ]
     }
   ],
   "resto": [
     {
       "seccion": "Bahía y región",
-      "titulo": "Tragedia en Villarino: niño bahiense murió ahogado",
-      "breve": "Un niño bahiense de 5 años falleció al caer a una pileta en Hilario Ascasubi, generando un pedido de colaboración para los gastos de sepelio.",
+      "titulo": "Tragedia en Villarino: nene bahiense de 5 años murió ahogado en una pileta",
+      "breve": "El pequeño estaba de paseo con su padre en un campo donde trabaja su abuelo, a unos cuatro kilómetros de Hilario Ascasubi.",
       "fuentes": [
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/12/ascasubi-un-nino-bahiense-murio-al-caer-a-una-pileta-n530512/"
-        },
         {
           "medio": "La Nueva",
           "url": "https://www.lanueva.com/nota/2026-11-12-20-7-0-tragedia-en-villarino-un-nene-bahiense-de-5-anos-murio-ahogado-en-una-pileta"
@@ -130,8 +126,148 @@
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Conciliación obligatoria en Papelera del Sur de Tornquist",
-      "breve": "El Ministerio de Trabajo dictó la conciliación obligatoria en el conflicto de Papelera del Sur, ordenando la reincorporación de 160 trabajadores despedidos.",
+      "titulo": "Persecución en Bahía Blanca: un detenido y auto secuestrado",
+      "breve": "Una persecución que comenzó en el centro de la ciudad culminó cerca de Médanos, con un detenido y un auto secuestrado.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-13-6-24-0-persecucion-en-el-centro-de-la-ciudad-culmina-con-un-detenido-y-un-auto-secuestrado"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/13/un-persecucion-que-empezo-en-centro-termino-cerca-de-medanos-un-detenido-n530547/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Cayeron tres hombres en operativo antidrogas en barrio Evita",
+      "breve": "Se hizo un allanamiento en una vivienda del barrio Evita donde se secuestró marihuana, una balanza de precisión, elementos de fraccionamiento y municiones calibre 22.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-22-31-0-cayeron-tres-hombres-en-un-operativo-antidrogas"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Denuncian cucarachas en la Escuela Secundaria N° 21 de Bahía Blanca",
+      "breve": "El planteo apunta a la Escuela Secundaria N° 21, ubicada en calle Zapiola, y reclaman medidas sanitarias.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-22-4-0-denuncian-la-presencia-de-cucarachas-en-una-escuela-de-bahia-y-reclaman-medidas-sanitarias"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Cortes de calles programados en Bahía Blanca por trabajos de bacheo",
+      "breve": "Habrá interrupciones totales y reducciones de calzada en distintos puntos de la ciudad por trabajos de bacheo y un acto educativo, con un corte que se extenderá durante 20 días.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-21-36-0-cuales-son-las-calles-cortadas-y-que-sectores-estaran-afectados-durante-los-proximos-dias"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/cortes-programados-2/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Tres aprehendidos por intentar usurpar una vivienda en calle Undiano",
+      "breve": "El hecho ocurrió en calle Undiano al 1500, donde tres personas fueron sorprendidas cambiando la cerradura para usurpar una vivienda.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-15-16-0-tres-aprehendidos-tras-ser-sorprendidos-cambiando-la-cerradura-para-usurpar-una-vivienda"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Detuvieron a tres personas tras controles en pensiones de calle Soler y Lavalle",
+      "breve": "Fueron identificados como Rodrigo Manuel Vargas, de 42 años, Matías Rubén Spinelli, de 18, y Matías Ezequiel Díaz Inacovich, de 20.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-14-2-0-detuvieron-a-tres-personas-luego-de-controles-en-pensiones-de-calle-soler-y-lavalle"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Concejo Deliberante busca dejar sin efecto despidos del ex IOSFA",
+      "breve": "El proyecto se aprobó por el apoyo de la mayoría de los concejales, buscando dejar sin efecto los despidos y desvinculaciones del personal del ex IOSFA.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-12-32-0-cd-se-pretende-dejar-sin-efecto-los-despidos-y-desvinculaciones-del-personal-del-ex-iosfa"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Detuvieron a un joven por robo de celular tras saltar un paredón",
+      "breve": "Tomás Nahuel Figueroa, de 27 años, también es investigado por una supuesta vinculación con otros hechos similares en la ciudad.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-15-36-0-detuvieron-a-un-joven-tras-saltar-un-paredon-y-robar-un-celular"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Absolvieron a un hombre acusado de intervenir en un asalto en Bahía Blanca",
+      "breve": "No se probó que Gabriel Bonomo haya intervenido en el hecho ocurrido a mediados de 2023.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-11-59-0-absolvieron-a-un-hombre-que-estaba-acusado-de-intervenir-en-un-asalto"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Robaron herramientas y otros elementos de una vivienda en el barrio 5 de Abril",
+      "breve": "Un vecino del barrio 5 de Abril sufrió un robo en su vivienda de calle Cabildo 55, donde desconocidos ingresaron durante la madrugada de este jueves.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/robaron-herramientas-y-otros-elementos-de-una-vivienda-en-el-barrio-5-de-abril/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Jornada de asesoramiento notarial comunitario en Bahía Blanca",
+      "breve": "Este sábado 14 de noviembre se llevará adelante la XIV Jornada Federal de Asesoramiento Notarial Comunitario, que busca acercar información y asesoramiento gratuito a los vecinos.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/realizaran-una-jornada-de-asesoramiento-notarial-comunitario-en-bahia-blanca/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Jornada para prevenir el grooming y promover el cuidado digital en Bahía Blanca",
+      "breve": "En el marco del Día Nacional de la Lucha contra el Grooming, el Municipio de Bahía Blanca, junto a la Fundación Ser y Hacer, realizará una actividad abierta a toda la comunidad.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/conectados-y-en-familia-una-jornada-para-prevenir-el-grooming-y-promover-el-cuidado-en-el-mundo-digital/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Dictaron conciliación obligatoria en Papelera del Sur de Tornquist",
+      "breve": "El Ministerio de Trabajo de la Provincia de Buenos Aires dictó la conciliación obligatoria en el conflicto por el cierre de Papelera del Sur, ordenando reincorporar a los 160 despedidos.",
       "fuentes": [
         {
           "medio": "360 Más Noticias",
@@ -145,138 +281,8 @@
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Operativo preventivo de vacunación antirrábica en Bahía",
-      "breve": "Se realizará una jornada gratuita de vacunación antirrábica para perros y gatos en zonas específicas de la ciudad, tras casos positivos de rabia en murciélagos.",
-      "fuentes": [
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-operativo-preventivo-de-vacunacion-antirrabica/"
-        },
-        {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/12/operativo-preventivo-de-vacunacion-antirrabica/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Cortes programados de calles en Bahía Blanca",
-      "breve": "Habrá interrupciones totales y reducciones de calzada en distintos puntos de la ciudad por trabajos de bacheo y un acto educativo, incluyendo un corte de 20 días.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-21-36-0-cuales-son-las-calles-cortadas-y-que-sectores-estaran-afectados-durante-los-proximos-dias"
-        },
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-cortes-programados-de-calles-para-este-jueves-3/"
-        },
-        {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/12/cortes-programados-2/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Denuncian presencia de cucarachas en escuela de Bahía",
-      "breve": "Se realizó un planteo por la presencia de cucarachas en la Escuela Secundaria N° 21 de calle Zapiola, reclamando medidas sanitarias.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-22-4-0-denuncian-la-presencia-de-cucarachas-en-una-escuela-de-bahia-y-reclaman-medidas-sanitarias"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Olimpo empató en Mar del Plata y definirá en casa",
-      "breve": "El aurinegro igualó 1 a 1 ante Kimberley en Mar del Plata, en un partido con un polémico penal, y definirá la llave en el Carminatti.",
-      "fuentes": [
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/12/el-insolito-penal-que-le-cobraron-en-contra-a-olimpo-en-mar-del-plata-n530496/"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-5-0-18-revalida-olimpo-visita-a-kimberley-en-la-ida-de-los-cuartos-de-final"
-        },
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/olimpo-rescato-un-empate-en-mar-del-plata-y-lo-definira-en-bahia/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Tres aprehendidos por intento de usurpación de vivienda",
-      "breve": "Tres personas fueron detenidas tras ser sorprendidas cambiando la cerradura para usurpar una vivienda en calle Undiano al 1500.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-15-16-0-tres-aprehendidos-tras-ser-sorprendidos-cambiando-la-cerradura-para-usurpar-una-vivienda"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Detuvieron a tres hombres tras controles en pensiones",
-      "breve": "Tres hombres fueron identificados y detenidos luego de operativos de control en pensiones de calle Soler y Lavalle.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-14-2-0-detuvieron-a-tres-personas-luego-de-controles-en-pensiones-de-calle-soler-y-lavalle"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Cayeron tres hombres en operativo antidrogas en barrio Evita",
-      "breve": "Un allanamiento en el barrio Evita resultó en la detención de tres hombres y el secuestro de marihuana, balanza y municiones.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-22-31-0-cayeron-tres-hombres-en-un-operativo-antidrogas"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Vecinos en alerta por pelea de trapitos en el Correo Argentino",
-      "breve": "Vecinos relataron una brutal pelea entre un grupo de 10 personas en las inmediaciones del Correo Argentino durante la noche.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-10-49-0-vecinos-en-alerta-por-otra-pelea-de-trapitos-en-la-puerta-del-correo-argentino"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Detuvieron a joven por robo de celular tras saltar paredón",
-      "breve": "Tomás Nahuel Figueroa, de 27 años, fue detenido tras saltar un paredón y robar un celular, siendo investigado por otros hechos similares.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-15-36-0-detuvieron-a-un-joven-tras-saltar-un-paredon-y-robar-un-celular"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Absolvieron a hombre acusado de intervenir en asalto",
-      "breve": "Gabriel Bonomo fue absuelto de la acusación de intervenir en un asalto ocurrido a mediados de 2023, al no probarse su participación.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-11-59-0-absolvieron-a-un-hombre-que-estaba-acusado-de-intervenir-en-un-asalto"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Incidentes en pollería de barrio Moresino: dos aprehendidos",
-      "breve": "Dos hombres fueron aprehendidos por la Policía tras protagonizar un episodio de violencia en una pollería de Brickman al 3200.",
+      "titulo": "Dos hombres aprehendidos tras incidentes en pollería de barrio Moresino",
+      "breve": "Dos hombres fueron aprehendidos por la Policía luego de protagonizar un episodio de violencia en una pollería ubicada en Brickman al 3200.",
       "fuentes": [
         {
           "medio": "360 Más Noticias",
@@ -286,75 +292,39 @@
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Proyecto para dejar sin efecto despidos en ex IOSFA",
-      "breve": "El Concejo Deliberante aprobó un proyecto para dejar sin efecto los despidos y desvinculaciones del personal del ex IOSFA.",
+      "titulo": "ARBA: vence la primera etapa del plan de pagos con descuentos",
+      "breve": "La Agencia de Recaudación de la provincia de Buenos Aires recordó que este viernes 13 de noviembre finaliza la primera etapa del plan de pagos con bonificaciones de hasta el 40% del total de la deuda.",
       "fuentes": [
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-12-32-0-cd-se-pretende-dejar-sin-efecto-los-despidos-y-desvinculaciones-del-personal-del-ex-iosfa"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Jornada de asesoramiento notarial comunitario en Bahía",
-      "breve": "Este sábado 14 de noviembre se realizará la XIV Jornada Federal de Asesoramiento Notarial Comunitario, ofreciendo información gratuita a vecinos.",
-      "fuentes": [
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/arba-vence-la-primera-etapa-del-plan-de-pagos-con-descuentos/"
+        },
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/realizaran-una-jornada-de-asesoramiento-notarial-comunitario-en-bahia-blanca/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Jornada para prevenir el grooming en el mundo digital",
-      "breve": "El Municipio y la Fundación Ser y Hacer realizarán una actividad abierta a la comunidad para prevenir el grooming y promover el cuidado digital.",
-      "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/conectados-y-en-familia-una-jornada-para-prevenir-el-grooming-y-promover-el-cuidado-en-el-mundo-digital/"
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/arba-deuda-por-deuda-y-plan-por-plan-como-gozar-de-los-mayores-beneficios-de-las-facilidades-de-pago/"
         }
       ]
     },
     {
       "seccion": "País",
-      "titulo": "Un nuevo testigo complica a Espert en Comodoro Py",
-      "breve": "El economista suma complicaciones en los tribunales de Retiro por la logística no declarada de Fred Machado en su campaña presidencial.",
+      "titulo": "ANSES: quiénes cobran hoy, viernes 13 de noviembre de 2026",
+      "breve": "El cronograma oficial fija las fechas según el último dígito del documento y detalla los nuevos montos para jubilaciones, AUH, asignaciones familiares y más beneficios.",
       "fuentes": [
         {
-          "medio": "Perfil",
-          "url": "https://perfil.com/politica/un-nuevo-testigo-complica-a-espert-en-comodoro-py-aeYC20O0JtpI"
+          "medio": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/13/anses-quienes-cobran-hoy-viernes-13-de-noviembre-de-2026/"
         }
       ]
     },
     {
       "seccion": "País",
-      "titulo": "Exintegrante de Brigadas Rojas escapó de arresto domiciliario",
-      "breve": "Leonardo Bertulazzi, exmilitante italiano de 74 años, burló la custodia policial y su tobillera electrónica en Buenos Aires antes de ser extraditado.",
-      "fuentes": [
-        {
-          "medio": "Perfil",
-          "url": "https://perfil.com/internacional/quien-es-leonardo-bertulazzi-el-exintegrante-de-las-brigadas-rojas-que-escapo-de-su-arresto-domiciliario-en-buenos-aires-a50-bgd-a8Zs77q6XZPH"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Por qué hay cada vez más infartos en gente joven",
-      "breve": "Un cardiólogo advirtió que la cardiopatía ya no es exclusiva de adultos mayores y detalló síntomas que suelen pasar desapercibidos.",
+      "titulo": "Javier Milei ante empresas: “Lo único que le faltaba al país eran reglas claras”",
+      "breve": "El Presidente defendió la apertura económica y fijó una meta ambiciosa: llegar al 90% de la población mundial para 2031.",
       "fuentes": [
         {
           "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/sociedad/por-que-hay-cada-vez-mas-infartos-en-gente-joven-segun-un-cardiologo-nid12112026/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Milei defendió la apertura económica y fijó meta ambiciosa",
-      "breve": "El Presidente proyectó alcanzar al 90% de la población mundial para 2031 y defendió el rol de los empresarios y el RIGI.",
-      "fuentes": [
+          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-lo-unico-que-le-faltaba-al-pais-eran-reglas-claras-dijo-el-nid13112026/"
+        },
         {
           "medio": "Ámbito",
           "url": "https://www.ambito.com/politica/javier-milei-defendio-el-impacto-sus-medidas-y-afirmo-abrimos-500-mercados-y-llegamos-al-30-del-planeta-n6344722"
@@ -363,39 +333,94 @@
     },
     {
       "seccion": "País",
-      "titulo": "Los Grobo entrega operación de acopio a gigante brasileño Amaggi",
-      "breve": "El acuerdo de dos años abarca 15 plantas con capacidad para almacenar 323.200 toneladas de granos, con Amaggi pagando casi u$s9,6 millones.",
+      "titulo": "Investigación internacional confirma origen patagónico de brote de hantavirus",
+      "breve": "Se publicaron dos estudios en la revista Science que confirman que el contagio inicial ocurrió en la Patagonia argentina, en un crucero que conmocionó al mundo.",
       "fuentes": [
         {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/negocios/los-grobo-entrega-la-operacion-sus-15-plantas-acopio-al-gigante-brasileno-amaggi-n6344676"
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/sociedad/exhaustiva-investigacion-internacional-el-caso-13-clave-en-el-brote-de-hantavirus-en-un-crucero-que-nid12112026/"
         }
       ]
     },
     {
       "seccion": "País",
-      "titulo": "ARBA: vence la primera etapa del plan de pagos con descuentos",
-      "breve": "La Agencia de Recaudación de la provincia de Buenos Aires recordó que este viernes 13 de noviembre finaliza la primera etapa del plan de pagos con bonificaciones.",
+      "titulo": "Estudiantes ganó la Supercopa Argentina y levantó el vigésimo título",
+      "breve": "El “Pincha” se impuso ante Independiente Rivadavia en Córdoba, y ahora va por la Copa Libertadores.",
       "fuentes": [
         {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/12/arba-deuda-por-deuda-y-plan-por-plan-como-gozar-de-los-mayores-beneficios-de-las-facilidades-de-pago/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-22-58-0-estudiantes-gano-la-supercopa-argentina-y-levanto-el-vigesimo-titulo-de-su-historia"
         },
         {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/arba-vence-la-primera-etapa-del-plan-de-pagos-con-descuentos/"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/estudiantes-se-quedo-con-la-supercopa-argentina-n530535/"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/estudiantes-se-quedo-con-la-supercopa-argentina/"
         }
       ]
     },
     {
       "seccion": "País",
-      "titulo": "Zonas Frías, un gesto político “caro” en materia de inflación",
-      "breve": "Luis Caputo atribuyó parte de la inflación de octubre a los cambios en el Régimen de Zona Fría, un tema que será cobrado en el Congreso.",
+      "titulo": "La Selección Argentina se enfrenta con Uruguay en fecha FIFA",
+      "breve": "El encuentro será este viernes a partir de las 20 en La Bombonera, en un interesante desafío en el inicio de la fecha FIFA.",
       "fuentes": [
         {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/economia/luis-caputo-explico-que-impulso-la-inflacion-octubre-y-defendio-el-rumbo-economico-n6344665"
-        },
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-13-5-0-43-la-seleccion-argentina-se-enfrenta-con-uruguay-en-un-interesante-desafio-en-el-inicio-de-la-fecha-fifa"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Confirmada la salida de Walter Samuel de la Selección argentina",
+      "breve": "El ex defensor dejará de ser ayudante de campo para hacer su carrera como entrenador, lo que plantea qué planea hacer Scaloni.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-18-21-0-se-confirmo-la-salida-de-walter-samuel-de-la-seleccion-argentina-que-planea-hacer-scaloni"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Ingresos Brutos profundiza su caída y arrastra a la recaudación provincial",
+      "breve": "La caída de la actividad es el denominador común detrás de la menor recaudación, con solo cinco jurisdicciones registrando crecimiento en términos reales.",
+      "fuentes": [
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/ingresos-brutos-profundiza-su-caida-y-arrastra-a-la-recaudacion-las-provincias-que-mas-lo-sienten/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "El consumo se prepara para Navidad: claves para stocks y márgenes",
+      "breve": "Las campañas de descuentos pueden concentrar en pocos días el equivalente a semanas de ventas, lo que genera tensión en el abastecimiento.",
+      "fuentes": [
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/el-consumo-se-prepara-para-navidad-el-nuevo-cuello-de-botella-y-las-claves-para-stocks-y-margenes/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Tiempo límite para regularizar Ganancias y mantener beneficios de Inocencia Fiscal",
+      "breve": "El lunes 16 de noviembre vence el plazo para presentar la declaración jurada 2025, con condiciones específicas que deben cumplir los contribuyentes.",
+      "fuentes": [
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/tiempo-limite-como-regularizar-ganancias-y-mantener-los-beneficios-de-inocencia-fiscal/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Zonas Frías: un gesto político “caro” en materia de inflación",
+      "breve": "La medida será cobrada en el Congreso, siendo un gesto político con impacto en la inflación.",
+      "fuentes": [
         {
           "medio": "El Cronista",
           "url": "https://www.cronista.com/columnistas/zonas-frias-un-gesto-politico-caro-en-materia-de-inflacion-que-sera-cobrado-en-el-congreso/"
@@ -404,30 +429,74 @@
     },
     {
       "seccion": "País",
-      "titulo": "Ranking RIGI: dos provincias suman u$s 43 mil millones en inversiones",
-      "breve": "El RIGI ya cuenta con 27 proyectos aprobados, con el sector de petróleo y gas y la minería explicando el 97% de la inversión.",
+      "titulo": "El Gobierno anunció nuevas licitaciones para concesionar 27 tramos de rutas",
+      "breve": "La medida se anunció a través del decreto N° 1358/2026 publicado en el Boletín Oficial, alcanzando a varias provincias.",
       "fuentes": [
         {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/ranking-rigi-las-dos-provincias-que-suman-us-43-mil-millones-en-inversiones-y-una-tercera-ya-les-pisa-los-talones/"
+          "medio": "Perfil",
+          "url": "https://perfil.com/politica/el-gobierno-anuncio-nuevas-licitaciones-para-concesionar-27-tramos-de-rutas-nacionales-a-que-provincias-alcanza-esta-medida-aEwui5p6aIXG"
         }
       ]
     },
     {
       "seccion": "País",
-      "titulo": "La actividad textil cayó más de 20% en el año",
-      "breve": "La actividad textil sufrió una caída superior al 20% en el año, resultando en la pérdida de más de 29.000 puestos de trabajo.",
+      "titulo": "Profesor de rugby golpeó a un hombre por mirar a su pareja",
+      "breve": "El agresor le gritaba a su víctima mientras la golpeaba: \"¿Está bien así, o querés que siga? Pedí disculpas\".",
       "fuentes": [
         {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/la-actividad-textil-cayo-mas-de-20-en-el-ano-y-ya-se-perdieron-mas-de-29-000-puestos-de-trabajo/"
+          "medio": "Perfil",
+          "url": "https://perfil.com/sociedad/profesor-de-rugby-acuso-a-un-hombre-de-mirar-a-su-pareja-y-le-pego-mas-de-10-trompadas-en-la-cara-antes-de-escapar-en-su-camioneta-awdjU9U49ucl"
         }
       ]
     },
     {
       "seccion": "País",
-      "titulo": "Buscan que imputados por accidentes de tránsito no conduzcan",
-      "breve": "Un proyecto de ley busca habilitar a los jueces a quitar licencias de conducir a personas imputadas por accidentes de tránsito en la provincia de Buenos Aires.",
+      "titulo": "Encuesta regional: ¿Cómo quedó Milei y quién perdió más imagen?",
+      "breve": "Una encuesta regional con 51.350 casos comparó la imagen de 18 mandatarios y movió varios casilleros de la tabla respecto de octubre.",
+      "fuentes": [
+        {
+          "medio": "Perfil",
+          "url": "https://perfil.com/politica/una-encuesta-midio-a-18-presidentes-latinoamericanos-como-quedo-milei-y-quien-perdio-mas-imagen-anLM40g4SgCs"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Caso Loan: “Era imposible encontrarlo si no se sabía que estaba ahí”",
+      "breve": "Un policía declaró sobre el botín del nene, indicando que era imposible encontrarlo sin esa información.",
+      "fuentes": [
+        {
+          "medio": "Perfil",
+          "url": "https://perfil.com/sociedad/caso-loan-era-imposible-encontrarlo-si-no-se-sabia-que-estaba-ahi-declaro-un-policia-sobre-el-botin-del-nene-aems25S0yUxp"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Oro: la AGN prepara dura auditoría sobre envíos al exterior",
+      "breve": "La Auditoría General de la Nación recibió la respuesta del BCRA y prepara una dura auditoría sobre los envíos de oro al exterior.",
+      "fuentes": [
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/politica/oro-la-agn-recibio-la-respuesta-del-bcra-y-prepara-una-dura-auditoria-los-envios-al-exterior-n6344725"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Funcionario bonaerense pidió revisar políticas sobre jubilaciones y discapacidad",
+      "breve": "El jefe de Gabinete de la provincia de Buenos Aires, Carlos Bianco, afirmó que el mensaje del papa León XIV impulsa esta revisión.",
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/funcionario-bonaerense-pidio-revisar-las-politicas-sobre-jubilaciones-discapacidad-y-empleo/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Buscan que imputados por accidentes de tránsito no puedan conducir en la provincia",
+      "breve": "La diputada del PRO, Laura Ricchini, busca habilitar a los jueces a quitar licencias de conducir a personas imputadas por accidentes de tránsito.",
       "fuentes": [
         {
           "medio": "360 Más Noticias",
@@ -437,83 +506,12 @@
     },
     {
       "seccion": "País",
-      "titulo": "Fuerte cruce entre Barrionuevo y Pettovello antes del discurso del Papa",
-      "breve": "El líder sindical gastronómico abordó a los gritos a la funcionaria por la acefalía administrativa de un gremio en la UCA, previo a la disertación del Papa León XIV.",
+      "titulo": "La actividad textil cayó más de 20% en el año y se perdieron 29.000 puestos",
+      "breve": "",
       "fuentes": [
         {
-          "medio": "Perfil",
-          "url": "https://perfil.com/politica/gritos-y-amenazas-antes-del-discurso-del-papa-el-fuerte-cruce-entre-luis-barrionuevo-y-sandra-pettovello-en-la-uca-a98xn9L3JYxZ"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Alarma en Boca: dos figuras tienen un pie y medio afuera de la semifinal",
-      "breve": "Dos jugadores de Boca no pudieron entrenar con normalidad de cara al duelo del sábado por Copa Argentina, generando preocupación en el equipo.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-16-36-0-alarma-en-boca-dos-figuras-tienen-un-pie-y-medio-afuera-de-la-semifinal-contra-banfield"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Dólar en Bahía Blanca: a cuánto cerraron las cotizaciones",
-      "breve": "Se informaron los valores de la divisa estadounidense en Bahía Blanca y en la city porteña al cierre de este jueves.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-14-23-0-dolar-en-bahia-blanca-a-cuanto-cerraron-este-jueves-todas-las-cotizaciones"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Confirmada la salida de Walter Samuel de la Selección argentina",
-      "breve": "Walter Samuel dejará de ser ayudante de campo de la Selección argentina para iniciar su carrera como entrenador, lo que plantea interrogantes sobre los planes de Scaloni.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-18-21-0-se-confirmo-la-salida-de-walter-samuel-de-la-seleccion-argentina-que-planea-hacer-scaloni"
-        },
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/la-seleccion-argentina-anuncio-la-renovacion-de-lionel-scaloni-como-entrenador/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Estudiantes se quedó con la Supercopa Argentina",
-      "breve": "El Pincha le ganó a Independiente Rivadavia por 3-2 en el alargue, logrando su vigésimo título en la historia del fútbol argentino.",
-      "fuentes": [
-        {
-          "medio": "Infobae",
-          "url": "https://www.infobae.com/deportes/2026/11/13/todos-los-campeones-de-la-temporada-2026-tras-la-conquista-de-estudiantes-cuales-son-los-titulos-que-faltan-definirse/"
-        },
-        {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/deportes/futbol/estudiantes-vs-independiente-rivadavia-en-vivo-por-la-supercopa-argentina-nid12112026/"
-        },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/12/estudiantes-se-quedo-con-la-supercopa-argentina-n530535/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Wall Street sufrió bajas generalizadas en rueda volátil",
-      "breve": "Los principales índices de Wall Street cayeron casi 2% por la salida de Jensen Huang de Nvidia, arrastrando a empresas vinculadas a la inteligencia artificial.",
-      "fuentes": [
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/finanzas/wall-street-adelanta-otra-jornada-volatil-y-nvidia-sigue-el-ojo-la-tormenta-n6344311"
-        },
-        {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/financial-times/jensen-huang-se-fue-de-nvidia-pagara-el-precio-la-industria-de-la-ia/"
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/la-actividad-textil-cayo-mas-de-20-en-el-ano-y-ya-se-perdieron-mas-de-29-000-puestos-de-trabajo/"
         }
       ]
     }
