@@ -1,63 +1,85 @@
 {
-  "fecha": "Jueves 12 de noviembre de 2026",
-  "actualizado": "22:13",
+  "fecha": "Viernes 13 de noviembre de 2026",
+  "actualizado": "08:01",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Clima",
-      "titulo": "Alerta naranja por tormentas en Bahía Blanca: suspenden clases y restringen circulación",
+      "titulo": "Alerta naranja por tormentas en Bahía Blanca: suspendieron las clases y piden precaución",
       "resumen": [
-        "El Servicio Meteorológico Nacional elevó a naranja la alerta por tormentas fuertes para este viernes en Bahía Blanca y la región. Se esperan fenómenos severos con abundante caída de agua, granizo y ráfagas de viento.",
-        "Ante esta situación, el Municipio activó medidas de prevención, ratificó la suspensión de clases en todos los niveles educativos (públicos y privados) y restringió la circulación en espacios públicos."
+        "El Servicio Meteorológico Nacional mantiene el alerta naranja por tormentas fuertes y severas para Bahía Blanca y la región hasta la tarde de hoy. Se esperan lluvias intensas, granizo y ráfagas de viento de hasta 90 km/h.",
+        "Debido a esto, se suspendieron las clases presenciales en todos los niveles y turnos, tanto en establecimientos públicos como privados, incluyendo la UNS. Se recomienda extremar precauciones y evitar salir si no es necesario."
       ],
       "fuentes": [
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/12/el-municipio-activa-medidas-de-prevencion-y-descartan-un-escenario-como-el-de-la-inundacion-n530526/"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/continua-el-alerta-naranja-hasta-la-tarde-para-bahia-y-la-region-y-se-suspendieron-las-clases-en-todos-los-turnos/"
         },
         {
           "medio": "La Nueva",
           "url": "https://www.lanueva.com/nota/2026-11-12-21-52-0-por-las-condiciones-climaticas-no-habra-clases-presenciales-este-viernes-en-bahia-y-la-region"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-el-smn-elevo-a-naranja-la-alerta-por-tormentas-fuertes-podrian-caer-hasta-90-milimetros/"
         }
       ]
     },
     {
       "categoria": "Economía",
-      "titulo": "La inflación de octubre fue del 2,2% y la canasta básica superó los $1.690.000 para no ser pobre",
+      "titulo": "La inflación de octubre fue del 2,2% y acumula 33,1% en los últimos doce meses",
       "resumen": [
-        "El INDEC informó que la inflación de octubre alcanzó el 2,2% a nivel nacional, acumulando un 33,1% interanual. Este dato impacta directamente en el poder adquisitivo de los hogares.",
-        "Una familia tipo necesitó $1.690.000 en octubre para no caer bajo la línea de pobreza, lo que representa un aumento significativo en el costo de vida."
+        "El Instituto Nacional de Estadísticas y Censos (Indec) informó que la inflación de octubre alcanzó el 2,2%, acelerándose por segundo mes consecutivo. Este dato lleva el acumulado interanual a 33,1%.",
+        "Los rubros que más aumentaron fueron vivienda, agua, electricidad, gas y otros combustibles, impulsados por subas en tarifas y alquileres. Los alimentos también registraron incrementos, principalmente en verduras."
       ],
       "fuentes": [
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/12/la-inflacion-volvio-a-superar-el-2-en-octubre-n530481/"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses/"
         },
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-15-0-0-no-logra-bajar-la-inflacion-de-octubre-llego-al-2-2-y-acumula-un-26-3-en-lo-que-va-de-2026"
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/la-inflacion-se-acelero-al-22-en-octubre-y-alcanzo-su-mayor-nivel-en-seis-meses/"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/hoy-se-conoce-el-dato-de-inflacion-de-octubre-que-numero-esperan-los-especialistas/"
+        }
+      ]
+    },
+    {
+      "categoria": "Economía",
+      "titulo": "Aprobaron dos grandes proyectos de gas por más de 3.200 millones de dólares",
+      "resumen": [
+        "El Gobierno dio luz verde a dos importantes proyectos de gas en el marco del Régimen de Incentivo a Grandes Inversiones (RIGI), que suman más de 3.200 millones de dólares. Ambos están destinados al tratamiento, fraccionamiento y exportación de gas.",
+        "Uno de los proyectos contempla gasoductos y una planta en Tratayén, mientras que el otro incluye un poliducto de 577 kilómetros que llegará hasta Bahía Blanca. Se espera que impulsen la producción interna y las exportaciones."
+      ],
+      "fuentes": [
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/energia/rigi-aprueban-dos-proyectos-gas-mas-us3200-millones-procesar-y-exportar-liquidos-n6344764"
         },
         {
           "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/canasta-basica-una-familia-tipo-necesito-1690000-en-octubre-para-no-ser-pobre/"
+          "url": "https://www.cronista.com/negocios/mindlin-consigue-luz-verde-oficial-para-avanzar-con-dos-rigi-por-mas-de-us-3200-millones/"
         }
       ]
     },
     {
       "categoria": "Servicios",
-      "titulo": "El Municipio adjudicó la reparación del Paso Urbano en Ruta 33: obras en 30 días",
+      "titulo": "El Municipio adjudicó la reparación del Paso Urbano en la Ruta 33",
       "resumen": [
-        "El Municipio de Bahía Blanca adjudicó la obra de reparación y mantenimiento vial del Paso Urbano, en la Ruta Nacional 33, entre el cruce de El Cholo y Bosque Alto.",
-        "La inversión supera los 2.500 millones de pesos, financiados con recursos municipales y del Consorcio de Gestión del Puerto. Se espera que los trabajos comiencen dentro de los próximos 30 días."
+        "La Municipalidad de Bahía Blanca adjudicó a la empresa Ingeniería y Arquitectura S.R.L. la obra de reparación y mantenimiento vial del Paso Urbano, sobre la Ruta Nacional 33. Los trabajos comenzarán dentro de los próximos 30 días.",
+        "La obra abarca 7,5 kilómetros de la Ruta 33, desde el cruce de El Cholo hasta Bosque Alto. La inversión será financiada con recursos municipales y del Consorcio de Gestión del Puerto, buscando mejorar una vía clave para la ciudad."
       ],
       "fuentes": [
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/12/el-municipio-adjudico-la-licitacion-para-reparar-el-cholo-cuando-comenzaran-los-trabajos-n530515/"
-        },
-        {
           "medio": "La Nueva",
           "url": "https://www.lanueva.com/nota/2026-11-12-19-8-0-el-municipio-adjudico-la-reparacion-del-paso-urbano-la-obra-comenzara-dentro-de-los-proximos-30-dias"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/el-municipio-adjudico-la-reparacion-del-paso-urbano/"
         },
         {
           "medio": "Ingeniero White",
@@ -66,42 +88,16 @@
       ]
     },
     {
-      "categoria": "Economía",
-      "titulo": "Jubilaciones y asignaciones de ANSES aumentarán en diciembre tras dato de inflación",
+      "categoria": "Sociedad",
+      "titulo": "Tragedia en Villarino: un niño bahiense de 5 años murió ahogado en una pileta",
       "resumen": [
-        "Tras conocerse el índice de inflación de octubre, se activará el nuevo incremento para jubilaciones y asignaciones de ANSES a partir de diciembre.",
-        "Este ajuste busca compensar la suba de precios y beneficiará a jubilados, pensionados y otros titulares de asignaciones que paga el organismo previsional."
+        "Un niño de 5 años, oriundo de Bahía Blanca, falleció ahogado en una pileta en un campo cercano a Hilario Ascasubi, en el partido de Villarino. El hecho ocurrió mientras el pequeño estaba de paseo con su padre en el lugar donde trabaja su abuelo.",
+        "La familia del menor está solicitando colaboración para afrontar los gastos derivados de esta trágica pérdida."
       ],
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-17-3-0-tras-conocerse-el-dato-de-inflacion-cuanto-aumentaran-jubilaciones-y-asignaciones-de-anses-en-diciembre"
-        },
-        {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/aumenta-la-auh-de-anses-cuanto-cobrarian-los-beneficiarios-de-la-asignacion-en-diciembre-2026/"
-        }
-      ]
-    },
-    {
-      "categoria": "Política",
-      "titulo": "El Presupuesto 2027 avanza en Diputados con acuerdo entre La Libertad Avanza y el PRO",
-      "resumen": [
-        "El proyecto de Presupuesto 2027 llegará al recinto de Diputados la próxima semana, luego de que La Libertad Avanza lograra un acuerdo político con el PRO.",
-        "El oficialismo busca reunir los votos necesarios para avanzar con la iniciativa antes de finalizar noviembre, incorporando reclamos del PRO al proyecto."
-      ],
-      "fuentes": [
-        {
-          "medio": "Perfil",
-          "url": "https://perfil.com/politica/la-libertad-avanza-logro-negociar-y-avanzar-en-un-acuerdo-politico-con-el-pro-para-conseguir-apoyo-al-presupuesto-2027-en-el-congreso-aB2YL0o24Z4Z"
-        },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/12/el-presupuesto-2027-llegara-al-recinto-de-diputados-la-semana-proxima-tras-nuevas-negociaciones-n530507/"
-        },
-        {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/activan-ronda-final-con-gobernadores-para-definir-paso-y-presupuesto-la-cuenta-que-manejan-y-que-puede-caer/"
+          "url": "https://www.lanueva.com/nota/2026-11-12-20-7-0-tragedia-en-villarino-un-nene-bahiense-de-5-anos-murio-ahogado-en-una-pileta"
         }
       ]
     }
