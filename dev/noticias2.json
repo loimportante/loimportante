@@ -1,8 +1,8 @@
 {
-  "id": "2026-11-12-2158",
+  "id": "2026-11-12-2207",
   "fecha": "Jueves 12 de noviembre de 2026",
-  "actualizado": "21:58",
-  "publicada": "2026-11-12T21:58:38.221-03:00",
+  "actualizado": "22:07",
+  "publicada": "2026-11-12T22:07:52.903-03:00",
   "notas": [
     {
       "categoria": "Clima",
@@ -28,21 +28,21 @@
       ]
     },
     {
-      "categoria": "Sociedad",
+      "categoria": "Servicios",
       "ambito": "local",
-      "titulo": "Un niño bahiense de 5 años murió ahogado en una pileta en Villarino",
+      "titulo": "Corte de agua programado en General Cerri por obras en el acueducto",
       "resumen": [
-        "Un trágico suceso ocurrió en Villarino, donde un niño de 5 años oriundo de Bahía Blanca falleció ahogado en una pileta. El pequeño se encontraba de paseo con su padre en un campo cercano a Hilario Ascasubi.",
-        "Personal médico intentó reanimarlo sin éxito. La noticia generó conmoción en la comunidad local."
+        "Este viernes se interrumpirá el servicio de agua en General Cerri a partir de las 8 de la mañana y hasta horas de la tarde. La medida se debe a la continuidad de los trabajos en el acueducto a la altura de la Ruta 3 y el acceso a la localidad.",
+        "ABSA realizará trabajos programados que afectarán el suministro. Se recomienda a los vecinos tomar las previsiones necesarias para minimizar el impacto del corte."
       ],
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-20-7-0-tragedia-en-villarino-un-nene-bahiense-de-5-anos-murio-ahogado-en-una-pileta"
+          "url": "https://www.lanueva.com/nota/2026-11-12-16-20-0-acueducto-en-cerri-por-la-continuidad-de-los-trabajos-este-viernes-se-interrumpira-el-servicio-de-agua"
         },
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/12/ascasubi-un-nino-bahiense-murio-al-caer-a-una-pileta-n530512/"
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-que-afectaran-el-suministro-de-agua-en-bahia-blanca-y-general-cerri/"
         }
       ]
     },
@@ -70,21 +70,21 @@
       ]
     },
     {
-      "categoria": "Servicios",
+      "categoria": "Sociedad",
       "ambito": "local",
-      "titulo": "Corte de agua programado en General Cerri por obras en el acueducto",
+      "titulo": "Un niño bahiense de 5 años murió ahogado en una pileta en Villarino",
       "resumen": [
-        "Este viernes se interrumpirá el servicio de agua en General Cerri a partir de las 8 de la mañana y hasta horas de la tarde. La medida se debe a la continuidad de los trabajos en el acueducto a la altura de la Ruta 3 y el acceso a la localidad.",
-        "ABSA realizará trabajos programados que afectarán el suministro. Se recomienda a los vecinos tomar las previsiones necesarias para minimizar el impacto del corte."
+        "Un trágico suceso ocurrió en Villarino, donde un niño de 5 años oriundo de Bahía Blanca falleció ahogado en una pileta. El pequeño se encontraba de paseo con su padre en un campo cercano a Hilario Ascasubi.",
+        "Personal médico intentó reanimarlo sin éxito. La noticia generó conmoción en la comunidad local."
       ],
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-16-20-0-acueducto-en-cerri-por-la-continuidad-de-los-trabajos-este-viernes-se-interrumpira-el-servicio-de-agua"
+          "url": "https://www.lanueva.com/nota/2026-11-12-20-7-0-tragedia-en-villarino-un-nene-bahiense-de-5-anos-murio-ahogado-en-una-pileta"
         },
         {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-que-afectaran-el-suministro-de-agua-en-bahia-blanca-y-general-cerri/"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/ascasubi-un-nino-bahiense-murio-al-caer-a-una-pileta-n530512/"
         }
       ]
     },
@@ -114,54 +114,198 @@
   ],
   "resto": [
     {
-      "seccion": "Bahía y región",
-      "titulo": "Paro docente y no docente en la UNS por siete días",
-      "breve": "Docentes y no docentes de la Universidad Nacional del Sur iniciaron un paro de siete días, reclamando al Gobierno el cumplimiento de la Ley de Financiamiento Universitario.",
+      "seccion": "País",
+      "titulo": "El Papa León XIV en Perú: vigilia juvenil y mensaje de esperanza",
+      "breve": "",
       "fuentes": [
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-docentes-de-universidades-nacionales-iniciaron-este-jueves-un-paro-que-se-extendera-por-siete-dias-sera-desde-hoy-hasta-el-proximo-miercoles-18-de-noviembre-el-principal-reclamo-es-qu/"
+          "medio": "Infobae",
+          "url": "https://www.infobae.com/peru/2026/11/12/papa-leon-xiv-en-vivo-jornada-2-en-peru-minuto-a-minuto-de-sus-actividades-recorridos-y-ultimas-noticias-del-santo-padre/"
         },
         {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/aduns-anuncio-nuevas-jornadas-de-paro-docente-y-no-docente-en-la-uns/"
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/sociedad/papa-leon-xiv-en-peru-en-vivo-el-regreso-al-pais-en-el-que-fue-nombrado-obispo-y-su-agenda-hoy-nid12112026/"
+        },
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/mundo/leon-xiv-encabeza-una-vigilia-oracion-miles-jovenes-el-estadio-nacional-lima-n6344719"
         }
       ]
     },
     {
-      "seccion": "Bahía y región",
-      "titulo": "Operativo preventivo de vacunación antirrábica en Bahía Blanca",
-      "breve": "La Dirección de Veterinaria y Zoonosis realiza una jornada de vacunación antirrábica gratuita para perros y gatos, tras dos casos positivos de rabia en murciélagos.",
+      "seccion": "País",
+      "titulo": "Salario mínimo: plantean aumento “sensato” para 2027",
+      "breve": "Un docente de la Universidad de La Sabana basó su cálculo en una inflación observada de 6,3% y una productividad laboral cercana al 2%, mientras los sindicatos plantearon 38,5%.",
       "fuentes": [
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-operativo-preventivo-de-vacunacion-antirrabica/"
-        },
-        {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/12/operativo-preventivo-de-vacunacion-antirrabica/"
+          "medio": "Infobae",
+          "url": "https://www.infobae.com/colombia/2026/11/13/salario-minimo-de-2027-planteo-un-aumento-sensato-para-evitar-problemas-en-las-empresas-y-en-los-precios-de-los-productos-y-servicios/"
         }
       ]
     },
     {
-      "seccion": "Bahía y región",
+      "seccion": "País",
+      "titulo": "Paro de subte en CABA: el Gobierno porteño exige 50% de servicio",
+      "breve": "",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "url": "https://www.infobae.com/sociedad/2026/11/12/paro-de-subte-el-gobierno-porteno-le-exigio-a-los-gremios-que-garanticen-el-50-del-servicio-esta-noche/"
+        },
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/sociedad/empezo-el-paro-de-subte-afecta-a-todas-las-lineas-hasta-la-medianoche-nid12112026/"
+        },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/paro-de-subte-el-gobierno-porteno-ordeno-que-funcione-el-50-del-servicio-y-emova-notifico-a-los-trabajadores/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Desmantelan redes de malware que robaban contraseñas",
+      "breve": "Servicios como HaveIBeenPwned permitirán comprobar si una cuenta quedó expuesta, en una operación que reunió a policías de nueve países y a empresas privadas.",
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "url": "https://www.infobae.com/tecno/2026/11/13/desmantelan-redes-de-malware-que-robaban-contrasenas-y-aseguran-64-millones-de-datos-de-victimas/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Críticas a la reforma de la Ley de Salud Mental",
+      "breve": "La trabajadora social Marcela Arzuaga cuestionó los cambios que promueve el gobierno y que ya obtuvieron media sanción en el Senado, reclamando mayor presupuesto.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-8-54-0-criticas-a-la-reforma-de-la-ley-de-salud-mental-la-entendemos-como-una-restriccion"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
       "titulo": "ARBA: vence la primera etapa del plan de pagos con descuentos",
-      "breve": "Este viernes 13 de noviembre finaliza la primera etapa del plan de pagos de ARBA con bonificaciones de hasta el 40% del total de la deuda.",
+      "breve": "",
       "fuentes": [
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/arba-vence-la-primera-etapa-del-plan-de-pagos-con-descuentos/"
-        },
         {
           "medio": "Ingeniero White",
           "url": "https://www.ingenierowhite.com/2026/11/12/arba-deuda-por-deuda-y-plan-por-plan-como-gozar-de-los-mayores-beneficios-de-las-facilidades-de-pago/"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/arba-vence-la-primera-etapa-del-plan-de-pagos-con-descuentos/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "El Presupuesto 2027 llegará al recinto de Diputados la semana próxima",
+      "breve": "El oficialismo buscará reunir los votos necesarios para avanzar con el proyecto antes de finalizar noviembre, tras nuevas negociaciones.",
+      "fuentes": [
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/12/el-presupuesto-2027-llegara-al-recinto-de-diputados-la-semana-proxima-tras-nuevas-negociaciones-n530507/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Movimientos populares respaldan a Kicillof en interna del PJ",
+      "breve": "Referentes del Movimiento Evita y la UTEP ratificaron su respaldo a Kicillof durante un acto de formación laboral, en medio de la interna del peronismo.",
+      "fuentes": [
+        {
+          "medio": "Perfil",
+          "url": "https://perfil.com/politica/los-movimientos-populares-ratifican-su-respaldo-a-kicillof-y-toman-posicion-en-la-interna-del-pj-anSgm6D7qVHA"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Subasta de la UBA por el Hospital de Clínicas",
+      "breve": "“La noche de la UBA” invertirá el dinero recaudado en una plataforma robótica quirúrgica de última generación para el Hospital de Clínicas.",
+      "fuentes": [
+        {
+          "medio": "Perfil",
+          "url": "https://perfil.com/politica/historica-subasta-de-la-uba-la-seleccion-y-artistas-de-primer-nivel-se-unieron-por-el-hospital-de-clinicas-aXExh0m0JTzN"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Edulcorantes se asocian con envejecimiento cerebral más rápido",
+      "breve": "",
+      "fuentes": [
+        {
+          "medio": "Clarín",
+          "url": "https://www.clarin.com/estados-unidos/investigadores-analizaron-edulcorantes-populares-encontraron-asocian-envejecimiento-cerebral-rapido_0_0mJxgQozb7.html"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Zonas Frías: un gesto político “caro” en materia de inflación",
+      "breve": "",
+      "fuentes": [
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/columnistas/zonas-frias-un-gesto-politico-caro-en-materia-de-inflacion-que-sera-cobrado-en-el-congreso/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Gobernadores y el tratamiento de PASO y Presupuesto",
+      "breve": "Santilli reactivará las bilaterales con los mandatarios provinciales la próxima semana en Casa Rosada para definir PASO y Presupuesto.",
+      "fuentes": [
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/activan-ronda-final-con-gobernadores-para-definir-paso-y-presupuesto-la-cuenta-que-manejan-y-que-puede-caer/"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/martin-menem-anticipo-que-el-senado-podria-tratar-la-suspension-de-las-paso-en-las-proximas-semanas/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "El RIGI suma u$s 43 mil millones en inversiones en dos provincias",
+      "breve": "El RIGI ya cuenta con 27 proyectos aprobados, sumando u$s 46.158 millones en petróleo y gas y u$s 27.624 millones en minería, explicando cerca del 97% de la inversión aprobada.",
+      "fuentes": [
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/ranking-rigi-las-dos-provincias-que-suman-us-43-mil-millones-en-inversiones-y-una-tercera-ya-les-pisa-los-talones/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Milei defendió la apertura económica y fijó meta global",
+      "breve": "El Presidente proyectó alcanzar al 90% de la población mundial para 2031 y destacó el potencial tecnológico de la Argentina, defendiendo el rol de los empresarios y el RIGI.",
+      "fuentes": [
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/politica/javier-milei-defendio-el-impacto-sus-medidas-y-afirmo-abrimos-500-mercados-y-llegamos-al-30-del-planeta-n6344722"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Actividad textil cayó más de 20% y se perdieron 29.000 puestos",
+      "breve": "La actividad textil cayó más de 20% en el año y ya se perdieron más de 29.000 puestos de trabajo.",
+      "fuentes": [
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/la-actividad-textil-cayo-mas-de-20-en-el-ano-y-ya-se-perdieron-mas-de-29-000-puestos-de-trabajo/"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Olimpo empató en Mar del Plata y definirá la Reválida en Bahía",
-      "breve": "El aurinegro igualó 1 a 1 ante Kimberley en Mar del Plata, en un partido marcado por un polémico penal, y definirá la llave el martes en el Carminatti.",
+      "titulo": "Olimpo empató 1 a 1 ante Kimberley y definirá en el Carminatti",
+      "breve": "El aurinegro igualó 1 a 1 en Mar del Plata en la reválida, en un partido marcado por un polémico penal, y la llave se definirá el martes en el Carminatti desde las 20.15.",
       "fuentes": [
         {
           "medio": "La Nueva",
@@ -179,71 +323,8 @@
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Cortes programados de calles en Bahía Blanca para este jueves y viernes",
-      "breve": "Se anunciaron cortes de calles programados en distintos puntos de la ciudad para este jueves y viernes, incluyendo la bocacalle de Don Bosco y Rondeau.",
-      "fuentes": [
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-cortes-programados-de-calles-para-este-jueves-3/"
-        },
-        {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/12/cortes-programados-2/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Despidos en Papelera del Sur (Tornquist): dictan conciliación obligatoria",
-      "breve": "El Ministerio de Trabajo dictó la conciliación obligatoria en el conflicto de Papelera del Sur en Tornquist, ordenando reincorporar a los 160 trabajadores despedidos.",
-      "fuentes": [
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/tornquist-papelera-del-sur-dictaron-la-conciliacion-obligatoria-y-los-160-despedidos-deberan-volver-a-trabajar/"
-        },
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/vecinos-de-tornquist-convocan-a-una-movilizacion-en-apoyo-a-los-trabajadores-de-papelera-del-sur/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Jornada de asesoramiento notarial comunitario en Bahía Blanca",
-      "breve": "Este sábado 14 de noviembre se realizará la XIV Jornada Federal de Asesoramiento Notarial Comunitario, ofreciendo información y asesoramiento gratuito a los vecinos.",
-      "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/realizaran-una-jornada-de-asesoramiento-notarial-comunitario-en-bahia-blanca/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Jornada para prevenir el grooming en el mundo digital en Bahía Blanca",
-      "breve": "El Municipio de Bahía Blanca, junto a la Fundación Ser y Hacer, realizará una actividad abierta a la comunidad para prevenir el grooming y promover el cuidado digital.",
-      "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/conectados-y-en-familia-una-jornada-para-prevenir-el-grooming-y-promover-el-cuidado-en-el-mundo-digital/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Robaron herramientas de una vivienda en el barrio 5 de Abril",
-      "breve": "Un vecino del barrio 5 de Abril sufrió el robo de herramientas y otros elementos de valor de su vivienda en calle Cabildo 55.",
-      "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/robaron-herramientas-y-otros-elementos-de-una-vivienda-en-el-barrio-5-de-abril/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Tres aprehendidos por intentar usurpar una vivienda en Undiano al 1500",
-      "breve": "Tres personas fueron aprehendidas tras ser sorprendidas cambiando la cerradura para usurpar una vivienda en calle Undiano al 1500.",
+      "titulo": "Tres aprehendidos por intentar usurpar una vivienda en Bahía Blanca",
+      "breve": "El hecho ocurrió en calle Undiano al 1500, donde tres personas fueron sorprendidas cambiando la cerradura de una vivienda.",
       "fuentes": [
         {
           "medio": "La Nueva",
@@ -253,8 +334,19 @@
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Detuvieron a tres personas en controles en pensiones de Soler y Lavalle",
-      "breve": "Tres personas fueron detenidas luego de controles realizados en pensiones ubicadas en las calles Soler y Lavalle.",
+      "titulo": "Dólar en Bahía Blanca: cotizaciones de este jueves",
+      "breve": "Conocé los valores de la divisa estadounidense en nuestra ciudad y en la city porteña.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-14-23-0-dolar-en-bahia-blanca-a-cuanto-cerraron-este-jueves-todas-las-cotizaciones"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Detuvieron a tres personas tras controles en pensiones de Soler y Lavalle",
+      "breve": "Fueron identificados como Rodrigo Manuel Vargas, de 42 años, Matías Rubén Spinelli, de 18, y Matías Ezequiel Díaz Inacovich, de 20.",
       "fuentes": [
         {
           "medio": "La Nueva",
@@ -264,8 +356,8 @@
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "CD: buscan dejar sin efecto despidos de personal del ex IOSFA",
-      "breve": "El Concejo Deliberante aprobó un proyecto para dejar sin efecto los despidos y desvinculaciones del personal del ex IOSFA.",
+      "titulo": "CD pretende dejar sin efecto despidos del personal del ex IOSFA",
+      "breve": "El proyecto se aprobó por el apoyo de la mayoría de los concejales, mientras el resto se abstuvo.",
       "fuentes": [
         {
           "medio": "La Nueva",
@@ -274,58 +366,146 @@
       ]
     },
     {
-      "seccion": "País",
-      "titulo": "Aumentan jubilaciones y asignaciones de ANSES en diciembre",
-      "breve": "La difusión del índice de precios de octubre activa el nuevo incremento de los haberes para jubilados, pensiones y otros beneficios que paga ANSES en diciembre.",
+      "seccion": "Bahía y región",
+      "titulo": "Emotivo homenaje a la comunidad de Stroeder en su 113° aniversario",
+      "breve": "Entre otras autoridades, se hicieron presentes el jefe comunal, el titular del ejecutivo maragato y la delegada local.",
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-17-3-0-tras-conocerse-el-dato-de-inflacion-cuanto-aumentaran-jubilaciones-y-asignaciones-de-anses-en-diciembre"
-        },
-        {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/aumenta-la-auh-de-anses-cuanto-cobrarian-los-beneficiarios-de-la-asignacion-en-diciembre-2026/"
+          "url": "https://www.lanueva.com/nota/2026-11-11-23-38-0-patagones-emotivo-homenaje-a-la-comunidad-de-stroeder-en-su-113-aniversario"
         }
       ]
     },
     {
-      "seccion": "País",
-      "titulo": "La actividad textil cayó más de 20% en el año, con 29.000 empleos perdidos",
-      "breve": "La actividad textil en el país sufrió una caída superior al 20% en el año, resultando en la pérdida de más de 29.000 puestos de trabajo.",
-      "fuentes": [
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/la-actividad-textil-cayo-mas-de-20-en-el-ano-y-ya-se-perdieron-mas-de-29-000-puestos-de-trabajo/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Críticas a la reforma de la Ley de Salud Mental: la ven como una restricción",
-      "breve": "Trabajadores sociales cuestionaron los cambios que promueve el gobierno a la Ley de Salud Mental, que ya obtuvieron media sanción en el Senado, reclamando mayor presupuesto.",
+      "seccion": "Bahía y región",
+      "titulo": "Vecinos en alerta por otra pelea de trapitos en el Correo Argentino",
+      "breve": "Relataron que entrada la noche un grupo de 10 personas protagonizó una brutal pelea en las inmediaciones de ese edificio.",
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-8-54-0-criticas-a-la-reforma-de-la-ley-de-salud-mental-la-entendemos-como-una-restriccion"
+          "url": "https://www.lanueva.com/nota/2026-11-12-10-49-0-vecinos-en-alerta-por-otra-pelea-de-trapitos-en-la-puerta-del-correo-argentino"
         }
       ]
     },
     {
-      "seccion": "País",
-      "titulo": "Scaloni renovó como entrenador de la Selección Argentina hasta 2030",
-      "breve": "Lionel Scaloni confirmó su continuidad al frente de la Selección Argentina hasta 2030, anunciando que dirigirá su tercer Mundial.",
+      "seccion": "Bahía y región",
+      "titulo": "Detuvieron a un joven tras robar un celular en Bahía Blanca",
+      "breve": "Tomás Nahuel Figueroa, de 27 años, también es investigado por una supuesta vinculación con otros hechos similares en la ciudad.",
       "fuentes": [
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/12/scaloni-renovo-hasta-2030-y-se-emociono-al-anunciar-su-continuidad-en-la-seleccion-n530478/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-15-36-0-detuvieron-a-un-joven-tras-saltar-un-paredon-y-robar-un-celular"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Absolvieron a un hombre acusado de intervenir en un asalto",
+      "breve": "No se probó que Gabriel Bonomo haya intervenido en el hecho ocurrido a mediados de 2023.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-12-11-59-0-absolvieron-a-un-hombre-que-estaba-acusado-de-intervenir-en-un-asalto"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Operativo preventivo de vacunación antirrábica en Bahía Blanca",
+      "breve": "La Dirección de Veterinaria y Zoonosis recuerda que ante dos casos positivos de rabia en murciélagos, se realizará una jornada de vacunación antirrábica gratuita para perros y gatos.",
+      "fuentes": [
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/operativo-preventivo-de-vacunacion-antirrabica/"
         },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-operativo-preventivo-de-vacunacion-antirrabica/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Días de atención del Consultorio Jurídico Gratuito en Ingeniero White",
+      "breve": "Para acceder, se debe solicitar un turno coordinando previamente con el establecimiento, brindándose hasta 6 por día.",
+      "fuentes": [
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/dias-de-atencion-del-consultorio-juridico-gratuito-en-noviembre/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Cortes programados de calles para este jueves y viernes",
+      "breve": "",
+      "fuentes": [
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/12/cortes-programados-2/"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-cortes-programados-de-calles-para-este-jueves-3/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Robaron herramientas y otros elementos de una vivienda en barrio 5 de Abril",
+      "breve": "Un vecino del barrio 5 de Abril sufrió un robo en su vivienda de calle Cabildo 55, donde desconocidos ingresaron durante la madrugada de este jueves.",
+      "fuentes": [
         {
           "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/la-seleccion-argentina-anuncio-la-renovacion-de-lionel-scaloni-como-entrenador/"
+          "url": "https://bvcnoticias.com.ar/2026/11/robaron-herramientas-y-otros-elementos-de-una-vivienda-en-el-barrio-5-de-abril/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Jornada de asesoramiento notarial comunitario en Bahía Blanca",
+      "breve": "Este sábado 14 de noviembre se llevará adelante la XIV Jornada Federal de Asesoramiento Notarial Comunitario, una iniciativa que busca acercar información y asesoramiento gratuito a los vecinos.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/realizaran-una-jornada-de-asesoramiento-notarial-comunitario-en-bahia-blanca/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Jornada para prevenir el grooming en Bahía Blanca",
+      "breve": "En el marco del Día Nacional de la Lucha contra el Grooming, el Municipio de Bahía Blanca, junto a la Fundación Ser y Hacer, llevará adelante una actividad abierta a toda la comunidad.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/conectados-y-en-familia-una-jornada-para-prevenir-el-grooming-y-promover-el-cuidado-en-el-mundo-digital/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Dos hombres aprehendidos tras incidentes en pollería de barrio Moresino",
+      "breve": "El hecho ocurrió ayer, cuando un llamado al 911 alertó sobre disturbios en el comercio ubicado en Brickman al 3200.",
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-dos-hombres-fueron-aprehendidos-tras-protagonizar-incidentes-en-una-polleria-de-barrio-moresino/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Conciliación obligatoria en Papelera del Sur de Tornquist",
+      "breve": "El Ministerio de Trabajo de la Provincia de Buenos Aires dictó la conciliación obligatoria en el conflicto por el cierre de Papelera del Sur, ordenando reincorporar a los 160 trabajadores despedidos.",
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/tornquist-papelera-del-sur-dictaron-la-conciliacion-obligatoria-y-los-160-despedidos-deberan-volver-a-trabajar/"
         },
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-15-20-0-la-emocion-de-scaloni-al-confirmar-su-continuidad-en-la-seleccion-esto-me-llena"
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/vecinos-de-tornquist-convocan-a-una-movilizacion-en-apoyo-a-los-trabajadores-de-papelera-del-sur/"
         }
       ]
     }
