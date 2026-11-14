@@ -1,48 +1,60 @@
 {
-  "id": "2026-11-13-0701",
+  "id": "2026-11-13-2159",
   "fecha": "Viernes 13 de noviembre de 2026",
-  "actualizado": "07:01",
-  "publicada": "2026-11-13T07:01:01.079-03:00",
+  "actualizado": "21:59",
+  "publicada": "2026-11-13T21:59:58.701-03:00",
   "notas": [
     {
       "categoria": "Clima",
       "ambito": "local",
-      "titulo": "Alerta naranja por tormentas en Bahía Blanca: clases suspendidas y precaución",
+      "titulo": "Bahía Blanca quedó fuera del epicentro de la tormenta y ya no rige el alerta",
       "resumen": [
-        "El Servicio Meteorológico Nacional elevó a naranja la alerta por tormentas fuertes para este viernes en Bahía Blanca y la región. Se esperan fenómenos severos con abundante caída de agua, granizo y ráfagas de viento que podrían superar los 90 kilómetros por hora.",
-        "De manera preventiva, se suspendieron las clases en todas las instituciones educativas públicas y privadas, y se restringió la circulación en espacios públicos. Las lluvias y tormentas comenzarían en la noche del jueves y se extenderían hasta la tarde del viernes."
+        "El frente de tormentas se desvió hacia el sur y hacia el norte, por lo que la ciudad quedó al margen del epicentro y ya no se encuentra bajo alerta meteorológico. Aunque persistieron fuertes ráfagas de viento, se prevé una mejora temporaria."
       ],
       "fuentes": [
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-el-smn-elevo-a-naranja-la-alerta-por-tormentas-fuertes-podrian-caer-hasta-90-milimetros/"
-        },
-        {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-18-17-0-ratifican-el-alerta-amarillo-para-esta-noche-y-emiten-un-alerta-naranja-para-la-tarde-y-noche-del-viernes"
+          "url": "https://www.lanueva.com/nota/2026-11-13-19-2-0-bahia-blanca-quedo-fuera-del-epicentro-de-las-tormentas-y-ya-no-esta-bajo-alerta-meteorologica"
         },
         {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/12/alerta-naranja-por-tormentas-para-este-viernes-13-de-noviembre-clases-suspendidas-y-circulacion-restringida-en-espacios-publicos/"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/como-sigue-la-situacion-meteorologica-en-la-ciudad/"
         }
       ]
     },
     {
       "categoria": "Servicios",
       "ambito": "local",
-      "titulo": "Corte de agua programado en General Cerri por obras en el acueducto",
+      "titulo": "El Concejo Deliberante aprobó el estacionamiento medido en la terminal y el aeropuerto",
       "resumen": [
-        "Este viernes se interrumpirá el servicio de agua en General Cerri a partir de las 8 de la mañana y hasta horas de la tarde. La medida se debe a la continuidad de los trabajos en el acueducto a la altura de la Ruta 3 y el acceso a la localidad.",
-        "ABSA realizará trabajos programados que afectarán el suministro. Se recomienda a los vecinos tomar las previsiones necesarias para minimizar el impacto del corte."
+        "El Concejo Deliberante de Bahía Blanca aprobó por unanimidad incorporar las playas del Aeropuerto Comandante Espora y de la Terminal San Francisco de Asís al sistema de estacionamiento medido y pago. Se fijó la Zona C para la terminal y la Zona D para el aeropuerto."
+      ],
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-el-aeropuerto-y-la-terminal-de-omnibus-tendran-estacionamiento-medido-cuanto-costara-dejar-el-auto/"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/se-aprobo-el-cobro-de-una-tarifa-para-estacionar-en-el-aeropuerto-y-la-terminal-de-omnibus/"
+        }
+      ]
+    },
+    {
+      "categoria": "Economía",
+      "ambito": "local",
+      "titulo": "Aprobaron el ingreso al RIGI de proyectos vinculados al gas con impacto en Bahía Blanca",
+      "resumen": [
+        "El Gobierno nacional aprobó el ingreso al RIGI de obras de infraestructura energética. Las iniciativas comprenden inversiones de TGS con respaldo de YPF entre Neuquén y Bahía Blanca, además de la construcción de una planta local para fraccionar y exportar líquidos de gas."
       ],
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-16-20-0-acueducto-en-cerri-por-la-continuidad-de-los-trabajos-este-viernes-se-interrumpira-el-servicio-de-agua"
+          "url": "https://www.lanueva.com/nota/2026-11-13-10-24-0-se-aprueba-la-entrada-al-rigi-de-una-obra-para-tratamiento-de-liquidos-de-gas-en-bahia-blanca"
         },
         {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/absa-realizara-trabajos-que-afectaran-el-suministro-de-agua-en-bahia-blanca-y-general-cerri/"
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/13/el-gobierno-aprobo-el-ingreso-al-rigi-de-dos-proyectos-para-el-gas-de-vaca-muerta-con-impacto-en-bahia/"
         }
       ]
     },
@@ -66,25 +78,6 @@
         {
           "medio": "El Cronista",
           "url": "https://www.cronista.com/economia-politica/canasta-basica-una-familia-tipo-necesito-1690000-en-octubre-para-no-ser-pobre/"
-        }
-      ]
-    },
-    {
-      "categoria": "Educación",
-      "ambito": "local",
-      "titulo": "Docentes de la UNS inician paro de siete días por reclamos salariales",
-      "resumen": [
-        "Docentes de universidades nacionales, incluyendo la Universidad Nacional del Sur (UNS) en Bahía Blanca, iniciaron este jueves un paro que se extenderá por siete días, hasta el próximo miércoles 18 de noviembre. La medida de fuerza fue convocada por ADUNS.",
-        "El principal reclamo es que el Gobierno de Javier Milei cumpla con la Ley de Financiamiento Universitario. Este paro afectará el dictado de clases en la UNS y en las escuelas dependientes de la casa de altos estudios."
-      ],
-      "fuentes": [
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-docentes-de-universidades-nacionales-iniciaron-este-jueves-un-paro-que-se-extendera-por-siete-dias-sera-desde-hoy-hasta-el-proximo-miercoles-18-de-noviembre-el-principal-reclamo-es-qu/"
-        },
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/aduns-anuncio-nuevas-jornadas-de-paro-docente-y-no-docente-en-la-uns/"
         }
       ]
     },
@@ -115,403 +108,415 @@
   "resto": [
     {
       "seccion": "Bahía y región",
-      "titulo": "Tragedia en Villarino: nene bahiense de 5 años murió ahogado en una pileta",
-      "breve": "El pequeño estaba de paseo con su padre en un campo donde trabaja su abuelo, a unos cuatro kilómetros de Hilario Ascasubi.",
+      "titulo": "Concesionarán las rutas nacionales 22, 33 y 35",
+      "breve": "El Gobierno nacional oficializó en el Boletín Oficial la concesión de tres corredores viales clave para la producción y Vaca Muerta.",
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-20-7-0-tragedia-en-villarino-un-nene-bahiense-de-5-anos-murio-ahogado-en-una-pileta"
+          "url": "https://www.lanueva.com/nota/2026-11-13-10-25-0-concesionaran-las-rutas-nacionales-22-33-y-35-tres-circuitos-claves-en-nuestra-region"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Persecución en Bahía Blanca: un detenido y auto secuestrado",
-      "breve": "Una persecución que comenzó en el centro de la ciudad culminó cerca de Médanos, con un detenido y un auto secuestrado.",
+      "titulo": "Trabajadores de Papelera del Sur hallaron la planta cerrada en Tornquist",
+      "breve": "Pese a regir la conciliación obligatoria del Ministerio de Trabajo, los operarios no pudieron ingresar a cumplir sus labores.",
       "fuentes": [
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-13-6-24-0-persecucion-en-el-centro-de-la-ciudad-culmina-con-un-detenido-y-un-auto-secuestrado"
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/tornquist-conflicto-en-papelera-del-sur-los-trabajadores-encontraron-la-fabrica-cerrada-pese-a-la-conciliacion-obligatoria/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Adjudicaron las obras de reparación del Paso Urbano",
+      "breve": "El Municipio de Bahía Blanca otorgó los trabajos viales de mantenimiento a la firma Ingeniería y Arquitectura S.R.L.",
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/el-municipio-de-bahia-blanca-adjudico-la-reparacion-del-paso-urbano/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Fuerte temporal en Punta Alta dejó calles anegadas y cortes de luz",
+      "breve": "Cayeron más de 50 milímetros en un breve lapso bajo alerta climática, provocando complicaciones en distintos sectores.",
+      "fuentes": [
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/diluvio-en-punta-alta-mas-de-50-milimetros-anegamiento-y-cortes-de-luz/"
         },
         {
           "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/13/un-persecucion-que-empezo-en-centro-termino-cerca-de-medanos-un-detenido-n530547/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Cayeron tres hombres en operativo antidrogas en barrio Evita",
-      "breve": "Se hizo un allanamiento en una vivienda del barrio Evita donde se secuestró marihuana, una balanza de precisión, elementos de fraccionamiento y municiones calibre 22.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-22-31-0-cayeron-tres-hombres-en-un-operativo-antidrogas"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Denuncian cucarachas en la Escuela Secundaria N° 21 de Bahía Blanca",
-      "breve": "El planteo apunta a la Escuela Secundaria N° 21, ubicada en calle Zapiola, y reclaman medidas sanitarias.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-22-4-0-denuncian-la-presencia-de-cucarachas-en-una-escuela-de-bahia-y-reclaman-medidas-sanitarias"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Cortes de calles programados en Bahía Blanca por trabajos de bacheo",
-      "breve": "Habrá interrupciones totales y reducciones de calzada en distintos puntos de la ciudad por trabajos de bacheo y un acto educativo, con un corte que se extenderá durante 20 días.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-21-36-0-cuales-son-las-calles-cortadas-y-que-sectores-estaran-afectados-durante-los-proximos-dias"
+          "url": "https://www.labrujula24.com/notas/2026/11/13/fuertes-tormentas-dejan-calles-anegadas-en-punta-alta-n530665/"
         },
         {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-13-16-49-0-tormenta-en-punta-alta-cayeron-35-milimetros-en-una-hora-y-produjo-anegamientos"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Adjudicaron el dragado del canal principal del puerto a Jan De Nul",
+      "breve": "La compañía se hará cargo del mantenimiento por 15 años y tendrá 12 meses para profundizar el canal del complejo portuario.",
+      "fuentes": [
+        {
           "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/12/cortes-programados-2/"
+          "url": "https://www.ingenierowhite.com/2026/11/13/jan-de-nul-fue-adjudicada-para-obras-de-dragado-en-el-puerto-de-bahia-blanca/"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Tres aprehendidos por intentar usurpar una vivienda en calle Undiano",
-      "breve": "El hecho ocurrió en calle Undiano al 1500, donde tres personas fueron sorprendidas cambiando la cerradura para usurpar una vivienda.",
+      "titulo": "El costo del asado en Bahía Blanca acumuló una suba del 29,5% en el año",
+      "breve": "El relevamiento del Creebba marcó una leve desaceleración en octubre en la comparación interanual.",
+      "fuentes": [
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/13/el-costo-de-hacer-asado-en-bahia-acumula-una-suba-del-295-en-el-ultimo-ano-n530685/"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "El dólar blue cerró a $1.573,79 en las casas de cambio de Bahía Blanca",
+      "breve": "La divisa informal registró un avance de $10 en una jornada con movimientos en la plaza cambiaria local.",
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-15-16-0-tres-aprehendidos-tras-ser-sorprendidos-cambiando-la-cerradura-para-usurpar-una-vivienda"
+          "url": "https://www.lanueva.com/nota/2026-11-13-17-48-0-el-mercado-cambiario-tuvo-una-jornada-agitada-que-paso-con-el-dolar-en-bahia"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Detuvieron a tres personas tras controles en pensiones de calle Soler y Lavalle",
-      "breve": "Fueron identificados como Rodrigo Manuel Vargas, de 42 años, Matías Rubén Spinelli, de 18, y Matías Ezequiel Díaz Inacovich, de 20.",
+      "titulo": "Condenaron a dos personas por contrabando de celulares en el Fitosanitario",
+      "breve": "Recibieron dos años y medio de prisión en suspenso y una multa tras ingresar y comercializar tecnología en forma irregular.",
       "fuentes": [
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/13/condenan-a-dos-personas-descubiertas-en-el-fitosanitario-contrabandeando-celulares-n530666/"
+        },
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-14-2-0-detuvieron-a-tres-personas-luego-de-controles-en-pensiones-de-calle-soler-y-lavalle"
+          "url": "https://www.lanueva.com/nota/2026-11-13-16-5-0-condenaron-a-dos-personas-a-dos-anos-y-seis-meses-de-prision-en-suspenso-por-encubrimiento-de-contrabando"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Concejo Deliberante busca dejar sin efecto despidos del ex IOSFA",
-      "breve": "El proyecto se aprobó por el apoyo de la mayoría de los concejales, buscando dejar sin efecto los despidos y desvinculaciones del personal del ex IOSFA.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-12-32-0-cd-se-pretende-dejar-sin-efecto-los-despidos-y-desvinculaciones-del-personal-del-ex-iosfa"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Detuvieron a un joven por robo de celular tras saltar un paredón",
-      "breve": "Tomás Nahuel Figueroa, de 27 años, también es investigado por una supuesta vinculación con otros hechos similares en la ciudad.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-15-36-0-detuvieron-a-un-joven-tras-saltar-un-paredon-y-robar-un-celular"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Absolvieron a un hombre acusado de intervenir en un asalto en Bahía Blanca",
-      "breve": "No se probó que Gabriel Bonomo haya intervenido en el hecho ocurrido a mediados de 2023.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-11-59-0-absolvieron-a-un-hombre-que-estaba-acusado-de-intervenir-en-un-asalto"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Robaron herramientas y otros elementos de una vivienda en el barrio 5 de Abril",
-      "breve": "Un vecino del barrio 5 de Abril sufrió un robo en su vivienda de calle Cabildo 55, donde desconocidos ingresaron durante la madrugada de este jueves.",
-      "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/robaron-herramientas-y-otros-elementos-de-una-vivienda-en-el-barrio-5-de-abril/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Jornada de asesoramiento notarial comunitario en Bahía Blanca",
-      "breve": "Este sábado 14 de noviembre se llevará adelante la XIV Jornada Federal de Asesoramiento Notarial Comunitario, que busca acercar información y asesoramiento gratuito a los vecinos.",
-      "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/realizaran-una-jornada-de-asesoramiento-notarial-comunitario-en-bahia-blanca/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Jornada para prevenir el grooming y promover el cuidado digital en Bahía Blanca",
-      "breve": "En el marco del Día Nacional de la Lucha contra el Grooming, el Municipio de Bahía Blanca, junto a la Fundación Ser y Hacer, realizará una actividad abierta a toda la comunidad.",
-      "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/conectados-y-en-familia-una-jornada-para-prevenir-el-grooming-y-promover-el-cuidado-en-el-mundo-digital/"
-        }
-      ]
-    },
-    {
-      "seccion": "Bahía y región",
-      "titulo": "Dictaron conciliación obligatoria en Papelera del Sur de Tornquist",
-      "breve": "El Ministerio de Trabajo de la Provincia de Buenos Aires dictó la conciliación obligatoria en el conflicto por el cierre de Papelera del Sur, ordenando reincorporar a los 160 despedidos.",
+      "titulo": "Fijaron fecha para juzgar por jurados a un hombre que atropelló y mató a otro",
+      "breve": "El debate oral se desarrollará del 18 al 20 de noviembre por el hecho ocurrido tras una discusión en la ciudad.",
       "fuentes": [
         {
           "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/tornquist-papelera-del-sur-dictaron-la-conciliacion-obligatoria-y-los-160-despedidos-deberan-volver-a-trabajar/"
+          "url": "https://360masnoticias.com/bahia-blanca-juzgan-a-un-hombre-por-atropellar-y-matar-a-otro-tras-una-discusion/"
         },
         {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/vecinos-de-tornquist-convocan-a-una-movilizacion-en-apoyo-a-los-trabajadores-de-papelera-del-sur/"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/juicio-por-jurados-juzgan-a-un-hombre-por-atropellar-y-matar-a-otro-tras-una-discusion/"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "Dos hombres aprehendidos tras incidentes en pollería de barrio Moresino",
-      "breve": "Dos hombres fueron aprehendidos por la Policía luego de protagonizar un episodio de violencia en una pollería ubicada en Brickman al 3200.",
+      "titulo": "Condenaron en juicio abreviado a un masajista por abuso sexual simple",
+      "breve": "El Juzgado Correccional N.º 4 le fijó un año y seis meses de prisión condicional tras la acusación de dos víctimas.",
       "fuentes": [
         {
           "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-dos-hombres-fueron-aprehendidos-tras-protagonizar-incidentes-en-una-polleria-de-barrio-moresino/"
+          "url": "https://360masnoticias.com/bahia-blanca-condenan-a-un-masajista-por-abusar-de-dos-mujeres/"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/masajista-condenado-por-abusar-de-dos-mujeres/"
         }
       ]
     },
     {
       "seccion": "Bahía y región",
-      "titulo": "ARBA: vence la primera etapa del plan de pagos con descuentos",
-      "breve": "La Agencia de Recaudación de la provincia de Buenos Aires recordó que este viernes 13 de noviembre finaliza la primera etapa del plan de pagos con bonificaciones de hasta el 40% del total de la deuda.",
+      "titulo": "Detuvieron en Médanos a un involucrado en la persecución iniciada en Bahía",
+      "breve": "Un joven de 22 años fue aprehendido tras abandonar el vehículo en la ruta luego de la fuga por el centro bahiense.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/persecucion-policial-desde-bahia-blanca-hasta-medanos/"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/detuvieron-a-un-segundo-sospechoso-de-la-persecucion-que-comenzo-en-bahia-blanca/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-13-8-24-0-detuvieron-en-medanos-a-uno-de-los-profugos-de-la-persecucion"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Condenaron a cuatro años y dos meses de prisión a una mujer por venta de drogas",
+      "breve": "El Tribunal en lo Criminal N.º 3 dictó la pena tras comprobarse la comercialización fraccionada detectada por cámaras.",
       "fuentes": [
         {
           "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/arba-vence-la-primera-etapa-del-plan-de-pagos-con-descuentos/"
+          "url": "https://www.delabahia.com.ar/condenaron-a-una-mujer-por-comercializar-drogas-en-bahia-blanca/"
         },
         {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-13-9-44-0-la-condenaron-a-4-anos-y-2-meses-de-prision-por-venta-de-droga-detectada-por-camaras"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Buscan a un hombre desaparecido hace casi dos semanas en la ciudad",
+      "breve": "La Policía solicita datos para dar con el paradero de Walter Ramón Oyarzo, de 36 años.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-13-9-59-0-buscan-a-un-hombre-que-se-fue-de-su-casa-hace-casi-dos-semanas"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Bahía Blanca celebrará la semana de la cocina italiana",
+      "breve": "Del 16 al 22 de noviembre habrá degustaciones, clases magistrales y propuestas gastronómicas temáticas.",
+      "fuentes": [
+        {
           "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/12/arba-deuda-por-deuda-y-plan-por-plan-como-gozar-de-los-mayores-beneficios-de-las-facilidades-de-pago/"
+          "url": "https://www.ingenierowhite.com/2026/11/13/llega-la-semana-de-la-comida-italiana-a-la-ciudad-del-16-al-22-de-noviembre/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-13-12-34-0-pizza-pastas-y-cafe-bahia-blanca-se-prepara-para-celebrar-la-cocina-italiana"
+        }
+      ]
+    },
+    {
+      "seccion": "Bahía y región",
+      "titulo": "Realizarán controles gratuitos de glucemia el lunes en el Laboratorio Laci",
+      "breve": "La actividad abierta a la comunidad se desarrollará en sus dos sedes por el Mes de la Concientización.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/jornada-gratuita-de-control-de-glucemia-en-el-laboratorio-laci/"
         }
       ]
     },
     {
       "seccion": "País",
-      "titulo": "ANSES: quiénes cobran hoy, viernes 13 de noviembre de 2026",
-      "breve": "El cronograma oficial fija las fechas según el último dígito del documento y detalla los nuevos montos para jubilaciones, AUH, asignaciones familiares y más beneficios.",
+      "titulo": "Una explosión de gas en Remedios de Escalada provocó un muerto y más de 30 heridos",
+      "breve": "Una rotura accidental en un caño causó la deflagración en Lanús; buscan a dos personas desaparecidas.",
       "fuentes": [
         {
-          "medio": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/13/anses-quienes-cobran-hoy-viernes-13-de-noviembre-de-2026/"
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/confirman-un-muerto-en-la-explosion-de-remedios-de-escalada-ya-son-7-los-heridos-de-gravedad/"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/13/explosion-de-un-cano-de-gas-en-buenos-aires-un-muerto-y-30-heridos-n530681/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-13-17-44-0-explosion-en-remedios-de-escalada-un-muerto-dos-desaparecidos-y-siete-heridos-graves"
         }
       ]
     },
     {
       "seccion": "País",
-      "titulo": "Javier Milei ante empresas: “Lo único que le faltaba al país eran reglas claras”",
-      "breve": "El Presidente defendió la apertura económica y fijó una meta ambiciosa: llegar al 90% de la población mundial para 2031.",
+      "titulo": "EE.UU. paralizó sus despegues por fallas técnicas y hay demoras en vuelos a Ezeiza",
+      "breve": "La medida de la FAA obligó a frenar salidas aéreas de urgencia y generó retrasos en conexiones internacionales.",
       "fuentes": [
-        {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-lo-unico-que-le-faltaba-al-pais-eran-reglas-claras-dijo-el-nid13112026/"
-        },
         {
           "medio": "Ámbito",
-          "url": "https://www.ambito.com/politica/javier-milei-defendio-el-impacto-sus-medidas-y-afirmo-abrimos-500-mercados-y-llegamos-al-30-del-planeta-n6344722"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Investigación internacional confirma origen patagónico de brote de hantavirus",
-      "breve": "Se publicaron dos estudios en la revista Science que confirman que el contagio inicial ocurrió en la Patagonia argentina, en un crucero que conmocionó al mundo.",
-      "fuentes": [
+          "url": "https://www.ambito.com/informacion-general/la-suspension-eeuu-ya-se-siente-ezeiza-que-vuelos-cambiaron-horario-esta-noche-n6345179"
+        },
         {
           "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/sociedad/exhaustiva-investigacion-internacional-el-caso-13-clave-en-el-brote-de-hantavirus-en-un-crucero-que-nid12112026/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Estudiantes ganó la Supercopa Argentina y levantó el vigésimo título",
-      "breve": "El “Pincha” se impuso ante Independiente Rivadavia en Córdoba, y ahora va por la Copa Libertadores.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-22-58-0-estudiantes-gano-la-supercopa-argentina-y-levanto-el-vigesimo-titulo-de-su-historia"
+          "url": "https://www.lanacion.com.ar/estados-unidos/suspenden-todos-los-vuelos-de-salida-en-eeuu-por-una-situacion-extraordinaria-y-motivos-de-seguridad-nid13112026/"
         },
         {
           "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/12/estudiantes-se-quedo-con-la-supercopa-argentina-n530535/"
+          "url": "https://www.labrujula24.com/notas/2026/11/13/ee-uu-suspendio-los-vuelos-en-todo-el-pais-la-segunda-interrupcion-de-este-tipo-desde-el-11-s-n530676/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Los salarios registrados subieron 1,9% en septiembre y empataron con la inflación",
+      "breve": "El informe del INDEC dio cuenta de una variación salarial en línea con el índice de precios al consumidor de ese mes.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-13-18-20-0-los-salarios-registrados-aumentaron-1-9-en-septiembre-y-empataron-con-la-inflacion"
         },
         {
           "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/estudiantes-se-quedo-con-la-supercopa-argentina/"
+          "url": "https://frenteacano.com.ar/en-septiembre-los-salarios-crecieron-nuevamente-por-debajo-de-la-inflacion/"
         }
       ]
     },
     {
       "seccion": "País",
-      "titulo": "La Selección Argentina se enfrenta con Uruguay en fecha FIFA",
-      "breve": "El encuentro será este viernes a partir de las 20 en La Bombonera, en un interesante desafío en el inicio de la fecha FIFA.",
+      "titulo": "El uso de la capacidad instalada en la industria superó el 60% en septiembre",
+      "breve": "El indicador fabril alcanzó su punto más alto del año, aunque retrocedió en comparación con el mismo mes del año previo.",
+      "fuentes": [
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/la-industria-uso-el-601-de-su-capacidad-instalada-en-septiembre-cayo-en-la-comparacion-interanual-pero-toco-su-mayor-nivel-de-2026/"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/el-uso-de-capacidad-instalada-cruzo-el-60-por-primera-vez-en-2026-aunque-tuvo-una-caida-anual/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "El Tesoro convocó a un canje de letras dólar linked para postergar vencimientos a 2027",
+      "breve": "Finanzas ofreció convertir títulos LELINK que vencen este mes por un nuevo instrumento con plazo a enero de 2027.",
+      "fuentes": [
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/finanzas/deuda-el-tesoro-lanzo-un-nuevo-canje-letras-dolar-linked-postergar-vencimientos-enero-2027-n6345166"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "El Gobierno definió las fechas para debatir el Presupuesto en Diputados",
+      "breve": "Fijaron una comisión para el martes 17 de noviembre antes de la sesión del 25, con pase a extraordinarias en el Senado.",
+      "fuentes": [
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/politica/el-gobierno-oficializo-los-plazos-aprobar-el-presupuesto-2027-diputados-n6345178"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "La Casa Rosada convocó a su mesa política para destrabar la agenda legislativa",
+      "breve": "El oficialismo analizará temas como las PASO y el Presupuesto en medio de diferencias internas.",
+      "fuentes": [
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/politica/el-gobierno-vuelve-reunir-la-mesa-semanas-paralisis-y-medio-tensiones-internas-n6345141"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Más de 4.500 evacuados por las crecidas e inundaciones en cuatro provincias",
+      "breve": "Chaco, Corrientes, Santa Fe y Entre Ríos son los distritos con mayor afectación de familias por el temporal.",
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/mas-de-4-500-personas-permanecen-evacuadas-por-las-inundaciones-en-cuatro-provincias/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Las jubilaciones mínimas tendrán una suba del 2,17% en diciembre",
+      "breve": "El porcentaje surge del mecanismo de movilidad vigente que toma como referencia el último registro inflacionario.",
+      "fuentes": [
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/continuara-la-perdida-de-poder-adquisitivo-de-las-jubilaciones-minimas/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Argentina cayó 2 a 1 frente a Uruguay en el amistoso jugado en La Bombonera",
+      "breve": "El conjunto dirigido por Scaloni descontó con un gol de Julián Álvarez en el comienzo de la etapa sin Messi.",
       "fuentes": [
         {
           "medio": "La Nueva",
           "url": "https://www.lanueva.com/nota/2026-11-13-5-0-43-la-seleccion-argentina-se-enfrenta-con-uruguay-en-un-interesante-desafio-en-el-inicio-de-la-fecha-fifa"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Confirmada la salida de Walter Samuel de la Selección argentina",
-      "breve": "El ex defensor dejará de ser ayudante de campo para hacer su carrera como entrenador, lo que plantea qué planea hacer Scaloni.",
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-18-21-0-se-confirmo-la-salida-de-walter-samuel-de-la-seleccion-argentina-que-planea-hacer-scaloni"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Ingresos Brutos profundiza su caída y arrastra a la recaudación provincial",
-      "breve": "La caída de la actividad es el denominador común detrás de la menor recaudación, con solo cinco jurisdicciones registrando crecimiento en términos reales.",
-      "fuentes": [
-        {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/ingresos-brutos-profundiza-su-caida-y-arrastra-a-la-recaudacion-las-provincias-que-mas-lo-sienten/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "El consumo se prepara para Navidad: claves para stocks y márgenes",
-      "breve": "Las campañas de descuentos pueden concentrar en pocos días el equivalente a semanas de ventas, lo que genera tensión en el abastecimiento.",
-      "fuentes": [
-        {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/el-consumo-se-prepara-para-navidad-el-nuevo-cuello-de-botella-y-las-claves-para-stocks-y-margenes/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Tiempo límite para regularizar Ganancias y mantener beneficios de Inocencia Fiscal",
-      "breve": "El lunes 16 de noviembre vence el plazo para presentar la declaración jurada 2025, con condiciones específicas que deben cumplir los contribuyentes.",
-      "fuentes": [
-        {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/tiempo-limite-como-regularizar-ganancias-y-mantener-los-beneficios-de-inocencia-fiscal/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Zonas Frías: un gesto político “caro” en materia de inflación",
-      "breve": "La medida será cobrada en el Congreso, siendo un gesto político con impacto en la inflación.",
-      "fuentes": [
-        {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/columnistas/zonas-frias-un-gesto-politico-caro-en-materia-de-inflacion-que-sera-cobrado-en-el-congreso/"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "El Gobierno anunció nuevas licitaciones para concesionar 27 tramos de rutas",
-      "breve": "La medida se anunció a través del decreto N° 1358/2026 publicado en el Boletín Oficial, alcanzando a varias provincias.",
-      "fuentes": [
-        {
-          "medio": "Perfil",
-          "url": "https://perfil.com/politica/el-gobierno-anuncio-nuevas-licitaciones-para-concesionar-27-tramos-de-rutas-nacionales-a-que-provincias-alcanza-esta-medida-aEwui5p6aIXG"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Profesor de rugby golpeó a un hombre por mirar a su pareja",
-      "breve": "El agresor le gritaba a su víctima mientras la golpeaba: \"¿Está bien así, o querés que siga? Pedí disculpas\".",
-      "fuentes": [
-        {
-          "medio": "Perfil",
-          "url": "https://perfil.com/sociedad/profesor-de-rugby-acuso-a-un-hombre-de-mirar-a-su-pareja-y-le-pego-mas-de-10-trompadas-en-la-cara-antes-de-escapar-en-su-camioneta-awdjU9U49ucl"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Encuesta regional: ¿Cómo quedó Milei y quién perdió más imagen?",
-      "breve": "Una encuesta regional con 51.350 casos comparó la imagen de 18 mandatarios y movió varios casilleros de la tabla respecto de octubre.",
-      "fuentes": [
-        {
-          "medio": "Perfil",
-          "url": "https://perfil.com/politica/una-encuesta-midio-a-18-presidentes-latinoamericanos-como-quedo-milei-y-quien-perdio-mas-imagen-anLM40g4SgCs"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Caso Loan: “Era imposible encontrarlo si no se sabía que estaba ahí”",
-      "breve": "Un policía declaró sobre el botín del nene, indicando que era imposible encontrarlo sin esa información.",
-      "fuentes": [
-        {
-          "medio": "Perfil",
-          "url": "https://perfil.com/sociedad/caso-loan-era-imposible-encontrarlo-si-no-se-sabia-que-estaba-ahi-declaro-un-policia-sobre-el-botin-del-nene-aems25S0yUxp"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Oro: la AGN prepara dura auditoría sobre envíos al exterior",
-      "breve": "La Auditoría General de la Nación recibió la respuesta del BCRA y prepara una dura auditoría sobre los envíos de oro al exterior.",
-      "fuentes": [
+        },
         {
           "medio": "Ámbito",
-          "url": "https://www.ambito.com/politica/oro-la-agn-recibio-la-respuesta-del-bcra-y-prepara-una-dura-auditoria-los-envios-al-exterior-n6344725"
-        }
-      ]
-    },
-    {
-      "seccion": "País",
-      "titulo": "Funcionario bonaerense pidió revisar políticas sobre jubilaciones y discapacidad",
-      "breve": "El jefe de Gabinete de la provincia de Buenos Aires, Carlos Bianco, afirmó que el mensaje del papa León XIV impulsa esta revisión.",
-      "fuentes": [
+          "url": "https://www.ambito.com/deportes/amistoso-la-seleccion-argentina-contra-uruguay-messi-dia-hora-y-como-verlo-vivo-n6344465"
+        },
         {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/funcionario-bonaerense-pidio-revisar-las-politicas-sobre-jubilaciones-discapacidad-y-empleo/"
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-uruguay-en-vivo-nid13112026/"
         }
       ]
     },
     {
       "seccion": "País",
-      "titulo": "Buscan que imputados por accidentes de tránsito no puedan conducir en la provincia",
-      "breve": "La diputada del PRO, Laura Ricchini, busca habilitar a los jueces a quitar licencias de conducir a personas imputadas por accidentes de tránsito.",
+      "titulo": "Milei dialogó con el nuevo mandatario paraguayo Pedro Alliana tras la salida de Peña",
+      "breve": "Ambos acordaron concretar un próximo encuentro bilateral en Buenos Aires o Asunción.",
       "fuentes": [
         {
           "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/buscan-que-los-imputados-por-accidentes-de-transito-no-puedan-conducir-en-la-provincia/"
+          "url": "https://360masnoticias.com/milei-saludo-al-nuevo-presidente-de-paraguay-tiene-en-nosotros-a-un-socio-y-amigo/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-13-14-38-0-milei-converso-con-el-nuevo-presidente-de-paraguay-tiene-un-socio-un-aliado-y-un-amigo"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/13/milei-converso-con-el-nuevo-presidente-de-paraguay-tiene-un-socio-un-aliado-y-un-amigo-n530654/"
         }
       ]
     },
     {
       "seccion": "País",
-      "titulo": "La actividad textil cayó más de 20% en el año y se perdieron 29.000 puestos",
-      "breve": "",
+      "titulo": "Una falla global en la nube de Microsoft provocó caídas en Outlook y Teams",
+      "breve": "El incidente técnico perjudicó el funcionamiento regular de diversas herramientas corporativas en varios países.",
       "fuentes": [
         {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/una-caida-global-de-microsoft-afecto-a-outlook-teams-y-copilot-en-decenas-de-paises/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Andrés Matonte dirigirá la final de la Copa Sudamericana entre Boca y Mineiro",
+      "breve": "La Conmebol designó al árbitro uruguayo para la definición continental, asistido por Antonio García en el VAR.",
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-13-17-12-0-la-conmebol-designo-al-arbitro-para-la-final-de-la-copa-sudamericana-entre-boca-y-atletico-mineiro"
+        },
+        {
           "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/la-actividad-textil-cayo-mas-de-20-en-el-ano-y-ya-se-perdieron-mas-de-29-000-puestos-de-trabajo/"
+          "url": "https://frenteacano.com.ar/andres-matonte-sera-el-arbitro-de-la-final-de-la-copa-sudamericana/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "Banco Nación ofrece créditos de hasta $50 millones para la compra de vehículos",
+      "breve": "La línea de financiamiento abarca rodados 0 km y unidades usadas mediante el programa +Autos.",
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/banco-nacion-ofrece-creditos-de-hasta-50-millones-para-comprar-autos-0-km-y-usados/"
+        }
+      ]
+    },
+    {
+      "seccion": "País",
+      "titulo": "El papa León XIV encabezó una misa multitudinaria en Chiclayo durante su gira por Perú",
+      "breve": "El pontífice visitó las Pampas de Pimentel, localidad donde fue obispo durante ocho años.",
+      "fuentes": [
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/13/una-multitud-recibio-al-papa-leon-xiv-en-peru-que-alegria-volver-a-chiclayo-n530649/"
+        },
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/el-mundo/papa-leon-xiv-en-peru-en-vivo-misa-en-las-pampas-de-pimentel-y-un-encuentro-en-el-santuario-de-nid13112026/"
         }
       ]
     }
