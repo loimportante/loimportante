@@ -1,30 +1,34 @@
 {
   "fecha": "Domingo 15 de noviembre de 2026",
-  "actualizado": "08:04",
+  "actualizado": "13:03",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Economía",
-      "titulo": "La Justicia declaró inconstitucional la fórmula jubilatoria del gobierno anterior",
+      "titulo": "Casi el 70% de los hogares no llega con sus ingresos al día 20 del mes",
       "resumen": [
-        "La Cámara Federal de la Seguridad Social declaró inconstitucional el mecanismo de movilidad aplicado durante el mandato de Alberto Fernández. El fallo dispuso utilizar el esquema de actualización implementado durante la presidencia de Mauricio Macri para calcular los haberes de una jubilada."
+        "Un informe reveló que el 68% de las familias argentinas se queda sin dinero antes del día 20 de cada mes. Aunque en algunos sectores se registraron posibilidades de ahorro, dos de cada tres personas continúan recortando gastos cotidianos debido al impacto de los aumentos en servicios y tarifas."
       ],
       "fuentes": [
         {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/la-justicia-declaro-inconstitucional-la-movilidad-jubilatoria-del-gobierno-de-alberto-fernandez/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-15-12-1-0-el-68-de-los-hogares-argentinos-no-llega-al-20-del-mes-con-sus-ingresos"
         },
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/la-justicia-declaro-inconstitucional-la-formula-jubilatoria-del-gobierno-de-alberto-fernandez/"
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/la-economia-los-hogares-muestra-una-mejora-pero-dos-cada-tres-argentinos-todavia-recortan-gastos-n6345399"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/el-68-de-los-hogares-argentinos-no-llega-al-20-del-mes-con-sus-ingresos/"
         }
       ]
     },
     {
       "categoria": "Servicios",
-      "titulo": "La obra de renovación del acueducto en Bahía Blanca alcanzó el 53% de avance",
+      "titulo": "La renovación del acueducto en Bahía Blanca alcanzó un avance del 53%",
       "resumen": [
-        "Los trabajos de reemplazo de la cañería obsoleta llegaron a más de la mitad de su desarrollo. Las tareas se ejecutan mediante una tecnología no destructiva, lo que permite continuar con la provisión habitual de agua en la ciudad mientras avanza la infraestructura."
+        "Los trabajos para reconstruir el acueducto de la ciudad superaron la mitad de su ejecución. La obra busca reemplazar cañerías antiguas y deterioradas mediante la aplicación de tecnología no destructiva, un sistema que permite llevar adelante las mejoras sin interrumpir el suministro de agua potable."
       ],
       "fuentes": [
         {
@@ -34,45 +38,57 @@
       ]
     },
     {
-      "categoria": "Bahía Blanca",
-      "titulo": "Papelera del Sur no reabrió su planta en Tornquist pese a la conciliación obligatoria",
+      "categoria": "Política",
+      "titulo": "El Gobierno negocia apoyos con gobernadores para suspender las PASO",
       "resumen": [
-        "Tras la medida dictada por el Ministerio de Trabajo bonaerense para frenar el cierre de la fábrica en Tornquist, la empresa no retomó sus actividades. La situación mantiene la incertidumbre sobre el futuro de los puestos de trabajo en la región."
+        "El oficialismo busca avanzar antes de fin de año con una reforma electoral para dejar sin efecto las elecciones primarias. Sin los votos asegurados en el Congreso, se abrieron instancias de diálogo con bloques provinciales, la UCR y el PRO para destrabar el tratamiento legislativo frente a los plazos previstos."
       ],
       "fuentes": [
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/tornquist-papelera-del-sur-no-abrio-sus-puertas-pese-a-la-conciliacion-obligatoria/"
-        }
-      ]
-    },
-    {
-      "categoria": "Sociedad",
-      "titulo": "Flexibilizan los controles para comprar propiedades con dólares no declarados",
-      "resumen": [
-        "La Unidad de Información Financiera modificó los criterios para justificar el origen de los fondos en transacciones inmobiliarias, permitiendo el uso de ahorros fuera del sistema para contribuyentes del régimen simplificado. Los escribanos mantendrán esquemas de verificación."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/dolares-del-colchon-para-comprar-propiedades-que-cambio-con-la-nueva-norma-de-la-uif-y-que-controles-nid15112026/"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/15/el-gobierno-busca-apoyo-de-gobernadores-para-que-no-haya-paso-aun-no-tiene-los-votos-n530924/"
         },
         {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/como-pagar-una-propiedad-con-dolares-del-colchon-tras-inocencia-fiscal-y-sin-problemas-con-arca/"
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/politica/paso-semana-definiciones-el-senado-la-interna-del-peronismo-la-mira-y-patricia-bullrich-marginada-n6345372"
         }
       ]
     },
     {
       "categoria": "Seguridad",
-      "titulo": "Confirmaron una pena de cinco años de prisión por extorsionar a una menor bahiense",
+      "titulo": "Un chofer de Uber fue detenido tras golpear a un jubilado en Bahía Blanca",
       "resumen": [
-        "La Justicia de Casación ratificó la condena a Lautaro Leiva por chantajear mediante un perfil falso a una niña de 11 años en Bahía Blanca. El tribunal desestimó los planteos de la defensa y remarcó la responsabilidad penal de quien exige y obliga a generar el material."
+        "Un hombre de 71 años terminó hospitalizado luego de ser atacado por un conductor tras un conflicto vinculado a un viaje por aplicación en Fuerte Argentino y Sarmiento. La víctima sufrió traumatismo de cráneo y una lesión en la zona ocular, mientras que el agresor fue aprehendido por la Policía."
       ],
       "fuentes": [
         {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/ataco-por-la-espalda-a-un-hombre-de-71-anos-tras-una-discusion-por-un-viaje-de-uber/"
+        },
+        {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-15-5-0-36-grooming-confirman-la-condena-a-un-hombre-que-chantajeo-a-una-nena-bahiense-desde-un-perfil-falso"
+          "url": "https://www.lanueva.com/nota/2026-11-15-9-46-0-un-conductor-de-uber-golpeo-a-un-hombre-de-71-anos-tras-una-confusion-por-un-viaje"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/15/brutal-reaccion-de-un-chofer-de-uber-ataco-a-un-jubilado-y-lo-mando-al-hospital-n530894/"
+        }
+      ]
+    },
+    {
+      "categoria": "Mundo",
+      "titulo": "Trump, Xi Jinping y Putin mantendrán una cumbre trilateral en China",
+      "resumen": [
+        "Rusia confirmó que los mandatarios de Estados Unidos, China y la federación rusa se reunirán este jueves 19 de noviembre en Shenzhen, en el marco del foro de la APEC. El encuentro multilateral abordará cuestiones de seguridad global, proliferación y mecanismos de cooperación internacional."
+      ],
+      "fuentes": [
+        {
+          "medio": "Perfil",
+          "url": "https://perfil.com/internacional/moscu-confirmo-que-habra-cumbre-entre-xi-jinping-donald-trump-y-vladimir-putin-este-jueves-en-china-aTtdA5K7lxTp"
+        },
+        {
+          "medio": "Infobae",
+          "url": "https://www.infobae.com/america/opinion/2026/11/15/de-yalta-a-shenzhen-la-oportunidad-de-un-nuevo-entendimiento-mundial/"
         }
       ]
     }
