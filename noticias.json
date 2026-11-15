@@ -1,47 +1,31 @@
 {
   "fecha": "Domingo 15 de noviembre de 2026",
-  "actualizado": "19:26",
+  "actualizado": "20:01",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Economía",
-      "titulo": "El petróleo superó a la harina de soja y es el principal producto de exportación del país",
+      "titulo": "El consumo de carne vacuna cayó más del 11% interanual y se ubica en mínimos",
       "resumen": [
-        "Impulsado por el crecimiento productivo de Vaca Muerta, el crudo desplazó a la harina de soja del primer puesto en las ventas argentinas al exterior. De acuerdo con informes del sector comercial, el cambio marca un giro estructural en el comercio exterior y generó un superávit récord."
+        "Durante octubre, la ingesta de carne bovina retrocedió a 44,5 kilos por habitante al año, lo que representa una baja interanual del 11,2%.",
+        "Según los datos registrados, cada argentino consume actualmente 5,6 kilos menos respecto de 2025, en un escenario atravesado por menor oferta interna y mayores exportaciones."
       ],
       "fuentes": [
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-15-12-48-0-el-petroleo-destrono-a-la-harina-de-soja-como-el-principal-producto-de-exportacion-de-la-argentina"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/menos-carne-en-la-mesa-de-los-argentinos-cae-el-consumo-y-aumentan-las-exportaciones/"
         },
         {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/la-harina-de-soja-destronada-del-primer-lugar-exportador-cual-es-la-nueva-estrella-de-argentina/"
-        },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/15/cambio-historico-en-las-exportaciones-argentinas-el-petroleo-supero-a-la-harina-de-soja-n530930/"
-        }
-      ]
-    },
-    {
-      "categoria": "Economía",
-      "titulo": "Advierten que casi siete de cada diez hogares no llegan al día 20 con sus ingresos",
-      "resumen": [
-        "Un relevamiento indicó que el 68% de las familias argentinas se queda sin dinero antes del día 20 del mes. El dato refleja la presión sobre la economía cotidiana de los trabajadores y contrasta con declaraciones del presidente sobre la capacidad de compra de la población."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-15-12-1-0-el-68-de-los-hogares-argentinos-no-llega-al-20-del-mes-con-sus-ingresos"
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/el-consumo-de-carne-vacuna-cayo-11-en-un-ano-los-argentinos-comen-56-kilos-menos-que-en-2025/"
         }
       ]
     },
     {
       "categoria": "Servicios",
-      "titulo": "La reconstrucción del acueducto clave para Bahía Blanca alcanzó el 53% de avance",
+      "titulo": "La obra del acueducto en Bahía Blanca alcanzó el 53% de avance",
       "resumen": [
-        "Los trabajos para renovar una cañería obsoleta para el suministro de agua potable llegaron a la mitad de su ejecución. La obra utiliza tecnología no destructiva, un método que posibilita mantener el acueducto en funcionamiento y evitar cortes mientras se completan las tareas."
+        "Los trabajos de reconstrucción de la cañería obsoleta superaron la mitad de su ejecución prevista. La intervención se realiza con tecnología no destructiva, lo que permite mantener operativo el acueducto mientras avanzan las tareas para optimizar el suministro."
       ],
       "fuentes": [
         {
@@ -51,10 +35,31 @@
       ]
     },
     {
-      "categoria": "Seguridad",
-      "titulo": "Un chofer de Uber hirió gravemente en la cabeza a un jubilado de 71 años en Bahía Blanca",
+      "categoria": "Política",
+      "titulo": "El Gobierno negocia con gobernadores para intentar suspender las PASO",
       "resumen": [
-        "El hecho ocurrió este domingo por la mañana en la intersección de Fuerte Argentino y Sarmiento tras un desencuentro por un viaje solicitado por aplicación. El conductor atacó al hombre mayor por la espalda y le causó traumatismo de cráneo, por lo que debió ser hospitalizado."
+        "El oficialismo busca acuerdos con mandatarios provinciales, la UCR y el PRO para aprobar la reforma electoral antes de fin de año, aunque todavía no cuenta con los votos necesarios. Desde el peronismo, el diputado Germán Martínez rechazó el proyecto."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/15/el-gobierno-busca-apoyo-de-gobernadores-para-que-no-haya-paso-aun-no-tiene-los-votos-n530924/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-15-14-33-0-desde-el-peronismo-criticaron-al-gobierno-por-su-propuesta-de-suspender-las-paso"
+        },
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/politica/paso-semana-definiciones-el-senado-la-interna-del-peronismo-la-mira-y-patricia-bullrich-marginada-n6345372"
+        }
+      ]
+    },
+    {
+      "categoria": "Seguridad",
+      "titulo": "Un conductor de Uber golpeó a un hombre de 71 años en Fuerte Argentino y Sarmiento",
+      "resumen": [
+        "El episodio ocurrió tras un altercado vinculado al inicio de un viaje pedido por aplicación. La víctima fue agredida por la espalda y sufrió lesiones oculares y traumatismo de cráneo, por lo que debió ser asistida en el Hospital Español."
       ],
       "fuentes": [
         {
@@ -68,19 +73,23 @@
       ]
     },
     {
-      "categoria": "Servicios",
-      "titulo": "Definen el cronograma semanal de atención veterinaria y vacunación gratuita en Bahía",
+      "categoria": "Clima",
+      "titulo": "El inicio de semana llega con aumento de temperatura e inestabilidad hacia la noche",
       "resumen": [
-        "La Municipalidad informó el esquema del 16 al 20 de noviembre para acceder sin costo a castraciones, desparasitación y vacunación antirrábica en móviles comunales. La atención de consultas y vacunas se brindará entre las 12 y las 13 en ubicaciones como el Parque Independencia."
+        "Tras una jornada previa con cielo mayormente cubierto, se prevé un ascenso térmico para este lunes en la ciudad. El calor predominará a lo largo del día, aunque no se descarta la presencia de precipitaciones sobre el cierre de la jornada."
       ],
       "fuentes": [
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/atencion-veterinaria-municipal-cronograma-del-16-al-20-de-noviembre-en-bahia-blanca/"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/15/el-lunes-regresa-el-calor-a-la-ciudad-no-se-descarta-algo-de-inestabilidad-a-la-noche-n530937/"
         },
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-veterinaria-y-zoonosis-cronograma-de-atencion-entre-el-16-y-20-de-noviembre/"
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/el-lunes-comenzara-con-calor-y-podria-terminar-con-lluvia/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-15-19-9-0-el-pronostico-asi-estara-el-tiempo-este-lunes-en-la-ciudad"
         }
       ]
     }
