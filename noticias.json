@@ -1,107 +1,78 @@
 {
-  "fecha": "Viernes 13 de noviembre de 2026",
-  "actualizado": "09:11",
+  "fecha": "Domingo 15 de noviembre de 2026",
+  "actualizado": "08:04",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Clima",
-      "titulo": "Alerta naranja por tormentas y suspensión de clases en Bahía Blanca y la región",
+      "categoria": "Economía",
+      "titulo": "La Justicia declaró inconstitucional la fórmula jubilatoria del gobierno anterior",
       "resumen": [
-        "El Servicio Meteorológico Nacional emitió una alerta naranja por tormentas fuertes para Bahía Blanca y la zona, con previsión de intensas precipitaciones, ráfagas y granizo.",
-        "Como medida de precaución, las autoridades educativas resolvieron suspender las clases presenciales durante todo el viernes en establecimientos de gestión pública y privada, esquema al que también se sumaron las universidades locales."
+        "La Cámara Federal de la Seguridad Social declaró inconstitucional el mecanismo de movilidad aplicado durante el mandato de Alberto Fernández. El fallo dispuso utilizar el esquema de actualización implementado durante la presidencia de Mauricio Macri para calcular los haberes de una jubilada."
       ],
       "fuentes": [
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-21-52-0-por-las-condiciones-climaticas-no-habra-clases-presenciales-este-viernes-en-bahia-y-la-region"
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/la-justicia-declaro-inconstitucional-la-movilidad-jubilatoria-del-gobierno-de-alberto-fernandez/"
         },
         {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/alerta-naranja-por-tormentas-suspendieron-clases-en-bahia-blanca-y-la-region/"
-        },
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/por-la-alerta-naranja-suspenden-las-clases-presenciales-este-viernes-en-bahia-blanca-y-la-region/"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/la-justicia-declaro-inconstitucional-la-formula-jubilatoria-del-gobierno-de-alberto-fernandez/"
         }
       ]
     },
     {
-      "categoria": "Economía",
-      "titulo": "La inflación fue del 2,2% en octubre impulsada por tarifas y alquileres",
+      "categoria": "Servicios",
+      "titulo": "La obra de renovación del acueducto en Bahía Blanca alcanzó el 53% de avance",
       "resumen": [
-        "El Instituto Nacional de Estadística y Censos informó que la inflación de octubre alcanzó el 2,2%, registrando una aceleración respecto de los meses previos.",
-        "El rubro de vivienda, agua, electricidad y gas encabezó las subas con un incremento del 4,2% por ajustes en servicios y alquileres, mientras que los alimentos subieron un 2% y la inflación núcleo se ubicó en 1,5%."
+        "Los trabajos de reemplazo de la cañería obsoleta llegaron a más de la mitad de su desarrollo. Las tareas se ejecutan mediante una tecnología no destructiva, lo que permite continuar con la provisión habitual de agua en la ciudad mientras avanza la infraestructura."
       ],
       "fuentes": [
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/la-inflacion-se-acelero-al-22-en-octubre-y-alcanzo-su-mayor-nivel-en-seis-meses/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-15-5-0-36-acueducto-que-falta-para-terminar-una-obra-clave-para-bahia"
         }
       ]
     },
     {
       "categoria": "Bahía Blanca",
-      "titulo": "El Municipio adjudicó las obras para reparar el Paso Urbano",
+      "titulo": "Papelera del Sur no reabrió su planta en Tornquist pese a la conciliación obligatoria",
       "resumen": [
-        "La Municipalidad de Bahía Blanca adjudicó a la empresa Ingeniería y Arquitectura S.R.L. la reparación y mantenimiento de 7,5 kilómetros de la Ruta Nacional 33, en el sector comprendido entre El Cholo y Bosque Alto.",
-        "Los trabajos iniciarán dentro de los próximos 30 días y contarán con financiamiento compartido entre fondos comunales y el Consorcio de Gestión del Puerto."
+        "Tras la medida dictada por el Ministerio de Trabajo bonaerense para frenar el cierre de la fábrica en Tornquist, la empresa no retomó sus actividades. La situación mantiene la incertidumbre sobre el futuro de los puestos de trabajo en la región."
       ],
       "fuentes": [
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-12-19-8-0-el-municipio-adjudico-la-reparacion-del-paso-urbano-la-obra-comenzara-dentro-de-los-proximos-30-dias"
-        },
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/en-un-mes-comenzaran-las-mejoras-en-el-paso-urbano-frente-al-desamparo-elegimos-hacernos-cargo/"
-        },
-        {
           "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/el-municipio-adjudico-la-reparacion-del-paso-urbano/"
+          "url": "https://bvcnoticias.com.ar/2026/11/tornquist-papelera-del-sur-no-abrio-sus-puertas-pese-a-la-conciliacion-obligatoria/"
         }
       ]
     },
     {
-      "categoria": "Política",
-      "titulo": "El Gobierno nacional licitará 27 tramos de rutas para concesionarlos a privados",
+      "categoria": "Sociedad",
+      "titulo": "Flexibilizan los controles para comprar propiedades con dólares no declarados",
       "resumen": [
-        "A través del Decreto 1358/2026, el Ejecutivo nacional amplió la Red Federal de Concesiones y fijó un plazo de 12 meses para licitar más de 25 tramos viales del país.",
-        "El modelo proyectado traspasa la operación, el arreglo y el mantenimiento de las calzadas a empresas privadas, quienes financiarán las tareas mediante el cobro de peajes."
+        "La Unidad de Información Financiera modificó los criterios para justificar el origen de los fondos en transacciones inmobiliarias, permitiendo el uso de ahorros fuera del sistema para contribuyentes del régimen simplificado. Los escribanos mantendrán esquemas de verificación."
       ],
       "fuentes": [
         {
-          "medio": "Perfil",
-          "url": "https://perfil.com/economia/el-gobierno-amplia-las-concesiones-privadas-de-27-rutas-nacionales-a40-aGQ2v0c49TOS"
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/dolares-del-colchon-para-comprar-propiedades-que-cambio-con-la-nueva-norma-de-la-uif-y-que-controles-nid15112026/"
         },
         {
           "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/caputo-avanza-con-la-privatizacion-de-las-rutas-nacionales-suma-27-tramos-a-licitar-en-un-ano/"
-        },
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/el-gobierno-habilito-nuevas-licitaciones-para-concesionar-mas-de-25-tramos-de-rutas-nacionales/"
+          "url": "https://www.cronista.com/economia-politica/como-pagar-una-propiedad-con-dolares-del-colchon-tras-inocencia-fiscal-y-sin-problemas-con-arca/"
         }
       ]
     },
     {
       "categoria": "Seguridad",
-      "titulo": "Detuvieron a sospechosos de asaltos en barrio Patagonia tras una persecución",
+      "titulo": "Confirmaron una pena de cinco años de prisión por extorsionar a una menor bahiense",
       "resumen": [
-        "Un operativo cerrojo que inició en las calles céntricas de Bahía Blanca y culminó en la localidad de Médanos terminó con dos personas detenidas y un auto secuestrado.",
-        "Los acusados están vinculados a recientes robos en viviendas del barrio Patagonia. Durante la fuga a bordo del vehículo, atropellaron a un motociclista que resultó herido pero quedó fuera de peligro."
+        "La Justicia de Casación ratificó la condena a Lautaro Leiva por chantajear mediante un perfil falso a una niña de 11 años en Bahía Blanca. El tribunal desestimó los planteos de la defensa y remarcó la responsabilidad penal de quien exige y obliga a generar el material."
       ],
       "fuentes": [
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-persecucion-policial-un-choque-y-dos-detenidos-tras-una-fuga-por-las-calles-de-bahia/"
-        },
-        {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-13-6-24-0-persecucion-en-el-centro-de-la-ciudad-culmina-con-un-detenido-y-un-auto-secuestrado"
-        },
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/atropellaron-a-un-motociclista-durante-una-persecucion-y-uno-de-los-delincuentes-fue-atrapado/"
+          "url": "https://www.lanueva.com/nota/2026-11-15-5-0-36-grooming-confirman-la-condena-a-un-hombre-que-chantajeo-a-una-nena-bahiense-desde-un-perfil-falso"
         }
       ]
     }
