@@ -1,34 +1,47 @@
 {
   "fecha": "Domingo 15 de noviembre de 2026",
-  "actualizado": "13:03",
+  "actualizado": "19:26",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Economía",
-      "titulo": "Casi el 70% de los hogares no llega con sus ingresos al día 20 del mes",
+      "titulo": "El petróleo superó a la harina de soja y es el principal producto de exportación del país",
       "resumen": [
-        "Un informe reveló que el 68% de las familias argentinas se queda sin dinero antes del día 20 de cada mes. Aunque en algunos sectores se registraron posibilidades de ahorro, dos de cada tres personas continúan recortando gastos cotidianos debido al impacto de los aumentos en servicios y tarifas."
+        "Impulsado por el crecimiento productivo de Vaca Muerta, el crudo desplazó a la harina de soja del primer puesto en las ventas argentinas al exterior. De acuerdo con informes del sector comercial, el cambio marca un giro estructural en el comercio exterior y generó un superávit récord."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-15-12-48-0-el-petroleo-destrono-a-la-harina-de-soja-como-el-principal-producto-de-exportacion-de-la-argentina"
+        },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/la-harina-de-soja-destronada-del-primer-lugar-exportador-cual-es-la-nueva-estrella-de-argentina/"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/15/cambio-historico-en-las-exportaciones-argentinas-el-petroleo-supero-a-la-harina-de-soja-n530930/"
+        }
+      ]
+    },
+    {
+      "categoria": "Economía",
+      "titulo": "Advierten que casi siete de cada diez hogares no llegan al día 20 con sus ingresos",
+      "resumen": [
+        "Un relevamiento indicó que el 68% de las familias argentinas se queda sin dinero antes del día 20 del mes. El dato refleja la presión sobre la economía cotidiana de los trabajadores y contrasta con declaraciones del presidente sobre la capacidad de compra de la población."
       ],
       "fuentes": [
         {
           "medio": "La Nueva",
           "url": "https://www.lanueva.com/nota/2026-11-15-12-1-0-el-68-de-los-hogares-argentinos-no-llega-al-20-del-mes-con-sus-ingresos"
-        },
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/la-economia-los-hogares-muestra-una-mejora-pero-dos-cada-tres-argentinos-todavia-recortan-gastos-n6345399"
-        },
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/el-68-de-los-hogares-argentinos-no-llega-al-20-del-mes-con-sus-ingresos/"
         }
       ]
     },
     {
       "categoria": "Servicios",
-      "titulo": "La renovación del acueducto en Bahía Blanca alcanzó un avance del 53%",
+      "titulo": "La reconstrucción del acueducto clave para Bahía Blanca alcanzó el 53% de avance",
       "resumen": [
-        "Los trabajos para reconstruir el acueducto de la ciudad superaron la mitad de su ejecución. La obra busca reemplazar cañerías antiguas y deterioradas mediante la aplicación de tecnología no destructiva, un sistema que permite llevar adelante las mejoras sin interrumpir el suministro de agua potable."
+        "Los trabajos para renovar una cañería obsoleta para el suministro de agua potable llegaron a la mitad de su ejecución. La obra utiliza tecnología no destructiva, un método que posibilita mantener el acueducto en funcionamiento y evitar cortes mientras se completan las tareas."
       ],
       "fuentes": [
         {
@@ -38,27 +51,10 @@
       ]
     },
     {
-      "categoria": "Política",
-      "titulo": "El Gobierno negocia apoyos con gobernadores para suspender las PASO",
-      "resumen": [
-        "El oficialismo busca avanzar antes de fin de año con una reforma electoral para dejar sin efecto las elecciones primarias. Sin los votos asegurados en el Congreso, se abrieron instancias de diálogo con bloques provinciales, la UCR y el PRO para destrabar el tratamiento legislativo frente a los plazos previstos."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/15/el-gobierno-busca-apoyo-de-gobernadores-para-que-no-haya-paso-aun-no-tiene-los-votos-n530924/"
-        },
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/politica/paso-semana-definiciones-el-senado-la-interna-del-peronismo-la-mira-y-patricia-bullrich-marginada-n6345372"
-        }
-      ]
-    },
-    {
       "categoria": "Seguridad",
-      "titulo": "Un chofer de Uber fue detenido tras golpear a un jubilado en Bahía Blanca",
+      "titulo": "Un chofer de Uber hirió gravemente en la cabeza a un jubilado de 71 años en Bahía Blanca",
       "resumen": [
-        "Un hombre de 71 años terminó hospitalizado luego de ser atacado por un conductor tras un conflicto vinculado a un viaje por aplicación en Fuerte Argentino y Sarmiento. La víctima sufrió traumatismo de cráneo y una lesión en la zona ocular, mientras que el agresor fue aprehendido por la Policía."
+        "El hecho ocurrió este domingo por la mañana en la intersección de Fuerte Argentino y Sarmiento tras un desencuentro por un viaje solicitado por aplicación. El conductor atacó al hombre mayor por la espalda y le causó traumatismo de cráneo, por lo que debió ser hospitalizado."
       ],
       "fuentes": [
         {
@@ -68,27 +64,23 @@
         {
           "medio": "La Nueva",
           "url": "https://www.lanueva.com/nota/2026-11-15-9-46-0-un-conductor-de-uber-golpeo-a-un-hombre-de-71-anos-tras-una-confusion-por-un-viaje"
-        },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/15/brutal-reaccion-de-un-chofer-de-uber-ataco-a-un-jubilado-y-lo-mando-al-hospital-n530894/"
         }
       ]
     },
     {
-      "categoria": "Mundo",
-      "titulo": "Trump, Xi Jinping y Putin mantendrán una cumbre trilateral en China",
+      "categoria": "Servicios",
+      "titulo": "Definen el cronograma semanal de atención veterinaria y vacunación gratuita en Bahía",
       "resumen": [
-        "Rusia confirmó que los mandatarios de Estados Unidos, China y la federación rusa se reunirán este jueves 19 de noviembre en Shenzhen, en el marco del foro de la APEC. El encuentro multilateral abordará cuestiones de seguridad global, proliferación y mecanismos de cooperación internacional."
+        "La Municipalidad informó el esquema del 16 al 20 de noviembre para acceder sin costo a castraciones, desparasitación y vacunación antirrábica en móviles comunales. La atención de consultas y vacunas se brindará entre las 12 y las 13 en ubicaciones como el Parque Independencia."
       ],
       "fuentes": [
         {
-          "medio": "Perfil",
-          "url": "https://perfil.com/internacional/moscu-confirmo-que-habra-cumbre-entre-xi-jinping-donald-trump-y-vladimir-putin-este-jueves-en-china-aTtdA5K7lxTp"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/atencion-veterinaria-municipal-cronograma-del-16-al-20-de-noviembre-en-bahia-blanca/"
         },
         {
-          "medio": "Infobae",
-          "url": "https://www.infobae.com/america/opinion/2026/11/15/de-yalta-a-shenzhen-la-oportunidad-de-un-nuevo-entendimiento-mundial/"
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-veterinaria-y-zoonosis-cronograma-de-atencion-entre-el-16-y-20-de-noviembre/"
         }
       ]
     }
