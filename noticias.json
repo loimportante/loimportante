@@ -1,13 +1,13 @@
 {
   "fecha": "Lunes 16 de noviembre de 2026",
-  "actualizado": "19:34",
+  "actualizado": "20:02",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Servicios",
-      "titulo": "Se trabó la paritaria de colectivos y la UTA no descarta medidas de fuerza",
+      "titulo": "Fracasó la paritaria de colectivos y la UTA no descarta nuevas medidas de fuerza",
       "resumen": [
-        "Fracasó la reunión salarial entre la Unión Tranviarios Automotor y los empresarios del transporte sin ofertas sobre la mesa. El gremio ratificó su reclamo salarial y advirtió que podrían definir medidas de fuerza ante la falta de avances."
+        "La reunión salarial entre la Unión Tranviarios Automotor y las empresas del sector finalizó sin ofertas concretas. Ante la falta de acuerdo, el sindicato ratificó su reclamo y advirtió que podrían definir medidas de fuerza, lo que mantiene en alerta a los usuarios de todo el país."
       ],
       "fuentes": [
         {
@@ -17,10 +17,27 @@
       ]
     },
     {
-      "categoria": "Bahía Blanca",
-      "titulo": "Cobrarán estacionamiento en la terminal de ómnibus y en el aeropuerto local",
+      "categoria": "Economía",
+      "titulo": "Criar a un hijo de entre 6 y 12 años costó más de $754.000 durante octubre",
       "resumen": [
-        "Ambos espacios pasarán a formar parte del esquema de estacionamiento medido y pago. Los usuarios dispondrán de una ventana de 15 minutos sin costo antes de tener que abonar la tarifa correspondiente."
+        "La canasta de crianza del INDEC registró un alza del 3,6% en octubre, ubicándose por encima del índice general de inflación. El relevamiento incluye bienes esenciales y servicios de cuidado, marcando un fuerte impacto en el presupuesto familiar."
+      ],
+      "fuentes": [
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/economia/las-canastas-crianza-subieron-36-octubre-cuanto-cuesta-mantener-un-hijo-n6345881"
+        },
+        {
+          "medio": "Perfil",
+          "url": "https://perfil.com/economia/el-costo-de-criar-a-un-hijo-en-argentina-de-entre-6-y-12-anos-supero-los-754.000-en-octubre-asCJ73X51uRY"
+        }
+      ]
+    },
+    {
+      "categoria": "Bahía Blanca",
+      "titulo": "El estacionamiento en la terminal y el aeropuerto de Bahía Blanca pasará a ser pago",
+      "resumen": [
+        "El municipio incorporará las playas del aeropuerto y de la terminal de ómnibus al sistema de estacionamiento medido. Se fijará una tolerancia de 15 minutos sin cargo para descender o buscar pasajeros antes de tener que abonar la tarifa correspondiente."
       ],
       "fuentes": [
         {
@@ -30,23 +47,10 @@
       ]
     },
     {
-      "categoria": "Sociedad",
-      "titulo": "Modificaron la Ley de Tránsito bonaerense y cambiaron las prioridades de paso",
+      "categoria": "Bahía Blanca",
+      "titulo": "Tornquist reordena sus cuentas tras el cierre de una papelera que dejó 170 despidos",
       "resumen": [
-        "La Provincia reformó la legislación para establecer de manera precisa qué vías de circulación poseen prioridad de cruce sobre otras, aplicable aun frente a los vehículos que intenten acceder desde la derecha."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-16-14-3-0-cambio-la-ley-de-transito-en-la-provincia-quien-tiene-prioridad-de-paso-y-que-dice-la-nueva-norma"
-        }
-      ]
-    },
-    {
-      "categoria": "Economía",
-      "titulo": "Tornquist readecúa sus gastos tras el cierre de la papelera y 170 despidos",
-      "resumen": [
-        "El distrito vecino resolvió alterar sus prioridades presupuestarias tras la pérdida de 170 empleos por la clausura de la planta fabril. Las autoridades anticiparon un escenario financiero y social complejo para la comuna."
+        "La clausura de la fábrica provocó la pérdida de 170 fuentes de trabajo con un fuerte impacto socioeconómico en la zona. Ante este escenario, la comuna vecina anticipó que afrontará un período complejo y resolvió reorientar las prioridades de sus gastos públicos."
       ],
       "fuentes": [
         {
@@ -57,22 +61,22 @@
     },
     {
       "categoria": "Política",
-      "titulo": "El Gobierno negocia avalar listas colectoras para suspender las PASO",
+      "titulo": "El Gobierno negocia listas colectoras para conseguir votos y suspender las PASO",
       "resumen": [
-        "El Ejecutivo nacional abrió negociaciones con gobernadores para sumar respaldos y dictaminar la suspensión de las elecciones primarias. A cambio, analiza permitir el uso de listas colectoras, mecanismo que genera dudas y roces con la oposición y aliados."
+        "El oficialismo busca destrabar el tratamiento de la reforma electoral en el Congreso y propuso habilitar las listas colectoras para sumar respaldo a la suspensión de las elecciones primarias. La iniciativa genera resistencias en el kirchnerismo y dudas en bloques aliados como la UCR y el PRO."
       ],
       "fuentes": [
-        {
-          "medio": "Perfil",
-          "url": "https://perfil.com/politica/reforma-electoral-el-gobierno-habilito-las-colectoras-y-busca-dos-firmas-para-dictaminar-aFAHD1s72lpB"
-        },
         {
           "medio": "360 Más Noticias",
           "url": "https://360masnoticias.com/milei-pone-las-colectoras-sobre-la-mesa-para-suspender-las-paso-y-abre-una-pulseada-con-sus-aliados/"
         },
         {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/reforma-electoral-crece-la-interna-entre-el-gobierno-y-sus-aliados-por-las-listas-colectoras/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-16-19-32-0-reforma-electoral-el-gobierno-habilito-las-listas-colectoras-para-sumar-apoyos-a-la-suspension-de-las-paso"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/el-kirchnerismo-volvio-a-rechazar-la-eliminacion-de-las-paso-y-desafio-al-gobierno/"
         }
       ]
     }
