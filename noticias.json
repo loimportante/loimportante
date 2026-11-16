@@ -1,86 +1,78 @@
 {
   "fecha": "Lunes 16 de noviembre de 2026",
-  "actualizado": "08:03",
+  "actualizado": "19:34",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Economía",
-      "titulo": "Cae el consumo de carne vacuna en el país y se ubica en 44,5 kilos por habitante al año",
+      "categoria": "Servicios",
+      "titulo": "Se trabó la paritaria de colectivos y la UTA no descarta medidas de fuerza",
       "resumen": [
-        "El consumo de carne vacuna retrocedió en octubre un 11% interanual, lo que representa unos 5,6 kilos menos por persona al año, en un contexto de menor oferta interna y crecimiento de las exportaciones."
+        "Fracasó la reunión salarial entre la Unión Tranviarios Automotor y los empresarios del transporte sin ofertas sobre la mesa. El gremio ratificó su reclamo salarial y advirtió que podrían definir medidas de fuerza ante la falta de avances."
       ],
       "fuentes": [
         {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/el-consumo-de-carne-vacuna-cayo-11-en-un-ano-los-argentinos-comen-56-kilos-menos-que-en-2025/"
-        },
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/menos-carne-en-la-mesa-de-los-argentinos-cae-el-consumo-y-aumentan-las-exportaciones/"
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/informacion-general/paro-colectivos-fracaso-la-reunion-la-uta-y-los-empresarios-y-crece-la-incertidumbre-n6345894"
         }
       ]
     },
     {
-      "categoria": "Servicios",
-      "titulo": "Edes programó cortes de luz para este lunes en sectores de Bahía Blanca y Laprida",
+      "categoria": "Bahía Blanca",
+      "titulo": "Cobrarán estacionamiento en la terminal de ómnibus y en el aeropuerto local",
       "resumen": [
-        "La prestataria eléctrica anunció interrupciones en el suministro para realizar trabajos en la red durante la jornada de este lunes 16 de noviembre en áreas puntuales de ambas localidades."
+        "Ambos espacios pasarán a formar parte del esquema de estacionamiento medido y pago. Los usuarios dispondrán de una ventana de 15 minutos sin costo antes de tener que abonar la tarifa correspondiente."
       ],
       "fuentes": [
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/edes-interrumpira-el-servicio-en-un-sector-de-bahia-y-laprida/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-16-10-42-0-empezaran-a-cobrar-el-estacionamiento-en-el-aeropuerto-y-en-la-terminal-de-omnibus"
         }
       ]
     },
     {
       "categoria": "Sociedad",
-      "titulo": "El Senado analiza cambios en la ley de Discapacidad para actualizar prestaciones y pensiones",
+      "titulo": "Modificaron la Ley de Tránsito bonaerense y cambiaron las prioridades de paso",
       "resumen": [
-        "La Cámara Alta busca aprobar una nueva legislación con respaldo de distintos bloques políticos. El texto prevé actualizar las prestaciones, compatibilizar las pensiones con el empleo registrado y dar mayores garantías de fondos."
+        "La Provincia reformó la legislación para establecer de manera precisa qué vías de circulación poseen prioridad de cruce sobre otras, aplicable aun frente a los vehículos que intenten acceder desde la derecha."
       ],
       "fuentes": [
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/16/el-senado-busca-aprobar-la-nueva-ley-de-discapacidad-con-respaldo-de-todo-el-arco-politico-n530967/"
-        }
-      ]
-    },
-    {
-      "categoria": "Seguridad",
-      "titulo": "Detienen a ocho personas tras graves incidentes en el partido entre Huracán y Ferro de Pico",
-      "resumen": [
-        "Luego del cruce por el Torneo Regional que el equipo bahiense disputó a puertas cerradas por orden de Aprevide, se registraron destrozos en vestuarios y agresiones que dejaron una mujer policía herida y miembros del club pampeano demorados."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/16/escandalo-tras-la-hazana-de-huracan-ocho-detenidos-una-policia-herida-y-destrozos-en-los-vestuarios-n530999/"
-        },
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-16-0-52-0-huracan-de-los-milagros-dio-vuelta-la-serie-y-goleo-5-1-a-ferro-de-pico-antes-del-escandalo"
-        },
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/huracan-jugara-a-puertas-cerradas-ante-ferro-de-pico-por-disposicion-de-aprevide/"
+          "url": "https://www.lanueva.com/nota/2026-11-16-14-3-0-cambio-la-ley-de-transito-en-la-provincia-quien-tiene-prioridad-de-paso-y-que-dice-la-nueva-norma"
         }
       ]
     },
     {
-      "categoria": "Salud",
-      "titulo": "Inicia la campaña semanal de atención veterinaria gratuita y castración en la ciudad",
+      "categoria": "Economía",
+      "titulo": "Tornquist readecúa sus gastos tras el cierre de la papelera y 170 despidos",
       "resumen": [
-        "El Municipio de Bahía Blanca difundió el cronograma del 16 al 20 de noviembre para acceder a servicios sin costo de castración, vacunación contra la rabia, desparasitación y atención primaria en unidades móviles y dependencias municipales."
+        "El distrito vecino resolvió alterar sus prioridades presupuestarias tras la pérdida de 170 empleos por la clausura de la planta fabril. Las autoridades anticiparon un escenario financiero y social complejo para la comuna."
       ],
       "fuentes": [
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/atencion-veterinaria-municipal-cronograma-del-16-al-20-de-noviembre-en-bahia-blanca/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-16-12-9-0-por-el-cierre-de-la-papelera-el-municipio-de-tornquist-cambia-las-prioridades-de-sus-gastos"
+        }
+      ]
+    },
+    {
+      "categoria": "Política",
+      "titulo": "El Gobierno negocia avalar listas colectoras para suspender las PASO",
+      "resumen": [
+        "El Ejecutivo nacional abrió negociaciones con gobernadores para sumar respaldos y dictaminar la suspensión de las elecciones primarias. A cambio, analiza permitir el uso de listas colectoras, mecanismo que genera dudas y roces con la oposición y aliados."
+      ],
+      "fuentes": [
+        {
+          "medio": "Perfil",
+          "url": "https://perfil.com/politica/reforma-electoral-el-gobierno-habilito-las-colectoras-y-busca-dos-firmas-para-dictaminar-aFAHD1s72lpB"
         },
         {
           "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-veterinaria-y-zoonosis-cronograma-de-atencion-entre-el-16-y-20-de-noviembre/"
+          "url": "https://360masnoticias.com/milei-pone-las-colectoras-sobre-la-mesa-para-suspender-las-paso-y-abre-una-pulseada-con-sus-aliados/"
+        },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/reforma-electoral-crece-la-interna-entre-el-gobierno-y-sus-aliados-por-las-listas-colectoras/"
         }
       ]
     }
