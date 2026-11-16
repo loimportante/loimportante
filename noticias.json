@@ -1,95 +1,86 @@
 {
-  "fecha": "Domingo 15 de noviembre de 2026",
-  "actualizado": "20:01",
+  "fecha": "Lunes 16 de noviembre de 2026",
+  "actualizado": "08:03",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Economía",
-      "titulo": "El consumo de carne vacuna cayó más del 11% interanual y se ubica en mínimos",
+      "titulo": "Cae el consumo de carne vacuna en el país y se ubica en 44,5 kilos por habitante al año",
       "resumen": [
-        "Durante octubre, la ingesta de carne bovina retrocedió a 44,5 kilos por habitante al año, lo que representa una baja interanual del 11,2%.",
-        "Según los datos registrados, cada argentino consume actualmente 5,6 kilos menos respecto de 2025, en un escenario atravesado por menor oferta interna y mayores exportaciones."
+        "El consumo de carne vacuna retrocedió en octubre un 11% interanual, lo que representa unos 5,6 kilos menos por persona al año, en un contexto de menor oferta interna y crecimiento de las exportaciones."
       ],
       "fuentes": [
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/menos-carne-en-la-mesa-de-los-argentinos-cae-el-consumo-y-aumentan-las-exportaciones/"
-        },
-        {
           "medio": "Frente a Cano",
           "url": "https://frenteacano.com.ar/el-consumo-de-carne-vacuna-cayo-11-en-un-ano-los-argentinos-comen-56-kilos-menos-que-en-2025/"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/menos-carne-en-la-mesa-de-los-argentinos-cae-el-consumo-y-aumentan-las-exportaciones/"
         }
       ]
     },
     {
       "categoria": "Servicios",
-      "titulo": "La obra del acueducto en Bahía Blanca alcanzó el 53% de avance",
+      "titulo": "Edes programó cortes de luz para este lunes en sectores de Bahía Blanca y Laprida",
       "resumen": [
-        "Los trabajos de reconstrucción de la cañería obsoleta superaron la mitad de su ejecución prevista. La intervención se realiza con tecnología no destructiva, lo que permite mantener operativo el acueducto mientras avanzan las tareas para optimizar el suministro."
+        "La prestataria eléctrica anunció interrupciones en el suministro para realizar trabajos en la red durante la jornada de este lunes 16 de noviembre en áreas puntuales de ambas localidades."
       ],
       "fuentes": [
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-15-5-0-36-acueducto-que-falta-para-terminar-una-obra-clave-para-bahia"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/edes-interrumpira-el-servicio-en-un-sector-de-bahia-y-laprida/"
         }
       ]
     },
     {
-      "categoria": "Política",
-      "titulo": "El Gobierno negocia con gobernadores para intentar suspender las PASO",
+      "categoria": "Sociedad",
+      "titulo": "El Senado analiza cambios en la ley de Discapacidad para actualizar prestaciones y pensiones",
       "resumen": [
-        "El oficialismo busca acuerdos con mandatarios provinciales, la UCR y el PRO para aprobar la reforma electoral antes de fin de año, aunque todavía no cuenta con los votos necesarios. Desde el peronismo, el diputado Germán Martínez rechazó el proyecto."
+        "La Cámara Alta busca aprobar una nueva legislación con respaldo de distintos bloques políticos. El texto prevé actualizar las prestaciones, compatibilizar las pensiones con el empleo registrado y dar mayores garantías de fondos."
       ],
       "fuentes": [
         {
           "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/15/el-gobierno-busca-apoyo-de-gobernadores-para-que-no-haya-paso-aun-no-tiene-los-votos-n530924/"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-15-14-33-0-desde-el-peronismo-criticaron-al-gobierno-por-su-propuesta-de-suspender-las-paso"
-        },
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/politica/paso-semana-definiciones-el-senado-la-interna-del-peronismo-la-mira-y-patricia-bullrich-marginada-n6345372"
+          "url": "https://www.labrujula24.com/notas/2026/11/16/el-senado-busca-aprobar-la-nueva-ley-de-discapacidad-con-respaldo-de-todo-el-arco-politico-n530967/"
         }
       ]
     },
     {
       "categoria": "Seguridad",
-      "titulo": "Un conductor de Uber golpeó a un hombre de 71 años en Fuerte Argentino y Sarmiento",
+      "titulo": "Detienen a ocho personas tras graves incidentes en el partido entre Huracán y Ferro de Pico",
       "resumen": [
-        "El episodio ocurrió tras un altercado vinculado al inicio de un viaje pedido por aplicación. La víctima fue agredida por la espalda y sufrió lesiones oculares y traumatismo de cráneo, por lo que debió ser asistida en el Hospital Español."
-      ],
-      "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/ataco-por-la-espalda-a-un-hombre-de-71-anos-tras-una-discusion-por-un-viaje-de-uber/"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-15-9-46-0-un-conductor-de-uber-golpeo-a-un-hombre-de-71-anos-tras-una-confusion-por-un-viaje"
-        }
-      ]
-    },
-    {
-      "categoria": "Clima",
-      "titulo": "El inicio de semana llega con aumento de temperatura e inestabilidad hacia la noche",
-      "resumen": [
-        "Tras una jornada previa con cielo mayormente cubierto, se prevé un ascenso térmico para este lunes en la ciudad. El calor predominará a lo largo del día, aunque no se descarta la presencia de precipitaciones sobre el cierre de la jornada."
+        "Luego del cruce por el Torneo Regional que el equipo bahiense disputó a puertas cerradas por orden de Aprevide, se registraron destrozos en vestuarios y agresiones que dejaron una mujer policía herida y miembros del club pampeano demorados."
       ],
       "fuentes": [
         {
           "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/15/el-lunes-regresa-el-calor-a-la-ciudad-no-se-descarta-algo-de-inestabilidad-a-la-noche-n530937/"
-        },
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/el-lunes-comenzara-con-calor-y-podria-terminar-con-lluvia/"
+          "url": "https://www.labrujula24.com/notas/2026/11/16/escandalo-tras-la-hazana-de-huracan-ocho-detenidos-una-policia-herida-y-destrozos-en-los-vestuarios-n530999/"
         },
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-15-19-9-0-el-pronostico-asi-estara-el-tiempo-este-lunes-en-la-ciudad"
+          "url": "https://www.lanueva.com/nota/2026-11-16-0-52-0-huracan-de-los-milagros-dio-vuelta-la-serie-y-goleo-5-1-a-ferro-de-pico-antes-del-escandalo"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/huracan-jugara-a-puertas-cerradas-ante-ferro-de-pico-por-disposicion-de-aprevide/"
+        }
+      ]
+    },
+    {
+      "categoria": "Salud",
+      "titulo": "Inicia la campaña semanal de atención veterinaria gratuita y castración en la ciudad",
+      "resumen": [
+        "El Municipio de Bahía Blanca difundió el cronograma del 16 al 20 de noviembre para acceder a servicios sin costo de castración, vacunación contra la rabia, desparasitación y atención primaria en unidades móviles y dependencias municipales."
+      ],
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/atencion-veterinaria-municipal-cronograma-del-16-al-20-de-noviembre-en-bahia-blanca/"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-veterinaria-y-zoonosis-cronograma-de-atencion-entre-el-16-y-20-de-noviembre/"
         }
       ]
     }
