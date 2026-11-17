@@ -1,82 +1,102 @@
 {
-  "fecha": "Lunes 16 de noviembre de 2026",
-  "actualizado": "20:02",
+  "fecha": "Martes 17 de noviembre de 2026",
+  "actualizado": "19:27",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Servicios",
-      "titulo": "Fracasó la paritaria de colectivos y la UTA no descarta nuevas medidas de fuerza",
+      "titulo": "ABSA anunció cortes programados de agua para este miércoles y jueves en la ciudad",
       "resumen": [
-        "La reunión salarial entre la Unión Tranviarios Automotor y las empresas del sector finalizó sin ofertas concretas. Ante la falta de acuerdo, el sindicato ratificó su reclamo y advirtió que podrían definir medidas de fuerza, lo que mantiene en alerta a los usuarios de todo el país."
+        "La empresa prestataria informó que llevará adelante tareas en la red que afectarán el suministro en sectores de Villa Mitre y del barrio Pedro Pico, puntualmente en calles como Chile y Misiones. Recomiendan a los vecinos reservar agua con antelación y priorizar su consumo para necesidades indispensables."
       ],
       "fuentes": [
         {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/informacion-general/paro-colectivos-fracaso-la-reunion-la-uta-y-los-empresarios-y-crece-la-incertidumbre-n6345894"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/17/absa-anuncio-cortes-de-agua-para-este-miercoles-y-jueves-cuales-son-los-sectores-afectados-n531223/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-17-11-47-0-absa-realizara-trabajos-el-miercoles-y-jueves-en-distintos-sectores-de-la-ciudad"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-absa-programo-trabajos-que-afectaran-el-servicio-de-agua-en-dos-sectores/"
         }
       ]
     },
     {
       "categoria": "Economía",
-      "titulo": "Criar a un hijo de entre 6 y 12 años costó más de $754.000 durante octubre",
+      "titulo": "La inflación mayorista se desaceleró al 1,6% durante octubre",
       "resumen": [
-        "La canasta de crianza del INDEC registró un alza del 3,6% en octubre, ubicándose por encima del índice general de inflación. El relevamiento incluye bienes esenciales y servicios de cuidado, marcando un fuerte impacto en el presupuesto familiar."
+        "El índice de precios mayoristas registró un avance del 1,6% el mes pasado y acumuló una suba del 29,8% en los últimos doce meses. El comportamiento estuvo impulsado principalmente por los productos de origen nacional, mientras que los importados mostraron una variación menor."
       ],
       "fuentes": [
         {
           "medio": "Ámbito",
-          "url": "https://www.ambito.com/economia/las-canastas-crianza-subieron-36-octubre-cuanto-cuesta-mantener-un-hijo-n6345881"
+          "url": "https://www.ambito.com/economia/la-inflacion-mayorista-se-desacelero-al-16-octubre-el-freno-del-aumento-del-petroleo-n6346291"
         },
         {
-          "medio": "Perfil",
-          "url": "https://perfil.com/economia/el-costo-de-criar-a-un-hijo-en-argentina-de-entre-6-y-12-anos-supero-los-754.000-en-octubre-asCJ73X51uRY"
-        }
-      ]
-    },
-    {
-      "categoria": "Bahía Blanca",
-      "titulo": "El estacionamiento en la terminal y el aeropuerto de Bahía Blanca pasará a ser pago",
-      "resumen": [
-        "El municipio incorporará las playas del aeropuerto y de la terminal de ómnibus al sistema de estacionamiento medido. Se fijará una tolerancia de 15 minutos sin cargo para descender o buscar pasajeros antes de tener que abonar la tarifa correspondiente."
-      ],
-      "fuentes": [
-        {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-16-10-42-0-empezaran-a-cobrar-el-estacionamiento-en-el-aeropuerto-y-en-la-terminal-de-omnibus"
-        }
-      ]
-    },
-    {
-      "categoria": "Bahía Blanca",
-      "titulo": "Tornquist reordena sus cuentas tras el cierre de una papelera que dejó 170 despidos",
-      "resumen": [
-        "La clausura de la fábrica provocó la pérdida de 170 fuentes de trabajo con un fuerte impacto socioeconómico en la zona. Ante este escenario, la comuna vecina anticipó que afrontará un período complejo y resolvió reorientar las prioridades de sus gastos públicos."
-      ],
-      "fuentes": [
+          "url": "https://www.lanueva.com/nota/2026-11-17-16-39-0-los-precios-mayoristas-aumentaron-1-6-en-octubre-y-acumulan-un-alza-de-24-8-en-lo-que-va-del-ano"
+        },
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-16-12-9-0-por-el-cierre-de-la-papelera-el-municipio-de-tornquist-cambia-las-prioridades-de-sus-gastos"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/17/la-inflacion-mayorista-en-octubre-fue-de-16-y-acumulo-298-en-los-ultimos-doce-meses-n531237/"
         }
       ]
     },
     {
       "categoria": "Política",
-      "titulo": "El Gobierno negocia listas colectoras para conseguir votos y suspender las PASO",
+      "titulo": "El Senado postergó el debate sobre la suspensión de las PASO por falta de consensos",
       "resumen": [
-        "El oficialismo busca destrabar el tratamiento de la reforma electoral en el Congreso y propuso habilitar las listas colectoras para sumar respaldo a la suspensión de las elecciones primarias. La iniciativa genera resistencias en el kirchnerismo y dudas en bloques aliados como la UCR y el PRO."
+        "El oficialismo resolvió pasar a un cuarto intermedio tras encontrar dificultades para reunir las firmas necesarias y emitir dictamen de comisión. Las diferencias surgieron en torno a las listas colectoras, una condición planteada por mandatarios provinciales para acompañar la reforma."
       ],
       "fuentes": [
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/milei-pone-las-colectoras-sobre-la-mesa-para-suspender-las-paso-y-abre-una-pulseada-con-sus-aliados/"
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/senado-se-reune-una-comision-clave-para-tratar-la-reforma-electoral-pero-el-gobierno-no-tiene-aun-nid17112026/"
         },
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-16-19-32-0-reforma-electoral-el-gobierno-habilito-las-listas-colectoras-para-sumar-apoyos-a-la-suspension-de-las-paso"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/17/senado-el-oficialismo-postergo-el-dictamen-de-la-reforma-electoral-y-busca-cerrar-acuerdos-n531241/"
         },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/sin-apoyos-suficientes-lla-intentara-seguir-manana-las-negociaciones-por-las-paso/"
+        }
+      ]
+    },
+    {
+      "categoria": "Bahía Blanca",
+      "titulo": "El Concejo Deliberante comenzó el tratamiento del nuevo pliego de colectivos",
+      "resumen": [
+        "El proyecto para licitar el servicio de transporte público de pasajeros ingresó formalmente al legislativo local para iniciar su debate en comisiones. El documento establecerá los parámetros y condiciones de funcionamiento de las líneas de colectivos en la ciudad para los próximos años."
+      ],
+      "fuentes": [
         {
           "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/el-kirchnerismo-volvio-a-rechazar-la-eliminacion-de-las-paso-y-desafio-al-gobierno/"
+          "url": "https://bvcnoticias.com.ar/2026/11/el-nuevo-pliego-del-transporte-publico-ya-ingreso-al-concejo-deliberante-y-comienza-su-tratamiento/"
+        }
+      ]
+    },
+    {
+      "categoria": "Seguridad",
+      "titulo": "Tres hospitalizados tras un violento choque en la zona de El Triángulo",
+      "resumen": [
+        "Una camioneta colisionó contra el acoplado de un camión, lo que provocó lesiones en el conductor del rodado menor y en dos adolescentes de 16 años, jugadores de las divisiones inferiores del club Liniers. Todos los heridos debieron ser trasladados a centros médicos asistenciales."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/17/fuerte-choque-en-el-triangulo-trasladaron-al-hospital-a-dos-juveniles-de-liniers-y-al-conductor-de-una-camioneta-n531226/"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/violento-choque-en-el-triangulo-tres-hospitalizados/"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/17/choque-en-el-triangulo-tres-heridos-entre-ellos-dos-juveniles-de-liniers/"
         }
       ]
     }
