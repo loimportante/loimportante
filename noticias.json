@@ -1,13 +1,13 @@
 {
   "fecha": "Martes 17 de noviembre de 2026",
-  "actualizado": "19:27",
+  "actualizado": "20:03",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Servicios",
-      "titulo": "ABSA anunció cortes programados de agua para este miércoles y jueves en la ciudad",
+      "titulo": "ABSA realizará cortes y trabajos de agua este miércoles y jueves en la ciudad",
       "resumen": [
-        "La empresa prestataria informó que llevará adelante tareas en la red que afectarán el suministro en sectores de Villa Mitre y del barrio Pedro Pico, puntualmente en calles como Chile y Misiones. Recomiendan a los vecinos reservar agua con antelación y priorizar su consumo para necesidades indispensables."
+        "La prestataria informó intervenciones programadas en las redes de Pedro Pico y Villa Mitre. Se prevén bajas en el suministro, por lo que recomendaron a los usuarios juntar agua previamente y utilizarla solo para cuestiones prioritarias."
       ],
       "fuentes": [
         {
@@ -25,19 +25,45 @@
       ]
     },
     {
-      "categoria": "Economía",
-      "titulo": "La inflación mayorista se desaceleró al 1,6% durante octubre",
+      "categoria": "Sociedad",
+      "titulo": "El Gobierno confirmó que no aumentará las jubilaciones mínimas y congelará el bono",
       "resumen": [
-        "El índice de precios mayoristas registró un avance del 1,6% el mes pasado y acumuló una suba del 29,8% en los últimos doce meses. El comportamiento estuvo impulsado principalmente por los productos de origen nacional, mientras que los importados mostraron una variación menor."
+        "Desde la gestión nacional afirmaron que no está previsto realizar mejoras en los haberes de la clase pasiva. Como consecuencia, el adicional extraordinario de 70.000 pesos continuará sin modificaciones, reduciendo los ingresos reales de quienes perciben la mínima."
       ],
       "fuentes": [
         {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/economia/la-inflacion-mayorista-se-desacelero-al-16-octubre-el-freno-del-aumento-del-petroleo-n6346291"
-        },
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-17-15-16-0-jubilados-el-gobierno-asegura-que-no-esta-en-sus-planes-mejorar-los-haberes"
+        }
+      ]
+    },
+    {
+      "categoria": "Bahía Blanca",
+      "titulo": "El Concejo Deliberante inició el debate del nuevo pliego del transporte público",
+      "resumen": [
+        "El proyecto licitatorio para concesionar el sistema de colectivos urbanos ingresó formalmente al cuerpo legislativo local para su posterior tratamiento en comisiones."
+      ],
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/el-nuevo-pliego-del-transporte-publico-ya-ingreso-al-concejo-deliberante-y-comienza-su-tratamiento/"
+        }
+      ]
+    },
+    {
+      "categoria": "Economía",
+      "titulo": "La inflación mayorista se ubicó en el 1,6% durante octubre y marcó una baja",
+      "resumen": [
+        "El índice de precios al por mayor registró un avance del 1,6% en el décimo mes, desacelerándose respecto al período anterior. Con este resultado, el indicador acumula una suba del 24,8% en el transcurso del año y un 29,8% en doce meses, motorizado por bienes nacionales."
+      ],
+      "fuentes": [
         {
           "medio": "La Nueva",
           "url": "https://www.lanueva.com/nota/2026-11-17-16-39-0-los-precios-mayoristas-aumentaron-1-6-en-octubre-y-acumulan-un-alza-de-24-8-en-lo-que-va-del-ano"
+        },
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/economia/la-inflacion-mayorista-se-desacelero-al-16-octubre-el-freno-del-aumento-del-petroleo-n6346291"
         },
         {
           "medio": "La Brújula 24",
@@ -47,9 +73,9 @@
     },
     {
       "categoria": "Política",
-      "titulo": "El Senado postergó el debate sobre la suspensión de las PASO por falta de consensos",
+      "titulo": "El Senado postergó el debate para suspender las PASO ante la falta de acuerdos",
       "resumen": [
-        "El oficialismo resolvió pasar a un cuarto intermedio tras encontrar dificultades para reunir las firmas necesarias y emitir dictamen de comisión. Las diferencias surgieron en torno a las listas colectoras, una condición planteada por mandatarios provinciales para acompañar la reforma."
+        "El oficialismo no reunió las firmas requeridas en la comisión de Asuntos Constitucionales y declaró un cuarto intermedio. Las discrepancias por la inclusión de colectoras y acoples electorales demoraron la emisión del dictamen para reformar el esquema de votación."
       ],
       "fuentes": [
         {
@@ -63,40 +89,6 @@
         {
           "medio": "Frente a Cano",
           "url": "https://frenteacano.com.ar/sin-apoyos-suficientes-lla-intentara-seguir-manana-las-negociaciones-por-las-paso/"
-        }
-      ]
-    },
-    {
-      "categoria": "Bahía Blanca",
-      "titulo": "El Concejo Deliberante comenzó el tratamiento del nuevo pliego de colectivos",
-      "resumen": [
-        "El proyecto para licitar el servicio de transporte público de pasajeros ingresó formalmente al legislativo local para iniciar su debate en comisiones. El documento establecerá los parámetros y condiciones de funcionamiento de las líneas de colectivos en la ciudad para los próximos años."
-      ],
-      "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/el-nuevo-pliego-del-transporte-publico-ya-ingreso-al-concejo-deliberante-y-comienza-su-tratamiento/"
-        }
-      ]
-    },
-    {
-      "categoria": "Seguridad",
-      "titulo": "Tres hospitalizados tras un violento choque en la zona de El Triángulo",
-      "resumen": [
-        "Una camioneta colisionó contra el acoplado de un camión, lo que provocó lesiones en el conductor del rodado menor y en dos adolescentes de 16 años, jugadores de las divisiones inferiores del club Liniers. Todos los heridos debieron ser trasladados a centros médicos asistenciales."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/17/fuerte-choque-en-el-triangulo-trasladaron-al-hospital-a-dos-juveniles-de-liniers-y-al-conductor-de-una-camioneta-n531226/"
-        },
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/violento-choque-en-el-triangulo-tres-hospitalizados/"
-        },
-        {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/17/choque-en-el-triangulo-tres-heridos-entre-ellos-dos-juveniles-de-liniers/"
         }
       ]
     }
