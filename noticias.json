@@ -1,94 +1,90 @@
 {
-  "fecha": "Martes 17 de noviembre de 2026",
-  "actualizado": "20:03",
+  "fecha": "Miércoles 18 de noviembre de 2026",
+  "actualizado": "20:14",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Servicios",
-      "titulo": "ABSA realizará cortes y trabajos de agua este miércoles y jueves en la ciudad",
+      "categoria": "Clima",
+      "titulo": "Rigen alertas por tormentas severas y calor extremo en diez provincias",
       "resumen": [
-        "La prestataria informó intervenciones programadas en las redes de Pedro Pico y Villa Mitre. Se prevén bajas en el suministro, por lo que recomendaron a los usuarios juntar agua previamente y utilizarla solo para cuestiones prioritarias."
+        "El Servicio Meteorológico Nacional mantiene advertencias en diez provincias ante la intensificación del fenómeno de El Niño. Cinco distritos están bajo alerta naranja y otros cinco en nivel amarillo por tormentas, mientras se pronostican ráfagas superiores a los 90 km/h y jornadas de calor intenso."
       ],
       "fuentes": [
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/17/absa-anuncio-cortes-de-agua-para-este-miercoles-y-jueves-cuales-son-los-sectores-afectados-n531223/"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-17-11-47-0-absa-realizara-trabajos-el-miercoles-y-jueves-en-distintos-sectores-de-la-ciudad"
-        },
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-absa-programo-trabajos-que-afectaran-el-servicio-de-agua-en-dos-sectores/"
-        }
-      ]
-    },
-    {
-      "categoria": "Sociedad",
-      "titulo": "El Gobierno confirmó que no aumentará las jubilaciones mínimas y congelará el bono",
-      "resumen": [
-        "Desde la gestión nacional afirmaron que no está previsto realizar mejoras en los haberes de la clase pasiva. Como consecuencia, el adicional extraordinario de 70.000 pesos continuará sin modificaciones, reduciendo los ingresos reales de quienes perciben la mínima."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-17-15-16-0-jubilados-el-gobierno-asegura-que-no-esta-en-sus-planes-mejorar-los-haberes"
-        }
-      ]
-    },
-    {
-      "categoria": "Bahía Blanca",
-      "titulo": "El Concejo Deliberante inició el debate del nuevo pliego del transporte público",
-      "resumen": [
-        "El proyecto licitatorio para concesionar el sistema de colectivos urbanos ingresó formalmente al cuerpo legislativo local para su posterior tratamiento en comisiones."
-      ],
-      "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/el-nuevo-pliego-del-transporte-publico-ya-ingreso-al-concejo-deliberante-y-comienza-su-tratamiento/"
-        }
-      ]
-    },
-    {
-      "categoria": "Economía",
-      "titulo": "La inflación mayorista se ubicó en el 1,6% durante octubre y marcó una baja",
-      "resumen": [
-        "El índice de precios al por mayor registró un avance del 1,6% en el décimo mes, desacelerándose respecto al período anterior. Con este resultado, el indicador acumula una suba del 24,8% en el transcurso del año y un 29,8% en doce meses, motorizado por bienes nacionales."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-17-16-39-0-los-precios-mayoristas-aumentaron-1-6-en-octubre-y-acumulan-un-alza-de-24-8-en-lo-que-va-del-ano"
-        },
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/economia/la-inflacion-mayorista-se-desacelero-al-16-octubre-el-freno-del-aumento-del-petroleo-n6346291"
-        },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/17/la-inflacion-mayorista-en-octubre-fue-de-16-y-acumulo-298-en-los-ultimos-doce-meses-n531237/"
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/sociedad/super-nino-en-argentina-el-fenomeno-se-intensifica-y-rigen-alertas-meteorologicas-en-varias-nid18112026/"
         }
       ]
     },
     {
       "categoria": "Política",
-      "titulo": "El Senado postergó el debate para suspender las PASO ante la falta de acuerdos",
+      "titulo": "Avanza en el Senado el proyecto para suspender las elecciones PASO",
       "resumen": [
-        "El oficialismo no reunió las firmas requeridas en la comisión de Asuntos Constitucionales y declaró un cuarto intermedio. Las discrepancias por la inclusión de colectoras y acoples electorales demoraron la emisión del dictamen para reformar el esquema de votación."
+        "La Comisión de Asuntos Constitucionales pasó a la firma el dictamen impulsado por el Gobierno para suspender las elecciones primarias del próximo año. Aunque el oficialismo da por hecho la eliminación de las PASO y de la veda, legisladores admitieron que todavía faltan dos firmas para consolidar el despacho."
       ],
       "fuentes": [
         {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/senado-se-reune-una-comision-clave-para-tratar-la-reforma-electoral-pero-el-gobierno-no-tiene-aun-nid17112026/"
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/sin-la-habilitacion-listas-colectoras-el-senado-se-encamina-dictaminar-la-reforma-politica-n6346691"
         },
         {
+          "medio": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/11/18/congreso-en-vivo-el-debate-sobre-la-suspension-de-las-paso-en-la-comision-de-asuntos-constitucionales/"
+        },
+        {
+          "medio": "Perfil",
+          "url": "https://perfil.com/politica/las-paso-se-suspenden-ya-es-un-hecho-sostuvo-patricia-bullrich-tras-pasar-a-firmas-el-dictamen-en-el-senado-af9Hp3d6B76M"
+        }
+      ]
+    },
+    {
+      "categoria": "Salud",
+      "titulo": "Crecen los reclamos por el cierre adelantado de las farmacias de IOSFA",
+      "resumen": [
+        "El adelantamiento en el cierre de las farmacias del Instituto de Obra Social de las Fuerzas Armadas encendió la alarma entre afiliados y trabajadores de Bahía Blanca y Punta Alta. Frente a esta situación, se organizó una protesta y abrazo solidario en la plaza Belgrano para exigir soluciones."
+      ],
+      "fuentes": [
+        {
           "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/17/senado-el-oficialismo-postergo-el-dictamen-de-la-reforma-electoral-y-busca-cerrar-acuerdos-n531241/"
+          "url": "https://www.labrujula24.com/notas/2026/11/18/adelantaron-el-cierre-de-las-farmacias-de-iosfa-y-crece-la-preocupacion-en-bahia-y-punta-alta-n531407/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-18-12-30-0-abrazo-solidario-a-la-delegacion-y-farmacia-de-la-osfa"
+        }
+      ]
+    },
+    {
+      "categoria": "Economía",
+      "titulo": "El consumo de carne vacuna cayó al nivel más bajo registrado en el país",
+      "resumen": [
+        "El consumo de carne vacuna profundizó su retroceso y alcanzará el registro histórico más bajo en la Argentina, condicionado por subas de precios que superaron a la inflación general. De acuerdo con las mediciones, cada habitante consume en promedio 5,6 kilos menos respecto del año previo."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-18-14-36-0-el-consumo-de-carne-vacuna-se-desplomo-en-2026-y-sera-el-mas-bajo-de-la-historia-en-argentina"
+        }
+      ]
+    },
+    {
+      "categoria": "Sociedad",
+      "titulo": "Comenzó en la ciudad el juicio contra el excamarista Néstor Montezanti",
+      "resumen": [
+        "Se puso en marcha en Bahía Blanca el juicio contra el exjuez federal por delitos de lesa humanidad. La acusación le atribuye formar parte de una asociación ilícita vinculada al accionar represivo de la Triple A e intimidación pública. En las primeras audiencias declaró como testigo Juan Pedro Tunessi."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-18-8-16-0-triple-a-comienza-el-juicio-al-excamarista-nestor-luis-montezanti"
         },
         {
           "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/sin-apoyos-suficientes-lla-intentara-seguir-manana-las-negociaciones-por-las-paso/"
+          "url": "https://frenteacano.com.ar/se-realizo-la-primera-jornada-del-juicio-contra-el-excamarista-nestor-montezanti/"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/18/tunessi-testigo-estrella-contra-montezanti-vi-un-cuadro-de-la-triple-a-en-su-estudio-n531394/"
         }
       ]
     }
