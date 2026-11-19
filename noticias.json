@@ -1,13 +1,13 @@
 {
   "fecha": "Jueves 19 de noviembre de 2026",
-  "actualizado": "19:28",
+  "actualizado": "20:03",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Salud",
-      "titulo": "La Corte Suprema determinó que las prepagas no podrán subir cuotas sin aval oficial",
+      "titulo": "La Corte Suprema frenó los aumentos sin control en las cuotas de la medicina prepaga",
       "resumen": [
-        "El máximo tribunal resolvió que las empresas de medicina prepaga necesitan autorización del Estado para ajustar sus cuotas, al fallar sobre un caso que cuestionó la desregulación dispuesta por el DNU 70/2023. Aunque el sector advierte atraso en sus valores, la decisión sienta un precedente respecto al control de los aumentos."
+        "Un fallo del máximo tribunal restableció la intervención oficial y determinó que las empresas prestadoras ya no podrán fijar incrementos de forma desregulada. A partir de esta decisión, los ajustes deberán contar con la supervisión de la Superintendencia de Servicios de Salud."
       ],
       "fuentes": [
         {
@@ -15,47 +15,64 @@
           "url": "https://www.lanueva.com/nota/2026-11-19-14-32-0-las-prepagas-ya-no-podran-aumentar-sus-cuotas-sin-la-autorizacion-del-gobierno"
         },
         {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/economia/que-podria-pasar-tras-el-fallo-de-la-corte-sobre-las-cuotas-de-las-prepagas-y-como-reacciono-el-nid19112026/"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/19/la-corte-suprema-declaro-inconstitucional-la-desregulacion-de-las-cuotas-de-las-prepagas-n531596/"
         },
         {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/por-un-fallo-de-la-corte-prepagas-no-podran-aumentar-sus-cuotas-sin-autorizacion-del-gobierno/"
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/prepagas-que-cambia-para-los-afiliados-tras-el-fallo-de-la-corte-y-como-reclamar-por-los-aumentos/"
         }
       ]
     },
     {
       "categoria": "Bahía Blanca",
-      "titulo": "El Municipio interviene el ex Centro de Compras por grave riesgo ambiental",
+      "titulo": "El Municipio allanó el ex Centro de Compras por un grave riesgo sanitario",
       "resumen": [
-        "Comenzó un operativo de limpieza y saneamiento en el inmueble abandonado de Colón y Brown, donde hallaron toneladas de guano y palomas muertas. El intendente Federico Susbielles calificó la situación como dantesca e indicó que los dueños afrontarán los costos, mientras estiman que los trabajos demandarán varios meses."
+        "La comuna intervino el histórico edificio abandonado de Colón y Brown para realizar tareas de saneamiento y cerramiento tras constatar miles de palomas y toneladas de guano. Las autoridades calificaron el cuadro como de grave peligro ambiental y anticiparon que la limpieza demandará meses."
       ],
       "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-susbielles-estallo-de-bronca-por-el-estado-del-ex-centro-de-compras-lo-que-vimos-es-dantesco/"
+        },
         {
           "medio": "La Nueva",
           "url": "https://www.lanueva.com/nota/2026-11-19-10-57-0-susbielles-el-panorama-en-el-edificio-es-dantesco-y-el-riesgo-ambiental-es-grave"
         },
         {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/ex-centro-de-compras-la-situacion-es-mucho-mas-riesgosa-de-lo-que-imaginamos/"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/19/ex-centro-de-compras-vamos-a-tardar-mas-de-lo-esperado-en-limpiar-n531622/"
+        }
+      ]
+    },
+    {
+      "categoria": "Sociedad",
+      "titulo": "El Senado aprobó por unanimidad la nueva ley de Discapacidad",
+      "resumen": [
+        "Con 71 votos afirmativos y ninguno en contra, la Cámara alta convirtió en ley el proyecto que crea un régimen permanente para el sistema de pensiones y coberturas. La nueva norma reemplaza el esquema de emergencia que tenía vigencia hasta el 31 de diciembre."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/el-senado-sanciono-la-ley-de-discapacidad-y-la-oposicion-reclamo-al-gobierno-que-cumpla-con-su-nid19112026/"
         },
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-susbielles-estallo-de-bronca-por-el-estado-del-ex-centro-de-compras-lo-que-vimos-es-dantesco/"
+          "medio": "Perfil",
+          "url": "https://perfil.com/politica/el-senado-sanciono-por-unanimidad-la-ley-de-discapacidad-aDCMV1g8TxqC"
+        },
+        {
+          "medio": "Infobae",
+          "url": "https://www.infobae.com/politica/2026/11/19/senado-en-vivo-las-ultimas-noticias-del-debate-sobre-los-proyectos-de-discapacidad-propiedad-privada-y-patentes/"
         }
       ]
     },
     {
       "categoria": "Economía",
-      "titulo": "El riesgo país saltó más del 9% y volvió a superar los 900 puntos básicos",
+      "titulo": "El riesgo país superó los 930 puntos y se desplomaron los activos argentinos",
       "resumen": [
-        "El indicador elaborado por JP Morgan escaló hasta alcanzar las 931 unidades, impulsado por tensiones financieras internas y volatilidad externa. La jornada estuvo marcada además por retrocesos en las acciones argentinas que cotizan en Wall Street y una caída en el índice bursátil porteño."
+        "El índice elaborado por JP Morgan subió más del 9% en una jornada negativa para los títulos de deuda y las acciones nacionales que cotizan en Wall Street. La tensión financiera se reflejó también en el mercado cambiario con una nueva alza de la divisa paralela."
       ],
       "fuentes": [
-        {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/el-riesgo-pais-vuelve-a-superar-los-900-puntos-caen-bonos-y-acciones-argentinas/"
-        },
         {
           "medio": "Ámbito",
           "url": "https://www.ambito.com/los-bonos-dolares-rebotan-medio-la-euforia-anthropic-n6347109"
@@ -63,40 +80,27 @@
         {
           "medio": "La Nueva",
           "url": "https://www.lanueva.com/nota/2026-11-19-16-42-0-el-riesgo-pais-vuelve-a-superar-los-900-puntos-y-caen-las-acciones-argentinas-en-wall-street"
+        },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/el-riesgo-pais-vuelve-a-superar-los-900-puntos-caen-bonos-y-acciones-argentinas/"
         }
       ]
     },
     {
       "categoria": "Seguridad",
-      "titulo": "Declararon culpable al conductor que atropelló y mató a un hombre en Vista Alegre",
+      "titulo": "Declararon culpable al conductor que atropelló y mató a Cristian Lucero en Vista Alegre",
       "resumen": [
-        "La Justicia declaró culpable a Franco Lembo por el delito de homicidio culposo agravado. El hecho juzgado ocurrió en el barrio Vista Alegre, donde el imputado atropelló a Cristian Lucero y le causó la muerte."
+        "La Justicia bahiense declaró culpable a Franco Lembo por el delito de homicidio culposo agravado. El veredicto determinó su responsabilidad en el hecho en el que perdió la vida el vecino Cristian Lucero al ser embestido en ese sector de la ciudad."
       ],
       "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-19-18-39-0-declararon-culpable-al-sujeto-que-atropello-y-mato-a-un-hombre-en-vista-alegre"
-        },
         {
           "medio": "La Brújula 24",
           "url": "https://www.labrujula24.com/notas/2026/11/19/caso-cristian-lucero-declararon-culpable-al-acusado-de-atropellarlo-y-matarlo-en-vista-alegre-n531634/"
-        }
-      ]
-    },
-    {
-      "categoria": "Política",
-      "titulo": "El diputado Mariano Campero abandonó el bloque de La Libertad Avanza",
-      "resumen": [
-        "El legislador tucumano oficializó su salida de la bancada oficialista en la Cámara de Diputados para conformar un monobloque. La ruptura se produjo tras denunciar un acuerdo entre el oficialismo y el Partido Justicialista en su provincia natal."
-      ],
-      "fuentes": [
-        {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/un-diputado-alfil-de-bullrich-rompio-con-la-libertad-avanza-y-renuncio-al-bloque/"
         },
         {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/el-diputado-que-abandono-el-bloque-de-la-libertad-avanza-dijo-que-le-gustaria-que-patricia-bullrich-nid19112026/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-19-18-39-0-declararon-culpable-al-sujeto-que-atropello-y-mato-a-un-hombre-en-vista-alegre"
         }
       ]
     }
