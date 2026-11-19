@@ -1,90 +1,90 @@
 {
-  "fecha": "Miércoles 18 de noviembre de 2026",
-  "actualizado": "20:14",
+  "fecha": "Jueves 19 de noviembre de 2026",
+  "actualizado": "08:04",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Clima",
-      "titulo": "Rigen alertas por tormentas severas y calor extremo en diez provincias",
+      "categoria": "Mundo",
+      "titulo": "Cumbre histórica: Trump, Putin y Xi Jinping debatieron sobre desarme nuclear en China",
       "resumen": [
-        "El Servicio Meteorológico Nacional mantiene advertencias en diez provincias ante la intensificación del fenómeno de El Niño. Cinco distritos están bajo alerta naranja y otros cinco en nivel amarillo por tormentas, mientras se pronostican ráfagas superiores a los 90 km/h y jornadas de calor intenso."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/sociedad/super-nino-en-argentina-el-fenomeno-se-intensifica-y-rigen-alertas-meteorologicas-en-varias-nid18112026/"
-        }
-      ]
-    },
-    {
-      "categoria": "Política",
-      "titulo": "Avanza en el Senado el proyecto para suspender las elecciones PASO",
-      "resumen": [
-        "La Comisión de Asuntos Constitucionales pasó a la firma el dictamen impulsado por el Gobierno para suspender las elecciones primarias del próximo año. Aunque el oficialismo da por hecho la eliminación de las PASO y de la veda, legisladores admitieron que todavía faltan dos firmas para consolidar el despacho."
+        "En la ciudad de Shenzhen, los mandatarios de Estados Unidos, Rusia y China mantuvieron un encuentro trilateral inédito. Durante la reunión abordaron la seguridad energética, la reducción del armamento atómico y la situación en Ucrania."
       ],
       "fuentes": [
         {
           "medio": "Ámbito",
-          "url": "https://www.ambito.com/sin-la-habilitacion-listas-colectoras-el-senado-se-encamina-dictaminar-la-reforma-politica-n6346691"
+          "url": "https://www.ambito.com/mundo/historica-cumbre-donald-trump-vladimir-putin-y-xi-jinping-china-hablaron-mas-una-hora-los-desafios-globales-n6346970"
         },
         {
           "medio": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/18/congreso-en-vivo-el-debate-sobre-la-suspension-de-las-paso-en-la-comision-de-asuntos-constitucionales/"
-        },
-        {
-          "medio": "Perfil",
-          "url": "https://perfil.com/politica/las-paso-se-suspenden-ya-es-un-hecho-sostuvo-patricia-bullrich-tras-pasar-a-firmas-el-dictamen-en-el-senado-af9Hp3d6B76M"
-        }
-      ]
-    },
-    {
-      "categoria": "Salud",
-      "titulo": "Crecen los reclamos por el cierre adelantado de las farmacias de IOSFA",
-      "resumen": [
-        "El adelantamiento en el cierre de las farmacias del Instituto de Obra Social de las Fuerzas Armadas encendió la alarma entre afiliados y trabajadores de Bahía Blanca y Punta Alta. Frente a esta situación, se organizó una protesta y abrazo solidario en la plaza Belgrano para exigir soluciones."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/18/adelantaron-el-cierre-de-las-farmacias-de-iosfa-y-crece-la-preocupacion-en-bahia-y-punta-alta-n531407/"
+          "url": "https://www.infobae.com/america/mundo/2026/11/19/en-vivo-historica-reunion-trilateral-entre-donald-trump-xi-jinping-y-vladimir-putin/"
         },
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-18-12-30-0-abrazo-solidario-a-la-delegacion-y-farmacia-de-la-osfa"
+          "url": "https://www.lanueva.com/nota/2026-11-18-23-45-0-tensa-e-historica-cumbre-en-china-entre-trump-putin-y-xi-jinping"
         }
       ]
     },
     {
       "categoria": "Economía",
-      "titulo": "El consumo de carne vacuna cayó al nivel más bajo registrado en el país",
+      "titulo": "El Gobierno amplió el Presupuesto 2026 en más de 15 billones de pesos",
       "resumen": [
-        "El consumo de carne vacuna profundizó su retroceso y alcanzará el registro histórico más bajo en la Argentina, condicionado por subas de precios que superaron a la inflación general. De acuerdo con las mediciones, cada habitante consume en promedio 5,6 kilos menos respecto del año previo."
+        "El Ejecutivo nacional sumó 15,6 billones de pesos al presupuesto vigente, lo que equivale a un aumento del 10,2%. Los fondos se destinarán principalmente al PAMI y al pago de intereses de deuda, mientras que el área de Servicios Económicos sufrirá un recorte de unos 2,3 billones."
       ],
       "fuentes": [
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-18-14-36-0-el-consumo-de-carne-vacuna-se-desplomo-en-2026-y-sera-el-mas-bajo-de-la-historia-en-argentina"
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/economia/el-gobierno-sumo-156-billones-al-presupuesto-2026-y-recorta-el-superavit-fin-ano-n6346959"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/el-gobierno-amplio-el-presupuesto-2026-en-156-billones/"
         }
       ]
     },
     {
-      "categoria": "Sociedad",
-      "titulo": "Comenzó en la ciudad el juicio contra el excamarista Néstor Montezanti",
+      "categoria": "Bahía Blanca",
+      "titulo": "El Concejo aprobó el cobro de estacionamiento en el aeropuerto y la terminal de ómnibus",
       "resumen": [
-        "Se puso en marcha en Bahía Blanca el juicio contra el exjuez federal por delitos de lesa humanidad. La acusación le atribuye formar parte de una asociación ilícita vinculada al accionar represivo de la Triple A e intimidación pública. En las primeras audiencias declaró como testigo Juan Pedro Tunessi."
+        "Por unanimidad, el Concejo Deliberante resolvió incorporar al sistema de estacionamiento medido y pago a los predios de la Terminal San Francisco de Asís y el Aeropuerto Comandante Espora. La medida cambiará las condiciones de acceso para los vecinos que utilicen estos servicios."
       ],
       "fuentes": [
         {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/comenzara-a-cobrarse-el-estacionamiento-en-el-aeropuerto-y-la-terminal-de-omnibus/"
+        }
+      ]
+    },
+    {
+      "categoria": "Política",
+      "titulo": "Diputados: cayó la sesión para tratar la reforma del Banco Central por falta de quórum",
+      "resumen": [
+        "El oficialismo no logró reunir el número necesario tras la ausencia de legisladores de Santa Fe y Córdoba. La falta de quórum impidió el tratamiento de la reforma del Banco Central y otros proyectos, lo que generó nuevos reproches internos dentro del Gobierno nacional."
+      ],
+      "fuentes": [
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/politica/la-caida-la-sesion-diputados-volvio-dejar-expuestas-las-internas-del-gobierno-n6346925"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/congreso-por-falta-de-quorum-se-cayo-la-sesion-para-tratar-la-reforma-del-bcra/"
+        }
+      ]
+    },
+    {
+      "categoria": "Seguridad",
+      "titulo": "Allanamientos en Bahía Blanca y Pedro Luro en un operativo contra la ciberpedofilia",
+      "resumen": [
+        "En el marco del operativo provincial 'Protección de las Infancias VIII', se realizaron procedimientos locales contra la explotación sexual infantil. La investigación abarcó un total de 136 allanamientos simultáneos en 75 localidades de la provincia de Buenos Aires."
+      ],
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/operativo-contra-el-abuso-sexual-infantil-allanamientos-en-bahia-blanca-y-pedro-luro/"
+        },
+        {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-18-8-16-0-triple-a-comienza-el-juicio-al-excamarista-nestor-luis-montezanti"
-        },
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/se-realizo-la-primera-jornada-del-juicio-contra-el-excamarista-nestor-montezanti/"
-        },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/18/tunessi-testigo-estrella-contra-montezanti-vi-un-cuadro-de-la-triple-a-en-su-estudio-n531394/"
+          "url": "https://www.lanueva.com/nota/2026-11-18-17-59-0-allanamientos-en-bahia-blanca-y-en-pedro-luro-por-varios-casos-de-ciberpedofilia"
         }
       ]
     }
