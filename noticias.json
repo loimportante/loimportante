@@ -1,102 +1,102 @@
 {
   "fecha": "Jueves 19 de noviembre de 2026",
-  "actualizado": "13:01",
+  "actualizado": "19:28",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Bahía Blanca",
-      "titulo": "El Municipio allanó e inició tareas de saneamiento en el ex Centro de Compras",
+      "categoria": "Salud",
+      "titulo": "La Corte Suprema determinó que las prepagas no podrán subir cuotas sin aval oficial",
       "resumen": [
-        "La comuna intervino el histórico edificio abandonado de Colón y Brown para realizar tareas de limpieza, desratización y cerramiento. El intendente Federico Susbielles calificó la situación como dantesca y advirtió sobre un grave riesgo ambiental y bacteriológico acumulado por años de abandono."
+        "El máximo tribunal resolvió que las empresas de medicina prepaga necesitan autorización del Estado para ajustar sus cuotas, al fallar sobre un caso que cuestionó la desregulación dispuesta por el DNU 70/2023. Aunque el sector advierte atraso en sus valores, la decisión sienta un precedente respecto al control de los aumentos."
       ],
       "fuentes": [
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/19/susbielles-tras-recorrer-el-ex-centro-de-comprases-dantesco-lo-que-vi-el-riesgo-ambiental-es-gravisimo-n531544/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-19-14-32-0-las-prepagas-ya-no-podran-aumentar-sus-cuotas-sin-la-autorizacion-del-gobierno"
         },
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/que-podria-pasar-tras-el-fallo-de-la-corte-sobre-las-cuotas-de-las-prepagas-y-como-reacciono-el-nid19112026/"
+        },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/por-un-fallo-de-la-corte-prepagas-no-podran-aumentar-sus-cuotas-sin-autorizacion-del-gobierno/"
+        }
+      ]
+    },
+    {
+      "categoria": "Bahía Blanca",
+      "titulo": "El Municipio interviene el ex Centro de Compras por grave riesgo ambiental",
+      "resumen": [
+        "Comenzó un operativo de limpieza y saneamiento en el inmueble abandonado de Colón y Brown, donde hallaron toneladas de guano y palomas muertas. El intendente Federico Susbielles calificó la situación como dantesca e indicó que los dueños afrontarán los costos, mientras estiman que los trabajos demandarán varios meses."
+      ],
+      "fuentes": [
         {
           "medio": "La Nueva",
           "url": "https://www.lanueva.com/nota/2026-11-19-10-57-0-susbielles-el-panorama-en-el-edificio-es-dantesco-y-el-riesgo-ambiental-es-grave"
         },
         {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/ex-centro-de-compras-la-situacion-es-mucho-mas-riesgosa-de-lo-que-imaginamos/"
+        },
+        {
           "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-operativo-municipal-en-el-ex-centro-de-compras-realizan-tareas-de-limpieza-y-saneamiento/"
+          "url": "https://360masnoticias.com/bahia-blanca-susbielles-estallo-de-bronca-por-el-estado-del-ex-centro-de-compras-lo-que-vimos-es-dantesco/"
         }
       ]
     },
     {
-      "categoria": "Política",
-      "titulo": "Avanza en el Senado el proyecto para suspender las PASO del próximo año",
+      "categoria": "Economía",
+      "titulo": "El riesgo país saltó más del 9% y volvió a superar los 900 puntos básicos",
       "resumen": [
-        "El oficialismo y bloques aliados consiguieron dictamen de comisión en el Senado para suspender las primarias electorales. Tras la eliminación del punto sobre listas colectoras, el texto quedó habilitado para su tratamiento en el recinto durante los próximos días."
+        "El indicador elaborado por JP Morgan escaló hasta alcanzar las 931 unidades, impulsado por tensiones financieras internas y volatilidad externa. La jornada estuvo marcada además por retrocesos en las acciones argentinas que cotizan en Wall Street y una caída en el índice bursátil porteño."
       ],
       "fuentes": [
         {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/el-riesgo-pais-vuelve-a-superar-los-900-puntos-caen-bonos-y-acciones-argentinas/"
+        },
+        {
           "medio": "Ámbito",
-          "url": "https://www.ambito.com/politica/diego-santilli-celebro-el-dictamen-eliminar-las-paso-es-algo-que-la-sociedad-nos-demanda-hace-muchos-anos-n6347105"
+          "url": "https://www.ambito.com/los-bonos-dolares-rebotan-medio-la-euforia-anthropic-n6347109"
         },
         {
-          "medio": "Perfil",
-          "url": "https://perfil.com/modo-fontevecchia/presidente-del-bloque-pro-en-senadores-estaba-en-desacuerdo-con-suspender-las-paso-pero-acompanaremos-a-lla-por-pedido-de-los-gobernadores-aVyC62c6X1WH"
-        },
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/avanza-la-suspension-de-las-paso/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-19-16-42-0-el-riesgo-pais-vuelve-a-superar-los-900-puntos-y-caen-las-acciones-argentinas-en-wall-street"
         }
       ]
     },
     {
       "categoria": "Seguridad",
-      "titulo": "Allanamientos en Bahía Blanca y Pedro Luro por investigaciones de ciberpedofilia",
+      "titulo": "Declararon culpable al conductor que atropelló y mató a un hombre en Vista Alegre",
       "resumen": [
-        "Los procedimientos locales formaron parte de un megaoperativo judicial que abarcó 136 allanamientos en 75 localidades de la provincia de Buenos Aires. La investigación estuvo coordinada por fiscales especializados en delitos contra las infancias, grooming y abuso sexual."
+        "La Justicia declaró culpable a Franco Lembo por el delito de homicidio culposo agravado. El hecho juzgado ocurrió en el barrio Vista Alegre, donde el imputado atropelló a Cristian Lucero y le causó la muerte."
       ],
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-18-17-59-0-allanamientos-en-bahia-blanca-y-en-pedro-luro-por-varios-casos-de-ciberpedofilia"
+          "url": "https://www.lanueva.com/nota/2026-11-19-18-39-0-declararon-culpable-al-sujeto-que-atropello-y-mato-a-un-hombre-en-vista-alegre"
         },
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/operacion-bonaerense-proteccion-de-las-infancias-viii/"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/19/caso-cristian-lucero-declararon-culpable-al-acusado-de-atropellarlo-y-matarlo-en-vista-alegre-n531634/"
         }
       ]
     },
     {
-      "categoria": "Sociedad",
-      "titulo": "Ya son dos los muertos por la explosión en una red de gas en Remedios de Escalada",
+      "categoria": "Política",
+      "titulo": "El diputado Mariano Campero abandonó el bloque de La Libertad Avanza",
       "resumen": [
-        "Falleció un segundo operario que se encontraba internado en estado crítico tras el estallido originado por la rotura de un caño de gas durante obras de renovación. El incidente también destruyó comercios y viviendas de la zona, lo que motivó reclamos vecinales y asistencia municipal."
+        "El legislador tucumano oficializó su salida de la bancada oficialista en la Cámara de Diputados para conformar un monobloque. La ruptura se produjo tras denunciar un acuerdo entre el oficialismo y el Partido Justicialista en su provincia natal."
       ],
       "fuentes": [
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/un-diputado-alfil-de-bullrich-rompio-con-la-libertad-avanza-y-renuncio-al-bloque/"
+        },
         {
           "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/sociedad/que-se-sabe-de-la-explosion-en-remedios-de-escalada-nuevas-victimas-y-como-sigue-la-investigacion-nid19112026/"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-19-9-24-0-explosion-fatal-en-remedios-de-escalada-murio-un-operario-y-ya-son-dos-las-victimas"
-        },
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/fatal-explosion-en-remedios-de-escalada-murio-un-operario-de-metrogas/"
-        }
-      ]
-    },
-    {
-      "categoria": "Servicios",
-      "titulo": "Cortes de tránsito por obras y trabajos de bacheo en distintos sectores de la ciudad",
-      "resumen": [
-        "La Municipalidad programó interrupciones totales en arterias bahienses debido a tareas de bacheo, reparaciones de cañerías y maniobras de grúas. Entre las zonas afectadas este jueves figuran cortes temporales en Saavedra al 800 y Alsina al 1000 por tareas de hormigonado y descarga."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-18-18-41-0-como-seran-los-cortes-de-calles-en-bahia-en-los-proximos-dias"
-        },
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-cortes-previstos-de-calles-para-este-jueves/"
+          "url": "https://www.lanacion.com.ar/politica/el-diputado-que-abandono-el-bloque-de-la-libertad-avanza-dijo-que-le-gustaria-que-patricia-bullrich-nid19112026/"
         }
       ]
     }
