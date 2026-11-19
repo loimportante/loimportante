@@ -1,90 +1,102 @@
 {
   "fecha": "Jueves 19 de noviembre de 2026",
-  "actualizado": "08:04",
+  "actualizado": "13:01",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Mundo",
-      "titulo": "Cumbre histórica: Trump, Putin y Xi Jinping debatieron sobre desarme nuclear en China",
+      "categoria": "Bahía Blanca",
+      "titulo": "El Municipio allanó e inició tareas de saneamiento en el ex Centro de Compras",
       "resumen": [
-        "En la ciudad de Shenzhen, los mandatarios de Estados Unidos, Rusia y China mantuvieron un encuentro trilateral inédito. Durante la reunión abordaron la seguridad energética, la reducción del armamento atómico y la situación en Ucrania."
+        "La comuna intervino el histórico edificio abandonado de Colón y Brown para realizar tareas de limpieza, desratización y cerramiento. El intendente Federico Susbielles calificó la situación como dantesca y advirtió sobre un grave riesgo ambiental y bacteriológico acumulado por años de abandono."
       ],
       "fuentes": [
         {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/mundo/historica-cumbre-donald-trump-vladimir-putin-y-xi-jinping-china-hablaron-mas-una-hora-los-desafios-globales-n6346970"
-        },
-        {
-          "medio": "Infobae",
-          "url": "https://www.infobae.com/america/mundo/2026/11/19/en-vivo-historica-reunion-trilateral-entre-donald-trump-xi-jinping-y-vladimir-putin/"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/19/susbielles-tras-recorrer-el-ex-centro-de-comprases-dantesco-lo-que-vi-el-riesgo-ambiental-es-gravisimo-n531544/"
         },
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-18-23-45-0-tensa-e-historica-cumbre-en-china-entre-trump-putin-y-xi-jinping"
-        }
-      ]
-    },
-    {
-      "categoria": "Economía",
-      "titulo": "El Gobierno amplió el Presupuesto 2026 en más de 15 billones de pesos",
-      "resumen": [
-        "El Ejecutivo nacional sumó 15,6 billones de pesos al presupuesto vigente, lo que equivale a un aumento del 10,2%. Los fondos se destinarán principalmente al PAMI y al pago de intereses de deuda, mientras que el área de Servicios Económicos sufrirá un recorte de unos 2,3 billones."
-      ],
-      "fuentes": [
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/economia/el-gobierno-sumo-156-billones-al-presupuesto-2026-y-recorta-el-superavit-fin-ano-n6346959"
+          "url": "https://www.lanueva.com/nota/2026-11-19-10-57-0-susbielles-el-panorama-en-el-edificio-es-dantesco-y-el-riesgo-ambiental-es-grave"
         },
         {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/el-gobierno-amplio-el-presupuesto-2026-en-156-billones/"
-        }
-      ]
-    },
-    {
-      "categoria": "Bahía Blanca",
-      "titulo": "El Concejo aprobó el cobro de estacionamiento en el aeropuerto y la terminal de ómnibus",
-      "resumen": [
-        "Por unanimidad, el Concejo Deliberante resolvió incorporar al sistema de estacionamiento medido y pago a los predios de la Terminal San Francisco de Asís y el Aeropuerto Comandante Espora. La medida cambiará las condiciones de acceso para los vecinos que utilicen estos servicios."
-      ],
-      "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/comenzara-a-cobrarse-el-estacionamiento-en-el-aeropuerto-y-la-terminal-de-omnibus/"
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-operativo-municipal-en-el-ex-centro-de-compras-realizan-tareas-de-limpieza-y-saneamiento/"
         }
       ]
     },
     {
       "categoria": "Política",
-      "titulo": "Diputados: cayó la sesión para tratar la reforma del Banco Central por falta de quórum",
+      "titulo": "Avanza en el Senado el proyecto para suspender las PASO del próximo año",
       "resumen": [
-        "El oficialismo no logró reunir el número necesario tras la ausencia de legisladores de Santa Fe y Córdoba. La falta de quórum impidió el tratamiento de la reforma del Banco Central y otros proyectos, lo que generó nuevos reproches internos dentro del Gobierno nacional."
+        "El oficialismo y bloques aliados consiguieron dictamen de comisión en el Senado para suspender las primarias electorales. Tras la eliminación del punto sobre listas colectoras, el texto quedó habilitado para su tratamiento en el recinto durante los próximos días."
       ],
       "fuentes": [
         {
           "medio": "Ámbito",
-          "url": "https://www.ambito.com/politica/la-caida-la-sesion-diputados-volvio-dejar-expuestas-las-internas-del-gobierno-n6346925"
+          "url": "https://www.ambito.com/politica/diego-santilli-celebro-el-dictamen-eliminar-las-paso-es-algo-que-la-sociedad-nos-demanda-hace-muchos-anos-n6347105"
         },
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/congreso-por-falta-de-quorum-se-cayo-la-sesion-para-tratar-la-reforma-del-bcra/"
+          "medio": "Perfil",
+          "url": "https://perfil.com/modo-fontevecchia/presidente-del-bloque-pro-en-senadores-estaba-en-desacuerdo-con-suspender-las-paso-pero-acompanaremos-a-lla-por-pedido-de-los-gobernadores-aVyC62c6X1WH"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/avanza-la-suspension-de-las-paso/"
         }
       ]
     },
     {
       "categoria": "Seguridad",
-      "titulo": "Allanamientos en Bahía Blanca y Pedro Luro en un operativo contra la ciberpedofilia",
+      "titulo": "Allanamientos en Bahía Blanca y Pedro Luro por investigaciones de ciberpedofilia",
       "resumen": [
-        "En el marco del operativo provincial 'Protección de las Infancias VIII', se realizaron procedimientos locales contra la explotación sexual infantil. La investigación abarcó un total de 136 allanamientos simultáneos en 75 localidades de la provincia de Buenos Aires."
+        "Los procedimientos locales formaron parte de un megaoperativo judicial que abarcó 136 allanamientos en 75 localidades de la provincia de Buenos Aires. La investigación estuvo coordinada por fiscales especializados en delitos contra las infancias, grooming y abuso sexual."
       ],
       "fuentes": [
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/operativo-contra-el-abuso-sexual-infantil-allanamientos-en-bahia-blanca-y-pedro-luro/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-18-17-59-0-allanamientos-en-bahia-blanca-y-en-pedro-luro-por-varios-casos-de-ciberpedofilia"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/operacion-bonaerense-proteccion-de-las-infancias-viii/"
+        }
+      ]
+    },
+    {
+      "categoria": "Sociedad",
+      "titulo": "Ya son dos los muertos por la explosión en una red de gas en Remedios de Escalada",
+      "resumen": [
+        "Falleció un segundo operario que se encontraba internado en estado crítico tras el estallido originado por la rotura de un caño de gas durante obras de renovación. El incidente también destruyó comercios y viviendas de la zona, lo que motivó reclamos vecinales y asistencia municipal."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/sociedad/que-se-sabe-de-la-explosion-en-remedios-de-escalada-nuevas-victimas-y-como-sigue-la-investigacion-nid19112026/"
         },
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-18-17-59-0-allanamientos-en-bahia-blanca-y-en-pedro-luro-por-varios-casos-de-ciberpedofilia"
+          "url": "https://www.lanueva.com/nota/2026-11-19-9-24-0-explosion-fatal-en-remedios-de-escalada-murio-un-operario-y-ya-son-dos-las-victimas"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/fatal-explosion-en-remedios-de-escalada-murio-un-operario-de-metrogas/"
+        }
+      ]
+    },
+    {
+      "categoria": "Servicios",
+      "titulo": "Cortes de tránsito por obras y trabajos de bacheo en distintos sectores de la ciudad",
+      "resumen": [
+        "La Municipalidad programó interrupciones totales en arterias bahienses debido a tareas de bacheo, reparaciones de cañerías y maniobras de grúas. Entre las zonas afectadas este jueves figuran cortes temporales en Saavedra al 800 y Alsina al 1000 por tareas de hormigonado y descarga."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-18-18-41-0-como-seran-los-cortes-de-calles-en-bahia-en-los-proximos-dias"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-cortes-previstos-de-calles-para-este-jueves/"
         }
       ]
     }
