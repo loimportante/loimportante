@@ -1,55 +1,55 @@
 {
   "fecha": "Viernes 20 de noviembre de 2026",
-  "actualizado": "19:27",
+  "actualizado": "20:00",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Economía",
-      "titulo": "El riesgo país superó los 1.000 puntos y se disparó la tensión financiera",
+      "titulo": "Semana financiera crítica: el dólar minorista pasó los $1.600 y el riesgo país saltó a 1.070",
       "resumen": [
-        "El índice trepó hasta los 1.071 puntos tras una fuerte caída de los bonos argentinos y el derrumbe en Wall Street. La suba de tasas refleja mayor desconfianza de los inversores, encarece el financiamiento y presiona sobre el mercado cambiario, donde el dólar oficial y los paralelos acumularon fuertes incrementos en la semana."
+        "El dólar oficial y las cotizaciones paralelas cerraron la semana con subas pronunciadas, con el blue trepando $100. En simultáneo, los bonos argentinos sufrieron fuertes bajas y el indicador de riesgo país superó los 1.000 puntos básicos, condicionado por caídas en Wall Street."
       ],
       "fuentes": [
         {
           "medio": "Ámbito",
-          "url": "https://www.ambito.com/finanzas/los-bonos-dolares-se-desploman-wall-street-y-aumenta-la-presion-el-riesgo-pais-n6347533"
+          "url": "https://www.ambito.com/finanzas/el-dolar-oficial-intensifica-su-rally-alcista-y-el-mercado-mira-cerca-la-brecha-el-ccl-n6347487"
         },
         {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/el-riesgo-pais-por-encima-de-los-1000-puntos-por-que-preocupa-a-la-economia-real/"
+          "medio": "Infobae",
+          "url": "https://www.infobae.com/economia/2026/11/20/el-riesgo-pais-salto-14-en-un-solo-dia-y-alcanzo-el-nivel-mas-alto-desde-las-elecciones-de-2025/"
         },
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-20-11-44-0-el-riesgo-pais-supero-los-1000-puntos"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/20/el-riesgo-pais-alcanzo-su-nivel-mas-alto-en-un-ano-supero-los-mil-puntos-n531817/"
         }
       ]
     },
     {
-      "categoria": "Sociedad",
-      "titulo": "Unicef alertó que el 41% de los hogares con chicos no cubre sus gastos básicos",
+      "categoria": "Servicios",
+      "titulo": "La tarjeta SUBE no permitirá recargas ni consultas durante doce horas este domingo",
       "resumen": [
-        "El informe reveló que la insuficiencia de recursos aumentó 10 puntos en un año y alcanza a 2,7 millones de familias en el país. Además, el relevamiento advirtió que el 43% de los hogares con menores debió recortar la compra de alimentos y un 36% postergó consultas médicas por falta de dinero."
+        "Por tareas de actualización en el sistema, la aplicación y los servicios de carga estarán inactivos entre la medianoche y las doce del mediodía del domingo 22 de noviembre. Quienes dispongan de saldo en sus plásticos podrán continuar viajando con normalidad."
       ],
       "fuentes": [
         {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/sube-durante-12-horas-no-se-podran-realizar-cargas-ni-consultar-saldos/"
+        },
+        {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-20-11-44-0-unicef-argentina-advirtio-que-el-41-de-los-hogares-con-chicos-no-logra-cubrir-sus-gastos-corrientes"
+          "url": "https://www.lanueva.com/nota/2026-11-20-13-15-0-por-mantenimiento-no-habra-recargas-ni-consulta-de-saldo-de-sube-este-domingo-por-la-manana"
         },
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/unicef-advirtio-que-en-la-argentina-el-41-de-los-hogares-con-chicos-no-llega-a-cubrir-sus-gastos-basicos/"
-        },
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/el-41-de-los-hogares-con-ninos-no-cubre-necesidades-basicas/"
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/20/la-sube-dejara-de-funcionar-durante-12-horas-este-domingo-22-de-noviembre/"
         }
       ]
     },
     {
       "categoria": "Bahía Blanca",
-      "titulo": "Intervienen el ex Centro de Compras y evalúan una denuncia federal por contaminación",
+      "titulo": "Intervienen el ex Centro de Compras por peligro ambiental y analizan una denuncia judicial",
       "resumen": [
-        "El Municipio inició un operativo de limpieza integral en el edificio de Colón y Brown ante el grave riesgo sanitario por la acumulación de basura y excrementos tras 19 años de desidia. Las autoridades advirtieron que la situación ambiental detectada podría motivar una presentación penal ante la Justicia Federal."
+        "La municipalidad comenzó trabajos de limpieza integral en el edificio de Colón y Brown tras hallar toneladas de excrementos y restos de animales. Las autoridades señalaron que se trata de un grave riesgo sanitario tras años de abandono y evalúan llevar el caso a la justicia federal."
       ],
       "fuentes": [
         {
@@ -58,7 +58,7 @@
         },
         {
           "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/excentro-de-compras-un-riesgo-ambiental-que-no-podemos-seguir-ignorando-dijo-susbielles/"
+          "url": "https://www.delabahia.com.ar/susbielles-lo-que-vimos-es-el-reflejo-de-19-anos-de-desidia-e-inaccion/"
         },
         {
           "medio": "BVC Noticias",
@@ -67,44 +67,44 @@
       ]
     },
     {
-      "categoria": "Servicios",
-      "titulo": "El sistema SUBE no permitirá recargas ni consultas durante 12 horas este domingo",
+      "categoria": "Bahía Blanca",
+      "titulo": "Inauguraron la FISA 2026 con 250 expositores en el Predio Ferial",
       "resumen": [
-        "La plataforma estará fuera de servicio este domingo entre las 00 y las 12 del mediodía por una actualización programada de sus sistemas. Durante esa franja no se podrán realizar cargas ni consultar saldos en la aplicación, aunque los pasajeros que cuenten con crédito disponible podrán seguir viajando en transporte público."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-20-13-15-0-por-mantenimiento-no-habra-recargas-ni-consulta-de-saldo-de-sube-este-domingo-por-la-manana"
-        },
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/sube-durante-12-horas-no-se-podran-realizar-cargas-ni-consultar-saldos/"
-        },
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/la-tarjeta-sube-no-funcionara-durante-12-horas-del-fin-de-semana/"
-        }
-      ]
-    },
-    {
-      "categoria": "Economía",
-      "titulo": "El Gobierno aprobó el ingreso de YPF al RIGI para exportar gas licuado",
-      "resumen": [
-        "El Ministerio de Economía oficializó la inclusión del proyecto Argentina LNG al Régimen de Incentivo para Grandes Inversiones, con un desembolso superior a los 50.000 millones de dólares. La iniciativa prevé ventas al exterior por unos 9.000 millones de dólares anuales a partir de 2031 y la firma definitiva se realizará en dos semanas."
+        "Comenzó una nueva edición de la tradicional exposición comercial e industrial bahiense, encabezada por autoridades locales. La muestra cuenta con puestos de gastronomía, actividades artísticas y atracciones abiertas al público hasta el lunes feriado."
       ],
       "fuentes": [
         {
           "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/20/el-gobierno-aprobo-el-rigi-de-ypf-para-exportar-gas-licuado-por-mas-de-us-50-000-millones-n531809/"
-        },
-        {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/negocios/aprueban-el-rigi-para-la-mayor-inversion-de-la-historia-de-us-50700-millones-en-vaca-muerta/"
+          "url": "https://www.labrujula24.com/notas/2026/11/20/susbielles-bonacorsi-y-el-robot-robby-inauguraron-la-fisa-2026-n531777/"
         },
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-20-16-57-0-argentina-lng-el-gobierno-aprobo-el-ingreso-de-ypf-al-rigi-por-mas-de-us-50-000-millones"
+          "url": "https://www.lanueva.com/nota/2026-11-20-12-7-0-la-fisa-2026-ya-esta-en-marcha-musica-gastronomia-y-atracciones-para-disfrutar-el-finde-largo"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/se-inauguro-la-fisa-2026/"
+        }
+      ]
+    },
+    {
+      "categoria": "Seguridad",
+      "titulo": "Condenaron a Cristian 'Pity' Álvarez a 12 años de prisión por homicidio",
+      "resumen": [
+        "La justicia sentenció al exlíder de Viejas Locas e Intoxicados por el asesinato de Cristian Díaz, ocurrido en 2018 en Villa Lugano. El tribunal dispuso una condena de doce años que cumplirá bajo régimen domiciliario sin alojarse en una cárcel común."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/20/condenaron-a-pity-alvarez-a-12-anos-de-prision-por-el-asesinato-de-su-vecino-n531796/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-20-14-22-0-pity-alvarez-fue-condenado-a-12-anos-de-prision-por-el-crimen-de-cristian-diaz"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/condenaron-a-pity-alvarez-a-12-anos-de-prision/"
         }
       ]
     }
