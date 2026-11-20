@@ -1,106 +1,110 @@
 {
-  "fecha": "Jueves 19 de noviembre de 2026",
-  "actualizado": "20:03",
+  "fecha": "Viernes 20 de noviembre de 2026",
+  "actualizado": "19:27",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Salud",
-      "titulo": "La Corte Suprema frenó los aumentos sin control en las cuotas de la medicina prepaga",
+      "categoria": "Economía",
+      "titulo": "El riesgo país superó los 1.000 puntos y se disparó la tensión financiera",
       "resumen": [
-        "Un fallo del máximo tribunal restableció la intervención oficial y determinó que las empresas prestadoras ya no podrán fijar incrementos de forma desregulada. A partir de esta decisión, los ajustes deberán contar con la supervisión de la Superintendencia de Servicios de Salud."
+        "El índice trepó hasta los 1.071 puntos tras una fuerte caída de los bonos argentinos y el derrumbe en Wall Street. La suba de tasas refleja mayor desconfianza de los inversores, encarece el financiamiento y presiona sobre el mercado cambiario, donde el dólar oficial y los paralelos acumularon fuertes incrementos en la semana."
       ],
       "fuentes": [
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-19-14-32-0-las-prepagas-ya-no-podran-aumentar-sus-cuotas-sin-la-autorizacion-del-gobierno"
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/finanzas/los-bonos-dolares-se-desploman-wall-street-y-aumenta-la-presion-el-riesgo-pais-n6347533"
         },
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/19/la-corte-suprema-declaro-inconstitucional-la-desregulacion-de-las-cuotas-de-las-prepagas-n531596/"
-        },
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/prepagas-que-cambia-para-los-afiliados-tras-el-fallo-de-la-corte-y-como-reclamar-por-los-aumentos/"
-        }
-      ]
-    },
-    {
-      "categoria": "Bahía Blanca",
-      "titulo": "El Municipio allanó el ex Centro de Compras por un grave riesgo sanitario",
-      "resumen": [
-        "La comuna intervino el histórico edificio abandonado de Colón y Brown para realizar tareas de saneamiento y cerramiento tras constatar miles de palomas y toneladas de guano. Las autoridades calificaron el cuadro como de grave peligro ambiental y anticiparon que la limpieza demandará meses."
-      ],
-      "fuentes": [
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-susbielles-estallo-de-bronca-por-el-estado-del-ex-centro-de-compras-lo-que-vimos-es-dantesco/"
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/el-riesgo-pais-por-encima-de-los-1000-puntos-por-que-preocupa-a-la-economia-real/"
         },
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-19-10-57-0-susbielles-el-panorama-en-el-edificio-es-dantesco-y-el-riesgo-ambiental-es-grave"
-        },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/19/ex-centro-de-compras-vamos-a-tardar-mas-de-lo-esperado-en-limpiar-n531622/"
+          "url": "https://www.lanueva.com/nota/2026-11-20-11-44-0-el-riesgo-pais-supero-los-1000-puntos"
         }
       ]
     },
     {
       "categoria": "Sociedad",
-      "titulo": "El Senado aprobó por unanimidad la nueva ley de Discapacidad",
+      "titulo": "Unicef alertó que el 41% de los hogares con chicos no cubre sus gastos básicos",
       "resumen": [
-        "Con 71 votos afirmativos y ninguno en contra, la Cámara alta convirtió en ley el proyecto que crea un régimen permanente para el sistema de pensiones y coberturas. La nueva norma reemplaza el esquema de emergencia que tenía vigencia hasta el 31 de diciembre."
+        "El informe reveló que la insuficiencia de recursos aumentó 10 puntos en un año y alcanza a 2,7 millones de familias en el país. Además, el relevamiento advirtió que el 43% de los hogares con menores debió recortar la compra de alimentos y un 36% postergó consultas médicas por falta de dinero."
       ],
       "fuentes": [
         {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/el-senado-sanciono-la-ley-de-discapacidad-y-la-oposicion-reclamo-al-gobierno-que-cumpla-con-su-nid19112026/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-20-11-44-0-unicef-argentina-advirtio-que-el-41-de-los-hogares-con-chicos-no-logra-cubrir-sus-gastos-corrientes"
         },
         {
-          "medio": "Perfil",
-          "url": "https://perfil.com/politica/el-senado-sanciono-por-unanimidad-la-ley-de-discapacidad-aDCMV1g8TxqC"
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/unicef-advirtio-que-en-la-argentina-el-41-de-los-hogares-con-chicos-no-llega-a-cubrir-sus-gastos-basicos/"
         },
         {
-          "medio": "Infobae",
-          "url": "https://www.infobae.com/politica/2026/11/19/senado-en-vivo-las-ultimas-noticias-del-debate-sobre-los-proyectos-de-discapacidad-propiedad-privada-y-patentes/"
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/el-41-de-los-hogares-con-ninos-no-cubre-necesidades-basicas/"
+        }
+      ]
+    },
+    {
+      "categoria": "Bahía Blanca",
+      "titulo": "Intervienen el ex Centro de Compras y evalúan una denuncia federal por contaminación",
+      "resumen": [
+        "El Municipio inició un operativo de limpieza integral en el edificio de Colón y Brown ante el grave riesgo sanitario por la acumulación de basura y excrementos tras 19 años de desidia. Las autoridades advirtieron que la situación ambiental detectada podría motivar una presentación penal ante la Justicia Federal."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/20/evaluan-una-denuncia-en-la-justicia-federal-por-la-contaminacion-del-ex-centro-de-compras-n531798/"
+        },
+        {
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/excentro-de-compras-un-riesgo-ambiental-que-no-podemos-seguir-ignorando-dijo-susbielles/"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/edificios-abandonados-en-bahia-minervino-pidio-mas-herramientas-para-intervenir/"
+        }
+      ]
+    },
+    {
+      "categoria": "Servicios",
+      "titulo": "El sistema SUBE no permitirá recargas ni consultas durante 12 horas este domingo",
+      "resumen": [
+        "La plataforma estará fuera de servicio este domingo entre las 00 y las 12 del mediodía por una actualización programada de sus sistemas. Durante esa franja no se podrán realizar cargas ni consultar saldos en la aplicación, aunque los pasajeros que cuenten con crédito disponible podrán seguir viajando en transporte público."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-20-13-15-0-por-mantenimiento-no-habra-recargas-ni-consulta-de-saldo-de-sube-este-domingo-por-la-manana"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/sube-durante-12-horas-no-se-podran-realizar-cargas-ni-consultar-saldos/"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/la-tarjeta-sube-no-funcionara-durante-12-horas-del-fin-de-semana/"
         }
       ]
     },
     {
       "categoria": "Economía",
-      "titulo": "El riesgo país superó los 930 puntos y se desplomaron los activos argentinos",
+      "titulo": "El Gobierno aprobó el ingreso de YPF al RIGI para exportar gas licuado",
       "resumen": [
-        "El índice elaborado por JP Morgan subió más del 9% en una jornada negativa para los títulos de deuda y las acciones nacionales que cotizan en Wall Street. La tensión financiera se reflejó también en el mercado cambiario con una nueva alza de la divisa paralela."
-      ],
-      "fuentes": [
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/los-bonos-dolares-rebotan-medio-la-euforia-anthropic-n6347109"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-19-16-42-0-el-riesgo-pais-vuelve-a-superar-los-900-puntos-y-caen-las-acciones-argentinas-en-wall-street"
-        },
-        {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/el-riesgo-pais-vuelve-a-superar-los-900-puntos-caen-bonos-y-acciones-argentinas/"
-        }
-      ]
-    },
-    {
-      "categoria": "Seguridad",
-      "titulo": "Declararon culpable al conductor que atropelló y mató a Cristian Lucero en Vista Alegre",
-      "resumen": [
-        "La Justicia bahiense declaró culpable a Franco Lembo por el delito de homicidio culposo agravado. El veredicto determinó su responsabilidad en el hecho en el que perdió la vida el vecino Cristian Lucero al ser embestido en ese sector de la ciudad."
+        "El Ministerio de Economía oficializó la inclusión del proyecto Argentina LNG al Régimen de Incentivo para Grandes Inversiones, con un desembolso superior a los 50.000 millones de dólares. La iniciativa prevé ventas al exterior por unos 9.000 millones de dólares anuales a partir de 2031 y la firma definitiva se realizará en dos semanas."
       ],
       "fuentes": [
         {
           "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/19/caso-cristian-lucero-declararon-culpable-al-acusado-de-atropellarlo-y-matarlo-en-vista-alegre-n531634/"
+          "url": "https://www.labrujula24.com/notas/2026/11/20/el-gobierno-aprobo-el-rigi-de-ypf-para-exportar-gas-licuado-por-mas-de-us-50-000-millones-n531809/"
+        },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/negocios/aprueban-el-rigi-para-la-mayor-inversion-de-la-historia-de-us-50700-millones-en-vaca-muerta/"
         },
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-19-18-39-0-declararon-culpable-al-sujeto-que-atropello-y-mato-a-un-hombre-en-vista-alegre"
+          "url": "https://www.lanueva.com/nota/2026-11-20-16-57-0-argentina-lng-el-gobierno-aprobo-el-ingreso-de-ypf-al-rigi-por-mas-de-us-50-000-millones"
         }
       ]
     }
