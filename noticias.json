@@ -1,110 +1,98 @@
 {
-  "fecha": "Viernes 20 de noviembre de 2026",
-  "actualizado": "20:00",
+  "fecha": "Sábado 21 de noviembre de 2026",
+  "actualizado": "19:26",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Economía",
-      "titulo": "Semana financiera crítica: el dólar minorista pasó los $1.600 y el riesgo país saltó a 1.070",
-      "resumen": [
-        "El dólar oficial y las cotizaciones paralelas cerraron la semana con subas pronunciadas, con el blue trepando $100. En simultáneo, los bonos argentinos sufrieron fuertes bajas y el indicador de riesgo país superó los 1.000 puntos básicos, condicionado por caídas en Wall Street."
-      ],
-      "fuentes": [
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/finanzas/el-dolar-oficial-intensifica-su-rally-alcista-y-el-mercado-mira-cerca-la-brecha-el-ccl-n6347487"
-        },
-        {
-          "medio": "Infobae",
-          "url": "https://www.infobae.com/economia/2026/11/20/el-riesgo-pais-salto-14-en-un-solo-dia-y-alcanzo-el-nivel-mas-alto-desde-las-elecciones-de-2025/"
-        },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/20/el-riesgo-pais-alcanzo-su-nivel-mas-alto-en-un-ano-supero-los-mil-puntos-n531817/"
-        }
-      ]
-    },
-    {
-      "categoria": "Servicios",
-      "titulo": "La tarjeta SUBE no permitirá recargas ni consultas durante doce horas este domingo",
-      "resumen": [
-        "Por tareas de actualización en el sistema, la aplicación y los servicios de carga estarán inactivos entre la medianoche y las doce del mediodía del domingo 22 de noviembre. Quienes dispongan de saldo en sus plásticos podrán continuar viajando con normalidad."
-      ],
-      "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/sube-durante-12-horas-no-se-podran-realizar-cargas-ni-consultar-saldos/"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-20-13-15-0-por-mantenimiento-no-habra-recargas-ni-consulta-de-saldo-de-sube-este-domingo-por-la-manana"
-        },
-        {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/20/la-sube-dejara-de-funcionar-durante-12-horas-este-domingo-22-de-noviembre/"
-        }
-      ]
-    },
-    {
       "categoria": "Bahía Blanca",
-      "titulo": "Intervienen el ex Centro de Compras por peligro ambiental y analizan una denuncia judicial",
+      "titulo": "Docentes y nodocentes de la UNS paran el miércoles contra el ajuste presupuestario",
       "resumen": [
-        "La municipalidad comenzó trabajos de limpieza integral en el edificio de Colón y Brown tras hallar toneladas de excrementos y restos de animales. Las autoridades señalaron que se trata de un grave riesgo sanitario tras años de abandono y evalúan llevar el caso a la justicia federal."
+        "ADUNS y los gremios universitarios confirmaron una medida de fuerza para el 25 de noviembre. En Bahía Blanca realizarán una asamblea para evaluar la continuidad del reclamo, que podría comprometer las mesas de examen de diciembre."
       ],
       "fuentes": [
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/20/evaluan-una-denuncia-en-la-justicia-federal-por-la-contaminacion-del-ex-centro-de-compras-n531798/"
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/nuevo-paro-en-las-universidades-nacionales-aduns-confirmo-una-medida-de-fuerza-para-el-25-de-noviembre/"
         },
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/susbielles-lo-que-vimos-es-el-reflejo-de-19-anos-de-desidia-e-inaccion/"
-        },
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/edificios-abandonados-en-bahia-minervino-pidio-mas-herramientas-para-intervenir/"
-        }
-      ]
-    },
-    {
-      "categoria": "Bahía Blanca",
-      "titulo": "Inauguraron la FISA 2026 con 250 expositores en el Predio Ferial",
-      "resumen": [
-        "Comenzó una nueva edición de la tradicional exposición comercial e industrial bahiense, encabezada por autoridades locales. La muestra cuenta con puestos de gastronomía, actividades artísticas y atracciones abiertas al público hasta el lunes feriado."
-      ],
-      "fuentes": [
         {
           "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/20/susbielles-bonacorsi-y-el-robot-robby-inauguraron-la-fisa-2026-n531777/"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-20-12-7-0-la-fisa-2026-ya-esta-en-marcha-musica-gastronomia-y-atracciones-para-disfrutar-el-finde-largo"
+          "url": "https://www.labrujula24.com/notas/2026/11/21/convocan-a-un-paro-universitario-para-el-miercoles-n531913/"
         },
         {
           "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/se-inauguro-la-fisa-2026/"
+          "url": "https://frenteacano.com.ar/habra-otro-paro-docente-y-nodocente-en-las-universidades-nacionales/"
+        }
+      ]
+    },
+    {
+      "categoria": "Economía",
+      "titulo": "La canasta básica subió 3,5% en octubre y marcó el mayor incremento del año",
+      "resumen": [
+        "El INDEC difundió los datos de la Canasta Básica Total, que registró en octubre la suba mensual más alta del año. El informe establece el nivel de ingresos que necesitó una familia tipo de cuatro integrantes para no caer en la pobreza."
+      ],
+      "fuentes": [
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/cuanto-tenes-que-ganar-para-ser-de-clase-media-y-no-caer-en-pobreza-segun-el-indec-el-dato-de-octubre/"
+        }
+      ]
+    },
+    {
+      "categoria": "Bahía Blanca",
+      "titulo": "Llegó a Puerto Galván la draga que trabajará para llevar el calado a 50 pies",
+      "resumen": [
+        "El buque Galileo Galilei amarró en el Sitio 5 para iniciar las tareas de dragado y mantenimiento en el estuario bahiense. La obra busca profundizar el calado a 50 pies y forma parte de un contrato de concesión por 15 años."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-21-14-22-0-llego-la-draga-galileo-galilei-a-puerto-galvan-para-el-dragado-de-mantenimiento"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/21/el-puerto-inicia-las-obras-de-dragado-para-alcanzar-un-calado-de-50-pies-con-la-llegada-de/"
         }
       ]
     },
     {
       "categoria": "Seguridad",
-      "titulo": "Condenaron a Cristian 'Pity' Álvarez a 12 años de prisión por homicidio",
+      "titulo": "Suman cuatro las víctimas fatales por la explosión en Remedios de Escalada",
       "resumen": [
-        "La justicia sentenció al exlíder de Viejas Locas e Intoxicados por el asesinato de Cristian Díaz, ocurrido en 2018 en Villa Lugano. El tribunal dispuso una condena de doce años que cumplirá bajo régimen domiciliario sin alojarse en una cárcel común."
+        "La Justicia confirmó la muerte de otros dos operarios de una empresa tercerizada que se encontraban internados en San Justo. Con estos decesos, ya son cuatro las personas fallecidas por el incidente ocurrido hace una semana."
       ],
       "fuentes": [
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/20/condenaron-a-pity-alvarez-a-12-anos-de-prision-por-el-asesinato-de-su-vecino-n531796/"
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/informacion-general/explosion-remedios-escalada-confirmaron-otras-dos-muertes-y-ya-son-cuatro-las-victimas-fatales-n6347868"
         },
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-20-14-22-0-pity-alvarez-fue-condenado-a-12-anos-de-prision-por-el-crimen-de-cristian-diaz"
+          "url": "https://www.lanueva.com/nota/2026-11-21-11-4-0-explosion-en-remedios-de-escalada-confirmaron-las-muertes-de-dos-operarios-de-la-empresa-tercerizada"
         },
         {
           "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/condenaron-a-pity-alvarez-a-12-anos-de-prision/"
+          "url": "https://frenteacano.com.ar/explosion-en-remedios-de-escalada-confirmaron-la-muerte-de-otras-dos-personas/"
+        }
+      ]
+    },
+    {
+      "categoria": "Deportes",
+      "titulo": "Boca busca cortar una racha de 18 años sin copas internacionales ante Mineiro",
+      "resumen": [
+        "El equipo xeneize se enfrenta este sábado en Barranquilla a Atlético Mineiro en la final de la Copa Sudamericana. El club busca cortar una sequía de 18 años sin conquistas a nivel internacional."
+      ],
+      "fuentes": [
+        {
+          "medio": "Infobae",
+          "url": "https://www.infobae.com/deportes/2026/11/21/boca-juniors-va-por-la-gloria-en-la-final-de-la-copa-sudamericana-ante-atletico-mineiro-en-barranquilla-hora-tv-y-posibles-formaciones/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-21-5-0-0-hora-tv-y-formaciones-boca-se-mide-ante-atletico-mineiro-por-la-gran-final-de-la-sudamericana"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/final-de-la-sudamericana-boca-va-por-otro-titulo/"
         }
       ]
     }
