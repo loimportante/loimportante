@@ -1,13 +1,13 @@
 {
   "fecha": "Sábado 21 de noviembre de 2026",
-  "actualizado": "19:26",
+  "actualizado": "20:06",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Bahía Blanca",
-      "titulo": "Docentes y nodocentes de la UNS paran el miércoles contra el ajuste presupuestario",
+      "categoria": "Sociedad",
+      "titulo": "Docentes y nodocentes universitarios convocaron a un paro nacional para el miércoles",
       "resumen": [
-        "ADUNS y los gremios universitarios confirmaron una medida de fuerza para el 25 de noviembre. En Bahía Blanca realizarán una asamblea para evaluar la continuidad del reclamo, que podría comprometer las mesas de examen de diciembre."
+        "La medida de fuerza fue confirmada para el 25 de noviembre en reclamo por mejoras salariales y presupuesto. En Bahía Blanca, el gremio ADUNS evaluará en asamblea los pasos a seguir dentro de la Universidad Nacional del Sur, lo que podría condicionar las mesas de examen de diciembre."
       ],
       "fuentes": [
         {
@@ -26,22 +26,51 @@
     },
     {
       "categoria": "Economía",
-      "titulo": "La canasta básica subió 3,5% en octubre y marcó el mayor incremento del año",
+      "titulo": "El consumo masivo creció en octubre impulsado por el comercio electrónico",
       "resumen": [
-        "El INDEC difundió los datos de la Canasta Básica Total, que registró en octubre la suba mensual más alta del año. El informe establece el nivel de ingresos que necesitó una familia tipo de cuatro integrantes para no caer en la pobreza."
+        "Las compras repuntaron un 0,9% interanual durante octubre impulsadas principalmente por las operaciones de comercio electrónico. Pese a esta mejora mensual frente a septiembre, los registros de los primeros diez meses todavía acumulan una contracción global del 2,3%."
       ],
       "fuentes": [
         {
-          "medio": "El Cronista",
-          "url": "https://www.cronista.com/economia-politica/cuanto-tenes-que-ganar-para-ser-de-clase-media-y-no-caer-en-pobreza-segun-el-indec-el-dato-de-octubre/"
+          "medio": "Perfil",
+          "url": "https://perfil.com/economia/el-consumo-masivo-crecio-por-primera-vez-en-2026-y-el-e-commerce-fue-el-principal-motor-de-la-recuperacion-aKAa51x2q6r2"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-21-18-22-0-por-el-e-commerce-el-consumo-masivo-mostro-senales-de-recuperacion-en-octubre"
+        },
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/economia/se-revierte-tendencia-y-crece-el-consumo-masivo-fuerte-impacto-del-ecommerce-n6347962"
+        }
+      ]
+    },
+    {
+      "categoria": "Política",
+      "titulo": "Máximo Kirchner asumió al frente del Congreso del PJ bonaerense tras un acuerdo",
+      "resumen": [
+        "El diputado nacional asumió la conducción del órgano partidario provincial en una votación a distancia que reunió a distintos sectores. El entendimiento previo contó con el gobernador Axel Kicillof, quien no estuvo presente en el acto pero cuyo espacio integró las designaciones."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/politica/tras-un-acuerdo-con-kicillof-maximo-kirchner-asumio-la-presidencia-del-congreso-del-pj-nid21112026/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-21-17-23-0-maximo-kirchner-asumio-al-frente-del-congreso-del-pj-bonaerense"
+        },
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/politica/maximo-kirchner-asumio-la-presidencia-del-congreso-del-pj-bonaerense-n6347909"
         }
       ]
     },
     {
       "categoria": "Bahía Blanca",
-      "titulo": "Llegó a Puerto Galván la draga que trabajará para llevar el calado a 50 pies",
+      "titulo": "Arribó a Puerto Galván una draga para realizar tareas de mantenimiento en el estuario",
       "resumen": [
-        "El buque Galileo Galilei amarró en el Sitio 5 para iniciar las tareas de dragado y mantenimiento en el estuario bahiense. La obra busca profundizar el calado a 50 pies y forma parte de un contrato de concesión por 15 años."
+        "La embarcación Galileo Galilei amarró en el Sitio 5 para iniciar las tareas de dragado en el sistema portuario bahiense. El plan apunta a mantener las condiciones operativas y alcanzar una profundidad de 50 pies, en el marco del contrato de concesión vigente."
       ],
       "fuentes": [
         {
@@ -55,44 +84,23 @@
       ]
     },
     {
-      "categoria": "Seguridad",
-      "titulo": "Suman cuatro las víctimas fatales por la explosión en Remedios de Escalada",
-      "resumen": [
-        "La Justicia confirmó la muerte de otros dos operarios de una empresa tercerizada que se encontraban internados en San Justo. Con estos decesos, ya son cuatro las personas fallecidas por el incidente ocurrido hace una semana."
-      ],
-      "fuentes": [
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/informacion-general/explosion-remedios-escalada-confirmaron-otras-dos-muertes-y-ya-son-cuatro-las-victimas-fatales-n6347868"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-21-11-4-0-explosion-en-remedios-de-escalada-confirmaron-las-muertes-de-dos-operarios-de-la-empresa-tercerizada"
-        },
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/explosion-en-remedios-de-escalada-confirmaron-la-muerte-de-otras-dos-personas/"
-        }
-      ]
-    },
-    {
       "categoria": "Deportes",
-      "titulo": "Boca busca cortar una racha de 18 años sin copas internacionales ante Mineiro",
+      "titulo": "Olimpo derrotó a Tiro Federal y disputará con Comercial el ascenso en la Liga del Sur",
       "resumen": [
-        "El equipo xeneize se enfrenta este sábado en Barranquilla a Atlético Mineiro en la final de la Copa Sudamericana. El club busca cortar una sequía de 18 años sin conquistas a nivel internacional."
+        "El equipo aurinegro ganó 2 a 0 en el estadio Roberto Carminatti y se consagró campeón del Torneo Clausura del torneo Promocional. Con este resultado, definirá el ascenso a la primera división de la liga local frente a Comercial, que había sido el ganador del Apertura."
       ],
       "fuentes": [
         {
-          "medio": "Infobae",
-          "url": "https://www.infobae.com/deportes/2026/11/21/boca-juniors-va-por-la-gloria-en-la-final-de-la-copa-sudamericana-ante-atletico-mineiro-en-barranquilla-hora-tv-y-posibles-formaciones/"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/21/olimpo-vencio-a-tiro-federal-gano-el-clausura-y-jugara-por-el-ascenso-n531933/"
         },
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-21-5-0-0-hora-tv-y-formaciones-boca-se-mide-ante-atletico-mineiro-por-la-gran-final-de-la-sudamericana"
+          "url": "https://www.lanueva.com/nota/2026-11-21-19-14-0-olimpo-estuvo-un-poco-mas-frio-que-tiro-gano-2-a-0-y-definira-ante-comercial"
         },
         {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/final-de-la-sudamericana-boca-va-por-otro-titulo/"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/olimpo-vencio-a-tiro-federal-y-se-consagro-campeon-del-clausura-del-promocional/"
         }
       ]
     }
