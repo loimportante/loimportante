@@ -1,82 +1,45 @@
 {
-  "fecha": "Sábado 21 de noviembre de 2026",
-  "actualizado": "20:06",
+  "fecha": "Domingo 22 de noviembre de 2026",
+  "actualizado": "13:02",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Sociedad",
-      "titulo": "Docentes y nodocentes universitarios convocaron a un paro nacional para el miércoles",
+      "categoria": "Bahía Blanca",
+      "titulo": "ADUNS anunció un nuevo paro universitario nacional para este miércoles",
       "resumen": [
-        "La medida de fuerza fue confirmada para el 25 de noviembre en reclamo por mejoras salariales y presupuesto. En Bahía Blanca, el gremio ADUNS evaluará en asamblea los pasos a seguir dentro de la Universidad Nacional del Sur, lo que podría condicionar las mesas de examen de diciembre."
+        "El gremio docente ADUNS confirmó una medida de fuerza para el miércoles 25 de noviembre en la Universidad Nacional del Sur. El reclamo rechaza el ajuste presupuestario y salarial, y coincidirá con el debate legislativo del Presupuesto 2027."
       ],
       "fuentes": [
         {
           "medio": "360 Más Noticias",
           "url": "https://360masnoticias.com/nuevo-paro-en-las-universidades-nacionales-aduns-confirmo-una-medida-de-fuerza-para-el-25-de-noviembre/"
-        },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/21/convocan-a-un-paro-universitario-para-el-miercoles-n531913/"
-        },
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/habra-otro-paro-docente-y-nodocente-en-las-universidades-nacionales/"
         }
       ]
     },
     {
-      "categoria": "Economía",
-      "titulo": "El consumo masivo creció en octubre impulsado por el comercio electrónico",
+      "categoria": "Servicios",
+      "titulo": "Cómo funcionarán los servicios y el transporte por el feriado del lunes",
       "resumen": [
-        "Las compras repuntaron un 0,9% interanual durante octubre impulsadas principalmente por las operaciones de comercio electrónico. Pese a esta mejora mensual frente a septiembre, los registros de los primeros diez meses todavía acumulan una contracción global del 2,3%."
+        "Por el traslado del feriado del Día de la Soberanía Nacional, los colectivos circularán con frecuencias reducidas y los trenes operarán con cambios o pausas por obras. En Buenos Aires, el subte funcionará de 8 a 22."
       ],
       "fuentes": [
         {
-          "medio": "Perfil",
-          "url": "https://perfil.com/economia/el-consumo-masivo-crecio-por-primera-vez-en-2026-y-el-e-commerce-fue-el-principal-motor-de-la-recuperacion-aKAa51x2q6r2"
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/informacion-general/que-pasara-el-transporte-y-los-servicios-publicos-el-feriado-horarios-frecuencias-y-modificaciones-n6348041"
         },
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-21-18-22-0-por-el-e-commerce-el-consumo-masivo-mostro-senales-de-recuperacion-en-octubre"
-        },
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/economia/se-revierte-tendencia-y-crece-el-consumo-masivo-fuerte-impacto-del-ecommerce-n6347962"
-        }
-      ]
-    },
-    {
-      "categoria": "Política",
-      "titulo": "Máximo Kirchner asumió al frente del Congreso del PJ bonaerense tras un acuerdo",
-      "resumen": [
-        "El diputado nacional asumió la conducción del órgano partidario provincial en una votación a distancia que reunió a distintos sectores. El entendimiento previo contó con el gobernador Axel Kicillof, quien no estuvo presente en el acto pero cuyo espacio integró las designaciones."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/tras-un-acuerdo-con-kicillof-maximo-kirchner-asumio-la-presidencia-del-congreso-del-pj-nid21112026/"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-21-17-23-0-maximo-kirchner-asumio-al-frente-del-congreso-del-pj-bonaerense"
-        },
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/politica/maximo-kirchner-asumio-la-presidencia-del-congreso-del-pj-bonaerense-n6347909"
+          "url": "https://www.lanueva.com/nota/2026-11-22-11-34-0-fin-de-semana-largo-por-que-es-feriado-el-lunes-23-y-que-dias-de-descanso-quedan-en-el-ano"
         }
       ]
     },
     {
       "categoria": "Bahía Blanca",
-      "titulo": "Arribó a Puerto Galván una draga para realizar tareas de mantenimiento en el estuario",
+      "titulo": "Comienzan las obras de dragado para llevar el calado del puerto local a 50 pies",
       "resumen": [
-        "La embarcación Galileo Galilei amarró en el Sitio 5 para iniciar las tareas de dragado en el sistema portuario bahiense. El plan apunta a mantener las condiciones operativas y alcanzar una profundidad de 50 pies, en el marco del contrato de concesión vigente."
+        "El puerto de Ingeniero White pone en marcha los trabajos de dragado para alcanzar una profundidad de 50 pies. Para las tareas de profundización se incorporó la draga de succión por arrastre Galileo Galilei."
       ],
       "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-21-14-22-0-llego-la-draga-galileo-galilei-a-puerto-galvan-para-el-dragado-de-mantenimiento"
-        },
         {
           "medio": "Ingeniero White",
           "url": "https://www.ingenierowhite.com/2026/11/21/el-puerto-inicia-las-obras-de-dragado-para-alcanzar-un-calado-de-50-pies-con-la-llegada-de/"
@@ -84,23 +47,44 @@
       ]
     },
     {
-      "categoria": "Deportes",
-      "titulo": "Olimpo derrotó a Tiro Federal y disputará con Comercial el ascenso en la Liga del Sur",
+      "categoria": "Economía",
+      "titulo": "Crece la preocupación económica por la volatilidad cambiaria y el riesgo país",
       "resumen": [
-        "El equipo aurinegro ganó 2 a 0 en el estadio Roberto Carminatti y se consagró campeón del Torneo Clausura del torneo Promocional. Con este resultado, definirá el ascenso a la primera división de la liga local frente a Comercial, que había sido el ganador del Apertura."
+        "Analistas advierten que la turbulencia global, la devaluación en Brasil y las dudas sobre las reservas y el esquema financiero impactan en los activos locales. El riesgo país superó los mil puntos y persisten tensiones con el valor del dólar."
       ],
       "fuentes": [
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/21/olimpo-vencio-a-tiro-federal-gano-el-clausura-y-jugara-por-el-ascenso-n531933/"
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/dolar/economistas-esperan-que-se-mantengan-la-volatilidad-y-las-tensiones-con-el-dolar-nid22112026/"
         },
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-21-19-14-0-olimpo-estuvo-un-poco-mas-frio-que-tiro-gano-2-a-0-y-definira-ante-comercial"
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/finanzas/la-tormenta-global-desnuda-la-fragilidad-argentina-hasta-cuando-seguira-la-sangria-y-que-senales-espera-la-city-n6348063"
+        },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/meses-de-incertidumbre-con-el-riesgo-pais-sobre-los-1000-puntos-un-informe-hackea-el-optimismo-del-gobierno/"
+        }
+      ]
+    },
+    {
+      "categoria": "Deportes",
+      "titulo": "Franco Colapinto finalizó en el sexto puesto del Gran Premio de Las Vegas de Fórmula 1",
+      "resumen": [
+        "El piloto argentino completó una destacada carrera en el circuito callejero de Las Vegas y terminó en la sexta posición con el equipo Alpine. Con este resultado sumó ocho puntos e igualó su mejor marca en la categoría."
+      ],
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/franco-colapinto-termino-6-en-el-gp-de-las-vegas/"
         },
         {
           "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/olimpo-vencio-a-tiro-federal-y-se-consagro-campeon-del-clausura-del-promocional/"
+          "url": "https://bvcnoticias.com.ar/2026/11/colapinto-tuvo-una-gran-carrera-en-las-vegas-y-termino-sexto-en-la-formula-1/"
+        },
+        {
+          "medio": "La Nación",
+          "url": "https://www.lanacion.com.ar/deportes/la-espectacular-maniobra-de-colapinto-para-pasar-a-los-dos-mclaren-juntos-en-el-gran-premio-de-las-nid22112026/"
         }
       ]
     }
