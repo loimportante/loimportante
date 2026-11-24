@@ -1,102 +1,94 @@
 {
-  "fecha": "Lunes 23 de noviembre de 2026",
-  "actualizado": "19:28",
+  "fecha": "Martes 24 de noviembre de 2026",
+  "actualizado": "20:02",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Bahía Blanca",
-      "titulo": "Comienza a cobrarse el estacionamiento en el Aeropuerto y en la Terminal",
+      "categoria": "Economía",
+      "titulo": "El INDEC confirmó que la economía argentina entró en recesión técnica",
       "resumen": [
-        "A partir de este martes entra en vigencia el sistema medido y pago en las playas de estacionamiento de la Terminal de Ómnibus y del Aeropuerto Comandante Espora. Los primeros 15 minutos serán sin costo y se dispondrá de distintos canales de pago."
+        "El Estimador Mensual de la Actividad Económica registró una baja en el tercer trimestre y acumuló dos trimestres seguidos en retroceso, configurando una recesión técnica. Aunque en septiembre hubo un repunte del 1,1%, no alcanzó para revertir el balance trimestral negativo."
       ],
       "fuentes": [
         {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/desde-este-martes-estacionar-en-el-aeropuerto-y-la-terminal-de-omnibus-sera-pago-cuanto-costara/"
-        },
-        {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-23-16-27-0-obras-y-estacionamiento-medido-en-el-aeropuerto-y-la-terminal"
+          "url": "https://www.lanueva.com/nota/2026-11-24-15-20-0-la-economia-volvio-a-caer-en-el-tercer-trimestre-y-el-indec-confirmo-que-el-pais-entro-en-recesion-tecnica"
         },
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/23/el-aeropuerto-y-la-terminal-tendran-estacionamiento-medido-cuales-seran-los-valores-n532238/"
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/la-economia-entro-recesion-tecnica-sumo-dos-trimestres-seguidos-caida-pese-crecer-11-mensual-septiembre-n6348824"
+        },
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/la-economia-de-argentina-entro-en-recesion-tecnica/"
         }
       ]
     },
     {
       "categoria": "Bahía Blanca",
-      "titulo": "Licitan una millonaria obra de desagües para ocho barrios bahienses",
+      "titulo": "Miércoles sin clases en Bahía Blanca por una jornada de protesta de Suteba",
       "resumen": [
-        "El Municipio anunció la licitación de obras hidráulicas por 7.000 millones de pesos destinadas a 242 hectáreas del sector noreste de la ciudad. El proyecto busca optimizar el escurrimiento tras las complicaciones sufridas en la inundación de marzo."
+        "El gremio docente local convocó a medidas de fuerza con actividades en la Plaza Rivadavia y en Ingeniero White. Con esta protesta, los establecimientos educativos de la ciudad alcanzarán un total de 32 jornadas sin actividad escolar durante el ciclo lectivo."
       ],
       "fuentes": [
         {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-24-18-52-0-miercoles-sin-escuelas-el-suteba-bahiense-realizara-protestas-en-ingeniero-white-y-plaza-rivadavia"
+        }
+      ]
+    },
+    {
+      "categoria": "Bahía Blanca",
+      "titulo": "Kicillof llega a la ciudad para anunciar obras en el canal del Puerto",
+      "resumen": [
+        "El gobernador bonaerense encabezará una actividad institucional junto al intendente Federico Susbielles y directivos del consorcio portuario. El anuncio principal estará centrado en la profundización del canal de acceso al puerto bahiense."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-24-19-36-0-kicillof-desembarca-en-bahia-con-anuncios-que-apuntan-al-futuro-del-puerto"
+        },
+        {
           "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/bahia-blanca-anuncian-una-obra-de-7-000-millones-para-mejorar-los-desagues-en-ocho-barrios/"
+          "url": "https://bvcnoticias.com.ar/2026/11/kicillof-llega-a-bahia-blanca-con-un-anuncio-sobre-la-profundizacion-del-canal-de-acceso-al-puerto/"
         },
         {
           "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/el-municipio-saca-a-licitacion-una-obra-hidraulica-que-beneficiara-a-los-barrios-mas-afectados-por-la-inundacion-del-7-de-marzo/"
+          "url": "https://frenteacano.com.ar/puerto-al-final-tambien-va-la-profundizacion/"
         }
       ]
     },
     {
-      "categoria": "Salud",
-      "titulo": "Detectaron en el país una nueva variante de coronavirus bajo seguimiento internacional",
+      "categoria": "Servicios",
+      "titulo": "Un sector del centro bahiense estará sin luz durante 11 horas por reparaciones",
       "resumen": [
-        "Investigadores identificaron el linaje PJ.2.1 de COVID-19 en tres personas internadas en hospitales bonaerenses. Si bien la Organización Mundial de la Salud mantiene esta variante bajo vigilancia, por el momento no genera cuadros de mayor gravedad."
+        "La empresa distribuidora EDES anunció una interrupción programada del servicio eléctrico en el centro de la ciudad. El corte se extenderá durante once horas para concretar arreglos en una instalación subterránea."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-24-19-26-0-un-sector-del-centro-se-quedara-sin-luz-durante-11-horas-por-una-reparacion-subterranea"
+        }
+      ]
+    },
+    {
+      "categoria": "Política",
+      "titulo": "Sociales de la UBA canceló el homenaje a Mario Santucho tras la controversia",
+      "resumen": [
+        "La Facultad de Ciencias Sociales resolvió suspender el acto previsto tras una sesión virtual convocada por el decanato y luego de que el fiscal Carlos Stornelli presentara una denuncia penal por presunta apología del delito y uso de fondos públicos."
       ],
       "fuentes": [
         {
           "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/sociedad/detectan-una-nueva-variante-de-covid-en-argentina-que-se-sabe-sobre-sus-sintomas-y-su-capacidad-de-nid23112026/"
+          "url": "https://www.lanacion.com.ar/politica/la-facultad-de-ciencias-sociales-de-la-uba-convoco-a-una-reunion-extraordinaria-por-el-homenaje-a-nid24112026/"
         },
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/detectaron-en-argentina-una-nueva-variante-de-covid-19-bajo-vigilancia-de-la-oms/"
-        }
-      ]
-    },
-    {
-      "categoria": "Economía",
-      "titulo": "El turismo del fin de semana largo cerró con menos viajeros y una baja del 30% en el gasto",
-      "resumen": [
-        "Durante el feriado por el Día de la Soberanía viajaron 1,4 millones de personas por la Argentina, lo que representó una disminución interanual del 17,4%. Según CAME, las escapadas fueron más breves y el consumo total retrocedió un 30%."
-      ],
-      "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-23-14-26-0-fin-de-semana-largo-viajaron-menos-argentinos-por-el-pais-y-el-gasto-total-cayo-30"
-        },
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/economia/el-fin-semana-largo-movilizo-332557-millones-pero-cayo-el-gasto-turistico-y-hubo-menos-viajeros-n6348334"
-        },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/23/viajaron-menos-turistas-durante-el-fin-de-semana-largo-y-el-gasto-cayo-mas-del-30-n532228/"
-        }
-      ]
-    },
-    {
-      "categoria": "Sociedad",
-      "titulo": "La Iglesia pidió al Senado acelerar la sanción de la ley contra la ludopatía",
-      "resumen": [
-        "A través de una carta abierta, la Conferencia Episcopal Argentina solicitó a la Cámara alta que sancione el proyecto para evitar que pierda estado parlamentario. La institución advirtió sobre el avance y los efectos de las apuestas en línea entre los menores de edad."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/23/la-iglesia-le-pidio-al-senado-que-apruebe-la-ley-contra-la-ludopatia-n532206/"
+          "url": "https://www.lanueva.com/nota/2026-11-24-18-1-0-stornelli-denuncio-a-las-autoridades-de-sociales-de-la-uba-por-el-homenaje-a-santucho-y-pidio-suspender-el-acto"
         },
         {
           "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/la-iglesia-le-pidio-al-senado-que-apruebe-la-ley-de-ludopatia/"
-        },
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/la-iglesia-reclamo-que-los-senadores-aprueben-con-urgencia-el-proyecto-de-ley-de-prevencion-de-la-ludopatia/"
+          "url": "https://360masnoticias.com/legisladores-bonaerenses-se-cruzaron-por-el-homenaje-a-santucho-en-la-uba/"
         }
       ]
     }
