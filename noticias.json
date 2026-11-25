@@ -1,94 +1,98 @@
 {
-  "fecha": "Martes 24 de noviembre de 2026",
-  "actualizado": "20:02",
+  "fecha": "Miércoles 25 de noviembre de 2026",
+  "actualizado": "19:28",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Economía",
-      "titulo": "El INDEC confirmó que la economía argentina entró en recesión técnica",
-      "resumen": [
-        "El Estimador Mensual de la Actividad Económica registró una baja en el tercer trimestre y acumuló dos trimestres seguidos en retroceso, configurando una recesión técnica. Aunque en septiembre hubo un repunte del 1,1%, no alcanzó para revertir el balance trimestral negativo."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-24-15-20-0-la-economia-volvio-a-caer-en-el-tercer-trimestre-y-el-indec-confirmo-que-el-pais-entro-en-recesion-tecnica"
-        },
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/la-economia-entro-recesion-tecnica-sumo-dos-trimestres-seguidos-caida-pese-crecer-11-mensual-septiembre-n6348824"
-        },
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/la-economia-de-argentina-entro-en-recesion-tecnica/"
-        }
-      ]
-    },
-    {
       "categoria": "Bahía Blanca",
-      "titulo": "Miércoles sin clases en Bahía Blanca por una jornada de protesta de Suteba",
+      "titulo": "Inversión de 200 millones de dólares para profundizar el acceso al puerto local",
       "resumen": [
-        "El gremio docente local convocó a medidas de fuerza con actividades en la Plaza Rivadavia y en Ingeniero White. Con esta protesta, los establecimientos educativos de la ciudad alcanzarán un total de 32 jornadas sin actividad escolar durante el ciclo lectivo."
+        "El gobernador bonaerense Axel Kicillof anunció un acuerdo para financiar obras de dragado y profundización en el canal de acceso a los puertos de Bahía Blanca y Rosales. El proyecto contempla una inversión estimada en 200 millones de dólares para elevar la operatividad portuaria y responder a las demandas productivas y energéticas de Vaca Muerta."
       ],
       "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-24-18-52-0-miercoles-sin-escuelas-el-suteba-bahiense-realizara-protestas-en-ingeniero-white-y-plaza-rivadavia"
-        }
-      ]
-    },
-    {
-      "categoria": "Bahía Blanca",
-      "titulo": "Kicillof llega a la ciudad para anunciar obras en el canal del Puerto",
-      "resumen": [
-        "El gobernador bonaerense encabezará una actividad institucional junto al intendente Federico Susbielles y directivos del consorcio portuario. El anuncio principal estará centrado en la profundización del canal de acceso al puerto bahiense."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-24-19-36-0-kicillof-desembarca-en-bahia-con-anuncios-que-apuntan-al-futuro-del-puerto"
+          "url": "https://www.lanueva.com/nota/2026-11-25-11-14-0-kicillof-anuncio-una-inversion-de-200-millones-de-dolares-para-profundizar-el-canal-de-acceso-al-puerto"
         },
         {
           "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/kicillof-llega-a-bahia-blanca-con-un-anuncio-sobre-la-profundizacion-del-canal-de-acceso-al-puerto/"
+          "url": "https://bvcnoticias.com.ar/2026/11/kicillof-vinculo-la-obra-portuaria-con-el-crecimiento-de-vaca-muerta/"
         },
         {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/puerto-al-final-tambien-va-la-profundizacion/"
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-kicillof-anuncio-una-inversion-de-200-millones-de-dolares-para-profundizar-el-canal-de-acceso-al-puerto/"
+        }
+      ]
+    },
+    {
+      "categoria": "Salud",
+      "titulo": "La Anmat prohibió la producción y venta de medicamentos con rosiglitazona",
+      "resumen": [
+        "La Administración Nacional de Medicamentos, Alimentos y Tecnología Médica dispuso la suspensión en todo el país de la elaboración, comercialización y uso de fármacos que contengan rosiglitazona, indicados para tratar la diabetes. La decisión se tomó luego de evaluar que el principio activo conlleva riesgo cardiovascular para los pacientes."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-25-18-41-0-por-riesgo-cardiovascular-anmat-prohibio-la-elaboracion-venta-y-uso-de-un-medicamento-para-la-diabetes"
         }
       ]
     },
     {
       "categoria": "Servicios",
-      "titulo": "Un sector del centro bahiense estará sin luz durante 11 horas por reparaciones",
+      "titulo": "Los bancos aplicarán el horario de verano y atenderán de 8 a 13 a partir del lunes",
       "resumen": [
-        "La empresa distribuidora EDES anunció una interrupción programada del servicio eléctrico en el centro de la ciudad. El corte se extenderá durante once horas para concretar arreglos en una instalación subterránea."
+        "A partir del lunes 30 de noviembre, las entidades bancarias de Bahía Blanca y otros 107 distritos bonaerenses modificarán su esquema de atención por la temporada estival. Las sucursales abrirán sus puertas entre las 8 y las 13. La medida rige por disposición del Gobierno de la provincia de Buenos Aires y se mantendrá hasta el 23 de marzo de 2027."
       ],
       "fuentes": [
         {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/25/los-bancos-cambian-su-horario-desde-el-lunes-como-atenderan-en-bahia-y-la-region-n532606/"
+        },
+        {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-24-19-26-0-un-sector-del-centro-se-quedara-sin-luz-durante-11-horas-por-una-reparacion-subterranea"
+          "url": "https://www.lanueva.com/nota/2026-11-25-11-42-0-verano-los-bancos-cambiaran-su-horario-de-atencion-a-partir-del-lunes"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/cambia-el-horario-de-atencion-en-los-bancos-de-108-municipios-bonaerenses/"
         }
       ]
     },
     {
-      "categoria": "Política",
-      "titulo": "Sociales de la UBA canceló el homenaje a Mario Santucho tras la controversia",
+      "categoria": "Economía",
+      "titulo": "El Gobierno pidió activar el swap con China para cubrir los vencimientos de enero",
       "resumen": [
-        "La Facultad de Ciencias Sociales resolvió suspender el acto previsto tras una sesión virtual convocada por el decanato y luego de que el fiscal Carlos Stornelli presentara una denuncia penal por presunta apología del delito y uso de fondos públicos."
+        "El Ministerio de Economía confirmó que solicitó la activación de 5.000 millones de dólares del swap de monedas con China para hacer frente a obligaciones de deuda que vencen a principios de año. La medida busca llevar certidumbre financiera a los mercados en un contexto de presión sobre el dólar mayorista, que encadenó siete subas seguidas y cruzó los 1.600 pesos."
       ],
       "fuentes": [
         {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/la-facultad-de-ciencias-sociales-de-la-uba-convoco-a-una-reunion-extraordinaria-por-el-homenaje-a-nid24112026/"
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/finanzas/luis-caputo-revelo-que-pidio-china-usar-una-parte-del-swap-y-detallo-como-pagara-la-deuda-enero-n6349364"
         },
+        {
+          "medio": "El Cronista",
+          "url": "https://www.cronista.com/economia-politica/daza-revelo-que-el-gobierno-pidio-activar-el-swap-chino-por-us-5000-millones/"
+        }
+      ]
+    },
+    {
+      "categoria": "Servicios",
+      "titulo": "ABSA programó reparaciones y afectará el suministro de agua en varios sectores",
+      "resumen": [
+        "La prestataria ABSA anunció trabajos sobre la red para este jueves que generarán bajas de presión y cortes en el servicio. En Bahía Blanca se trabajará sobre cañerías en zonas de calle Vieytes y Molina. En paralelo, tareas en un conducto de la ruta 252 dejarán sin suministro a Ingeniero White, los barrios Boulevard y Saladero, el consorcio portuario y el Polo Petroquímico."
+      ],
+      "fuentes": [
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-24-18-1-0-stornelli-denuncio-a-las-autoridades-de-sociales-de-la-uba-por-el-homenaje-a-santucho-y-pidio-suspender-el-acto"
+          "url": "https://www.lanueva.com/nota/2026-11-25-12-10-0-trabajos-de-absa-afectaran-el-servicio-de-agua-en-un-sector-de-la-ciudad"
         },
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/legisladores-bonaerenses-se-cruzaron-por-el-homenaje-a-santucho-en-la-uba/"
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/24/absa-realizara-trabajos-sobre-ruta-252-este-jueves-26-de-noviembre/"
+        },
+        {
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/manana-habra-cortes-de-agua-en-dos-sectores/"
         }
       ]
     }
