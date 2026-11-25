@@ -1,13 +1,13 @@
 {
   "fecha": "Miércoles 25 de noviembre de 2026",
-  "actualizado": "19:28",
+  "actualizado": "20:02",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Bahía Blanca",
-      "titulo": "Inversión de 200 millones de dólares para profundizar el acceso al puerto local",
+      "titulo": "Anuncian una inversión de 200 millones de dólares para profundizar el canal portuario",
       "resumen": [
-        "El gobernador bonaerense Axel Kicillof anunció un acuerdo para financiar obras de dragado y profundización en el canal de acceso a los puertos de Bahía Blanca y Rosales. El proyecto contempla una inversión estimada en 200 millones de dólares para elevar la operatividad portuaria y responder a las demandas productivas y energéticas de Vaca Muerta."
+        "El gobernador bonaerense formalizó las obras de dragado y profundización del canal principal de acceso a los puertos de Bahía Blanca y Coronel Rosales, con un desembolso proyectado de 200 millones de dólares para optimizar la operatividad y vincularla a la producción energética."
       ],
       "fuentes": [
         {
@@ -17,18 +17,37 @@
         {
           "medio": "BVC Noticias",
           "url": "https://bvcnoticias.com.ar/2026/11/kicillof-vinculo-la-obra-portuaria-con-el-crecimiento-de-vaca-muerta/"
+        }
+      ]
+    },
+    {
+      "categoria": "Servicios",
+      "titulo": "Los bancos cambian su horario de atención por el verano a partir del lunes",
+      "resumen": [
+        "Desde el 30 de noviembre y hasta el 23 de marzo de 2027, las entidades bancarias de Bahía Blanca y otros 107 distritos bonaerenses atenderán de 8 a 13.",
+        "La medida provincial busca evitar la exposición a las altas temperaturas estivales durante los trámites presenciales."
+      ],
+      "fuentes": [
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-25-11-42-0-verano-los-bancos-cambiaran-su-horario-de-atencion-a-partir-del-lunes"
         },
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-kicillof-anuncio-una-inversion-de-200-millones-de-dolares-para-profundizar-el-canal-de-acceso-al-puerto/"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/cambia-el-horario-de-atencion-en-los-bancos-de-108-municipios-bonaerenses/"
+        },
+        {
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/25/los-bancos-cambian-su-horario-desde-el-lunes-como-atenderan-en-bahia-y-la-region-n532606/"
         }
       ]
     },
     {
       "categoria": "Salud",
-      "titulo": "La Anmat prohibió la producción y venta de medicamentos con rosiglitazona",
+      "titulo": "La Anmat prohibió la venta y el uso de un fármaco para la diabetes",
       "resumen": [
-        "La Administración Nacional de Medicamentos, Alimentos y Tecnología Médica dispuso la suspensión en todo el país de la elaboración, comercialización y uso de fármacos que contengan rosiglitazona, indicados para tratar la diabetes. La decisión se tomó luego de evaluar que el principio activo conlleva riesgo cardiovascular para los pacientes."
+        "La Administración Nacional de Medicamentos, Alimentos y Tecnología Médica dispuso frenar la elaboración, comercialización y administración de los tratamientos que contienen rosiglitazona.",
+        "La decisión oficial responde a la detección de riesgos cardiovasculares asociados a la sustancia."
       ],
       "fuentes": [
         {
@@ -38,31 +57,10 @@
       ]
     },
     {
-      "categoria": "Servicios",
-      "titulo": "Los bancos aplicarán el horario de verano y atenderán de 8 a 13 a partir del lunes",
-      "resumen": [
-        "A partir del lunes 30 de noviembre, las entidades bancarias de Bahía Blanca y otros 107 distritos bonaerenses modificarán su esquema de atención por la temporada estival. Las sucursales abrirán sus puertas entre las 8 y las 13. La medida rige por disposición del Gobierno de la provincia de Buenos Aires y se mantendrá hasta el 23 de marzo de 2027."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/25/los-bancos-cambian-su-horario-desde-el-lunes-como-atenderan-en-bahia-y-la-region-n532606/"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-25-11-42-0-verano-los-bancos-cambiaran-su-horario-de-atencion-a-partir-del-lunes"
-        },
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/cambia-el-horario-de-atencion-en-los-bancos-de-108-municipios-bonaerenses/"
-        }
-      ]
-    },
-    {
       "categoria": "Economía",
-      "titulo": "El Gobierno pidió activar el swap con China para cubrir los vencimientos de enero",
+      "titulo": "El Gobierno activará 5.000 millones de dólares del swap chino para cubrir vencimientos",
       "resumen": [
-        "El Ministerio de Economía confirmó que solicitó la activación de 5.000 millones de dólares del swap de monedas con China para hacer frente a obligaciones de deuda que vencen a principios de año. La medida busca llevar certidumbre financiera a los mercados en un contexto de presión sobre el dólar mayorista, que encadenó siete subas seguidas y cruzó los 1.600 pesos."
+        "El Ministerio de Economía confirmó que solicitó el uso de fondos del tramo acordado con China para hacer frente a las obligaciones de deuda de enero, en un contexto de presión sobre las cotizaciones financieras del dólar y de suba del riesgo país."
       ],
       "fuentes": [
         {
@@ -76,23 +74,19 @@
       ]
     },
     {
-      "categoria": "Servicios",
-      "titulo": "ABSA programó reparaciones y afectará el suministro de agua en varios sectores",
+      "categoria": "Sociedad",
+      "titulo": "Universidades nacionales advierten que no podrán operar en 2027 sin fondos suficientes",
       "resumen": [
-        "La prestataria ABSA anunció trabajos sobre la red para este jueves que generarán bajas de presión y cortes en el servicio. En Bahía Blanca se trabajará sobre cañerías en zonas de calle Vieytes y Molina. En paralelo, tareas en un conducto de la ruta 252 dejarán sin suministro a Ingeniero White, los barrios Boulevard y Saladero, el consorcio portuario y el Polo Petroquímico."
+        "A través de un documento enviado al Congreso, el Consejo Interuniversitario Nacional alertó que las casas de altos estudios carecerán de recursos para sostener su actividad regular el próximo ciclo lectivo si los legisladores no modifican las partidas asignadas en el debate presupuestario."
       ],
       "fuentes": [
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-25-12-10-0-trabajos-de-absa-afectaran-el-servicio-de-agua-en-un-sector-de-la-ciudad"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/25/las-universidades-advierten-que-no-podran-funcionar-en-2027-si-el-congreso-no-modifica-el-presupuesto-n532604/"
         },
         {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/24/absa-realizara-trabajos-sobre-ruta-252-este-jueves-26-de-noviembre/"
-        },
-        {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/manana-habra-cortes-de-agua-en-dos-sectores/"
+          "medio": "De la Bahía Noticias",
+          "url": "https://www.delabahia.com.ar/las-universidades-nacionales-advirtieron-que-podrian-no-funcionar-en-2027/"
         }
       ]
     }
