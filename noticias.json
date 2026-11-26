@@ -1,34 +1,13 @@
 {
   "fecha": "Jueves 26 de noviembre de 2026",
-  "actualizado": "19:28",
+  "actualizado": "20:03",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Economía",
-      "titulo": "Diputados convirtió en ley la reforma de la Carta Orgánica del Banco Central",
-      "resumen": [
-        "La Cámara baja aprobó la iniciativa con 141 votos a favor y 99 abstenciones tras una extensa sesión. La norma introduce cambios profundos en el funcionamiento institucional y las facultades de la autoridad monetaria nacional."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-26-14-49-0-milei-celebro-la-sancion-de-la-reforma-del-banco-central-se-termino-con-mas-de-90-anos-de-estafa"
-        },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/26/diputados-convirtio-en-ley-la-reforma-del-banco-central-n532796/"
-        },
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/politica/el-gobierno-busca-revancha-diputados-e-intentara-aprobar-el-presupuesto-2027-nuevos-cambios-n6349417"
-        }
-      ]
-    },
-    {
       "categoria": "Política",
-      "titulo": "El Senado aprobó suspender las PASO para 2027 e incorpora Ficha Limpia",
+      "titulo": "El Senado aprobó la suspensión de las PASO para 2027 y el proyecto pasa a Diputados",
       "resumen": [
-        "Con 43 votos positivos y 29 negativos, la Cámara alta dio media sanción al proyecto del oficialismo. La iniciativa suspende las elecciones primarias nacionales de 2027 e incluye Ficha Limpia, por lo que ahora deberá ser debatida en Diputados."
+        "La Cámara alta dio media sanción a la reforma electoral impulsada por el oficialismo con 43 votos a favor y 29 en contra. El proyecto contempla suspender las elecciones primarias presidenciales de 2027 e incorporar la Ficha Limpia, y ahora deberá ser tratado en la Cámara de Diputados para convertirse en ley."
       ],
       "fuentes": [
         {
@@ -36,8 +15,8 @@
           "url": "https://www.lanacion.com.ar/politica/es-oficial-el-senado-aprobo-la-suspension-de-las-paso-para-las-elecciones-de-argentina-2027-nid26112026/"
         },
         {
-          "medio": "Perfil",
-          "url": "https://www.perfil.com/politica/el-senado-aprobo-suspender-las-paso-en-2027-y-ficha-limpia-la-reforma-electoral-del-gobierno-pasa-a-diputados-aakby7n1OnYv"
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/politica/el-senado-vuelve-sesionar-aprobar-y-girar-diputados-la-eliminacion-las-paso-n6349308"
         },
         {
           "medio": "La Brújula 24",
@@ -46,19 +25,40 @@
       ]
     },
     {
-      "categoria": "Sociedad",
-      "titulo": "La Justicia frenó los despidos en IOSFA y ordenó reincorporar al personal",
+      "categoria": "Economía",
+      "titulo": "Diputados convirtió en ley la reforma de la Carta Orgánica del Banco Central",
       "resumen": [
-        "El Juzgado Federal 2 de Azul hizo lugar a una medida cautelar por seis meses solicitada por ATE. La resolución alcanza a unos 1.800 empleados de la obra social militar en todo el país, parte de los cuales prestan funciones en Bahía Blanca y Punta Alta."
+        "La Cámara de Diputados sancionó en forma definitiva la iniciativa oficial que modifica la Carta Orgánica de la entidad monetaria. El proyecto obtuvo 141 votos a favor y 99 abstenciones en el marco de una extensa sesión legislativa."
       ],
       "fuentes": [
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-26-12-52-0-la-justicia-freno-los-despidos-en-iosfa-y-ordeno-restituir-a-los-empleados"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/26/diputados-convirtio-en-ley-la-reforma-del-banco-central-n532796/"
         },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-26-14-49-0-milei-celebro-la-sancion-de-la-reforma-del-banco-central-se-termino-con-mas-de-90-anos-de-estafa"
+        },
+        {
+          "medio": "Ámbito",
+          "url": "https://www.ambito.com/politica/el-gobierno-busca-revancha-diputados-e-intentara-aprobar-el-presupuesto-2027-nuevos-cambios-n6349417"
+        }
+      ]
+    },
+    {
+      "categoria": "Sociedad",
+      "titulo": "La Justicia frenó los despidos en IOSFA y ordenó reincorporar al personal",
+      "resumen": [
+        "El Juzgado Federal 2 de Azul concedió una medida cautelar por seis meses presentada por el gremio ATE. La resolución tiene alcance en todo el país y beneficia a unos 1.800 trabajadores cesanteados, entre los que se encuentra personal de Bahía Blanca y de Punta Alta."
+      ],
+      "fuentes": [
         {
           "medio": "La Brújula 24",
           "url": "https://www.labrujula24.com/notas/2026/11/26/la-justicia-freno-los-despidos-del-iosfa-n532811/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-26-12-52-0-la-justicia-freno-los-despidos-en-iosfa-y-ordeno-restituir-a-los-empleados"
         },
         {
           "medio": "De la Bahía Noticias",
@@ -68,9 +68,9 @@
     },
     {
       "categoria": "Servicios",
-      "titulo": "Ya se pueden pagar multas y tramitar el libre deuda online a través de MiBahía",
+      "titulo": "MiBahía sumó la opción de pagar multas y tramitar el libre deuda de forma virtual",
       "resumen": [
-        "La plataforma municipal sumó nuevas herramientas digitales en su web y aplicación móvil. A partir de ahora, los usuarios pueden consultar y saldar infracciones de tránsito, además de solicitar el Certificado de Libre Deuda sin ir al Tribunal de Faltas."
+        "La plataforma municipal habilitó nuevas funciones tanto en su versión web como en la aplicación móvil. Los usuarios ahora pueden consultar y saldar infracciones de tránsito o faltas comunales, además de obtener el Certificado de Libre Deuda sin ir al Tribunal de Faltas."
       ],
       "fuentes": [
         {
@@ -89,9 +89,9 @@
     },
     {
       "categoria": "Clima",
-      "titulo": "Pronostican máximas de hasta 37 grados y posibles tormentas en la ciudad",
+      "titulo": "Prevén días de calor agobiante con marcas de hasta 37 grados en Bahía Blanca",
       "resumen": [
-        "El termómetro continuará en ascenso hacia el fin de semana y anticipan una jornada sofocante con marcas de hasta 37 grados en Bahía Blanca. Especialistas recomiendan adoptar pautas de hidratación y cuidado corporal ante el calor extremo y probables lluvias."
+        "Las previsiones meteorológicas indican un paulatino incremento térmico y posibilidad de tormentas aisladas, con el sábado perfilado como la jornada más sofocante de la semana. Recomiendan tomar precauciones para cuidar la salud ante la seguidilla de temperaturas elevadas."
       ],
       "fuentes": [
         {
