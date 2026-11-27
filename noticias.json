@@ -1,106 +1,98 @@
 {
-  "fecha": "Jueves 26 de noviembre de 2026",
-  "actualizado": "20:03",
+  "fecha": "Viernes 27 de noviembre de 2026",
+  "actualizado": "19:28",
   "cotizaciones": [],
   "notas": [
     {
       "categoria": "Política",
-      "titulo": "El Senado aprobó la suspensión de las PASO para 2027 y el proyecto pasa a Diputados",
+      "titulo": "Media sanción al Presupuesto 2027: el debate por fondos universitarios pasa al Senado",
       "resumen": [
-        "La Cámara alta dio media sanción a la reforma electoral impulsada por el oficialismo con 43 votos a favor y 29 en contra. El proyecto contempla suspender las elecciones primarias presidenciales de 2027 e incorporar la Ficha Limpia, y ahora deberá ser tratado en la Cámara de Diputados para convertirse en ley."
+        "La Cámara de Diputados aprobó el proyecto de Presupuesto 2027 y la suspensión de las PASO, aunque la oposición logró incorporar partidas para las universidades nacionales.",
+        "De cara al tratamiento en el Senado durante sesiones extraordinarias, el oficialismo buscará modificar ese artículo para evitar un veto del Poder Ejecutivo."
       ],
       "fuentes": [
         {
-          "medio": "La Nación",
-          "url": "https://www.lanacion.com.ar/politica/es-oficial-el-senado-aprobo-la-suspension-de-las-paso-para-las-elecciones-de-argentina-2027-nid26112026/"
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/el-gobierno-consiguio-la-media-sancion-del-presupuesto-2027-en-diputados-pero-la-oposicion-obtuvo-fondos-para-las-universidades/"
         },
         {
           "medio": "Ámbito",
-          "url": "https://www.ambito.com/politica/el-senado-vuelve-sesionar-aprobar-y-girar-diputados-la-eliminacion-las-paso-n6349308"
-        },
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/26/el-senado-aprobo-la-reforma-electoral-para-suspender-las-paso-de-2027-n532814/"
-        }
-      ]
-    },
-    {
-      "categoria": "Economía",
-      "titulo": "Diputados convirtió en ley la reforma de la Carta Orgánica del Banco Central",
-      "resumen": [
-        "La Cámara de Diputados sancionó en forma definitiva la iniciativa oficial que modifica la Carta Orgánica de la entidad monetaria. El proyecto obtuvo 141 votos a favor y 99 abstenciones en el marco de una extensa sesión legislativa."
-      ],
-      "fuentes": [
-        {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/26/diputados-convirtio-en-ley-la-reforma-del-banco-central-n532796/"
+          "url": "https://www.ambito.com/politica/va-el-plan-b-el-gobierno-intentara-revertir-el-aumento-universidades-el-presupuesto-2027-n6350203"
         },
         {
           "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-26-14-49-0-milei-celebro-la-sancion-de-la-reforma-del-banco-central-se-termino-con-mas-de-90-anos-de-estafa"
-        },
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/politica/el-gobierno-busca-revancha-diputados-e-intentara-aprobar-el-presupuesto-2027-nuevos-cambios-n6349417"
+          "url": "https://www.lanueva.com/nota/2026-11-27-13-8-0-el-presupuesto-2027-podria-volver-a-diputados-por-cambios-en-el-financiamiento-universitario"
         }
       ]
     },
     {
       "categoria": "Sociedad",
-      "titulo": "La Justicia frenó los despidos en IOSFA y ordenó reincorporar al personal",
+      "titulo": "El Senado sancionó por unanimidad la ley para prevenir la ludopatía infantil",
       "resumen": [
-        "El Juzgado Federal 2 de Azul concedió una medida cautelar por seis meses presentada por el gremio ATE. La resolución tiene alcance en todo el país y beneficia a unos 1.800 trabajadores cesanteados, entre los que se encuentra personal de Bahía Blanca y de Punta Alta."
+        "La Cámara de Senadores convirtió en ley un proyecto para combatir y prevenir la ludopatía en niños y adolescentes.",
+        "La normativa, aprobada de forma unánime, prohíbe de manera expresa el acceso de menores de edad a plataformas y sitios de apuestas virtuales."
       ],
       "fuentes": [
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/26/la-justicia-freno-los-despidos-del-iosfa-n532811/"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/el-senado-aprobo-por-unanimidad-la-ley-contra-la-ludopatia-infantil/"
         },
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-26-12-52-0-la-justicia-freno-los-despidos-en-iosfa-y-ordeno-restituir-a-los-empleados"
-        },
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/ate-trabajadores-de-iosfa-convocan-a-un-paro-y-movilizacion-para-este-viernes/"
-        }
-      ]
-    },
-    {
-      "categoria": "Servicios",
-      "titulo": "MiBahía sumó la opción de pagar multas y tramitar el libre deuda de forma virtual",
-      "resumen": [
-        "La plataforma municipal habilitó nuevas funciones tanto en su versión web como en la aplicación móvil. Los usuarios ahora pueden consultar y saldar infracciones de tránsito o faltas comunales, además de obtener el Certificado de Libre Deuda sin ir al Tribunal de Faltas."
-      ],
-      "fuentes": [
-        {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-mibahia-suma-servicios-ya-podes-pagar-tus-multas-y-solicitar-el-certificado-de-libre-deuda-de-manera-online/"
-        },
-        {
-          "medio": "Ingeniero White",
-          "url": "https://www.ingenierowhite.com/2026/11/26/mibahia-suma-servicios-ya-podes-pagar-tus-multas-y-solicitar-el-certificado-de-libre-deuda-de-manera-online/"
-        },
-        {
-          "medio": "De la Bahía Noticias",
-          "url": "https://www.delabahia.com.ar/mibahia-se-podra-pagar-multas-y-solicitar-el-certificado-de-libre-deuda-de-manera-online/"
+          "medio": "Perfil",
+          "url": "https://www.perfil.com/economia/acde-celebro-la-sancion-de-la-ley-contra-la-ludopatia-y-destaco-el-dialogo-entre-el-congreso-y-la-sociedad-civil-amJMh5x749Oa"
         }
       ]
     },
     {
       "categoria": "Clima",
-      "titulo": "Prevén días de calor agobiante con marcas de hasta 37 grados en Bahía Blanca",
+      "titulo": "Bahía Blanca fue la ciudad más calurosa del país y rige alerta por tormentas",
       "resumen": [
-        "Las previsiones meteorológicas indican un paulatino incremento térmico y posibilidad de tormentas aisladas, con el sábado perfilado como la jornada más sofocante de la semana. Recomiendan tomar precauciones para cuidar la salud ante la seguidilla de temperaturas elevadas."
+        "La ciudad encabezó los registros de temperatura nacional con marcas superiores a los 34 grados. Para el fin de semana se esperan máximas de hasta 37 grados y rige un alerta amarillo del Servicio Meteorológico por tormentas durante las tardes y noches del sábado y domingo."
       ],
       "fuentes": [
         {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-26-7-38-0-con-maximas-de-37-grados-a-la-vista-como-cuidarse-del-calor-en-bahia"
+          "medio": "La Brújula 24",
+          "url": "https://www.labrujula24.com/notas/2026/11/27/se-viene-un-fin-de-semana-con-calor-y-lluvia-hay-alerta-amarilla-por-tormentas-n532980/"
         },
         {
-          "medio": "Frente a Cano",
-          "url": "https://frenteacano.com.ar/se-espera-mas-calor-y-tormentas-aisladas/"
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-27-14-32-0-bahia-blanca-lidero-el-ranking-de-las-ciudades-mas-calurosas-del-pais-con-34-grados"
+        }
+      ]
+    },
+    {
+      "categoria": "Servicios",
+      "titulo": "Los bancos atenderán en horario de verano a partir del próximo lunes",
+      "resumen": [
+        "Desde el lunes 30 de noviembre comenzará a regir el horario estival de atención al público en las sucursales bancarias de la provincia de Buenos Aires.",
+        "Las entidades abrirán las puertas de 8 a 13 horas para la atención presencial de trámites y gestiones de los usuarios."
+      ],
+      "fuentes": [
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/desde-el-lunes-los-bancos-atenderan-de-8-a-13-que-dijo-la-bancaria-sobre-el-horario-de-verano-y-los-desafios-del-sector/"
+        }
+      ]
+    },
+    {
+      "categoria": "Bahía Blanca",
+      "titulo": "Avanza la limpieza en el ex Centro de Compras tras dos décadas de abandono",
+      "resumen": [
+        "El Municipio completó la primera semana de tareas de saneamiento en el inmueble ubicado en Brown y Colón, abandonado hace 20 años.",
+        "Los trabajos permitieron limpiar la planta baja y el perímetro exterior, desde donde se retiraron cinco bateas con 30 toneladas de excremento antes de avanzar a los pisos superiores."
+      ],
+      "fuentes": [
+        {
+          "medio": "360 Más Noticias",
+          "url": "https://360masnoticias.com/bahia-blanca-el-municipio-avanza-con-la-limpieza-integral-del-ex-centro-de-compras/"
+        },
+        {
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/el-municipio-avanza-con-la-limpieza-integral-del-ex-centro-de-compras/"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/27/el-municipio-avanza-con-la-limpieza-integral-del-ex-centro-de-compras/"
         }
       ]
     }
