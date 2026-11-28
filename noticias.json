@@ -1,71 +1,47 @@
 {
-  "fecha": "Viernes 27 de noviembre de 2026",
-  "actualizado": "19:28",
+  "fecha": "Sábado 28 de noviembre de 2026",
+  "actualizado": "08:07",
   "cotizaciones": [],
   "notas": [
     {
-      "categoria": "Política",
-      "titulo": "Media sanción al Presupuesto 2027: el debate por fondos universitarios pasa al Senado",
+      "categoria": "Economía",
+      "titulo": "Habrá nuevos aumentos en las tarifas de luz y gas a partir del 1 de diciembre",
       "resumen": [
-        "La Cámara de Diputados aprobó el proyecto de Presupuesto 2027 y la suspensión de las PASO, aunque la oposición logró incorporar partidas para las universidades nacionales.",
-        "De cara al tratamiento en el Senado durante sesiones extraordinarias, el oficialismo buscará modificar ese artículo para evitar un veto del Poder Ejecutivo."
+        "Desde el inicio de diciembre comenzará a regir un nuevo incremento en el consumo de energía eléctrica y gas natural, lo que generará un impacto directo en las boletas domiciliarias y comerciales."
       ],
       "fuentes": [
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/el-gobierno-consiguio-la-media-sancion-del-presupuesto-2027-en-diputados-pero-la-oposicion-obtuvo-fondos-para-las-universidades/"
-        },
-        {
-          "medio": "Ámbito",
-          "url": "https://www.ambito.com/politica/va-el-plan-b-el-gobierno-intentara-revertir-el-aumento-universidades-el-presupuesto-2027-n6350203"
-        },
-        {
-          "medio": "La Nueva",
-          "url": "https://www.lanueva.com/nota/2026-11-27-13-8-0-el-presupuesto-2027-podria-volver-a-diputados-por-cambios-en-el-financiamiento-universitario"
-        }
-      ]
-    },
-    {
-      "categoria": "Sociedad",
-      "titulo": "El Senado sancionó por unanimidad la ley para prevenir la ludopatía infantil",
-      "resumen": [
-        "La Cámara de Senadores convirtió en ley un proyecto para combatir y prevenir la ludopatía en niños y adolescentes.",
-        "La normativa, aprobada de forma unánime, prohíbe de manera expresa el acceso de menores de edad a plataformas y sitios de apuestas virtuales."
-      ],
-      "fuentes": [
-        {
-          "medio": "BVC Noticias",
-          "url": "https://bvcnoticias.com.ar/2026/11/el-senado-aprobo-por-unanimidad-la-ley-contra-la-ludopatia-infantil/"
-        },
-        {
-          "medio": "Perfil",
-          "url": "https://www.perfil.com/economia/acde-celebro-la-sancion-de-la-ley-contra-la-ludopatia-y-destaco-el-dialogo-entre-el-congreso-y-la-sociedad-civil-amJMh5x749Oa"
+          "medio": "Frente a Cano",
+          "url": "https://frenteacano.com.ar/desde-el-1-de-diciembre-otro-aumento-al-consumo-de-luz-y-gas/"
         }
       ]
     },
     {
       "categoria": "Clima",
-      "titulo": "Bahía Blanca fue la ciudad más calurosa del país y rige alerta por tormentas",
+      "titulo": "Rige un alerta amarillo por calor sofocante y tormentas en Bahía Blanca",
       "resumen": [
-        "La ciudad encabezó los registros de temperatura nacional con marcas superiores a los 34 grados. Para el fin de semana se esperan máximas de hasta 37 grados y rige un alerta amarillo del Servicio Meteorológico por tormentas durante las tardes y noches del sábado y domingo."
+        "Bahía Blanca encabezó los registros nacionales tras alcanzar los 34 grados, con pronósticos que anticipan picos de hasta 37. El Servicio Meteorológico emitió un alerta amarillo ante la formación de tormentas aisladas hacia la tarde."
       ],
       "fuentes": [
         {
-          "medio": "La Brújula 24",
-          "url": "https://www.labrujula24.com/notas/2026/11/27/se-viene-un-fin-de-semana-con-calor-y-lluvia-hay-alerta-amarilla-por-tormentas-n532980/"
+          "medio": "BVC Noticias",
+          "url": "https://bvcnoticias.com.ar/2026/11/sabado-de-alerta-amarilla-en-la-ciudad/"
         },
         {
           "medio": "La Nueva",
           "url": "https://www.lanueva.com/nota/2026-11-27-14-32-0-bahia-blanca-lidero-el-ranking-de-las-ciudades-mas-calurosas-del-pais-con-34-grados"
+        },
+        {
+          "medio": "Ingeniero White",
+          "url": "https://www.ingenierowhite.com/2026/11/27/panorama-meteorologico-para-bahia-blanca-por-alerta-amarilla/"
         }
       ]
     },
     {
       "categoria": "Servicios",
-      "titulo": "Los bancos atenderán en horario de verano a partir del próximo lunes",
+      "titulo": "Los bancos bonaerenses atenderán de 8 a 13 por el inicio del horario de verano",
       "resumen": [
-        "Desde el lunes 30 de noviembre comenzará a regir el horario estival de atención al público en las sucursales bancarias de la provincia de Buenos Aires.",
-        "Las entidades abrirán las puertas de 8 a 13 horas para la atención presencial de trámites y gestiones de los usuarios."
+        "A partir del lunes 30 de noviembre entrará en vigencia el esquema estival de atención al público en las entidades bancarias de la provincia de Buenos Aires. La atención se adelantará a la franja de 8 a 13 horas."
       ],
       "fuentes": [
         {
@@ -75,17 +51,25 @@
       ]
     },
     {
-      "categoria": "Bahía Blanca",
-      "titulo": "Avanza la limpieza en el ex Centro de Compras tras dos décadas de abandono",
+      "categoria": "Salud",
+      "titulo": "El Hospital Garrahan redujo un 38% la atención tras perder doscientos profesionales",
       "resumen": [
-        "El Municipio completó la primera semana de tareas de saneamiento en el inmueble ubicado en Brown y Colón, abandonado hace 20 años.",
-        "Los trabajos permitieron limpiar la planta baja y el perímetro exterior, desde donde se retiraron cinco bateas con 30 toneladas de excremento antes de avanzar a los pisos superiores."
+        "Las consultas en consultorios externos del centro pediátrico cayeron un 38% respecto del año pasado, en un contexto en el que el establecimiento cuenta con doscientos trabajadores de la salud menos que en 2024."
       ],
       "fuentes": [
         {
-          "medio": "360 Más Noticias",
-          "url": "https://360masnoticias.com/bahia-blanca-el-municipio-avanza-con-la-limpieza-integral-del-ex-centro-de-compras/"
-        },
+          "medio": "Perfil",
+          "url": "https://www.perfil.com/economia/garrahan-con-200-profesionales-menos-que-en-2024-las-atenciones-en-consultorios-se-redujeron-38-aZHEs9K8ycoJ"
+        }
+      ]
+    },
+    {
+      "categoria": "Bahía Blanca",
+      "titulo": "Retiraron 30 toneladas de residuos en la primera semana de obras en Colón y Brown",
+      "resumen": [
+        "El Municipio completó el saneamiento de la planta baja y el exterior del antiguo Centro de Compras, tras dos décadas de abandono del edificio. Ya se retiraron cinco bateas de desechos para revertir el deterioro del lugar."
+      ],
+      "fuentes": [
         {
           "medio": "BVC Noticias",
           "url": "https://bvcnoticias.com.ar/2026/11/el-municipio-avanza-con-la-limpieza-integral-del-ex-centro-de-compras/"
@@ -93,6 +77,10 @@
         {
           "medio": "Ingeniero White",
           "url": "https://www.ingenierowhite.com/2026/11/27/el-municipio-avanza-con-la-limpieza-integral-del-ex-centro-de-compras/"
+        },
+        {
+          "medio": "La Nueva",
+          "url": "https://www.lanueva.com/nota/2026-11-28-5-50-27-avenida-colon-y-brown-punto-final-para-la-desidia-y-falta-de-respeto"
         }
       ]
     }
